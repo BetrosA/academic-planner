@@ -1,13 +1,17 @@
 # Academic Planner
 
-The Academic Planner is a user-friendly web application designed to help students efficiently plan and organize their academic schedules. By providing filtering tools, the Academic Planner simplifies the process of selecting courses, building a balanced timetable, and keeping track of academic progress.
+The Academic Planner is a user-friendly web application designed to help students efficiently plan and organize their long-term academic goals. By providing a streamlined interface and powerful search and filtering tools, the Academic Planner simplifies the process of selecting courses, creating a balanced curriculum, and keeping track of academic progress for a 4 or 5-year academic plan.
 
 ## Key Features
 
-1. **Schedule Management**: Save, load, and modify multiple schedules to compare and evaluate different options for your semester or academic year.
+1. **Long-term Academic Planning**: Generate 4 or 5-year academic plans tailored to your major and degree requirements, ensuring timely completion of all necessary coursework.
 
-2. **Schedule Sharing**: Share your academic plans with friends, or advisors via exel, unique or URLs.
+2. **Plan Creation**: Seamlessly add courses to your personalized academic plan for each semester, ensuring a balanced workload and adherence to degree requirements.
 
-The Academic Planner aims to alleviate the stress associated with course selection and schedule management, empowering students to make informed decisions and achieve academic success.
+3. **Plan Sharing**: Share your long-term academic plans with friends, family, or advisors via unique URLs or export to exel.
+
+
+
+The Academic Planner aims to alleviate the stress associated with long-term course planning and academic goal management, empowering students to make informed decisions and achieve academic success throughout their entire academic journey.
 
 ## TO-DO's
