@@ -14,4 +14,18 @@ The Academic Planner is a user-friendly web application designed to help student
 
 The Academic Planner aims to alleviate the stress associated with long-term course planning and academic goal management, empowering students to make informed decisions and achieve academic success throughout their entire academic journey.
 
-## TO-DO's
+# How to run
+
+## Prerequisites
+
+- Node.js (version 14.x or higher)
+- npm (version 5.6 or higher)
+
+## Getting Started
+
+Follow these steps to clone and run the React application on your local machine:
+
+1. **Clone the repository**
+2. **Navigate to UI dir
+- npm install
+- npm start
