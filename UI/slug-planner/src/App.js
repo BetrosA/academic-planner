@@ -4,6 +4,14 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/ucsc-slug-logo.png";
 import "./App.css";
 
+let departments = [{
+  "Arts": "https://art.ucsc.edu/"},
+  {"Digital Arts & New Media": "https://danm.ucsc.edu/"},
+  {"Chemistry & Biochemistry": "https://science.ucsc.edu/department/chemistry/"},
+  {"Agroecology": "https://agroecology.ucsc.edu/"},
+  {"Computer Science and Engineering": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/"},
+  {"Electrical and Computer Engineering": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/"}
+] 
 function App() {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
@@ -59,13 +67,29 @@ function App() {
             onMouseEnter={toggleDepartment}
             onMouseLeave={toggleDepartment}
           >
-            <a href="/" className="dropbtn">
-              Department
+            <a className="dropbtn">
+              Departments
             </a>
             {showDepartment && (
               <div className="dropdown-content">
-                <a
-                  href="/"
+                {departments.map((department) => {
+
+
+                  let asdasd;
+                  for (let name in department) {
+                    console.log(asdasd)
+                    return (
+                      <a
+                      href={department[name]} target="_blank"
+                      onClick={() => handleDepartmentClick("Department 1")}
+                    >
+                      {name}
+                    </a>
+                    )
+                  }
+                  })}
+                {/* <a
+                  href="https://arts.ucsc.edu/" target="_blank"
                   onClick={() => handleDepartmentClick("Department 1")}
                 >
                   Department-1
@@ -81,7 +105,7 @@ function App() {
                   onClick={() => handleDepartmentClick("Department 3")}
                 >
                   Department-3
-                </a>
+                </a> */}
               </div>
             )}
           </li>
@@ -90,7 +114,7 @@ function App() {
             onMouseEnter={toggleMajor}
             onMouseLeave={toggleMajor}
           >
-            <a href="/" className="dropbtn">
+            <a className="dropbtn">
               Major
             </a>
             {showMajor && (
@@ -112,7 +136,7 @@ function App() {
             onMouseEnter={toggleStartingYear}
             onMouseLeave={toggleStartingYear}
           >
-            <a href="/" className="dropbtn">
+            <a className="dropbtn">
               Starting Year
             </a>
             {showStartingYear && (
