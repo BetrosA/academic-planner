@@ -4,14 +4,11 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/ucsc-slug-logo.png";
 import "./App.css";
 
-let departments = [{
-  "Arts": "https://art.ucsc.edu/"},
-  {"Digital Arts & New Media": "https://danm.ucsc.edu/"},
-  {"Chemistry & Biochemistry": "https://science.ucsc.edu/department/chemistry/"},
-  {"Agroecology": "https://agroecology.ucsc.edu/"},
-  {"Computer Science and Engineering": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/"},
-  {"Electrical and Computer Engineering": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/"}
-] 
+let departments = {
+  "Arts": ["Art Studio BA"],
+  "Computer Science and Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."],
+  "Electrical and Computer Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."]}
+
 function App() {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
@@ -72,40 +69,13 @@ function App() {
             </a>
             {showDepartment && (
               <div className="dropdown-content">
-                {departments.map((department) => {
-
-
-                  let asdasd;
-                  for (let name in department) {
-                    console.log(asdasd)
-                    return (
-                      <a
-                      href={department[name]} target="_blank"
-                      onClick={() => handleDepartmentClick("Department 1")}
-                    >
+                {Object.keys(departments).map(function(name) {
+                  return <button key={name} className="dropdown-button"
+                      onClick={() => handleDepartmentClick(name)}
+                      >
                       {name}
-                    </a>
-                    )
-                  }
-                  })}
-                {/* <a
-                  href="https://arts.ucsc.edu/" target="_blank"
-                  onClick={() => handleDepartmentClick("Department 1")}
-                >
-                  Department-1
-                </a>
-                <a
-                  href="/"
-                  onClick={() => handleDepartmentClick("Department 2")}
-                >
-                  Department-2
-                </a>
-                <a
-                  href="/"
-                  onClick={() => handleDepartmentClick("Department 3")}
-                >
-                  Department-3
-                </a> */}
+                  </button>
+                })}
               </div>
             )}
           </li>
@@ -117,17 +87,15 @@ function App() {
             <a className="dropbtn">
               Major
             </a>
-            {showMajor && (
+            {showMajor && selectedDepartment && (
               <div className="dropdown-content">
-                <a href="/" onClick={() => handleMajorClick("Major 1")}>
-                  Major-1
-                </a>
-                <a href="/" onClick={() => handleMajorClick("Major 2")}>
-                  Major-2
-                </a>
-                <a href="/" onClick={() => handleMajorClick("Major 3")}>
-                  Major-3
-                </a>
+                {departments[selectedDepartment].map(function(name) {
+                  return <button key={name} className="dropdown-button"
+                      onClick={() => handleMajorClick(name)}
+                      >
+                      {name}
+                  </button>
+                })}
               </div>
             )}
           </li>
