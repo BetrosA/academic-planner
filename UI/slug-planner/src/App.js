@@ -4,6 +4,11 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/ucsc-slug-logo.png";
 import "./App.css";
 
+let departments = {
+  "Arts": ["Art Studio BA"],
+  "Computer Science and Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."],
+  "Electrical and Computer Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."]}
+
 function App() {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
@@ -59,29 +64,18 @@ function App() {
             onMouseEnter={toggleDepartment}
             onMouseLeave={toggleDepartment}
           >
-            <a href="/" className="dropbtn">
-              Department
+            <a className="dropbtn">
+              Departments
             </a>
             {showDepartment && (
               <div className="dropdown-content">
-                <a
-                  href="/"
-                  onClick={() => handleDepartmentClick("Department 1")}
-                >
-                  Department-1
-                </a>
-                <a
-                  href="/"
-                  onClick={() => handleDepartmentClick("Department 2")}
-                >
-                  Department-2
-                </a>
-                <a
-                  href="/"
-                  onClick={() => handleDepartmentClick("Department 3")}
-                >
-                  Department-3
-                </a>
+                {Object.keys(departments).map(function(name) {
+                  return <button key={name} className="dropdown-button"
+                      onClick={() => handleDepartmentClick(name)}
+                      >
+                      {name}
+                  </button>
+                })}
               </div>
             )}
           </li>
@@ -90,20 +84,18 @@ function App() {
             onMouseEnter={toggleMajor}
             onMouseLeave={toggleMajor}
           >
-            <a href="/" className="dropbtn">
+            <a className="dropbtn">
               Major
             </a>
-            {showMajor && (
+            {showMajor && selectedDepartment && (
               <div className="dropdown-content">
-                <a href="/" onClick={() => handleMajorClick("Major 1")}>
-                  Major-1
-                </a>
-                <a href="/" onClick={() => handleMajorClick("Major 2")}>
-                  Major-2
-                </a>
-                <a href="/" onClick={() => handleMajorClick("Major 3")}>
-                  Major-3
-                </a>
+                {departments[selectedDepartment].map(function(name) {
+                  return <button key={name} className="dropdown-button"
+                      onClick={() => handleMajorClick(name)}
+                      >
+                      {name}
+                  </button>
+                })}
               </div>
             )}
           </li>
@@ -112,7 +104,7 @@ function App() {
             onMouseEnter={toggleStartingYear}
             onMouseLeave={toggleStartingYear}
           >
-            <a href="/" className="dropbtn">
+            <a className="dropbtn">
               Starting Year
             </a>
             {showStartingYear && (

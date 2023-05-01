@@ -61,6 +61,16 @@ body {
   z-index: 1;
 }
 
+.dropdown-button {
+  background-color: #f9f9f9;
+  border: none;
+  min-width: 150px;
+}
+
+.dropdown-button:hover {
+  background-color: #d1d1d1;
+}
+
 .dropdown:hover .dropdown-content {
   display: block;
 }
