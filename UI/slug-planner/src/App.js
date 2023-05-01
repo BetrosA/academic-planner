@@ -6,18 +6,18 @@ import "./App.css";
 
 let departments = {
   "Arts": ["Art Studio BA"],
-  "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."], 
+  "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."], 
   "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
 }
 
 const major_links = { 
   "Art Studio BA" : "https://art.ucsc.edu/programs/introduction",
-  "Computer Engineering B.S.": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
-  "Computer Science: B.S.": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
-  "Computer Science: B.A.":"https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
+  "Computer Engineering B.S.": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
+  "Computer Science: B.A.": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
+  "Computer Science: B.S.": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
   "Computer Science and Engineering": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
-  "Electrical Engineering: B.S." : "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
-  "Robotics Engineering: B.S." : "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/"
+  "Electrical Engineering: B.S." : "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
+  "Robotics Engineering: B.S." : "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/"
 }
 
 function App() {
