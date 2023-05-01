@@ -1,7 +1,7 @@
 // App.js
 
 import React, { useState } from "react";
-import SchoolLogo from "./assets/ucsc-slug-logo.png";
+import SchoolLogo from "./assets/Slug_Planners_Logo_Transparent.png";
 import "./App.css";
 
 function App() {
