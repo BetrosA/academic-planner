@@ -6,8 +6,19 @@ import "./App.css";
 
 let departments = {
   "Arts": ["Art Studio BA"],
-  "Computer Science and Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."],
-  "Electrical and Computer Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."]}
+  "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."], 
+  "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
+}
+
+const major_links = { 
+  "Art Studio BA" : "https://art.ucsc.edu/programs/introduction",
+  "Computer Engineering B.S.": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
+  "Computer Science: B.S.": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
+  "Computer Science: B.A.":"https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
+  "Computer Science and Engineering": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
+  "Electrical Engineering: B.S." : "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
+  "Robotics Engineering: B.S." : "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/"
+}
 
 function App() {
   const [showMajor, setShowMajor] = useState(false);
@@ -32,7 +43,14 @@ function App() {
   const handleMajorClick = (major) => {
     setSelectedMajor(major);
     setShowMajor(false);
+  
+    // Navigate to the external web page for the selected major
+    const link = major_links[major];
+    if (link) {
+      window.open(link);
+    }
   };
+  
 
   const handleDepartmentClick = (department) => {
     setSelectedDepartment(department);
@@ -134,6 +152,7 @@ function App() {
           </button>
         </div>
       </nav>
+
     </div>
   );
 }
