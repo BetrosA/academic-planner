@@ -51,7 +51,9 @@ function App() {
   return (
     <div>
       <header className="header">
-        <img src={SchoolLogo} alt="School Logo" className="logo" />
+        <a href="/">
+          <img src={SchoolLogo} alt="School Logo" className="logo" />
+        </a>
         <h2>Slug - Planner</h2>
       </header>
       <nav className="nav">
