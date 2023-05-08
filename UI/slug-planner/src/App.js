@@ -6,20 +6,11 @@ import "./App.css";
 
 let departments = {
   "Arts": ["Art Studio BA"],
-  "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."], 
-  "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
-}
+  "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."],
+  "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]}
 
-const major_links = { 
-  "Art Studio BA" : "https://art.ucsc.edu/programs/introduction",
-  "Computer Engineering B.S.": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
-  "Computer Science: B.A.": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
-  "Computer Science: B.S.": "https://engineering.ucsc.edu/departments/computer-science-and-engineering/degree-programs/",
-  "Computer Science and Engineering": "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
-  "Electrical Engineering: B.S." : "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/",
-  "Robotics Engineering: B.S." : "https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/degree-programs/"
-}
-
+  
+  
 function App() {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
@@ -42,18 +33,14 @@ function App() {
 
   const handleMajorClick = (major) => {
     setSelectedMajor(major);
+    setSelectedStartingYear(null);
     setShowMajor(false);
-  
-    // Navigate to the external web page for the selected major
-    const link = major_links[major];
-    if (link) {
-      window.open(link);
-    }
   };
-  
 
-  const handleDepartmentClick = (department) => {
-    setSelectedDepartment(department);
+  const handleDepartmentClick = (name) => {
+    setSelectedDepartment(name);
+    setSelectedMajor(null); // reset selectedMajor when department changes
+    setSelectedStartingYear(null); // reset selectedStartingYear when department changes
     setShowDepartment(false);
   };
 
@@ -82,77 +69,82 @@ function App() {
             onMouseEnter={toggleDepartment}
             onMouseLeave={toggleDepartment}
           >
-            <a className="dropbtn">
-              Departments
-            </a>
+            <a className="dropbtn">{selectedDepartment ? selectedDepartment : "Departments"}</a>
             {showDepartment && (
-              <div className="dropdown-content">
-                {Object.keys(departments).map(function(name) {
-                  return <button key={name} className="dropdown-button"
-                      onClick={() => handleDepartmentClick(name)}
-                      >
-                      {name}
+              <div className="dropdown-content" style={{ width: "150px" }}>
+                {Object.keys(departments).map((name) => (
+                  <button
+                    key={name}
+                    className="dropdown-button"
+                    onClick={() => handleDepartmentClick(name)}
+                  >
+                    {name}
                   </button>
-                })}
+                ))}
               </div>
             )}
           </li>
-          <li
-            className="dropdown"
-            onMouseEnter={toggleMajor}
-            onMouseLeave={toggleMajor}
-          >
-            <a className="dropbtn">
-              Major
-            </a>
-            {showMajor && selectedDepartment && (
-              <div className="dropdown-content">
-                {departments[selectedDepartment].map(function(name) {
-                  return <button key={name} className="dropdown-button"
+          {selectedDepartment && (
+            <li
+              className="dropdown"
+              onMouseEnter={toggleMajor}
+              onMouseLeave={toggleMajor}
+            >
+              <a className="dropbtn" style={{ width: "150px" }}> {selectedMajor ? selectedMajor : "Major"} </a>
+              {showMajor && (
+                <div className="dropdown-content fixed-width" >
+                  {departments[selectedDepartment].map((name) => (
+                    <button
+                      key={name}
+                      className="dropdown-button"
                       onClick={() => handleMajorClick(name)}
-                      >
+                    >
                       {name}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </li>
+          )}
+          {selectedMajor && (
+            <li
+              className="dropdown"
+              onMouseEnter={toggleStartingYear}
+              onMouseLeave={toggleStartingYear}
+            >
+              <a className="dropbtn" style={{ width: "150px" }}>{selectedStartingYear ? selectedStartingYear : "Starting Year"}</a>
+              {showStartingYear && (
+                <div className="dropdown-content fixed-width" >
+                  <button
+                    className="dropdown-button"
+                    onClick={() => handleStartingYearClick("2022")}
+                  >
+                    2022
                   </button>
-                })}
-              </div>
-            )}
-          </li>
-          <li
-            className="dropdown"
-            onMouseEnter={toggleStartingYear}
-            onMouseLeave={toggleStartingYear}
-          >
-            <a className="dropbtn">
-              Starting Year
-            </a>
-            {showStartingYear && (
-              <div className="dropdown-content">
-                <a href="/" onClick={() => handleStartingYearClick("2022")}>
-                  2022
-                </a>
-                <a href="/" onClick={() => handleStartingYearClick("2023")}>
-                  2023
-                </a>
-                <a href="/" onClick={() => handleStartingYearClick("2024")}>
-                  2024
-                </a>
-              </div>
-            )}
-          </li>
-          <li>
-            <a href="/">About</a>
-          </li>
+                  <button
+                    className="dropdown-button"
+                    onClick={() => handleStartingYearClick("2023")}
+                  >
+                    2023
+                  </button>
+                  <button
+                    className="dropdown-button"
+                    onClick={() => handleStartingYearClick("2024")}
+                  >
+                    2024
+                  </button>
+                </div>
+              )}
+            </li>
+          )}
+
         </ul>
         <div>
-          <button
-            className="generate-btn"
-            disabled={!isGenerateButtonEnabled()}
-          >
+          <button className="generate-btn" disabled={!isGenerateButtonEnabled()}>
             Generate
           </button>
         </div>
       </nav>
-
     </div>
   );
 }
