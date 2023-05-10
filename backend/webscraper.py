@@ -48,6 +48,8 @@ def main():
     extrastr = tostr(courseExtraElement);
     genedstr = tostr(courseGenEdElement);
 
+    print(extrastr)
+
     # List of courses
     classList = list()
 
@@ -99,7 +101,7 @@ def main():
     classesformatted = []
     for course in classList:
         classesformatted.append({"coursename": course.coursename, "description": course.description, "genEd": course.genEd, "credithours": course.credithours, 
-                                 "instructor": course.instructor, "extrarequirements": course.credithours, "quarteroffered": course.quarteroffered, "fulldesc": course.fulldesc})
+                                 "instructor": course.instructor, "extrarequirements": course.extrarequirements, "quarteroffered": course.quarteroffered, "fulldesc": course.fulldesc})
         
     
     y = json.dumps(classesformatted, indent=4)
