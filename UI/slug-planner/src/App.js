@@ -4,18 +4,30 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/ucsc-slug-logo.png";
 import "./App.css";
 
-let departments = {
-  "Arts": ["Art Studio BA"],
-  "Computer Science and Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."],
-  "Electrical and Computer Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."]}
+const getDepartments = (setDepartments) => {
+  fetch('http://localhost:5000/departments', {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setDepartments(json);
+    });
+};
 
 function App() {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
+  const [departments, setDepartments ] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
+
+  React.useEffect(() => {
+    getDepartments(setDepartments);
+  }, []);
 
   const toggleMajor = () => {
     setShowMajor(!showMajor);
