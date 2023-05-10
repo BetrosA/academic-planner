@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import json
 
 class UCSC_Class:
     def __init__(self, name):
@@ -8,7 +9,7 @@ class UCSC_Class:
         self.genEd = "none" # unimplemented
         self.credithours = "none"
         self.instructor = "none"
-        self.requirements = "none" # unimplemented
+        self.extrarequirements = "none" # unimplemented
         self.quarteroffered = "none"
         self.fulldesc = ""
 
@@ -36,12 +37,16 @@ def main():
     courseCreditElement = courseListElement.find_elements(By.CLASS_NAME, 'sc-credithours')
     courseIntructorElement = courseListElement.find_elements(By.CLASS_NAME, 'instructor')
     courseQuarterElement = courseListElement.find_elements(By.CLASS_NAME, 'quarter')
+    courseExtraElement = courseListElement.find_elements(By.CLASS_NAME, 'extraFields')
+    courseGenEdElement = courseListElement.find_elements(By.CLASS_NAME, 'genEd')
 
     # Convert webelements to strings
     descstr = tostr(courseDescriptionElement)
     credstr = tostr(courseCreditElement);
     instructorstr = tostr(courseIntructorElement);
     quartstr = tostr(courseQuarterElement);
+    extrastr = tostr(courseExtraElement);
+    genedstr = tostr(courseGenEdElement);
 
     # List of courses
     classList = list()
@@ -82,11 +87,24 @@ def main():
                 course.instructor = line;
             if line in quartstr:
                 course.quarteroffered = line;
+            if line in genedstr:
+                course.genEd = line;
+            if line in extrastr:
+                course.extrarequirements = line;
 
 
-#    for course in classList:
-#        print(course.coursename, "+", course.description);
-    print(classList[91].quarteroffered)
+    # for course in classList:
+    #     print(course.coursename, "+", course.extrarequirements);
+
+    classesformatted = []
+    for course in classList:
+        classesformatted.append({"coursename": course.coursename, "description": course.description, "genEd": course.genEd, "credithours": course.credithours, 
+                                 "instructor": course.instructor, "extrarequirements": course.credithours, "quarteroffered": course.quarteroffered, "fulldesc": course.fulldesc})
+        
+    
+    y = json.dumps(classesformatted, indent=4)
+    with open ("courses.json", "w") as outfile:
+        outfile.write(y)
 
 
 if __name__ == "__main__":
