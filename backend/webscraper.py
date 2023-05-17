@@ -6,10 +6,10 @@ class UCSC_Class:
     def __init__(self, name):
         self.coursename = name
         self.description = "none"
-        self.genEd = "none" # unimplemented
+        self.genEd = "none"
         self.credithours = "none"
         self.instructor = "none"
-        self.extrarequirements = "none" # unimplemented
+        self.extrarequirements = "none"
         self.quarteroffered = "none"
         self.fulldesc = ""
 
@@ -48,7 +48,7 @@ def main():
     extrastr = tostr(courseExtraElement);
     genedstr = tostr(courseGenEdElement);
 
-    print(extrastr)
+    # print(extrastr)
 
     # List of courses
     classList = list()
