@@ -4,15 +4,40 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/ucsc-slug-logo.png";
 import "./App.css";
 
-let departments = {
+/* let departments = {
   "Arts": ["Art Studio BA"], 
   "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."],
   "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
-};
+}; */
 
-let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
+// let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
 let semesterTypes = ["Spring", "Fall", "Summer", "Winter"];
 let semesterYears = ["2020", "2021", "2022", "2023", "2024"];
+
+const getDepartments = (setDepartments) => {
+  fetch('http://localhost:5000/departments', {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setDepartments(json);
+    });
+};
+
+// change later to get courses for a specific devision
+const getCourses = (setCourses) => {
+  fetch('http://localhost:5000/courses/' + 'test', {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setCourses(json);
+    });
+};
 
 function SemesterBox({ semester }) {
   const [newCourse, setNewCourse] = useState("");
@@ -41,6 +66,8 @@ function SemesterBox({ semester }) {
 function App() {
   const [showSidebar, setShowSidebar] = useState(false);
   const [showMajor, setShowMajor] = useState(false);
+  const [departments, setDepartments ] = useState(false);
+  const [courses, setCourses ] = useState([]);
   const [showDepartment, setShowDepartment] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
   const [selectedMajor, setSelectedMajor] = useState(null);
@@ -50,6 +77,10 @@ function App() {
   const [semesterYear, setSemesterYear] = useState(null);
   const [semesters, setSemesters] = useState([]);
 
+  React.useEffect(() => {
+    getDepartments(setDepartments);
+    getCourses(setCourses);
+  }, []);
 
   const toggleSidebar = () => {
     setShowSidebar(!showSidebar);
