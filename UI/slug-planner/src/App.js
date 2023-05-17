@@ -5,19 +5,55 @@ import SchoolLogo from "./assets/ucsc-slug-logo.png";
 import "./App.css";
 
 let departments = {
-  "Arts": ["Art Studio BA"],
+  "Arts": ["Art Studio BA"], 
   "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."],
-  "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]}
+  "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
+};
 
-  
+let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
+let semesterTypes = ["Spring", "Fall", "Summer", "Winter"];
+let semesterYears = ["2020", "2021", "2022", "2023", "2024"];
+
+function SemesterBox({ semester }) {
+  const [newCourse, setNewCourse] = useState("");
+
+  const handleCourseChange = (event) => {
+    setNewCourse(event.target.value);
+  };
+
+  const handleAddCourseClick = () => {
+    semester.courses.push(newCourse);
+    setNewCourse("");
+  };
+
+  return (
+    <div className="semester-box">
+      <h3>{semester.type} {semester.year}</h3>
+      {semester.courses.map((course, index) => (
+        <div key={index}>{course}</div>
+      ))}
+      <input value={newCourse} onChange={handleCourseChange} />
+      <button onClick={handleAddCourseClick}>Add Course</button>
+    </div>
+  );
+}
   
 function App() {
+  const [showSidebar, setShowSidebar] = useState(false);
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
+  const [semesterType, setSemesterType] = useState(null);
+  const [semesterYear, setSemesterYear] = useState(null);
+  const [semesters, setSemesters] = useState([]);
+
+
+  const toggleSidebar = () => {
+    setShowSidebar(!showSidebar);
+  }; 
 
   const toggleMajor = () => {
     setShowMajor(!showMajor);
@@ -49,20 +85,41 @@ function App() {
     setShowStartingYear(false);
   };
 
+  const handleSemesterTypeChange = (event) => {
+    setSemesterType(event.target.value);
+  };
+
+  const handleSemesterYearChange = (event) => {
+    setSemesterYear(event.target.value);
+  };
+
+  const handleAddSemesterClick = () => {
+    if (semesterType && semesterYear) {
+      setSemesters([
+        ...semesters,
+        { type: semesterType, year: semesterYear, courses: [] }
+      ]);
+      setSemesterType(null);
+      setSemesterYear(null);
+    }
+  };
+
+
+
   const isGenerateButtonEnabled = () => {
     return selectedMajor && selectedDepartment && selectedStartingYear;
   };
-
   return (
-    <div>
+    <div className="app-container">
       <header className="header">
         <img src={SchoolLogo} alt="School Logo" className="logo" />
         <h2>Slug - Planner</h2>
       </header>
+  
       <nav className="nav">
         <ul className="nav-list">
           <li>
-            <a href="/">Home</a>
+          <button className="home-button">Home</button>
           </li>
           <li
             className="dropdown"
@@ -90,9 +147,9 @@ function App() {
               onMouseEnter={toggleMajor}
               onMouseLeave={toggleMajor}
             >
-              <a className="dropbtn" style={{ width: "150px" }}> {selectedMajor ? selectedMajor : "Major"} </a>
+              <a className="dropbtn">{selectedMajor ? selectedMajor : "Major"}</a>
               {showMajor && (
-                <div className="dropdown-content fixed-width" >
+                <div className="dropdown-content">
                   {departments[selectedDepartment].map((name) => (
                     <button
                       key={name}
@@ -112,9 +169,9 @@ function App() {
               onMouseEnter={toggleStartingYear}
               onMouseLeave={toggleStartingYear}
             >
-              <a className="dropbtn" style={{ width: "150px" }}>{selectedStartingYear ? selectedStartingYear : "Starting Year"}</a>
+              <a className="dropbtn">{selectedStartingYear ? selectedStartingYear : "      Starting Year"}</a>
               {showStartingYear && (
-                <div className="dropdown-content fixed-width" >
+                <div className="dropdown-content">
                   <button
                     className="dropdown-button"
                     onClick={() => handleStartingYearClick("2022")}
@@ -137,16 +194,61 @@ function App() {
               )}
             </li>
           )}
-
+          {selectedDepartment && selectedMajor && (
+            <li>
+              <button className="generate-btn">
+                Generate
+              </button>
+            </li>
+          )}
         </ul>
-        <div>
-          <button className="generate-btn" disabled={!isGenerateButtonEnabled()}>
-            Generate
-          </button>
-        </div>
       </nav>
+  
+      <div className="content"> {/* New container div */}
+        <div className="sidebar">
+          {/* <h1>Majo Requirements</h1> */}
+        Majo Requirements
+        <ul>
+          {courses.map((course, index) => (
+            <li key={index}>{course}</li>
+          ))}
+        </ul>
+        </div>
+
+        <div className="main-content">
+          <button className="add-new-semester-btn" onClick={handleAddSemesterClick}>Add New Semester</button>
+
+          {semesters.map((semester, index) => (
+            <SemesterBox key={index} semester={semester} />
+          ))}
+          
+          <select onChange={handleSemesterTypeChange}>
+            <option>Select Semester Type</option>
+            {semesterTypes.map((type) => (
+              <option key={type} value={type}>
+                {type}
+              </option>
+            ))}
+          </select>
+
+          <select onChange={handleSemesterYearChange}>
+            <option>Select Year</option>
+            {semesterYears.map((year) => (
+              <option key={year} value={year}>
+                {year}
+              </option>
+            ))}
+          </select>
+
+          {semesterType && semesterYear && (
+            <button className="add-btn" onClick={handleAddSemesterClick}>Add</button>
+          )}
+        </div>
+      </div>
     </div>
   );
+  
+  
 }
 
 export default App;
