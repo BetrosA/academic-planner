@@ -1,6 +1,10 @@
 from flask import Flask
 from flask import request
+import json
 
+with open('../../../backend/courses.json', 'r') as f:
+    courses = json.loads(f.read())
+f.close()
 
 app = Flask(__name__)
 
@@ -12,5 +16,19 @@ departments = {
   "Electrical and Computer Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."]}
 
 @app.get('/departments')
-def login_get():
+def departments_get():
     return departments
+
+# not finised
+@app.get('/courses/<division>')
+def courses_get(division):
+    print(courses)
+    return courses
+
+@app.get('/course/<courseNumber>')
+def course_get(courseNumber):
+    print(courseNumber)
+    for course in courses:
+        if courseNumber in course["coursename"].lower():
+            return course
+    return "Course not found", 404
