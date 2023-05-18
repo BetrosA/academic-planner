@@ -1,7 +1,7 @@
 // App.js
 
 import React, { useState } from "react";
-import SchoolLogo from "./assets/ucsc-slug-logo.png";
+import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
 /* let departments = {
@@ -143,14 +143,13 @@ function App() {
   return (
     <div className="app-container">
       <header className="header">
-        <img src={SchoolLogo} alt="School Logo" className="logo" />
-        <h2>Slug - Planner</h2>
+        <a href="/"><img src={SchoolLogo} alt="School Logo" className="logo" /></a>
       </header>
   
       <nav className="nav">
         <ul className="nav-list">
           <li>
-          <button className="home-button">Home</button>
+          <a href="/"><button className="home-button">Home</button></a>
           </li>
           <li
             className="dropdown"
