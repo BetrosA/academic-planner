@@ -237,8 +237,8 @@ function App() {
   
       <div className="content"> {/* New container div */}
         <div className="sidebar">
-          {/* <h1>Majo Requirements</h1> */}
-        Majo Requirements
+          {/* <h1>Major Requirements</h1> */}
+        Major Requirements
         <ul>
           {courses.map((course, index) => (
             <li key={index}>{course}</li>

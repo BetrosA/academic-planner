@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, jsonify
 from flask import request
 import json
 
@@ -17,7 +17,9 @@ departments = {
 
 @app.get('/departments')
 def departments_get():
-    return departments
+    response = jsonify(departments)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 # not finised, only course names
 @app.get('/courses/<division>')
@@ -26,12 +28,16 @@ def courses_get(division):
     list = []
     for course in courses:
         list.append(course["coursename"])
-    return list
+    response = jsonify(list)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 @app.get('/course/<courseNumber>')
 def course_get(courseNumber):
     print(courseNumber)
     for course in courses:
         if courseNumber in course["coursename"].lower():
-            return course
+            response = jsonify(course)
+            response.headers.add('Access-Control-Allow-Origin', '*')
+            return response
     return "Course not found", 404
