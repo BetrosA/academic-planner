@@ -11,8 +11,6 @@ import "./App.css";
 }; */
 
 // let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
-let semesterTypes = ["Spring", "Fall", "Summer", "Winter"];
-let semesterYears = ["2020", "2021", "2022", "2023", "2024"];
 
 const getDepartments = (setDepartments) => {
   fetch('http://localhost:5000/departments', {
@@ -39,32 +37,82 @@ const getCourses = (setCourses) => {
     });
 };
 
-function SemesterBox({ semester }) {
+function SemesterBox({ semester, availableCourses, onCourseRemove }) {
   const [newCourse, setNewCourse] = useState("");
+  const [selectedSubject, setSelectedSubject] = useState("");
 
   const handleCourseChange = (event) => {
     setNewCourse(event.target.value);
   };
 
-  const handleAddCourseClick = () => {
-    semester.courses.push(newCourse);
+  const handleSubjectChange = (event) => {
+    setSelectedSubject(event.target.value);
     setNewCourse("");
   };
 
+  const handleAddCourseClick = () => {
+    if (newCourse && !semester.courses.includes(newCourse)) {
+      semester.courses.push(newCourse);
+      setNewCourse("");
+      setSelectedSubject("");
+    }
+  };
+
+  const handleRemoveCourseClick = (index, course) => {
+    semester.courses.splice(index, 1);
+    onCourseRemove(course);
+  };
+
+  const filteredCourses = availableCourses.filter((course) =>
+    course.toLowerCase().startsWith(selectedSubject.toLowerCase())
+  );
+
   return (
     <div className="semester-box">
-      <h3>{semester.type} {semester.year}</h3>
+      <h3>
+        {semester.type} {semester.year}
+      </h3>
       {semester.courses.map((course, index) => (
-        <div key={index}>{course}</div>
+        <div key={index}>
+          {course}
+          <button onClick={() => handleRemoveCourseClick(index, course)}>
+            Remove
+          </button>
+        </div>
       ))}
-      <input value={newCourse} onChange={handleCourseChange} />
-      <button onClick={handleAddCourseClick}>Add Course</button>
+      <select value={selectedSubject} onChange={handleSubjectChange}>
+        <option value="">Select Subject</option>
+        {availableCourses
+          .map((course) => course.split(" ")[0])
+          .filter((value, index, self) => self.indexOf(value) === index)
+          .map((subject, index) => (
+            <option key={index} value={subject}>
+              {subject}
+            </option>
+          ))}
+      </select>
+      <select
+        value={newCourse}
+        onChange={handleCourseChange}
+        disabled={!selectedSubject}
+      >
+        <option>Select Course</option>
+        {filteredCourses.map((course, index) => (
+          <option key={index} value={course}>
+            {course}
+          </option>
+        ))}
+      </select>
+      <button onClick={handleAddCourseClick} disabled={!newCourse}>
+        Add Course
+      </button>
     </div>
   );
 }
+
   
 function App() {
-  const [showSidebar, setShowSidebar] = useState(false);
+  //Nav Bar constants 
   const [showMajor, setShowMajor] = useState(false);
   const [departments, setDepartments ] = useState(false);
   const [courses, setCourses ] = useState([]);
@@ -73,19 +121,21 @@ function App() {
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
-  const [semesterType, setSemesterType] = useState(null);
-  const [semesterYear, setSemesterYear] = useState(null);
+
+  //Semester Box constants 
   const [semesters, setSemesters] = useState([]);
+  const [semesterType, setSemesterType] = useState("");
+  const [semesterYear, setSemesterYear] = useState("");
+  const [semesterTypes] = useState(["Spring", "Summer", "Fall", "Winter"]);
+  const [semesterYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
+  const [isGenerated, setIsGenerated] = useState(false);
 
   React.useEffect(() => {
     getDepartments(setDepartments);
     getCourses(setCourses);
   }, []);
 
-  const toggleSidebar = () => {
-    setShowSidebar(!showSidebar);
-  }; 
-
+  //Nav Functions 
   const toggleMajor = () => {
     setShowMajor(!showMajor);
   };
@@ -116,12 +166,21 @@ function App() {
     setShowStartingYear(false);
   };
 
+  const handleGenerateClick = () => {
+    setIsGenerated(true);
+  };
+
+  //Semester Box Functions
   const handleSemesterTypeChange = (event) => {
     setSemesterType(event.target.value);
   };
 
   const handleSemesterYearChange = (event) => {
     setSemesterYear(event.target.value);
+  };
+
+  const handleCourseRemove = () => {
+    setSemesters([...semesters]);
   };
 
   const handleAddSemesterClick = () => {
@@ -135,22 +194,21 @@ function App() {
     }
   };
 
-
-
-  const isGenerateButtonEnabled = () => {
-    return selectedMajor && selectedDepartment && selectedStartingYear;
-  };
   return (
     <div className="app-container">
+      {/* Logo*/}
       <header className="header">
         <a href="/"><img src={SchoolLogo} alt="School Logo" className="logo" /></a>
       </header>
-  
+
+      {/*Nav Bar*/}
       <nav className="nav">
         <ul className="nav-list">
           <li>
           <a href="/"><button className="home-button">Home</button></a>
           </li>
+
+          {/*Dept. Dropdown*/}
           <li
             className="dropdown"
             onMouseEnter={toggleDepartment}
@@ -171,7 +229,9 @@ function App() {
               </div>
             )}
           </li>
-          {selectedDepartment && (
+
+          {/*Major Dropdown*/}
+          {selectedDepartment && ( 
             <li
               className="dropdown"
               onMouseEnter={toggleMajor}
@@ -193,40 +253,35 @@ function App() {
               )}
             </li>
           )}
+
+          {/*Year Dropdown*/}
           {selectedMajor && (
             <li
               className="dropdown"
               onMouseEnter={toggleStartingYear}
               onMouseLeave={toggleStartingYear}
             >
-              <a className="dropbtn">{selectedStartingYear ? selectedStartingYear : "      Starting Year"}</a>
+              <a className="dropbtn">{selectedStartingYear ? selectedStartingYear : "Starting Year"}</a>
               {showStartingYear && (
                 <div className="dropdown-content">
-                  <button
-                    className="dropdown-button"
-                    onClick={() => handleStartingYearClick("2022")}
-                  >
-                    2022
-                  </button>
-                  <button
-                    className="dropdown-button"
-                    onClick={() => handleStartingYearClick("2023")}
-                  >
-                    2023
-                  </button>
-                  <button
-                    className="dropdown-button"
-                    onClick={() => handleStartingYearClick("2024")}
-                  >
-                    2024
-                  </button>
+                  {semesterYears.map((year) => (
+                    <button
+                      key={year}
+                      className="dropdown-button"
+                      onClick={() => handleStartingYearClick(year)}
+                    >
+                      {year}
+                    </button>
+                  ))}
                 </div>
               )}
             </li>
           )}
-          {selectedDepartment && selectedMajor && (
+
+          {/*Generate Button*/}
+          {selectedDepartment && selectedMajor && selectedStartingYear &&(
             <li>
-              <button className="generate-btn">
+              <button className="generate-btn" onClick={handleGenerateClick}>
                 Generate
               </button>
             </li>
@@ -234,9 +289,9 @@ function App() {
         </ul>
       </nav>
   
+      {/*{isGenerated && (*/}
       <div className="content"> {/* New container div */}
         <div className="sidebar">
-          {/* <h1>Major Requirements</h1> */}
         Major Requirements
         <ul>
           {courses.map((course, index) => (
@@ -244,12 +299,19 @@ function App() {
           ))}
         </ul>
         </div>
+        
 
         <div className="main-content">
           <button className="add-new-semester-btn" onClick={handleAddSemesterClick}>Add New Semester</button>
 
           {semesters.map((semester, index) => (
-            <SemesterBox key={index} semester={semester} />
+            <SemesterBox
+            key={index}
+            semester={semester}
+            availableCourses={courses}
+            onCourseRemove={handleCourseRemove}
+          />
+
           ))}
           
           <select onChange={handleSemesterTypeChange}>
@@ -275,6 +337,8 @@ function App() {
           )}
         </div>
       </div>
+      {/* )} */}
+      
     </div>
   );
   
