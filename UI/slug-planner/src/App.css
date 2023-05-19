@@ -35,6 +35,18 @@
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 5px;
+  margin-left: 30px;
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.generate-btn {
+  position: absolute;
+  top: 90px;
+  right: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .home-button:hover {
@@ -50,7 +62,9 @@
 /* Navigation styles */
 .nav {
   background: #f1f1f1;
-  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .nav-list {
@@ -60,20 +74,28 @@
 
 .dropdown {
   position: relative;
+  font-size: 20px;
   display: inline-block;
+  margin-right: 30px;
+  margin-left: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
 .dropdown-content {
   display: none;
+  font-size: 16px;
   position: absolute;
   min-width: 160px;
   z-index: 1;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
+/* Dropdown Contents */
 .dropdown-button {
   background-color: #f1f1f1;
   color: black;
@@ -82,6 +104,8 @@
   display: block;
   border: none;
   cursor: pointer;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .dropdown-button:hover {
@@ -132,10 +156,9 @@
   background-color: #0056b3;
 }
 
-
 .semester-box {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 20px;
   margin-bottom: 20px;
-} /* Rest of your CSS... */
+} 

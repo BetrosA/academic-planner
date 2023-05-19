@@ -282,7 +282,7 @@ function App() {
           {selectedDepartment && selectedMajor && selectedStartingYear &&(
             <li>
               <button className="generate-btn" onClick={handleGenerateClick}>
-                Generate
+                Generate Schedule
               </button>
             </li>
           )}
