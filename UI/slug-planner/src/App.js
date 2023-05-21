@@ -37,7 +37,7 @@ const getCourses = (setCourses) => {
     });
 };
 
-function SemesterBox({ semester, availableCourses, addedCourses, onCourseRemove, onSemesterRemove }) {
+function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCourseRemove, onSemesterRemove }) {
   const [newCourse, setNewCourse] = useState("");
   const [selectedSubject, setSelectedSubject] = useState("");
 
@@ -52,10 +52,32 @@ function SemesterBox({ semester, availableCourses, addedCourses, onCourseRemove,
 
   const handleAddCourseClick = () => {
     if (newCourse && !semester.courses.includes(newCourse)) {
-      semester.courses.push(newCourse);
-      setNewCourse("");
-      setSelectedSubject("");
+      const isDuplicateCourse = semesters.some((s) => s.courses.includes(newCourse));
+      if (!isDuplicateCourse) {
+        semester.courses.push(newCourse);
+        setNewCourse("");
+        setSelectedSubject("");
+        sortClassesAlphabetically(); // Sort the courses after adding a new one
+      } else {
+        // Display an error message or handle the duplicate course case
+        console.log("Duplicate course detected");
+      }
     }
+  };
+  
+  const sortClassesAlphabetically = () => {
+    semester.courses.sort((a, b) => {
+      const [subjectA, numberA] = a.split(" ");
+      const [subjectB, numberB] = b.split(" ");
+  
+      if (subjectA === subjectB) {
+        // If the subjects are the same, compare the course numbers
+        return parseInt(numberA) - parseInt(numberB);
+      } else {
+        // If the subjects are different, compare them alphabetically
+        return subjectA.localeCompare(subjectB);
+      }
+    });
   };
 
   const handleRemoveCourseClick = (index, course) => {
@@ -72,8 +94,12 @@ function SemesterBox({ semester, availableCourses, addedCourses, onCourseRemove,
     .filter((course) => !addedCourses.includes(course))
     .filter((course) =>
       course.toLowerCase().startsWith(selectedSubject.toLowerCase())
+    )
+    .filter((course) =>
+      semesters.every((s) => !s.courses.includes(course))
     );
 
+  
   return (
     <div className="semester-box">
       <h3>
@@ -376,11 +402,12 @@ function App() {
           <SemesterBox
             key={index}
             semester={semester}
+            semesters={sortedSemesters}
             availableCourses={courses}
             addedCourses={addedCourses}
             onCourseRemove={handleCourseRemove}
             onSemesterRemove={handleSemesterRemove}
-          />
+        />
         ))}
 
         <div className="add-semester-row">
