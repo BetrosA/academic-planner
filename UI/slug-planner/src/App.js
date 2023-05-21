@@ -37,7 +37,7 @@ const getCourses = (setCourses) => {
     });
 };
 
-function SemesterBox({ semester, availableCourses, onCourseRemove }) {
+function SemesterBox({ semester, availableCourses, addedCourses, onCourseRemove, onSemesterRemove }) {
   const [newCourse, setNewCourse] = useState("");
   const [selectedSubject, setSelectedSubject] = useState("");
 
@@ -63,18 +63,28 @@ function SemesterBox({ semester, availableCourses, onCourseRemove }) {
     onCourseRemove(course);
   };
 
-  const filteredCourses = availableCourses.filter((course) =>
-    course.toLowerCase().startsWith(selectedSubject.toLowerCase())
-  );
+  const handleRemoveSemesterClick = () => {
+    onSemesterRemove(semester);
+  };
+
+  const filteredCourses = availableCourses
+    .filter((course) => !semester.courses.includes(course))
+    .filter((course) => !addedCourses.includes(course))
+    .filter((course) =>
+      course.toLowerCase().startsWith(selectedSubject.toLowerCase())
+    );
 
   return (
     <div className="semester-box">
       <h3>
         {semester.type} {semester.year}
+        <button onClick={handleRemoveSemesterClick}>Remove Semester</button>
       </h3>
+      
       {semester.courses.map((course, index) => (
         <div key={index}>
           {course}
+          
           <button onClick={() => handleRemoveCourseClick(index, course)}>
             Remove
           </button>
@@ -85,6 +95,13 @@ function SemesterBox({ semester, availableCourses, onCourseRemove }) {
         {availableCourses
           .map((course) => course.split(" ")[0])
           .filter((value, index, self) => self.indexOf(value) === index)
+          .filter((subject) =>
+            availableCourses.some(
+              (course) =>
+                course.toLowerCase().startsWith(subject.toLowerCase()) &&
+                !semester.courses.includes(course)
+            )
+          )
           .map((subject, index) => (
             <option key={index} value={subject}>
               {subject}
@@ -109,9 +126,13 @@ function SemesterBox({ semester, availableCourses, onCourseRemove }) {
     </div>
   );
 }
-
   
 function App() {
+  React.useEffect(() => {
+    getDepartments(setDepartments);
+    getCourses(setCourses);
+  }, []);
+
   //Nav Bar constants 
   const [showMajor, setShowMajor] = useState(false);
   const [departments, setDepartments ] = useState(false);
@@ -121,19 +142,6 @@ function App() {
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
-
-  //Semester Box constants 
-  const [semesters, setSemesters] = useState([]);
-  const [semesterType, setSemesterType] = useState("");
-  const [semesterYear, setSemesterYear] = useState("");
-  const [semesterTypes] = useState(["Spring", "Summer", "Fall", "Winter"]);
-  const [semesterYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
-  const [isGenerated, setIsGenerated] = useState(false);
-
-  React.useEffect(() => {
-    getDepartments(setDepartments);
-    getCourses(setCourses);
-  }, []);
 
   //Nav Functions 
   const toggleMajor = () => {
@@ -170,17 +178,56 @@ function App() {
     setIsGenerated(true);
   };
 
+  //Semester Box constants 
+  const [semesters, setSemesters] = useState([]);
+  const [semesterType, setSemesterType] = useState("Select Semester Type");
+  const [semesterYear, setSemesterYear] = useState("Select Year");
+  const [semesterTypes] = useState(["Spring", "Summer", "Fall", "Winter"]);
+  const [semesterYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
+  const [isAddButtonDisabled, setIsAddButtonDisabled] = useState(true); // New state variable
+  const [isGenerated, setIsGenerated] = useState(false); 
+
   //Semester Box Functions
+  const updateAddButtonStatus = (semesterType, year) => {
+    const isPairSelected = semesters.some(
+      (semester) =>
+        semester.type === semesterType &&
+        semester.year === year &&
+        semesterType !== "Select Semester Type" &&
+        year !== "Select Year"
+    );
+    setIsAddButtonDisabled(
+      semesterType === "Select Semester Type" ||
+      year === "Select Year" ||
+      isPairSelected
+    );
+  };
+  
   const handleSemesterTypeChange = (event) => {
     setSemesterType(event.target.value);
+    updateAddButtonStatus(event.target.value, semesterYear);
   };
-
+  
   const handleSemesterYearChange = (event) => {
     setSemesterYear(event.target.value);
+    updateAddButtonStatus(semesterType, event.target.value);
   };
 
   const handleCourseRemove = () => {
     setSemesters([...semesters]);
+  };
+
+  const handleSemesterRemove = (semester) => {
+    const updatedSemesters = semesters.filter((s) => s !== semester);
+    setSemesters(updatedSemesters);
+
+    // Check if the removed semester is the same as the currently selected pair
+    if (
+      semester.type === semesterType &&
+      semester.year === semesterYear
+    ) {
+      setIsAddButtonDisabled(false); // Enable the button if the removed pair matches the selected pair
+    }
   };
 
   const handleAddSemesterClick = () => {
@@ -189,32 +236,55 @@ function App() {
         ...semesters,
         { type: semesterType, year: semesterYear, courses: [] }
       ]);
-      setSemesterType(null);
-      setSemesterYear(null);
+      setIsAddButtonDisabled(true); // Disable the button after adding the pair
     }
   };
+  
+  const addedCourses = semesters.flatMap((semester) => semester.courses);
+
+  const sortedSemesters = [...semesters].sort((a, b) => {
+    // Map semester types to their corresponding numeric values for comparison
+    const semesterTypeValues = {
+      Spring: 0,
+      Summer: 1,
+      Fall: 2,
+      Winter: 3,
+    };
+  
+    if (a.year !== b.year) {
+      return a.year.localeCompare(b.year); // Sort by year in ascending order
+    } else {
+      return semesterTypeValues[a.type] - semesterTypeValues[b.type]; // Sort by type based on the mapped values
+    }
+  });
 
   return (
     <div className="app-container">
       {/* Logo*/}
       <header className="header">
-        <a href="/"><img src={SchoolLogo} alt="School Logo" className="logo" /></a>
+        <a href="/">
+          <img src={SchoolLogo} alt="School Logo" className="logo" />
+        </a>
       </header>
-
-      {/*Nav Bar*/}
+  
+      {/* Nav Bar */}
       <nav className="nav">
         <ul className="nav-list">
           <li>
-          <a href="/"><button className="home-button">Home</button></a>
+            <a href="/">
+              <button className="home-button">Home</button>
+            </a>
           </li>
-
-          {/*Dept. Dropdown*/}
+  
+          {/* Dept. Dropdown */}
           <li
             className="dropdown"
             onMouseEnter={toggleDepartment}
             onMouseLeave={toggleDepartment}
           >
-            <a className="dropbtn">{selectedDepartment ? selectedDepartment : "Departments"}</a>
+            <a className="dropbtn">
+              {selectedDepartment ? selectedDepartment : "Departments"}
+            </a>
             {showDepartment && (
               <div className="dropdown-content" style={{ width: "150px" }}>
                 {Object.keys(departments).map((name) => (
@@ -229,9 +299,9 @@ function App() {
               </div>
             )}
           </li>
-
-          {/*Major Dropdown*/}
-          {selectedDepartment && ( 
+  
+          {/* Major Dropdown */}
+          {selectedDepartment && (
             <li
               className="dropdown"
               onMouseEnter={toggleMajor}
@@ -253,15 +323,17 @@ function App() {
               )}
             </li>
           )}
-
-          {/*Year Dropdown*/}
+  
+          {/* Year Dropdown */}
           {selectedMajor && (
             <li
               className="dropdown"
               onMouseEnter={toggleStartingYear}
               onMouseLeave={toggleStartingYear}
             >
-              <a className="dropbtn">{selectedStartingYear ? selectedStartingYear : "Starting Year"}</a>
+              <a className="dropbtn">
+                {selectedStartingYear ? selectedStartingYear : "Starting Year"}
+              </a>
               {showStartingYear && (
                 <div className="dropdown-content">
                   {semesterYears.map((year) => (
@@ -277,9 +349,9 @@ function App() {
               )}
             </li>
           )}
-
-          {/*Generate Button*/}
-          {selectedDepartment && selectedMajor && selectedStartingYear &&(
+  
+          {/* Generate Button */}
+          {selectedDepartment && selectedMajor && selectedStartingYear && (
             <li>
               <button className="generate-btn" onClick={handleGenerateClick}>
                 Generate Schedule
@@ -289,31 +361,29 @@ function App() {
         </ul>
       </nav>
   
-      {/*{isGenerated && (*/}
-      <div className="content"> {/* New container div */}
+      <div className="content">
         <div className="sidebar">
-        Major Requirements
-        <ul>
-          {courses.map((course, index) => (
-            <li key={index}>{course}</li>
-          ))}
-        </ul>
+          Major Requirements
+          <ul>
+            {courses.map((course, index) => (
+              <li key={index}>{course}</li>
+            ))}
+          </ul>
         </div>
-        
-
+  
         <div className="main-content">
-          <button className="add-new-semester-btn" onClick={handleAddSemesterClick}>Add New Semester</button>
-
-          {semesters.map((semester, index) => (
-            <SemesterBox
+         {sortedSemesters.map((semester, index) => (
+          <SemesterBox
             key={index}
             semester={semester}
             availableCourses={courses}
+            addedCourses={addedCourses}
             onCourseRemove={handleCourseRemove}
+            onSemesterRemove={handleSemesterRemove}
           />
+        ))}
 
-          ))}
-          
+        <div className="add-semester-row">
           <select onChange={handleSemesterTypeChange}>
             <option>Select Semester Type</option>
             {semesterTypes.map((type) => (
@@ -332,17 +402,22 @@ function App() {
             ))}
           </select>
 
-          {semesterType && semesterYear && (
-            <button className="add-btn" onClick={handleAddSemesterClick}>Add</button>
-          )}
+          <button
+            className={`add-new-semester-btn ${
+              isAddButtonDisabled ? "transparent" : ""
+            }`}
+            onClick={handleAddSemesterClick}
+            disabled={isAddButtonDisabled} // Disable the button based on the state variable
+          >
+            Add New Semester
+          </button>
         </div>
       </div>
-      {/* )} */}
-      
+      </div>
     </div>
   );
   
-  
+    
 }
 
 export default App;

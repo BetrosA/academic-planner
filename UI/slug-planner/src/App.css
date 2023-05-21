@@ -162,3 +162,8 @@
   padding: 20px;
   margin-bottom: 20px;
 } 
+
+.transparent {
+  opacity: 0.5; /* Set the opacity to make the button appear transparent */
+  pointer-events: none; /* Disable pointer events on the button */
+}
