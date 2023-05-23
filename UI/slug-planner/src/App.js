@@ -4,11 +4,25 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
+
 /* let departments = {
   "Arts": ["Art Studio BA"], 
   "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."],
   "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
 }; */
+
+const getDepartments = (setDepartments) => {
+  fetch('http://localhost:5000/departments', {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setDepartments(json);
+    });
+};
+
 
 // let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
 
@@ -164,12 +178,18 @@ function App() {
   const [departments, setDepartments ] = useState(false);
   const [courses, setCourses ] = useState([]);
   const [showDepartment, setShowDepartment] = useState(false);
+  const [departments, setDepartments ] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
 
-  //Nav Functions 
+
+  React.useEffect(() => {
+    getDepartments(setDepartments);
+  }, []);
+
+
   const toggleMajor = () => {
     setShowMajor(!showMajor);
   };

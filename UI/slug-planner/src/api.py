@@ -1,10 +1,7 @@
-from flask import Flask, jsonify
-from flask import request
-import json
-
 with open('../../../backend/courses.json', 'r') as f:
     courses = json.loads(f.read())
 f.close()
+
 
 app = Flask(__name__)
 
@@ -16,6 +13,7 @@ departments = {
   "Electrical and Computer Engineering": ["Computer Engineering B.S.", "Computer Science: B.S.", "Computer Science: B.A."]}
 
 @app.get('/departments')
+
 def departments_get():
     response = jsonify(departments)
     response.headers.add('Access-Control-Allow-Origin', '*')
@@ -41,3 +39,7 @@ def course_get(courseNumber):
             response.headers.add('Access-Control-Allow-Origin', '*')
             return response
     return "Course not found", 404
+
+def login_get():
+    return departments
+
