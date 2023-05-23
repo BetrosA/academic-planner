@@ -26,17 +26,7 @@ const getDepartments = (setDepartments) => {
 
 // let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
 
-const getDepartments = (setDepartments) => {
-  fetch('http://localhost:5000/departments', {
-    method: 'get'
-  })
-    .then((response) => {
-      return response.json();
-    })
-    .then((json) => {
-      setDepartments(json);
-    });
-};
+
 
 // change later to get courses for a specific devision
 const getCourses = (setCourses) => {
@@ -178,7 +168,6 @@ function App() {
   const [departments, setDepartments ] = useState(false);
   const [courses, setCourses ] = useState([]);
   const [showDepartment, setShowDepartment] = useState(false);
-  const [departments, setDepartments ] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
