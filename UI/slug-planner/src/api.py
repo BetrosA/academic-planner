@@ -1,3 +1,8 @@
+from flask import Flask
+from flask import request
+import json
+
+
 with open('../../../backend/courses.json', 'r') as f:
     courses = json.loads(f.read())
 f.close()
