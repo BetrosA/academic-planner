@@ -4,42 +4,16 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
-
-/* let departments = {
-  "Arts": ["Art Studio BA"], 
-  "Computer Science and Engineering": ["Computer Engineering B.S.", "Computer Science: B.A.", "Computer Science: B.S."],
-  "Electrical and Computer Engineering": ["Electrical Engineering: B.S.", "Robotics Engineering: B.S."]
-}; */
-
-const getDepartments = (setDepartments) => {
-  fetch('http://localhost:5000/departments', {
-    method: 'get'
-  })
-    .then((response) => {
-      return response.json();
-    })
-    .then((json) => {
-      setDepartments(json);
-    });
-};
+import { fetchDepartments, fetchCourses } from "./firebase";
 
 
-// let courses = ["Course 1", "Course 2", "Course 3", "Course 4", "Course 5"]; /* New array of courses */
+const getDepartments = (setDepartments) => {  
+  fetchDepartments(setDepartments);
+};  
 
-
-
-// change later to get courses for a specific devision
-const getCourses = (setCourses) => {
-  fetch('http://localhost:5000/courses/' + 'test', {
-    method: 'get'
-  })
-    .then((response) => {
-      return response.json();
-    })
-    .then((json) => {
-      setCourses(json);
-    });
-};
+const getCourses = (setCourses) => {  
+  fetchCourses(setCourses);
+};  
 
 function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCourseRemove, onSemesterRemove }) {
   const [newCourse, setNewCourse] = useState("");
@@ -159,11 +133,11 @@ function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCo
   
 function App() {
   React.useEffect(() => {
-    getDepartments(setDepartments);
+    getDepartments(setDepartments); // Call the function to fetch the departments from Firebase and update the state variable with the response data 
     getCourses(setCourses);
   }, []);
 
-  //Nav Bar constants 
+
   const [showMajor, setShowMajor] = useState(false);
   const [departments, setDepartments ] = useState(false);
   const [courses, setCourses ] = useState([]);
