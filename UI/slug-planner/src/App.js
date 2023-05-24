@@ -67,7 +67,7 @@ function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCo
     onSemesterRemove(semester);
   };
 
-  const filteredCourses = availableCourses
+  /*const filteredCourses = availableCourses
     .filter((course) => !semester.courses.includes(course))
     .filter((course) => !addedCourses.includes(course))
     .filter((course) =>
@@ -75,7 +75,7 @@ function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCo
     )
     .filter((course) =>
       semesters.every((s) => !s.courses.includes(course))
-    );
+    );*/
 
   
   return (
@@ -94,7 +94,7 @@ function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCo
           </button>
         </div>
       ))}
-      <select value={selectedSubject} onChange={handleSubjectChange}>
+      {/*<select value={selectedSubject} onChange={handleSubjectChange}>
         <option value="">Select Subject</option>
         {availableCourses
           .map((course) => course.split(" ")[0])
@@ -123,7 +123,7 @@ function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCo
             {course}
           </option>
         ))}
-      </select>
+        </select>*/}
       <button onClick={handleAddCourseClick} disabled={!newCourse}>
         Add Course
       </button>
