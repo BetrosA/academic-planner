@@ -121,6 +121,17 @@
   overflow-y: auto;
 }
 
+.draggable-course {
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 5px;
+  cursor: grab;
+}
+
+.draggable-course:active {
+  cursor: grabbing;
+}
+
 .main-content {
   position: relative; 
   flex-grow: 1;
@@ -156,14 +167,22 @@
   background-color: #0056b3;
 }
 
-.semester-box {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 20px;
-  margin-bottom: 20px;
-} 
 
 .transparent {
   opacity: 0.5; /* Set the opacity to make the button appear transparent */
   pointer-events: none; /* Disable pointer events on the button */
+}
+
+
+.quarter-box {
+  border: 2px dashed gray;
+  padding: 10px;
+  margin-top: 20px;
+  height: 200px;
+  width: 250px
+}
+
+.quarterbox-row {
+  display: flex;
+  gap: 10px; /* Adjust the value as per your preference */
 }
