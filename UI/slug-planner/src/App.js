@@ -4,16 +4,42 @@ import React, { useState } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
-import { fetchDepartments, fetchCourses } from "./firebase";
+//import { fetchDepartments, fetchCourses } from "./firebase";
 
 
-const getDepartments = (setDepartments) => {  
+/* const getDepartments = (setDepartments) => {  
   fetchDepartments(setDepartments);
 };  
 
 const getCourses = (setCourses) => {  
   fetchCourses(setCourses);
-};  
+};   */
+
+const getDepartments = (setDepartments) => {
+  fetch('http://localhost:5000/departments', {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setDepartments(json);
+    });
+};
+
+// change later to get courses for a specific devision
+const getCourses = (setCourses) => {
+  fetch('http://localhost:5000/courses/' + 'test', {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setCourses(json);
+    });
+};
+
 
 function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCourseRemove, onSemesterRemove }) {
   const [newCourse, setNewCourse] = useState("");

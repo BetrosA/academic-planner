@@ -27,9 +27,12 @@ def departments_get():
 
 @app.get('/courses/<division>')  
 def courses_get(division):  
-    ref = db.reference('courses').child(division)
+    # ref = db.reference('courses').child(division)
+    ref = db.reference('courses')
     courses = ref.get()
-    course_list = [course["coursename"] for course in courses.values()]
+    print(courses)
+    # course_list = [course["coursename"] for course in courses.values()]
+    course_list = [course["coursename"] for course in courses]
     response = jsonify(course_list)  
     response.headers.add('Access-Control-Allow-Origin', '*')  
     return response  
