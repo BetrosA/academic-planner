@@ -375,7 +375,7 @@ function App() {
           Major Requirements
           <ul>
             {courses.map((course, index) => (
-              <li key={index}>{course}</li>
+              <li key={index}>{course.coursename} - {course.credithours} hours</li>
             ))}
           </ul>
         </div>
