@@ -24,7 +24,7 @@ def tostr(x):
 def main():
 
     # Grab URL
-    url = 'https://ucsc.smartcatalogiq.com/current/General-Catalog/Courses/CSE-Computer-Science-and-Engineering'
+    url = 'https://registrar.ucsc.edu/enrollment/majors-list.html'
     browser = webdriver.Chrome()
     browser.get(url)
 

@@ -1,0 +1,477 @@
+[
+    {
+        "majorname": "Agroecology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Anthropology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Applied Physics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Applied Linguistics and Multilingualism B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Applied Mathematics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Art B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Art and Design: Games and Playable Media B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biochemistry and Molecular Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biotechnology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biomolecular Engineering and Bioinformatics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Business Management Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Chemistry B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Chemistry B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Classical Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Cognitive Science B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Community Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Computer Engineering B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Computer Science B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Computer Science B.S.",
+        "requiredcourses":[
+            "CSE 12",
+            "CSE 16",
+            "CSE 20",
+            "CSE 30",
+            "CSE 13S",
+            "MATH 19A and MATH 19B or MATH 20A and MATH 20B",
+            "AM 10 or MATH 21",
+            "AM 30 or MATH 23A",
+            "ECE 30",
+            "CSE 101",
+            "CSE 102",
+            "CSE 103",
+            "CSE 120",
+            "CSE 130",
+            "CSE 112 or 114A",
+            "STAT 131 or CSE 107"
+        ],
+        "electives":[
+            "Four courses must be completed from the list below . At least one course must be a computer science and engineering course. At most two courses can be from applied mathematics, statistics or mathematics, of which at most one may be substituted with two physics classes, chosen from the following list of class pairs: PHYS 6A and PHYS 6C, PHYS 6A and PHYS 6B, PHYS 5A and PHYS 5C, PHYS 5A and PHYS 5B. Any laboratories required or recommended by the Physics Department associated with these classes are not part of the computer science B.S. major requirements.",
+            "Any CSE course with a number below 170, or between 180 and 189, except for the DC courses CSE 115A and CSE 185E/CSE 185S.",
+            [
+                "AM 114",
+                "AM 147",
+                "CMPM 120",
+                "CMPM 131",
+                "CMPM 146",
+                "CMPM 163",
+                "CMPM 164",
+                "CMPM 164L",
+                "CMPM 171",
+                "CMPM 172",
+                "CSE 195",
+                "MATH 110",
+                "MATH 115",
+                "MATH 116",
+                "MATH 117",
+                "MATH 118",
+                "MATH 134",
+                "MATH 145",
+                "MATH 145L",
+                "MATH 148",
+                "MATH 160",
+                "MATH 161",
+                "STAT 132"
+            ]
+        ],
+        "otherrequirement":[
+            "CSE 115A",
+            "CSE 185S",
+            "CSE 195"
+        ]
+    },
+    {
+        "majorname": "Computer Science: Computer Game Design B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Critical Race and Ethnic Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Earth Sciences B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Ecology and evolution B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Education, Democracy, and Justice B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Electrical Engineering B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Sciences B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Feminist Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Film and Digital Media B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Global Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Human Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "History B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "History of Art and Visual Culture B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Jewish Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Language Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Latin American and Latino Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Legal Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Linguistics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Literature B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Marine Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Mathematics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Mathematics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Mathematics Education B.A. MTEDBA",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Molecular, Cell, and Developmental Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Music B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Music B.M.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Network and Digital Technology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Neuroscience B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Philosophy B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Physics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Physics (Astrophysics) B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Plant Sciences B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Politics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Psychology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Robotics Engineering B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Science Education B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Sociology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Spanish Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Technology and Information Management B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Theater Arts B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Earth Sciences/Anthropology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies/Biology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies/Earth Sciences B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies/Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Economics/Mathematics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Latin American and Latino Studies/Politics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Latin American and Latino Studies/Sociology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    }
+]
