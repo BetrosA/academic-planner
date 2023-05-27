@@ -1,14 +1,8 @@
 /* App.css */
 
 /* General layout */
-.app {
-  display: flex;
-  flex-direction: column;
-}
-
 .content {
   display: flex;
- /* width: 100%; */
 }
 
 /* Header styles */
@@ -21,7 +15,23 @@
   justify-content: center;
 }
 
-/* App.css */
+.logo {
+  height: 60px;
+  margin-right: 10px;
+}
+
+/* Navigation styles */
+.nav {
+  background: #f1f1f1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-list {
+  list-style-type: none;
+  padding: 0;
+}
 
 .home-button {
   background-color: #333;
@@ -54,22 +64,20 @@
   color: white;
 }
 
-.logo {
-  height: 60px;
-  margin-right: 10px;
-}
 
-/* Navigation styles */
-.nav {
-  background: #f1f1f1;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.nav-list {
-  list-style-type: none;
+/* Nav Bar Dropdown Contents */
+.dropdown_hover_button {
+  background: none;
+  border: none;
   padding: 0;
+  font: inherit;
+  cursor: pointer;
+  position: relative;
+  font-size: 20px;
+  display: inline-block;
+  margin-right: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
 .dropdown {
@@ -95,7 +103,6 @@
   display: block;
 }
 
-/* Dropdown Contents */
 .dropdown-button {
   background-color: #f1f1f1;
   color: black;
@@ -121,49 +128,61 @@
   overflow-y: auto;
 }
 
+.draggable-course {
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 5px;
+  cursor: grab;
+}
+
+.draggable-course:active {
+  cursor: grabbing;
+}
+
+.sidebar .draggable-course.undraggable {
+  opacity: 0.5; /* Make undraggable courses transparent */
+  cursor: default; /* Disable cursor for undraggable courses */
+  pointer-events: none; /* Disable pointer events for undraggable courses */
+}
+
 .main-content {
   position: relative; 
   flex-grow: 1;
   padding: 20px;
 }
 
-.add-new-semester-btn {
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: white;
+/* QuarterBox styles */
+.quarter-box {
+  border: 2px solid gray;
+  padding: 10px;
+  margin-bottom: 10px;
+  height: 400px;
+  width: 250px
+}
+
+.quarterbox-row {
+  display: flex;
+  gap: 10px; /* Adjust the value as per your preference */
+}
+
+.quarterbox-container-wrapper {
+  flex: 1;
+  overflow-y: auto; /* Enable vertical scrolling */
+  max-height: calc(100vh - 150px); /* Adjust the height as needed */
+}
+
+.remove-course-button {
+  font-size: 12px;
+  background: none;
   border: none;
-  border-radius: 5px;
+  border-radius: 5px; 
   cursor: pointer;
+  float: right;
+  /* Additional styles */
+  text-align: right;
+  color: red;
 }
 
-.add-new-semester-btn:hover {
-  background-color: #0056b3;
-}
-/* Rest of your CSS... */
-
-.add-btn {
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  display: inline-block;
-  margin-top: 10px;
-}
-
-.add-btn:hover {
-  background-color: #0056b3;
-}
-
-.semester-box {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 20px;
-  margin-bottom: 20px;
-} 
-
-.transparent {
-  opacity: 0.5; /* Set the opacity to make the button appear transparent */
-  pointer-events: none; /* Disable pointer events on the button */
+.remove-course-button:hover {
+  border: 1px solid grey; /* Add border when hovered over */
 }
