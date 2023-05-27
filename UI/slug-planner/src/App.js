@@ -1,13 +1,12 @@
 // App.js
 
-
 import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
 import { fetchDepartments, fetchCourses } from "./firebase";
 
-function NavBar({  selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
+function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
@@ -55,6 +54,7 @@ function NavBar({  selectedDepartment,  selectedMajor,  selectedStartingYear,  s
   };
   
   const handleStartingYearClick = (year) => {
+    
     setSelectedStartingYear(year);
     setShowStartingYear(false);
   
@@ -84,9 +84,9 @@ function NavBar({  selectedDepartment,  selectedMajor,  selectedStartingYear,  s
           onMouseEnter={toggleDepartment}
           onMouseLeave={toggleDepartment}
         >
-          <a className="dropbtn">
+         <button className="dropdown_hover_button">
             {selectedDepartment ? selectedDepartment : "Departments"}
-          </a>
+          </button>
           {showDepartment && (
             <div className="dropdown-content" style={{ width: "150px" }}>
               {Object.keys(departments).map((name) => (
@@ -109,9 +109,9 @@ function NavBar({  selectedDepartment,  selectedMajor,  selectedStartingYear,  s
             onMouseEnter={toggleMajor}
             onMouseLeave={toggleMajor}
           >
-            <a className="dropbtn">
+            <button className="dropdown_hover_button">
               {selectedMajor ? selectedMajor : "Major"}
-            </a>
+            </button>
             {showMajor && (
               <div className="dropdown-content">
                 {departments[selectedDepartment].map((name) => (
@@ -135,9 +135,9 @@ function NavBar({  selectedDepartment,  selectedMajor,  selectedStartingYear,  s
             onMouseEnter={toggleStartingYear}
             onMouseLeave={toggleStartingYear}
           >
-            <a className="dropbtn">
+            <button className="dropdown_hover_button">
               {selectedStartingYear ? selectedStartingYear : "Starting Year"}
-            </a>
+            </button>
             {showStartingYear && (
               <div className="dropdown-content">
                 {ChooseYears.map((year) => (
@@ -164,10 +164,14 @@ function NavBar({  selectedDepartment,  selectedMajor,  selectedStartingYear,  s
         )}
       </ul>
     </nav>
-  );
+  )
 }
 
-function Sidebar({ courses, handleDragStart }) {
+function Sidebar({courses}) {
+  const handleDragStart = (event, courseName) => {
+    event.dataTransfer.setData("courseName", courseName);
+  };
+
   return (
     <div className="sidebar">
       <h2>Sidebar</h2>
@@ -175,8 +179,8 @@ function Sidebar({ courses, handleDragStart }) {
         <div
           key={index}
           className="draggable-course"
-          draggable="true"
-          onDragStart={(event) => handleDragStart(event, course.id, course.coursename)}
+          draggable
+          onDragStart={(event) => handleDragStart(event, course.coursename)}
         >
           {course.coursename}
         </div>
@@ -185,27 +189,80 @@ function Sidebar({ courses, handleDragStart }) {
   );
 }
 
-function QuarterBox() {
+function QuarterBox({row, column, selectedStartingYear, allDroppedCourses, setAllDroppedCourses}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
 
   const handleDrop = (event) => {
     event.preventDefault();
-    const courseId = event.dataTransfer.getData("courseId");
     const courseName = event.dataTransfer.getData("courseName");
-    const course = { id: courseId, coursename: courseName };
-    setDroppedCourses((prevCourses) => [...prevCourses, course]);
+    const course = { coursename: courseName };
+
+    const isDuplicate = allDroppedCourses.some((droppedCourse) => droppedCourse.coursename === courseName);
+
+    if (!isDuplicate && courseName.trim() !== "") {
+      setDroppedCourses((prevCourses) => [...prevCourses, course]);
+      setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+    }
   };
 
   const handleDragOver = (event) => {
     event.preventDefault();
   };
 
+  const handleRemoveCourse = (courseName) => {
+    setDroppedCourses((prevCourses) => prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName));
+    setAllDroppedCourses((prevCourses) => prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName));
+  };
+
+  const handleCourseDragStart = (event, courseName) => {
+    event.dataTransfer.setData("courseName", courseName);
+    setTimeout(() => {
+      handleRemoveCourse(courseName);
+    }, 0);
+  };
+
+  const sortDroppedCourses = (courses) => {
+    return courses.sort((a, b) => {
+      const [prefixA, codeA] = a.coursename.split(" ");
+      const [prefixB, codeB] = b.coursename.split(" ");
+
+      if (prefixA !== prefixB) {
+        return prefixA.localeCompare(prefixB);
+      } else {
+        return parseInt(codeA) - parseInt(codeB);
+      }
+    });
+  };
+
+  const sortedDroppedCourses = sortDroppedCourses(droppedCourses);
+
+  const getBoxTitle = () => {
+    let year = parseInt(selectedStartingYear) + row - 1;
+    if (column === 1) {
+      return `Fall ${year}`;
+    } else if (column === 2) {
+      return `Winter ${year}`;
+    } else if (column === 3) {
+      return `Spring ${year}`;
+    } else {
+      return `Summer ${year}`;
+    }
+  };
+
   return (
     <div className="quarter-box" onDrop={handleDrop} onDragOver={handleDragOver}>
-      <h2>Quarter Box</h2>
-      {droppedCourses.map((course, index) => (
-        <div key={index} className="dropped-course">
-          {course.coursename}
+      <h2>{getBoxTitle()}</h2>
+      {sortedDroppedCourses.map((course, index) => (
+        <div
+          key={index}
+          className="draggable-course"
+          draggable
+          onDragStart={(event) => handleCourseDragStart(event, course.coursename)}
+        >
+          <button className="remove-course-button" onClick={() => handleRemoveCourse(course.coursename)}>
+            x
+          </button>
+          <span>{course.coursename}</span>
         </div>
       ))}
     </div>
@@ -219,12 +276,7 @@ function App() {
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
   const [isGenerated, setIsGenerated] = useState(false);
-  const [droppedCourses, setDroppedCourses] = useState([]);
-
-  const handleDragStart = (event, courseId, courseName) => {
-    event.dataTransfer.setData("courseId", courseId);
-    event.dataTransfer.setData("courseName", courseName);
-  };
+  const [allDroppedCourses, setAllDroppedCourses] = useState([]);
 
   useEffect(() => {
     fetchDepartments(setDepartments);
@@ -232,7 +284,7 @@ function App() {
   }, []);
 
   return (
-    <div className="app-container">
+    <div>
       {/* Logo*/}
       <header className="header">
         <a href="/">
@@ -254,49 +306,31 @@ function App() {
       
     {isGenerated && (
       <div className="content">
-        <Sidebar courses={courses} handleDragStart={handleDragStart} />
-        <div className="quarterbox-container">
-            <div className="quarterbox-row">
-              {[...Array(4)].map((_, colIndex) => (
-                <QuarterBox
-                  key={colIndex}
-                  row={1}
-                  column={colIndex + 1}
-                />
-              ))}
-            </div>
-            <div className="quarterbox-row">
-              {[...Array(4)].map((_, colIndex) => (
-                <QuarterBox
-                  key={colIndex}
-                  row={2}
-                  column={colIndex + 1}
-                />
-              ))}
-            </div>
-            <div className="quarterbox-row">
-              {[...Array(4)].map((_, colIndex) => (
-                <QuarterBox
-                  key={colIndex}
-                  row={3}
-                  column={colIndex + 1}
-                />
-              ))}
-            </div>
-            <div className="quarterbox-row">
-              {[...Array(4)].map((_, colIndex) => (
-                <QuarterBox
-                  key={colIndex}
-                  row={4}
-                  column={colIndex + 1}
-                />
-              ))}
-            </div>
+        {/*Sidebar*/}
+        <Sidebar courses={courses}/>
+        {/*Quarter Box*/}
+        <div className="quarterbox-container-wrapper">
+          <div className="quarterbox-container">
+            {[...Array(4)].map((_, rowIndex) => (
+              <div className="quarterbox-row" key={rowIndex}>
+                {[...Array(4)].map((_, colIndex) => (
+                  <QuarterBox
+                    key={colIndex}
+                    row={rowIndex + 1}
+                    column={colIndex + 1}
+                    selectedStartingYear={selectedStartingYear}
+                    allDroppedCourses={allDroppedCourses}
+                    setAllDroppedCourses={setAllDroppedCourses}
+                  />
+                ))}
+              </div>
+            ))}
           </div>
+        </div>
       </div>
-      )};
+      )}
     </div>
-  );
+  )
 }
 
 export default App;
