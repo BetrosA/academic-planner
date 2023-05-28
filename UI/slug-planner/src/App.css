@@ -132,6 +132,7 @@
 }
 
 .draggable-course {
+  border-radius: 10px;
   padding: 5px;
   margin-bottom: 5px;
   cursor: grab;
@@ -171,7 +172,7 @@
 }
 
 .quarter-box h2 {
-  font-family: "Roboto", sans-serif; /* Replace "Roboto" with your desired font */
+  font-family: "Montserrant", sans-serif;
 }
 
 .quarterbox-container {
@@ -203,4 +204,19 @@
 
 .remove-course-button:hover {
   border: 1px solid grey; /* Add border when hovered over */
+}
+
+.search-bar {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 14px;
+  outline: none;
+}
+
+.search-bar:focus {
+  border-color: #888;
 }

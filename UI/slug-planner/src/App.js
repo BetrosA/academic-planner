@@ -66,6 +66,7 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   };
   
   const handleGenerateClick = () => {
+    setSelectedMajor(selectedMajor);
     setIsGenerated(true);
   };
 
@@ -167,26 +168,70 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   )
 }
 
-function Sidebar({ courses, setCourses }) {
+function Sidebar({ courses, selectedMajor }) {
+
+  const [searchQuery, setSearchQuery] = useState("");
+  
+  const handleSearch = (event) => {
+    setSearchQuery(event.target.value);
+  };
+
   const handleDragStart = (event, courseName, originalIndex) => {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
+  
+  const filterCoursesByMajor = (course) => {
+    if (selectedMajor === "Robotics Engineering: B.S.") {
+      return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE");
+    } else if (selectedMajor === "Electrical Engineering: B.S.") {
+      return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") || course.coursename.startsWith("STAT 131");
+    } else if (selectedMajor === "Computer Engineering B.S.") {
+      return course.coursename.startsWith("CSE") || course.coursename.startsWith("ECE") ;
+    } else if (selectedMajor === "Computer Science: B.S.") {
+      return course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") ;
+    } else if (selectedMajor === "Computer Science: B.A.") {
+      return course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") ;
+    } else if (selectedMajor === "Art Studio BA") {
+      return course.coursename.startsWith("ART");
+    }
 
+    // Add more conditions for other majors if needed
+    return true; // Return true by default if no major is selected or condition matches
+  };
+
+  const filterCoursesBySearch = (course) => {
+    // Filter courses based on the search query
+    if (searchQuery.trim() === "") {
+      return true; // Return true if no search query is entered
+    }
+    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
+    return regex.test(course.coursename);
+  };
+
+  const filteredCourses = courses.filter(filterCoursesByMajor).filter(filterCoursesBySearch);
 
   return (
     <div className="sidebar">
       <h2>Available Classes</h2>
-      {courses.map((course, index) => (
-        <div
-          key={index}
-          className="draggable-course"
-          draggable
-          onDragStart={(event) => handleDragStart(event, course.coursename, index)}
-        >
-          {course.coursename}
-        </div>
-      ))}
+      <input
+        type="text"
+        placeholder="Search courses..."
+        value={searchQuery}
+        onChange={handleSearch}
+        className="search-bar"
+      />
+      {
+        filteredCourses.map((course, index) => (
+          <div
+            key={index}
+            className="draggable-course"
+            draggable
+            onDragStart={(event) => handleDragStart(event, course.coursename, index)}
+          >
+            {course.coursename}
+          </div>
+        ))}
     </div>
   );
 }
@@ -340,7 +385,7 @@ function App() {
       
     {isGenerated && (
       <div className="content">
-      <Sidebar courses={courses} setCourses={setCourses} />
+      <Sidebar courses={courses} selectedMajor={selectedMajor} />
       <div className="quarterbox-container-wrapper">
         <div className="quarterbox-container">
           {[...Array(4)].map((_, rowIndex) => (
