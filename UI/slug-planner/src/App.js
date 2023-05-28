@@ -6,6 +6,18 @@ import "./App.css";
 
 import { fetchDepartments, fetchCourses } from "./firebase";
 
+const generatePlanner = (major, setPlanner) => {
+  fetch('http://localhost:5000/planner/'+ encodeURI(major), {
+    method: 'get'
+  })
+    .then((response) => {
+      return response.json();
+    })
+    .then((json) => {
+      setPlanner(json);
+    });
+};
+
 function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
   const [showMajor, setShowMajor] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
@@ -356,10 +368,12 @@ function App() {
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
   const [isGenerated, setIsGenerated] = useState(false);
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
+  const [planner, setPlanner] = useState([]);
 
   useEffect(() => {
     fetchDepartments(setDepartments);
     fetchCourses(setCourses);
+    generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
   return (
