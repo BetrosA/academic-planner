@@ -167,20 +167,22 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   )
 }
 
-function Sidebar({courses}) {
-  const handleDragStart = (event, courseName) => {
+function Sidebar({ courses, setCourses }) {
+  const handleDragStart = (event, courseName, originalIndex) => {
     event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
+
 
   return (
     <div className="sidebar">
-      <h2>Sidebar</h2>
+      <h2>Available Classes</h2>
       {courses.map((course, index) => (
         <div
           key={index}
           className="draggable-course"
           draggable
-          onDragStart={(event) => handleDragStart(event, course.coursename)}
+          onDragStart={(event) => handleDragStart(event, course.coursename, index)}
         >
           {course.coursename}
         </div>
@@ -189,19 +191,35 @@ function Sidebar({courses}) {
   );
 }
 
-function QuarterBox({row, column, selectedStartingYear, allDroppedCourses, setAllDroppedCourses}) {
+function QuarterBox({
+  row,
+  column,
+  selectedStartingYear,
+  allDroppedCourses,
+  setAllDroppedCourses,
+  courses,
+  setCourses,
+}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
 
   const handleDrop = (event) => {
     event.preventDefault();
     const courseName = event.dataTransfer.getData("courseName");
+    const originalIndex = parseInt(event.dataTransfer.getData("originalIndex"));
     const course = { coursename: courseName };
 
-    const isDuplicate = allDroppedCourses.some((droppedCourse) => droppedCourse.coursename === courseName);
+    const isDuplicate = allDroppedCourses.some(
+      (droppedCourse) => droppedCourse.coursename === courseName
+    );
 
     if (!isDuplicate && courseName.trim() !== "") {
       setDroppedCourses((prevCourses) => [...prevCourses, course]);
       setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+
+      // Remove the dropped course from the sidebar
+      setCourses((prevCourses) =>
+        prevCourses.filter((_, index) => index !== originalIndex)
+      );
     }
   };
 
@@ -209,15 +227,28 @@ function QuarterBox({row, column, selectedStartingYear, allDroppedCourses, setAl
     event.preventDefault();
   };
 
-  const handleRemoveCourse = (courseName) => {
-    setDroppedCourses((prevCourses) => prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName));
-    setAllDroppedCourses((prevCourses) => prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName));
+  const handleRemoveCourse = (courseName, originalIndex) => {
+    setDroppedCourses((prevCourses) =>
+      prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
+    );
+    setAllDroppedCourses((prevCourses) =>
+      prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
+    );
+  
+    // Add the removed course back to the sidebar at its original index
+    const removedCourse = { coursename: courseName };
+    setCourses((prevCourses) => {
+      const updatedCourses = [...prevCourses];
+      updatedCourses.splice(originalIndex, 0, removedCourse);
+      return updatedCourses.sort(); // Sort the updated courses array
+    });
   };
 
-  const handleCourseDragStart = (event, courseName) => {
+  const handleCourseDragStart = (event, courseName, originalIndex) => {
     event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("originalIndex", originalIndex.toString());
     setTimeout(() => {
-      handleRemoveCourse(courseName);
+      handleRemoveCourse(courseName, originalIndex);
     }, 0);
   };
 
@@ -251,15 +282,18 @@ function QuarterBox({row, column, selectedStartingYear, allDroppedCourses, setAl
 
   return (
     <div className="quarter-box" onDrop={handleDrop} onDragOver={handleDragOver}>
-      <h2>{getBoxTitle()}</h2>
+      <h2 className="quarter-title">{getBoxTitle()}</h2>
       {sortedDroppedCourses.map((course, index) => (
         <div
           key={index}
           className="draggable-course"
           draggable
-          onDragStart={(event) => handleCourseDragStart(event, course.coursename)}
+          onDragStart={(event) => handleCourseDragStart(event, course.coursename, index)}
         >
-          <button className="remove-course-button" onClick={() => handleRemoveCourse(course.coursename)}>
+          <button
+            className="remove-course-button"
+            onClick={() => handleRemoveCourse(course.coursename)}
+          >
             x
           </button>
           <span>{course.coursename}</span>
@@ -306,21 +340,21 @@ function App() {
       
     {isGenerated && (
       <div className="content">
-        {/*Sidebar*/}
-        <Sidebar courses={courses}/>
-        {/*Quarter Box*/}
-        <div className="quarterbox-container-wrapper">
-          <div className="quarterbox-container">
-            {[...Array(4)].map((_, rowIndex) => (
-              <div className="quarterbox-row" key={rowIndex}>
-                {[...Array(4)].map((_, colIndex) => (
-                  <QuarterBox
-                    key={colIndex}
-                    row={rowIndex + 1}
-                    column={colIndex + 1}
-                    selectedStartingYear={selectedStartingYear}
-                    allDroppedCourses={allDroppedCourses}
-                    setAllDroppedCourses={setAllDroppedCourses}
+      <Sidebar courses={courses} setCourses={setCourses} />
+      <div className="quarterbox-container-wrapper">
+        <div className="quarterbox-container">
+          {[...Array(4)].map((_, rowIndex) => (
+            <div className="quarterbox-row" key={rowIndex}>
+              {[...Array(4)].map((_, colIndex) => (
+                <QuarterBox
+                  key={colIndex}
+                  row={rowIndex + 1}
+                  column={colIndex + 1}
+                  selectedStartingYear={selectedStartingYear}
+                  allDroppedCourses={allDroppedCourses}
+                  setAllDroppedCourses={setAllDroppedCourses}
+                  courses={courses}
+                  setCourses={setCourses}
                   />
                 ))}
               </div>

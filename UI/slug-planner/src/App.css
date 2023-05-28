@@ -5,6 +5,8 @@
   display: flex;
 }
 
+
+
 /* Header styles */
 .header {
   height: 60px; 
@@ -121,18 +123,19 @@
 
 /* Sidebar styles */
 .sidebar {
-  width: 200px;
+  width: 400px;
   height: calc(100vh - 60px);
   background: #f8f9fa;
+  font-family: "Montserrant", sans-serif;
   padding: 20px;
   overflow-y: auto;
 }
 
 .draggable-course {
-  border: 1px solid #ccc;
   padding: 5px;
   margin-bottom: 5px;
   cursor: grab;
+  border: 2px solid black;
 }
 
 .draggable-course:active {
@@ -157,7 +160,9 @@
   padding: 10px;
   margin-bottom: 10px;
   height: 400px;
-  width: 250px
+  background: linear-gradient(to bottom, lightblue, #fff);
+  width: 300px;
+  border-radius: 10px;
 }
 
 .quarterbox-row {
@@ -165,10 +170,23 @@
   gap: 10px; /* Adjust the value as per your preference */
 }
 
+.quarter-box h2 {
+  font-family: "Roboto", sans-serif; /* Replace "Roboto" with your desired font */
+}
+
+.quarterbox-container {
+  margin-top: 20px; /* Adjust the value as needed */
+  margin-left: 20px; /* Adjust the value as needed */
+}
+
 .quarterbox-container-wrapper {
   flex: 1;
   overflow-y: auto; /* Enable vertical scrolling */
   max-height: calc(100vh - 150px); /* Adjust the height as needed */
+}
+
+.quarter-title {
+  font-family: "Roboto", sans-serif; /* Replace "FontName" with your desired font */
 }
 
 .remove-course-button {
