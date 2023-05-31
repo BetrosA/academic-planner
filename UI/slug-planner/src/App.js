@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
-import { fetchDepartments, fetchCourses } from "./firebase";
+import { fetchDepartments, fetchCourses, fetchQuartersOffered } from "./firebase";
 
 const generatePlanner = (major, setPlanner) => {
   fetch('http://localhost:5000/planner/'+ encodeURI(major), {
@@ -363,6 +363,7 @@ function QuarterBox({
 function App() {
   const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
+  const [quartersOffered, setQuartersOffered] = useState([]);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
@@ -373,6 +374,7 @@ function App() {
   useEffect(() => {
     fetchDepartments(setDepartments);
     fetchCourses(setCourses);
+    fetchQuartersOffered(setQuartersOffered);
     generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
