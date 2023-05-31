@@ -1,22 +1,33 @@
 import React from 'react';
-import { signInWithGoogle } from './firebase';
+import firebase from 'firebase/app';
+import 'firebase/auth';
 
-const GoogleLogin = () => {
-  const handleLogin = async () => {
-    const user = await signInWithGoogle();
-    if (user) {
-      // User is signed in.
-      // Redirect to the main application or do something with the user object.
-      console.log(user);
-    } else {
-      // No user is signed in or there was an error.
-      // Handle this situation as you see fit.
+function Login() {
+
+  const provider = new firebase.auth.GoogleAuthProvider();
+
+  const signInWithGoogle = async () => {
+    try {
+      await firebase.auth().signInWithPopup(provider);
+    } catch (error) {
+      console.error(error);
+    }
+  };
+
+  const signOut = async () => {
+    try {
+      await firebase.auth().signOut();
+    } catch (error) {
+      console.error(error);
     }
   };
 
   return (
-    <button onClick={handleLogin}>Sign in with Google</button>
+    <div>
+      <button onClick={signInWithGoogle}>Sign in with Google</button>
+      <button onClick={signOut}>Sign out</button>
+    </div>
   );
-};
+}
 
-export default GoogleLogin;
+export default Login;
