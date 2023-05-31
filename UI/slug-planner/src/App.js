@@ -1,183 +1,32 @@
 // App.js
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
-//import { fetchDepartments, fetchCourses } from "./firebase";
+import { fetchDepartments, fetchCourses, fetchQuartersOffered } from "./firebase";
 
-
-/* const getDepartments = (setDepartments) => {  
-  fetchDepartments(setDepartments);
-};  
-
-const getCourses = (setCourses) => {  
-  fetchCourses(setCourses);
-};   */
-
-const getDepartments = (setDepartments) => {
-  fetch('http://localhost:5000/departments', {
+const generatePlanner = (major, setPlanner) => {
+  fetch('http://localhost:5000/planner/'+ encodeURI(major), {
     method: 'get'
   })
     .then((response) => {
       return response.json();
     })
     .then((json) => {
-      setDepartments(json);
+      setPlanner(json);
     });
 };
 
-// change later to get courses for a specific devision
-const getCourses = (setCourses) => {
-  fetch('http://localhost:5000/courses/' + 'test', {
-    method: 'get'
-  })
-    .then((response) => {
-      return response.json();
-    })
-    .then((json) => {
-      setCourses(json);
-    });
-};
-
-
-function SemesterBox({ semester, semesters, availableCourses, addedCourses, onCourseRemove, onSemesterRemove }) {
-  const [newCourse, setNewCourse] = useState("");
-  const [selectedSubject, setSelectedSubject] = useState("");
-
-  const handleCourseChange = (event) => {
-    setNewCourse(event.target.value);
-  };
-
-  const handleSubjectChange = (event) => {
-    setSelectedSubject(event.target.value);
-    setNewCourse("");
-  };
-
-  const handleAddCourseClick = () => {
-    if (newCourse && !semester.courses.includes(newCourse)) {
-      const isDuplicateCourse = semesters.some((s) => s.courses.includes(newCourse));
-      if (!isDuplicateCourse) {
-        semester.courses.push(newCourse);
-        setNewCourse("");
-        setSelectedSubject("");
-        sortClassesAlphabetically(); // Sort the courses after adding a new one
-      } else {
-        // Display an error message or handle the duplicate course case
-        console.log("Duplicate course detected");
-      }
-    }
-  };
-  
-  const sortClassesAlphabetically = () => {
-    semester.courses.sort((a, b) => {
-      const [subjectA, numberA] = a.split(" ");
-      const [subjectB, numberB] = b.split(" ");
-  
-      if (subjectA === subjectB) {
-        // If the subjects are the same, compare the course numbers
-        return parseInt(numberA) - parseInt(numberB);
-      } else {
-        // If the subjects are different, compare them alphabetically
-        return subjectA.localeCompare(subjectB);
-      }
-    });
-  };
-
-  const handleRemoveCourseClick = (index, course) => {
-    semester.courses.splice(index, 1);
-    onCourseRemove(course);
-  };
-
-  const handleRemoveSemesterClick = () => {
-    onSemesterRemove(semester);
-  };
-
-  const filteredCourses = availableCourses
-    .filter((course) => !semester.courses.includes(course))
-    .filter((course) => !addedCourses.includes(course))
-    .filter((course) =>
-      course.toLowerCase().startsWith(selectedSubject.toLowerCase())
-    )
-    .filter((course) =>
-      semesters.every((s) => !s.courses.includes(course))
-    );
-
-  
-  return (
-    <div className="semester-box">
-      <h3>
-        {semester.type} {semester.year}
-        <button onClick={handleRemoveSemesterClick}>Remove Semester</button>
-      </h3>
-      
-      {semester.courses.map((course, index) => (
-        <div key={index}>
-          {course}
-          
-          <button onClick={() => handleRemoveCourseClick(index, course)}>
-            Remove
-          </button>
-        </div>
-      ))}
-      <select value={selectedSubject} onChange={handleSubjectChange}>
-        <option value="">Select Subject</option>
-        {availableCourses
-          .map((course) => course.split(" ")[0])
-          .filter((value, index, self) => self.indexOf(value) === index)
-          .filter((subject) =>
-            availableCourses.some(
-              (course) =>
-                course.toLowerCase().startsWith(subject.toLowerCase()) &&
-                !semester.courses.includes(course)
-            )
-          )
-          .map((subject, index) => (
-            <option key={index} value={subject}>
-              {subject}
-            </option>
-          ))}
-      </select>
-      <select
-        value={newCourse}
-        onChange={handleCourseChange}
-        disabled={!selectedSubject}
-      >
-        <option>Select Course</option>
-        {filteredCourses.map((course, index) => (
-          <option key={index} value={course}>
-            {course}
-          </option>
-        ))}
-      </select>
-      <button onClick={handleAddCourseClick} disabled={!newCourse}>
-        Add Course
-      </button>
-    </div>
-  );
-}
-  
-function App() {
-  React.useEffect(() => {
-    getDepartments(setDepartments); // Call the function to fetch the departments from Firebase and update the state variable with the response data 
-    getCourses(setCourses);
-  }, []);
-
-
+function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
   const [showMajor, setShowMajor] = useState(false);
-  const [departments, setDepartments ] = useState(false);
-  const [courses, setCourses ] = useState([]);
   const [showDepartment, setShowDepartment] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
-  const [selectedMajor, setSelectedMajor] = useState(null);
-  const [selectedDepartment, setSelectedDepartment] = useState(null);
-  const [selectedStartingYear, setSelectedStartingYear] = useState(null);
+  const [prevSelectedDepartment, setPrevSelectedDepartment] = useState(null);
+  const [prevSelectedMajor, setPrevSelectedMajor] = useState(null);
+  const [prevSelectedStartingYear, setPrevSelectedStartingYear] = useState(null);
 
-
-  React.useEffect(() => {
-    getDepartments(setDepartments);
-  }, []);
-
+  const [ChooseYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
 
   const toggleMajor = () => {
     setShowMajor(!showMajor);
@@ -190,143 +39,98 @@ function App() {
   const toggleStartingYear = () => {
     setShowStartingYear(!showStartingYear);
   };
-
-  const handleMajorClick = (major) => {
-    setSelectedMajor(major);
-    setSelectedStartingYear(null);
-    setShowMajor(false);
-  };
-
   const handleDepartmentClick = (name) => {
-    setSelectedDepartment(name);
-    setSelectedMajor(null); // reset selectedMajor when department changes
-    setSelectedStartingYear(null); // reset selectedStartingYear when department changes
     setShowDepartment(false);
+  
+    // Check if department selection has changed
+    if (prevSelectedDepartment !== name) {
+      setSelectedDepartment(name);
+      setSelectedMajor(null); // Reset major when department changes
+      setSelectedStartingYear(null); // Reset starting year when department changes
+      setIsGenerated(false); // Set isGenerated to false if department changes
+      setPrevSelectedDepartment(name);
+    }
   };
-
+  
+  const handleMajorClick = (major) => {
+    setShowMajor(false);
+  
+    // Check if major selection has changed
+    if (prevSelectedMajor !== major) {
+      setSelectedMajor(major);
+      setSelectedStartingYear(null); // Reset starting year when major changes
+      setIsGenerated(false); // Set isGenerated to false if major changes
+      setPrevSelectedMajor(major);
+    }
+  };
+  
   const handleStartingYearClick = (year) => {
+    
     setSelectedStartingYear(year);
     setShowStartingYear(false);
+  
+    // Check if starting year selection has changed
+    if (prevSelectedStartingYear !== year) {
+      setIsGenerated(false); // Set isGenerated to false if starting year changes
+      setPrevSelectedStartingYear(year);
+    }
   };
-
+  
   const handleGenerateClick = () => {
+    setSelectedMajor(selectedMajor);
     setIsGenerated(true);
   };
 
-  //Semester Box constants 
-  const [semesters, setSemesters] = useState([]);
-  const [semesterType, setSemesterType] = useState("Select Semester Type");
-  const [semesterYear, setSemesterYear] = useState("Select Year");
-  const [semesterTypes] = useState(["Spring", "Summer", "Fall", "Winter"]);
-  const [semesterYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
-  const [isAddButtonDisabled, setIsAddButtonDisabled] = useState(true); // New state variable
-  const [isGenerated, setIsGenerated] = useState(false); 
-
-  //Semester Box Functions
-  const updateAddButtonStatus = (semesterType, year) => {
-    const isPairSelected = semesters.some(
-      (semester) =>
-        semester.type === semesterType &&
-        semester.year === year &&
-        semesterType !== "Select Semester Type" &&
-        year !== "Select Year"
-    );
-    setIsAddButtonDisabled(
-      semesterType === "Select Semester Type" ||
-      year === "Select Year" ||
-      isPairSelected
-    );
-  };
-  
-  const handleSemesterTypeChange = (event) => {
-    setSemesterType(event.target.value);
-    updateAddButtonStatus(event.target.value, semesterYear);
-  };
-  
-  const handleSemesterYearChange = (event) => {
-    setSemesterYear(event.target.value);
-    updateAddButtonStatus(semesterType, event.target.value);
-  };
-
-  const handleCourseRemove = () => {
-    setSemesters([...semesters]);
-  };
-
-  const handleSemesterRemove = (semester) => {
-    const updatedSemesters = semesters.filter((s) => s !== semester);
-    setSemesters(updatedSemesters);
-
-    // Check if the removed semester is the same as the currently selected pair
-    if (
-      semester.type === semesterType &&
-      semester.year === semesterYear
-    ) {
-      setIsAddButtonDisabled(false); // Enable the button if the removed pair matches the selected pair
-    }
-  };
-
-  const handleAddSemesterClick = () => {
-    if (semesterType && semesterYear) {
-      setSemesters([
-        ...semesters,
-        { type: semesterType, year: semesterYear, courses: [] }
-      ]);
-      setIsAddButtonDisabled(true); // Disable the button after adding the pair
-    }
-  };
-  
-  const addedCourses = semesters.flatMap((semester) => semester.courses);
-
-  const sortedSemesters = [...semesters].sort((a, b) => {
-    // Map semester types to their corresponding numeric values for comparison
-    const semesterTypeValues = {
-      Spring: 0,
-      Summer: 1,
-      Fall: 2,
-      Winter: 3,
-    };
-  
-    if (a.year !== b.year) {
-      return a.year.localeCompare(b.year); // Sort by year in ascending order
-    } else {
-      return semesterTypeValues[a.type] - semesterTypeValues[b.type]; // Sort by type based on the mapped values
-    }
-  });
-
   return (
-    <div className="app-container">
-      {/* Logo*/}
-      <header className="header">
-        <a href="/">
-          <img src={SchoolLogo} alt="School Logo" className="logo" />
-        </a>
-      </header>
-  
-      {/* Nav Bar */}
-      <nav className="nav">
-        <ul className="nav-list">
-          <li>
-            <a href="/">
-              <button className="home-button">Home</button>
-            </a>
-          </li>
-  
-          {/* Dept. Dropdown */}
+    <nav className="nav">
+      <ul className="nav-list">
+        <li>
+          <a href="/">
+            <button className="home-button">Home</button>
+          </a>
+        </li>
+
+        {/* Dept. Dropdown */}
+        <li
+          className="dropdown"
+          onMouseEnter={toggleDepartment}
+          onMouseLeave={toggleDepartment}
+        >
+         <button className="dropdown_hover_button">
+            {selectedDepartment ? selectedDepartment : "Departments"}
+          </button>
+          {showDepartment && (
+            <div className="dropdown-content" style={{ width: "150px" }}>
+              {Object.keys(departments).map((name) => (
+                <button
+                  key={name}
+                  className="dropdown-button"
+                  onClick={() => handleDepartmentClick(name)}
+                >
+                  {name}
+                </button>
+              ))}
+            </div>
+          )}
+        </li>
+
+        {/* Major Dropdown */}
+        {selectedDepartment && (
           <li
             className="dropdown"
-            onMouseEnter={toggleDepartment}
-            onMouseLeave={toggleDepartment}
+            onMouseEnter={toggleMajor}
+            onMouseLeave={toggleMajor}
           >
-            <a className="dropbtn">
-              {selectedDepartment ? selectedDepartment : "Departments"}
-            </a>
-            {showDepartment && (
-              <div className="dropdown-content" style={{ width: "150px" }}>
-                {Object.keys(departments).map((name) => (
+            <button className="dropdown_hover_button">
+              {selectedMajor ? selectedMajor : "Major"}
+            </button>
+            {showMajor && (
+              <div className="dropdown-content">
+                {departments[selectedDepartment].map((name) => (
                   <button
                     key={name}
                     className="dropdown-button"
-                    onClick={() => handleDepartmentClick(name)}
+                    onClick={() => handleMajorClick(name)}
                   >
                     {name}
                   </button>
@@ -334,126 +138,293 @@ function App() {
               </div>
             )}
           </li>
-  
-          {/* Major Dropdown */}
-          {selectedDepartment && (
-            <li
-              className="dropdown"
-              onMouseEnter={toggleMajor}
-              onMouseLeave={toggleMajor}
-            >
-              <a className="dropbtn">{selectedMajor ? selectedMajor : "Major"}</a>
-              {showMajor && (
-                <div className="dropdown-content">
-                  {departments[selectedDepartment].map((name) => (
-                    <button
-                      key={name}
-                      className="dropdown-button"
-                      onClick={() => handleMajorClick(name)}
-                    >
-                      {name}
-                    </button>
-                  ))}
-                </div>
-              )}
-            </li>
-          )}
-  
-          {/* Year Dropdown */}
-          {selectedMajor && (
-            <li
-              className="dropdown"
-              onMouseEnter={toggleStartingYear}
-              onMouseLeave={toggleStartingYear}
-            >
-              <a className="dropbtn">
-                {selectedStartingYear ? selectedStartingYear : "Starting Year"}
-              </a>
-              {showStartingYear && (
-                <div className="dropdown-content">
-                  {semesterYears.map((year) => (
-                    <button
-                      key={year}
-                      className="dropdown-button"
-                      onClick={() => handleStartingYearClick(year)}
-                    >
-                      {year}
-                    </button>
-                  ))}
-                </div>
-              )}
-            </li>
-          )}
-  
-          {/* Generate Button */}
-          {selectedDepartment && selectedMajor && selectedStartingYear && (
-            <li>
-              <button className="generate-btn" onClick={handleGenerateClick}>
-                Generate Schedule
-              </button>
-            </li>
-          )}
-        </ul>
-      </nav>
-  
-      <div className="content">
-        <div className="sidebar">
-          Major Requirements
-          <ul>
-            {courses.map((course, index) => (
-              <li key={index}>{course.coursename} - {course.credithours} hours</li>
-            ))}
-          </ul>
-        </div>
-  
-        <div className="main-content">
-         {sortedSemesters.map((semester, index) => (
-          <SemesterBox
-            key={index}
-            semester={semester}
-            semesters={sortedSemesters}
-            availableCourses={courses}
-            addedCourses={addedCourses}
-            onCourseRemove={handleCourseRemove}
-            onSemesterRemove={handleSemesterRemove}
-        />
-        ))}
+        )}
 
-        <div className="add-semester-row">
-          <select onChange={handleSemesterTypeChange}>
-            <option>Select Semester Type</option>
-            {semesterTypes.map((type) => (
-              <option key={type} value={type}>
-                {type}
-              </option>
-            ))}
-          </select>
-
-          <select onChange={handleSemesterYearChange}>
-            <option>Select Year</option>
-            {semesterYears.map((year) => (
-              <option key={year} value={year}>
-                {year}
-              </option>
-            ))}
-          </select>
-
-          <button
-            className={`add-new-semester-btn ${
-              isAddButtonDisabled ? "transparent" : ""
-            }`}
-            onClick={handleAddSemesterClick}
-            disabled={isAddButtonDisabled} // Disable the button based on the state variable
+        {/* Year Dropdown */}
+        {selectedMajor && (
+          <li
+            className="dropdown"
+            onMouseEnter={toggleStartingYear}
+            onMouseLeave={toggleStartingYear}
           >
-            Add New Semester
-          </button>
-        </div>
-      </div>
-      </div>
+            <button className="dropdown_hover_button">
+              {selectedStartingYear ? selectedStartingYear : "Starting Year"}
+            </button>
+            {showStartingYear && (
+              <div className="dropdown-content">
+                {ChooseYears.map((year) => (
+                  <button
+                    key={year}
+                    className="dropdown-button"
+                    onClick={() => handleStartingYearClick(year)}
+                  >
+                    {year}
+                  </button>
+                ))}
+              </div>
+            )}
+          </li>
+        )}
+
+        {/* Generate Button */}
+        {selectedDepartment && selectedMajor && selectedStartingYear && (
+          <li>
+            <button className="generate-btn" onClick={handleGenerateClick}>
+              Generate Schedule
+            </button>
+          </li>
+        )}
+      </ul>
+    </nav>
+  )
+}
+
+function Sidebar({ courses, selectedMajor }) {
+
+  const [searchQuery, setSearchQuery] = useState("");
+  
+  const handleSearch = (event) => {
+    setSearchQuery(event.target.value);
+  };
+
+  const handleDragStart = (event, courseName, originalIndex) => {
+    event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("originalIndex", originalIndex.toString());
+  };
+  
+  const filterCoursesByMajor = (course) => {
+    if (selectedMajor === "Robotics Engineering: B.S.") {
+      return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE");
+    } else if (selectedMajor === "Electrical Engineering: B.S.") {
+      return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") || course.coursename.startsWith("STAT 131");
+    } else if (selectedMajor === "Computer Engineering B.S.") {
+      return course.coursename.startsWith("CSE") || course.coursename.startsWith("ECE") ;
+    } else if (selectedMajor === "Computer Science: B.S.") {
+      return course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") ;
+    } else if (selectedMajor === "Computer Science: B.A.") {
+      return course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") ;
+    } else if (selectedMajor === "Art Studio BA") {
+      return course.coursename.startsWith("ART");
+    }
+
+    // Add more conditions for other majors if needed
+    return true; // Return true by default if no major is selected or condition matches
+  };
+
+  const filterCoursesBySearch = (course) => {
+    // Filter courses based on the search query
+    if (searchQuery.trim() === "") {
+      return true; // Return true if no search query is entered
+    }
+    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
+    return regex.test(course.coursename);
+  };
+
+  const filteredCourses = courses.filter(filterCoursesByMajor).filter(filterCoursesBySearch);
+
+  return (
+    <div className="sidebar">
+      <h2>Available Classes</h2>
+      <input
+        type="text"
+        placeholder="Search courses..."
+        value={searchQuery}
+        onChange={handleSearch}
+        className="search-bar"
+      />
+      {
+        filteredCourses.map((course, index) => (
+          <div
+            key={index}
+            className="draggable-course"
+            draggable
+            onDragStart={(event) => handleDragStart(event, course.coursename, index)}
+          >
+            {course.coursename}
+          </div>
+        ))}
     </div>
   );
+}
+
+function QuarterBox({
+  row,
+  column,
+  selectedStartingYear,
+  allDroppedCourses,
+  setAllDroppedCourses,
+  courses,
+  setCourses,
+}) {
+  const [droppedCourses, setDroppedCourses] = useState([]);
+
+  const handleDrop = (event) => {
+    event.preventDefault();
+    const courseName = event.dataTransfer.getData("courseName");
+    const originalIndex = parseInt(event.dataTransfer.getData("originalIndex"));
+    const course = { coursename: courseName };
+
+    const isDuplicate = allDroppedCourses.some(
+      (droppedCourse) => droppedCourse.coursename === courseName
+    );
+
+    if (!isDuplicate && courseName.trim() !== "") {
+      setDroppedCourses((prevCourses) => [...prevCourses, course]);
+      setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+
+      // Remove the dropped course from the sidebar
+      setCourses((prevCourses) =>
+        prevCourses.filter((_, index) => index !== originalIndex)
+      );
+    }
+  };
+
+  const handleDragOver = (event) => {
+    event.preventDefault();
+  };
+
+  const handleRemoveCourse = (courseName, originalIndex) => {
+    setDroppedCourses((prevCourses) =>
+      prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
+    );
+    setAllDroppedCourses((prevCourses) =>
+      prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
+    );
   
-    
+    // Add the removed course back to the sidebar at its original index
+    const removedCourse = { coursename: courseName };
+    setCourses((prevCourses) => {
+      const updatedCourses = [...prevCourses];
+      updatedCourses.splice(originalIndex, 0, removedCourse);
+      return updatedCourses.sort(); // Sort the updated courses array
+    });
+  };
+
+  const handleCourseDragStart = (event, courseName, originalIndex) => {
+    event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("originalIndex", originalIndex.toString());
+    setTimeout(() => {
+      handleRemoveCourse(courseName, originalIndex);
+    }, 0);
+  };
+
+  const sortDroppedCourses = (courses) => {
+    return courses.sort((a, b) => {
+      const [prefixA, codeA] = a.coursename.split(" ");
+      const [prefixB, codeB] = b.coursename.split(" ");
+
+      if (prefixA !== prefixB) {
+        return prefixA.localeCompare(prefixB);
+      } else {
+        return parseInt(codeA) - parseInt(codeB);
+      }
+    });
+  };
+
+  const sortedDroppedCourses = sortDroppedCourses(droppedCourses);
+
+  const getBoxTitle = () => {
+    let year = parseInt(selectedStartingYear) + row - 1;
+    if (column === 1) {
+      return `Fall ${year}`;
+    } else if (column === 2) {
+      return `Winter ${year}`;
+    } else if (column === 3) {
+      return `Spring ${year}`;
+    } else {
+      return `Summer ${year}`;
+    }
+  };
+
+  return (
+    <div className="quarter-box" onDrop={handleDrop} onDragOver={handleDragOver}>
+      <h2 className="quarter-title">{getBoxTitle()}</h2>
+      {sortedDroppedCourses.map((course, index) => (
+        <div
+          key={index}
+          className="draggable-course"
+          draggable
+          onDragStart={(event) => handleCourseDragStart(event, course.coursename, index)}
+        >
+          <button
+            className="remove-course-button"
+            onClick={() => handleRemoveCourse(course.coursename)}
+          >
+            x
+          </button>
+          <span>{course.coursename}</span>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function App() {
+  const [departments, setDepartments] = useState([]);
+  const [courses, setCourses] = useState([]);
+  const [quartersOffered, setQuartersOffered] = useState([]);
+  const [selectedDepartment, setSelectedDepartment] = useState(null);
+  const [selectedMajor, setSelectedMajor] = useState(null);
+  const [selectedStartingYear, setSelectedStartingYear] = useState(null);
+  const [isGenerated, setIsGenerated] = useState(false);
+  const [allDroppedCourses, setAllDroppedCourses] = useState([]);
+  const [planner, setPlanner] = useState([]);
+
+  useEffect(() => {
+    fetchDepartments(setDepartments);
+    fetchCourses(setCourses);
+    fetchQuartersOffered(setQuartersOffered);
+    generatePlanner("Computer Science B.S.",setPlanner)
+  }, []);
+
+  return (
+    <div>
+      {/* Logo*/}
+      <header className="header">
+        <a href="/">
+          <img src={SchoolLogo} alt="School Logo" className="logo" />
+        </a>
+      </header>
+
+      {/* Nav Bar */}
+      <NavBar
+      selectedDepartment={selectedDepartment}
+      selectedMajor={selectedMajor}
+      selectedStartingYear={selectedStartingYear}
+      setSelectedDepartment={setSelectedDepartment}
+      setSelectedMajor={setSelectedMajor}
+      setSelectedStartingYear={setSelectedStartingYear}
+      setIsGenerated={setIsGenerated}
+      departments={departments}
+      />
+      
+    {isGenerated && (
+      <div className="content">
+      <Sidebar courses={courses} selectedMajor={selectedMajor} />
+      <div className="quarterbox-container-wrapper">
+        <div className="quarterbox-container">
+          {[...Array(4)].map((_, rowIndex) => (
+            <div className="quarterbox-row" key={rowIndex}>
+              {[...Array(4)].map((_, colIndex) => (
+                <QuarterBox
+                  key={colIndex}
+                  row={rowIndex + 1}
+                  column={colIndex + 1}
+                  selectedStartingYear={selectedStartingYear}
+                  allDroppedCourses={allDroppedCourses}
+                  setAllDroppedCourses={setAllDroppedCourses}
+                  courses={courses}
+                  setCourses={setCourses}
+                  />
+                ))}
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+      )}
+    </div>
+  )
 }
 
 export default App;

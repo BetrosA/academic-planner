@@ -28,6 +28,15 @@ export const fetchCourses = (setCourses) => {
   const coursesRef = ref(db, 'courses/');
   onValue(coursesRef, (snapshot) => {
     const courses = snapshot.val();
-    setCourses(courses);
+    const filteredCourses = Object.values(courses).filter(course => course.quarteroffered !== "none");
+    setCourses(filteredCourses);
+  });
+};
+
+export const fetchQuartersOffered = (setQuartersOffered) => {
+  const quartersOfferedRef = ref(db, 'quarteroffered/');
+  onValue(quartersOfferedRef, (snapshot) => {
+    const quartersOffered = snapshot.val();
+    setQuartersOffered(quartersOffered);
   });
 };
