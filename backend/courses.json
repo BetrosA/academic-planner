@@ -1,5 +1,4 @@
-[
-    {
+[{
         "coursename": "CSE 3 Personal Computer Concepts: Software and Hardware",
         "description": "Provides an introduction to computers. Personal computing is emphasized, and students are introduced to word processing, spreadsheets, database management, graphics, and programming. Covers fundamentals of computing and current and future uses of computer technology, PC hardware, Windows operating system, applications software, networking and the Internet, and developments in the computer industry. Designed for students with little or no experience using computers. Students cannot receive credit for this course and Computer Science 2. (Formerly Computer Engineering 3.)",
         "genEd": "none",
@@ -2068,9 +2067,7 @@
         "extrarequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
         "quarteroffered": "Quarter Offered Spring",
         "fulldesc": "STAT 266C Introduction to Data Wrangling\nIntroduces students to concepts and tools associated with data collection, curation, manipulation, and cleaning including an introduction to relational databases and SQL, regular expressions, API usage, and web scraping using Python. (Formerly Applied Math and Statistics 266C and Computer Science 266C.)\nCredits 3\nCross Listed Courses CSE 266C\nInstructor Suresh Lodha\nRequirements Prerequisite(s): STAT 266A or CSE 266A.\nQuarter Offered Spring\n"
-    }
-=======
-[
+    },
     {
         "coursename": "CSE 3 Personal Computer Concepts: Software and Hardware",
         "description": "Provides an introduction to computers. Personal computing is emphasized, and students are introduced to word processing, spreadsheets, database management, graphics, and programming. Covers fundamentals of computing and current and future uses of computer technology, PC hardware, Windows operating system, applications software, networking and the Internet, and developments in the computer industry. Designed for students with little or no experience using computers. Students cannot receive credit for this course and Computer Science 2. (Formerly Computer Engineering 3.)",
