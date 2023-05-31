@@ -1,5 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getDatabase, ref, onValue } from "firebase/database";
+import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
+
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
@@ -11,6 +13,29 @@ const firebaseConfig = {
   appId: "1:140722490209:web:db284cc06805b892f31320",
   measurementId: "G-FF5C5RSY0G"
 };
+
+
+export const signInWithGoogle = async () => {
+  const provider = new GoogleAuthProvider();
+  const auth = getAuth();
+  try {
+    const result = await signInWithPopup(auth, provider);
+    // The signed-in user info.
+    const user = result.user;
+    return user;
+  } catch (error) {
+    // Handle Errors here.
+    const errorCode = error.code;
+    const errorMessage = error.message;
+    // The email of the user's account used.
+    const email = error.email;
+    // The AuthCredential type that was used.
+    const credential = GoogleAuthProvider.credentialFromError(error);
+    console.log(errorCode, errorMessage, email, credential);
+    return null;
+  }
+};
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
