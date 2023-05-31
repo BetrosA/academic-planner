@@ -1,12 +1,7 @@
 yo = """
 
-ART 20G	Introduction to Print Media and Drawing	5
-ART 20H	Introduction to Sculpture and Public Art	5
-ART 20I	Introduction to Photography	5
-ART 20J	Introduction to Drawing and Painting	5
-ART 20K	Introduction to New Media and Digital Artmaking	5
-ART 20L
-ART 80T
+
+HAVC 30-HAVC 46, HAVC 48, HAVC 85, HAVC 133A-HAVC 143B, HAVC 143D-HAVC 143G, HAVC 157B-HAVC 157D, HAVC 186, HAVC 190O-HAVC 190S, HAVC 191B-HAVC 191N, HAVC 191P-HAVC 191S.
 """
 
 counter = 0;
