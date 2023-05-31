@@ -1,0 +1,112 @@
+[
+    {
+        "coursename": "HEBR 1 First-Year Hebrew",
+        "description": "Speaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials. The first-year sequence (1-2-3) begins in fall quarter only.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "HEBR 1 First-Year Hebrew\nSpeaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials. The first-year sequence (1-2-3) begins in fall quarter only.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "HEBR 2 First-Year Hebrew",
+        "description": "Speaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): HEBR 1 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "HEBR 2 First-Year Hebrew\nSpeaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): HEBR 1 or by consent of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "HEBR 3 First-Year Hebrew",
+        "description": "Speaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): HEBR 2 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "HEBR 3 First-Year Hebrew\nSpeaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): HEBR 2 or by consent of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "HEBR 4 Second-Year Hebrew",
+        "description": "Development of the students' familiarity with the spoken and written language through grammar review, discussions, and vocabulary building. Varied readings on literary and cultural topics related to modern Israel.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): HEBR 1B or HEBR 3 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "HEBR 4 Second-Year Hebrew\nDevelopment of the students' familiarity with the spoken and written language through grammar review, discussions, and vocabulary building. Varied readings on literary and cultural topics related to modern Israel.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): HEBR 1B or HEBR 3 or by consent of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "HEBR 80 Introduction to Biblical Hebrew",
+        "description": "Introduces students to the basic lexicon and grammatical structures of biblical Hebrew, with an emphasis on the development of a set of useful translation strategies. Throughout the course, students apply their emergent skills to translating a variety of biblical texts.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "HEBR 80 Introduction to Biblical Hebrew\nIntroduces students to the basic lexicon and grammatical structures of biblical Hebrew, with an emphasis on the development of a set of useful translation strategies. Throughout the course, students apply their emergent skills to translating a variety of biblical texts.\nCredits 5\nInstructor The Staff\nGeneral Education Code ER\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "HEBR 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HEBR 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "HEBR 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HEBR 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "HEBR 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HEBR 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "HEBR 194 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HEBR 194 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "HEBR 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HEBR 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "HEBR 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HEBR 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

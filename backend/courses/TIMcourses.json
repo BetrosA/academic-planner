@@ -1,0 +1,212 @@
+[
+    {
+        "coursename": "TIM 50 Business Information Systems",
+        "description": "Addresses the use of information systems (IS) within a business enterprise. Subjects include computer hardware and software concepts, system design and implementation, telecommunications, data management, transaction-based systems, management information systems, and the use of IS to compete. Intended for technology and information management and business management economics majors. (Formerly CSE 50.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Reuben Domike, John Musacchio, Yihsu Chen, The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 50 Business Information Systems\nAddresses the use of information systems (IS) within a business enterprise. Subjects include computer hardware and software concepts, system design and implementation, telecommunications, data management, transaction-based systems, management information systems, and the use of IS to compete. Intended for technology and information management and business management economics majors. (Formerly CSE 50.)\nCredits 5\nInstructor Reuben Domike, John Musacchio, Yihsu Chen, The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 58 Systems Analysis and Design",
+        "description": "Students learn how information technology is used to deal with business requirements and/or solve business problems. Provides an understanding of structured computer systems analysis and design methodologies and techniques and their application to business information systems. Intended for technology and information management and business management economics majors. (Formerly CSE 58.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yi Zhang, Reuben Domike, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): TIM 50.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "TIM 58 Systems Analysis and Design\nStudents learn how information technology is used to deal with business requirements and/or solve business problems. Provides an understanding of structured computer systems analysis and design methodologies and techniques and their application to business information systems. Intended for technology and information management and business management economics majors. (Formerly CSE 58.)\nCredits 5\nInstructor Yi Zhang, Reuben Domike, The Staff\nRequirements Prerequisite(s): TIM 50.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "TIM 80C Starting a New Technology Company",
+        "description": "Focuses on the creation and management of technology start-ups and small companies, using case studies and team projects as the basis for learning and applying the course materials. (Formerly CSE 80C.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Subhas Desa, David Lee",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 80C Starting a New Technology Company\nFocuses on the creation and management of technology start-ups and small companies, using case studies and team projects as the basis for learning and applying the course materials. (Formerly CSE 80C.)\nCredits 5\nInstructor Subhas Desa, David Lee\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 147 Introduction to Data Mining for Business",
+        "description": "Introduces concepts, approaches, tools, methods for extracting useful knowledge and business value from data for business applications. Covers predictive models, descriptive models, model fitting, model overfitting, complexity, visualization, text mining, association mining, analytical thinking. Other topics may include social network mining, data science and business strategy. Students cannot receive credit for this course and CSE 145.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yi Zhang",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 20 and CSE 30; and CSE 16; and MATH 22 or MATH 23A or AM 30; and STAT 5, or STAT 7 and 7L; and AM 10 or MATH 21; and AM 20 or MATH 24.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "TIM 147 Introduction to Data Mining for Business\nIntroduces concepts, approaches, tools, methods for extracting useful knowledge and business value from data for business applications. Covers predictive models, descriptive models, model fitting, model overfitting, complexity, visualization, text mining, association mining, analytical thinking. Other topics may include social network mining, data science and business strategy. Students cannot receive credit for this course and CSE 145.\nCredits 5\nInstructor Yi Zhang\nRequirements Prerequisite(s): CSE 20 and CSE 30; and CSE 16; and MATH 22 or MATH 23A or AM 30; and STAT 5, or STAT 7 and 7L; and AM 10 or MATH 21; and AM 20 or MATH 24.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "TIM 150 Optimization for Management",
+        "description": "Introduction to optimization theory, numerical algorithms, and applications focused on operations research topics. The course content includes: linear programming, integer programming, non-linear programming, and an introduction to relevant simulations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Reuben Domike",
+        "extrarequirements": "Requirements Prerequisite(s): AM 10 or MATH 21, and AM 30 or MATH 22 or MATH 23A.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "TIM 150 Optimization for Management\nIntroduction to optimization theory, numerical algorithms, and applications focused on operations research topics. The course content includes: linear programming, integer programming, non-linear programming, and an introduction to relevant simulations.\nCredits 5\nInstructor Reuben Domike\nRequirements Prerequisite(s): AM 10 or MATH 21, and AM 30 or MATH 22 or MATH 23A.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "TIM 170 Management of Technology Seminar",
+        "description": "Uses weekly talks by leading industry practitioners and university researchers to provide in-depth exposure to the management of technology. Topics covered include product development, operations, strategy, finance, and marketing for technologies such as software and information systems. (Formerly CSE 170.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Subhas Desa",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 170 Management of Technology Seminar\nUses weekly talks by leading industry practitioners and university researchers to provide in-depth exposure to the management of technology. Topics covered include product development, operations, strategy, finance, and marketing for technologies such as software and information systems. (Formerly CSE 170.)\nCredits 2\nInstructor Subhas Desa\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 172A Introduction to Management of Technology I",
+        "description": "Addresses strategic, engineering, marketing, and financial processes and tools for the management, development, and commercialization of high-tech products. Declared TIM majors must concurrently enroll in TIM 172P to fulfill the capstone series. (Formerly CSE 171A.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Subhas Desa",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 19B or MATH 11B or AM 11B or ECON 11B.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "TIM 172A Introduction to Management of Technology I\nAddresses strategic, engineering, marketing, and financial processes and tools for the management, development, and commercialization of high-tech products. Declared TIM majors must concurrently enroll in TIM 172P to fulfill the capstone series. (Formerly CSE 171A.)\nCredits 5\nInstructor Subhas Desa\nRequirements Prerequisite(s): MATH 19B or MATH 11B or AM 11B or ECON 11B.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "TIM 172B Introduction to Management of Technology II",
+        "description": "Addresses the development and application of processes and tools for the management, design, optimization, and operation of supply chain networks for high-tech products. Declared TIM majors must concurrently enroll in TIM 172Q to fulfill the capstone series. (Formerly CSE 171B.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Subhas Desa",
+        "extrarequirements": "Requirements Prerequisite(s): TIM 172A.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "TIM 172B Introduction to Management of Technology II\nAddresses the development and application of processes and tools for the management, design, optimization, and operation of supply chain networks for high-tech products. Declared TIM majors must concurrently enroll in TIM 172Q to fulfill the capstone series. (Formerly CSE 171B.)\nCredits 5\nInstructor Subhas Desa\nRequirements Prerequisite(s): TIM 172A.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "TIM 172P Management of Technology Project I",
+        "description": "First of a two-course project sequence in which students apply the knowledge and skills gained in TIM 172A to complete the first part of a major quarter-long comprehensive team project in the management of technology. In this course, taken concurrently with TIM 172A, the team project focus is on the management, design, and commercialization of a new product within a high-tech company. TIM 172A and TIM 172P together form the first part of the required management of technology comprehensive requirement for the TIM B.S. major.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Subhas Desa",
+        "extrarequirements": "Requirements Prerequisite(s): concurrent enrollment in TIM 172A. Enrollment is restricted to Technology and Information (TIM) majors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "TIM 172P Management of Technology Project I\nFirst of a two-course project sequence in which students apply the knowledge and skills gained in TIM 172A to complete the first part of a major quarter-long comprehensive team project in the management of technology. In this course, taken concurrently with TIM 172A, the team project focus is on the management, design, and commercialization of a new product within a high-tech company. TIM 172A and TIM 172P together form the first part of the required management of technology comprehensive requirement for the TIM B.S. major.\nCredits 3\nInstructor Subhas Desa\nRequirements Prerequisite(s): concurrent enrollment in TIM 172A. Enrollment is restricted to Technology and Information (TIM) majors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "TIM 172Q Management of Technology Project II",
+        "description": "Second of a two-course project sequence in which students apply the knowledge and skills gained in TIM 172B to complete the second part of a major comprehensive team project in the management of technology. In this course, taken concurrently with TIM 172B, the team project focus is on the supply chain management for the new product developed in TIM 172P. TIM 172B and TIM 172Q together form the second part of the required management of technology comprehensive requirement for the TIM B.S. major.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Subhas Desa",
+        "extrarequirements": "Requirements Prerequisite(s): TIM 172A and TIM 172P. Concurrent enrollment in TIM 172B is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "TIM 172Q Management of Technology Project II\nSecond of a two-course project sequence in which students apply the knowledge and skills gained in TIM 172B to complete the second part of a major comprehensive team project in the management of technology. In this course, taken concurrently with TIM 172B, the team project focus is on the supply chain management for the new product developed in TIM 172P. TIM 172B and TIM 172Q together form the second part of the required management of technology comprehensive requirement for the TIM B.S. major.\nCredits 3\nInstructor Subhas Desa\nRequirements Prerequisite(s): TIM 172A and TIM 172P. Concurrent enrollment in TIM 172B is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "TIM 173 Financial Engineering and Management in High Technology Firms",
+        "description": "Addresses methods and tools for financing technology development and projects. Includes approaches for coordinating finance and accounting with strategy and operations of firms; discounted cash-flow analysis; activity-based costing; financial planning; and elements of financial account and investment science. (CSE 173.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Reuben Domike, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ECON 113 or STAT 131 or CSE 107 or by instructor permission.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "TIM 173 Financial Engineering and Management in High Technology Firms\nAddresses methods and tools for financing technology development and projects. Includes approaches for coordinating finance and accounting with strategy and operations of firms; discounted cash-flow analysis; activity-based costing; financial planning; and elements of financial account and investment science. (CSE 173.)\nCredits 5\nInstructor Reuben Domike, The Staff\nRequirements Prerequisite(s): ECON 113 or STAT 131 or CSE 107 or by instructor permission.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "TIM 175 Business Strategy and Information Systems",
+        "description": "Analysis of effective use of information systems within a business enterprise, with emphasis on gaining a competitive advantage. Integration of information systems with business strategy, financial justification, personnel, and organizational considerations are highlighted. Intended for technology and information management majors or senior engineering majors who have a business interest. (Formerly CSE 175.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Lee",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and TIM 50 or permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "TIM 175 Business Strategy and Information Systems\nAnalysis of effective use of information systems within a business enterprise, with emphasis on gaining a competitive advantage. Integration of information systems with business strategy, financial justification, personnel, and organizational considerations are highlighted. Intended for technology and information management majors or senior engineering majors who have a business interest. (Formerly CSE 175.)\nCredits 5\nInstructor David Lee\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and TIM 50 or permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "TIM 193 Field Study",
+        "description": "Provides individual programs of study with specific academic objectives carried out under direction of faculty member of Technology and Information Management and a willing sponsor at field site. Uses resources not normally available on campus. Credit based on presentation of evidence of achieving objectives by submitting written and oral presentation. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 193 Field Study\nProvides individual programs of study with specific academic objectives carried out under direction of faculty member of Technology and Information Management and a willing sponsor at field site. Uses resources not normally available on campus. Credit based on presentation of evidence of achieving objectives by submitting written and oral presentation. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 193F Field Study",
+        "description": "Provides individual programs of study with specific academic objectives carried out under direction of faculty member of Technology and Information Management and a willing sponsor at field site. Uses resources not normally available on campus. Credit based on presentation of evidence of achieving objectives by submitting written and oral presentation. Cannot normally be repeated for credit. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 193F Field Study\nProvides individual programs of study with specific academic objectives carried out under direction of faculty member of Technology and Information Management and a willing sponsor at field site. Uses resources not normally available on campus. Credit based on presentation of evidence of achieving objectives by submitting written and oral presentation. Cannot normally be repeated for credit. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 194 Group Tutorial",
+        "description": "A program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 194 Group Tutorial\nA program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 194F Group Tutorial",
+        "description": "A program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 194F Group Tutorial\nA program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 195 Senior Thesis Research",
+        "description": "Intended for majors. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 195 Senior Thesis Research\nIntended for majors. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 195F Senior Thesis Research",
+        "description": "Intended for majors. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 195F Senior Thesis Research\nIntended for majors. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 198 Individual Study or Research",
+        "description": "Intended for majors. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 198 Individual Study or Research\nIntended for majors. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 198F Individual Study or Research",
+        "description": "Intended for majors. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 198F Individual Study or Research\nIntended for majors. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "TIM 199 Individual Study or Research",
+        "description": "Individual directed study for upper-division undergraduates. Enrollment is restricted to senior technology and information management majors. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "TIM 199 Individual Study or Research\nIndividual directed study for upper-division undergraduates. Enrollment is restricted to senior technology and information management majors. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

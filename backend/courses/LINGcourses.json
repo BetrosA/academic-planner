@@ -1,0 +1,1052 @@
+[
+    {
+        "coursename": "LING 50 Introduction to Linguistics",
+        "description": "An introduction to the major areas, problems, and techniques of modern linguistics.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ivy Sichel, Jorge Hankamer, Matt Wagers, Maziar Toosarvandani, The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "LING 50 Introduction to Linguistics\nAn introduction to the major areas, problems, and techniques of modern linguistics.\nCredits 5\nInstructor Ivy Sichel, Jorge Hankamer, Matt Wagers, Maziar Toosarvandani, The Staff\nGeneral Education Code SI\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "LING 53 Semantics I",
+        "description": "Introduction to the logical foundations of natural language semantics. Logical and semantic relations, simple set theory, logical representations (propositional and predicate calculi, modal and tense logics) and their interpretations. A basic literacy course in the language of logical representation.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Maziar Toosarvandani, Jess Law",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "LING 53 Semantics I\nIntroduction to the logical foundations of natural language semantics. Logical and semantic relations, simple set theory, logical representations (propositional and predicate calculi, modal and tense logics) and their interpretations. A basic literacy course in the language of logical representation.\nCredits 5\nInstructor Maziar Toosarvandani, Jess Law\nGeneral Education Code MF\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "LING 80C Language, Society, and Culture",
+        "description": "The study of language from a sociological perspective. Multilingualism, language change and variation, pidgins and creoles, the origin and diversification of dialects.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jaye Padgett",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 80C Language, Society, and Culture\nThe study of language from a sociological perspective. Multilingualism, language change and variation, pidgins and creoles, the origin and diversification of dialects.\nCredits 5\nInstructor Jaye Padgett\nGeneral Education Code CC\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 80D Language and Mind",
+        "description": "Examines how the properties of human languages can be used to understand how the mind works and to what extent language use and experience can affect how we think. Topics covered include: human language vs. other forms of animal communication, language deficits and impairments, how language experience shapes perception, the nature of language acquisition, and the extent to which cross-linguistic variation affects other kinds of cognition. The course also provides historical context of the development of modern language science, with a critical overview of Noam Chomsky's linguistics.",
+        "genEd": "General Education Code PE-H",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Amanda Rysling",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 80D Language and Mind\nExamines how the properties of human languages can be used to understand how the mind works and to what extent language use and experience can affect how we think. Topics covered include: human language vs. other forms of animal communication, language deficits and impairments, how language experience shapes perception, the nature of language acquisition, and the extent to which cross-linguistic variation affects other kinds of cognition. The course also provides historical context of the development of modern language science, with a critical overview of Noam Chomsky's linguistics.\nCredits 5\nInstructor Amanda Rysling\nGeneral Education Code PE-H\n"
+    },
+    {
+        "coursename": "LING 80K Invented Languages, from Elvish to Esperanto",
+        "description": "Considers invented languages, including Elvish and Klingon, as well as lesser-known ones that tackle ethical, social, or cognitive concerns. Students learn tools from contemporary linguistics to analyze language structures and understand how they relate to creator intentions.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring, Summer",
+        "fulldesc": "LING 80K Invented Languages, from Elvish to Esperanto\nConsiders invented languages, including Elvish and Klingon, as well as lesser-known ones that tackle ethical, social, or cognitive concerns. Students learn tools from contemporary linguistics to analyze language structures and understand how they relate to creator intentions.\nCredits 5\nInstructor The Staff\nGeneral Education Code TA\nQuarter Offered Spring, Summer\n"
+    },
+    {
+        "coursename": "LING 80M Language and Indigeneity in Mesoamerica",
+        "description": "Explores indigenous experiences in Mesoamerica, focusing on the role of language in the formation of indigenous identities, both historically and in contemporary society. Also considers the linguistic correlates of inequalities experienced by indigenous communities since European contact. Students learn about some of the unique features of Mesoamerican indigenous languages, but no prior experience with linguistics is presumed.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Bennett",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 80M Language and Indigeneity in Mesoamerica\nExplores indigenous experiences in Mesoamerica, focusing on the role of language in the formation of indigenous identities, both historically and in contemporary society. Also considers the linguistic correlates of inequalities experienced by indigenous communities since European contact. Students learn about some of the unique features of Mesoamerican indigenous languages, but no prior experience with linguistics is presumed.\nCredits 5\nInstructor Ryan Bennett\nGeneral Education Code ER\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 80S The Science of Language: An Introduction to Linguistics for Non-Majors",
+        "description": "A general overview of the major areas, problems, and techniques of modern linguistics. This course is not suitable for majors in the Linguistics Department.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jess Law",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 80S The Science of Language: An Introduction to Linguistics for Non-Majors\nA general overview of the major areas, problems, and techniques of modern linguistics. This course is not suitable for majors in the Linguistics Department.\nCredits 5\nInstructor Jess Law\nGeneral Education Code SI\n"
+    },
+    {
+        "coursename": "LING 80V Structure of the English Vocabulary",
+        "description": "A systematic study of the elements of English words: besides the practical goal of vocabulary consolidation and expansion, explores the historical origin and development of word elements, as well as their sound, meaning, and function in the contemporary language.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 80V Structure of the English Vocabulary\nA systematic study of the elements of English words: besides the practical goal of vocabulary consolidation and expansion, explores the historical origin and development of word elements, as well as their sound, meaning, and function in the contemporary language.\nCredits 5\n"
+    },
+    {
+        "coursename": "LING 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 100 Phonetics I",
+        "description": "Provides a comprehensive introduction to the sounds of human language. Involves a detailed examination of the human vocal tract, the mechanics of phonetic transcription within the system of the International Phonetic Alphabet (IPA), and the essentials of phonology, particularly how to do phonemic analysis of any language.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jaye Padgett, Amanda Rysling",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "LING 100 Phonetics I\nProvides a comprehensive introduction to the sounds of human language. Involves a detailed examination of the human vocal tract, the mechanics of phonetic transcription within the system of the International Phonetic Alphabet (IPA), and the essentials of phonology, particularly how to do phonemic analysis of any language.\nCredits 5\nInstructor Jaye Padgett, Amanda Rysling\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "LING 101 Phonology I",
+        "description": "Introduction to how sounds pattern in grammars-why they vary, how they combine, etc. Emphasis is on developing theories to explain the patterns. Topics include distinctive feature theory, phonemic analysis, autosegmental phonology, and principles of syllabification and stress.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Bennett, Jaye Padgett",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and GE Composition requirements and LING 100.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "LING 101 Phonology I\nIntroduction to how sounds pattern in grammars-why they vary, how they combine, etc. Emphasis is on developing theories to explain the patterns. Topics include distinctive feature theory, phonemic analysis, autosegmental phonology, and principles of syllabification and stress.\nCredits 5\nInstructor Ryan Bennett, Jaye Padgett\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and GE Composition requirements and LING 100.\nGeneral Education Code MF\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 102 Phonology II",
+        "description": "Advanced phonological theory. Topics include markedness; underspecification theories; advanced topics in feature geometry, syllable theory, and stress theory; and optimality theory. Readings include published articles. Emphasis on theory construction and argumentation based on data.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rachel Walker",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 102 Phonology II\nAdvanced phonological theory. Topics include markedness; underspecification theories; advanced topics in feature geometry, syllable theory, and stress theory; and optimality theory. Readings include published articles. Emphasis on theory construction and argumentation based on data.\nCredits 5\nInstructor Rachel Walker\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 103 Phonology III",
+        "description": "Advanced topics in phonology, with an emphasis on reading both classic and contemporary research articles and book chapters. Prerequisite(s): LING 102 and enrollment by interview.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Bennett",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 103 Phonology III\nAdvanced topics in phonology, with an emphasis on reading both classic and contemporary research articles and book chapters. Prerequisite(s): LING 102 and enrollment by interview.\nCredits 5\nInstructor Ryan Bennett\n"
+    },
+    {
+        "coursename": "LING 105 Morphology",
+        "description": "Study of the principles of word formation: derivation, inflection, and compounding; cross-linguistic study of morphological processes, morphological investigation and analysis.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rachel Walker",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 105 Morphology\nStudy of the principles of word formation: derivation, inflection, and compounding; cross-linguistic study of morphological processes, morphological investigation and analysis.\nCredits 5\nInstructor Rachel Walker\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 108 Poetry and Language",
+        "description": "An introduction to the linguistic aspects of poetry, e.g., rhyme, meter, and larger-scale organization of poetic form. The emphasis is on English poetry, complemented by brief sketches of other poetic traditions.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 108 Poetry and Language\nAn introduction to the linguistic aspects of poetry, e.g., rhyme, meter, and larger-scale organization of poetic form. The emphasis is on English poetry, complemented by brief sketches of other poetic traditions.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\nGeneral Education Code TA\n"
+    },
+    {
+        "coursename": "LING 111 Syntactic Structures",
+        "description": "Provides a basic introduction to the methods and results of generative grammar. It simultaneously provides an overview of the major syntactic constructions of English.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 111 Syntactic Structures\nProvides a basic introduction to the methods and results of generative grammar. It simultaneously provides an overview of the major syntactic constructions of English.\nCredits 5\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "LING 112 Syntax I",
+        "description": "An introduction to syntactic investigation, developed through the study of central aspects of English syntax. A major purpose is to introduce students to the study of language as an empirical science.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Maziar Toosarvandani, Jorge Hankamer, Ivy Sichel",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 112 Syntax I\nAn introduction to syntactic investigation, developed through the study of central aspects of English syntax. A major purpose is to introduce students to the study of language as an empirical science.\nCredits 5\nInstructor Maziar Toosarvandani, Jorge Hankamer, Ivy Sichel\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.\nGeneral Education Code MF\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 113 Syntax II",
+        "description": "Further aspects of English syntax; universal and language-particular constraints on syntactic structures and rules. Further developments and extensions of generative theory.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): LING 53, and LING 111 or LING 112.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 113 Syntax II\nFurther aspects of English syntax; universal and language-particular constraints on syntactic structures and rules. Further developments and extensions of generative theory.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 53, and LING 111 or LING 112.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 114A Syntax III",
+        "description": "Advanced topics in syntax. Prerequisite(s): LING 113, satisfaction of the Entry Level Writing and Composition requirements and permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jorge Hankamer",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 114A Syntax III\nAdvanced topics in syntax. Prerequisite(s): LING 113, satisfaction of the Entry Level Writing and Composition requirements and permission of instructor.\nCredits 5\nInstructor Jorge Hankamer\n"
+    },
+    {
+        "coursename": "LING 114B Readings in Linguistics",
+        "description": "Introduces reading the primary literature in a sub-discipline of linguistics. Topics vary by instructor interest and readings will vary as a result. Emphasis is on how to read technically difficult works, evaluate arguments, and appreciate competing views. Coursework includes readings, presentations, and short response papers. Enrollment is by permission of the instructor. Students should have completed appropriate upper-division courses in the relevant sub-disciplines; see instructor for recommendations. (Formerly offered as Readings in Syntax.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 114B Readings in Linguistics\nIntroduces reading the primary literature in a sub-discipline of linguistics. Topics vary by instructor interest and readings will vary as a result. Emphasis is on how to read technically difficult works, evaluate arguments, and appreciate competing views. Coursework includes readings, presentations, and short response papers. Enrollment is by permission of the instructor. Students should have completed appropriate upper-division courses in the relevant sub-disciplines; see instructor for recommendations. (Formerly offered as Readings in Syntax.)\nCredits 5\n"
+    },
+    {
+        "coursename": "LING 114C Topics in Linguistics",
+        "description": "Advanced undergraduate course devoted to a topic in linguistics. Topics and linguistics sub-disciplines covered vary with instructor interest. Coursework includes problem sets, readings, presentations, and a term paper. Enrollment by permission of instructor. Students should have completed appropriate upper-division courses in the relevant sub-disciplines; see instructor for recommendations. (Formerly offered as Topics in Syntax.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 114C Topics in Linguistics\nAdvanced undergraduate course devoted to a topic in linguistics. Topics and linguistics sub-disciplines covered vary with instructor interest. Coursework includes problem sets, readings, presentations, and a term paper. Enrollment by permission of instructor. Students should have completed appropriate upper-division courses in the relevant sub-disciplines; see instructor for recommendations. (Formerly offered as Topics in Syntax.)\nCredits 5\n"
+    },
+    {
+        "coursename": "LING 116 Semantics II",
+        "description": "Major issues in natural language semantics: nature of lexical entries, thematic relations, propositional representation or logical form; relation between semantic interpretation and syntactic representations, quantification and scope relations, reference and presupposition, coreference and anaphoric relations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): LING 53, and LING 111 or LING 112.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 116 Semantics II\nMajor issues in natural language semantics: nature of lexical entries, thematic relations, propositional representation or logical form; relation between semantic interpretation and syntactic representations, quantification and scope relations, reference and presupposition, coreference and anaphoric relations.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 53, and LING 111 or LING 112.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 117 Pragmatics",
+        "description": "Covers topics central in the study of pragmatics, the interpretation of language use. Topics include conversational implicature, speech acts and discourse understanding, and social deixis.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jess Law",
+        "extrarequirements": "Requirements Prerequisite(s): LING 53 and LING 101; and LING 111 or LING 112.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 117 Pragmatics\nCovers topics central in the study of pragmatics, the interpretation of language use. Topics include conversational implicature, speech acts and discourse understanding, and social deixis.\nCredits 5\nInstructor Jess Law\nRequirements Prerequisite(s): LING 53 and LING 101; and LING 111 or LING 112.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 118 Semantics III",
+        "description": "Uses the tools learned in LING 53 and LING 116 (Semantics I and Semantics II), giving students the opportunity to explore important topics with heavy emphasis placed on reading primary-source literature. Readings form the basis for weekly lectures and the discussion section. Prerequisite(s): LING 116. Enrollment is by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 118 Semantics III\nUses the tools learned in LING 53 and LING 116 (Semantics I and Semantics II), giving students the opportunity to explore important topics with heavy emphasis placed on reading primary-source literature. Readings form the basis for weekly lectures and the discussion section. Prerequisite(s): LING 116. Enrollment is by permission of instructor.\nCredits 5\n"
+    },
+    {
+        "coursename": "LING 120 Structure of English",
+        "description": "Survey of grammatical structure of English and terminology of grammatical description. Covers phonological, morphological, and syntactic structure of English and contrasts it with other languages.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 120 Structure of English\nSurvey of grammatical structure of English and terminology of grammatical description. Covers phonological, morphological, and syntactic structure of English and contrasts it with other languages.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 124 Language Typology",
+        "description": "Introduces the branch of linguistics whose goal is to describe and explain the structural diversity of the world's languages. Focuses on what is known about variation in particular domains (e.g., syllable structure, word order, evidentiality), and how it might be explained.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Maziar Toosarvandani",
+        "extrarequirements": "Requirements Prerequisite(s): LING 111 or LING 112, and LING 101.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 124 Language Typology\nIntroduces the branch of linguistics whose goal is to describe and explain the structural diversity of the world's languages. Focuses on what is known about variation in particular domains (e.g., syllable structure, word order, evidentiality), and how it might be explained.\nCredits 5\nInstructor Maziar Toosarvandani\nRequirements Prerequisite(s): LING 111 or LING 112, and LING 101.\n"
+    },
+    {
+        "coursename": "LING 125 Foundations of Linguistic Theory",
+        "description": "Survey of some of the history and foundational assumptions of generative grammar; also looks at some of the influence of generative linguistic theorizing on disciplines outside linguistics, notably psychology and philosophy.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 113 or LING 116.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 125 Foundations of Linguistic Theory\nSurvey of some of the history and foundational assumptions of generative grammar; also looks at some of the influence of generative linguistic theorizing on disciplines outside linguistics, notably psychology and philosophy.\nCredits 5\nRequirements Prerequisite(s): LING 113 or LING 116.\n"
+    },
+    {
+        "coursename": "LING 127 History of Linguistics",
+        "description": "Topics in the history of linguistics, with a special focus on the 20th century.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 127 History of Linguistics\nTopics in the history of linguistics, with a special focus on the 20th century.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 131 Spanglish: Language and Identities through Contact",
+        "description": "In this synchronous online class, students investigate Spanglish as a linguistic and cultural phenomenon. Students learn linguistic tools to describe, analyze, and destigmatize Spanglish, and explore the ways that it is used to establish identity. Additionally, students compare Spanglish to ways of communicating in other bilingual contexts.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "LING 131 Spanglish: Language and Identities through Contact\nIn this synchronous online class, students investigate Spanglish as a linguistic and cultural phenomenon. Students learn linguistic tools to describe, analyze, and destigmatize Spanglish, and explore the ways that it is used to establish identity. Additionally, students compare Spanglish to ways of communicating in other bilingual contexts.\nCredits 5\nInstructor The Staff\nGeneral Education Code ER\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "LING 132 California Englishes",
+        "description": "Examines varieties of California Englishes and the features that compose these varieties. Through this examination, course also tries to better understand how social categories such as race, gender, sexuality, age, and class relate to the linguistic variation found in California English varieties. Course also seeks to explain how linguistic features acquire social meaning, and how these features are adopted in the construction of identity.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): LING 50, Introduction to Linguistics.",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "LING 132 California Englishes\nExamines varieties of California Englishes and the features that compose these varieties. Through this examination, course also tries to better understand how social categories such as race, gender, sexuality, age, and class relate to the linguistic variation found in California English varieties. Course also seeks to explain how linguistic features acquire social meaning, and how these features are adopted in the construction of identity.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 50, Introduction to Linguistics.\nGeneral Education Code CC\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "LING 133 Language OnLine (LOL): Communication in the Digital Era",
+        "description": "In the age of social media, much of communication happens online. Despite claims to the contrary, the internet has not destroyed language; rather, language is thriving in new and vibrant ways online. This course uses the tools of linguistics to explore how the internet (with acronyms, emojis, and memes) has affected language use and how properties of language continue to shape online communication technologies. Topics covered include: whether emojis are language, what makes a spicy meme, how communities form online, and how online linguistic behaviors aid in the spread of misinformation.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "LING 133 Language OnLine (LOL): Communication in the Digital Era\nIn the age of social media, much of communication happens online. Despite claims to the contrary, the internet has not destroyed language; rather, language is thriving in new and vibrant ways online. This course uses the tools of linguistics to explore how the internet (with acronyms, emojis, and memes) has affected language use and how properties of language continue to shape online communication technologies. Topics covered include: whether emojis are language, what makes a spicy meme, how communities form online, and how online linguistic behaviors aid in the spread of misinformation.\nCredits 5\nInstructor The Staff\nGeneral Education Code PE-T\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "LING 135 Language and Racialization",
+        "description": "Many of us are probably aware that people of different ethnic or racial backgrounds may speak differently, but most of us probably do not know that all varieties of English are equally \"grammatical.\" And while some of us are probably aware of the fact that racial and ethnic categories are \"constructed,\" most of us have probably not considered the ways in which language use figures in the construction of ethnic and/or racial identity. Course introduces a number of racialized linguistic varieties and their intersections with other identity categories (gender, sexuality, socio-economic class), as well as emergent new scholarship on language and racialization.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): Ling 50.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 135 Language and Racialization\nMany of us are probably aware that people of different ethnic or racial backgrounds may speak differently, but most of us probably do not know that all varieties of English are equally \"grammatical.\" And while some of us are probably aware of the fact that racial and ethnic categories are \"constructed,\" most of us have probably not considered the ways in which language use figures in the construction of ethnic and/or racial identity. Course introduces a number of racialized linguistic varieties and their intersections with other identity categories (gender, sexuality, socio-economic class), as well as emergent new scholarship on language and racialization.\nCredits 5\nCross Listed Courses CRES 135\nInstructor The Staff\nRequirements Prerequisite(s): Ling 50.\nGeneral Education Code ER\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 140 Language Change",
+        "description": "Methods and problems in the study of change in linguistic systems. Reconstruction of proto-languages; the comparative method. Theories of change and implications for the theory of grammar.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Grant McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 140 Language Change\nMethods and problems in the study of change in linguistic systems. Reconstruction of proto-languages; the comparative method. Theories of change and implications for the theory of grammar.\nCredits 5\nInstructor Grant McGuire\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 141 Ellipsis",
+        "description": "Introduction to and survey of the ellipsis in natural language, including the typology of ellipsis processes, cross-linguistic uniformity and variation in ellipsis, and theoretical approaches and issues.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jorge Hankamer",
+        "extrarequirements": "Requirements Prerequisite(s): LING 53 and LING 101; and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 141 Ellipsis\nIntroduction to and survey of the ellipsis in natural language, including the typology of ellipsis processes, cross-linguistic uniformity and variation in ellipsis, and theoretical approaches and issues.\nCredits 5\nInstructor Jorge Hankamer\nRequirements Prerequisite(s): LING 53 and LING 101; and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 144 Computational Methods for Linguists",
+        "description": "Introduction to computational methods for linguists with little background in computer programming. Possible topics include: regular expressions, annotation, databases, and search. Students learn contemporary techniques in team-based programming and annotation.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 50, LING 53, and either LING 111 or LING 112. Enrollment is restricted to linguistics and language studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 144 Computational Methods for Linguists\nIntroduction to computational methods for linguists with little background in computer programming. Possible topics include: regular expressions, annotation, databases, and search. Students learn contemporary techniques in team-based programming and annotation.\nCredits 5\nRequirements Prerequisite(s): LING 50, LING 53, and either LING 111 or LING 112. Enrollment is restricted to linguistics and language studies majors.\nGeneral Education Code PR-E\n"
+    },
+    {
+        "coursename": "LING 145 Native Languages of North America",
+        "description": "Selective survey of the indigenous languages of North America, including a formal/structural component and an historical/social component. Topics include typological properties of these languages, current status, and revitalization efforts.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s):LING 101, and either LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 145 Native Languages of North America\nSelective survey of the indigenous languages of North America, including a formal/structural component and an historical/social component. Topics include typological properties of these languages, current status, and revitalization efforts.\nCredits 5\nRequirements Prerequisite(s):LING 101, and either LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 147 Quantitative Methods in Linguistics",
+        "description": "Introduces quantitative methods for linguistics. Focuses on categorical data and continuous data, and using R. Students learn the basics of probability, statistics, and experimental design, and use R to apply them to linguistic data sets.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 53 and LING 101, and either LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 147 Quantitative Methods in Linguistics\nIntroduces quantitative methods for linguistics. Focuses on categorical data and continuous data, and using R. Students learn the basics of probability, statistics, and experimental design, and use R to apply them to linguistic data sets.\nCredits 5\nRequirements Prerequisite(s): LING 53 and LING 101, and either LING 111 or LING 112.\nGeneral Education Code SR\n"
+    },
+    {
+        "coursename": "LING 151 Phonetics II",
+        "description": "Hands-on introduction to instrumental phonetic analysis, phonetic analysis using experimental methods. Emphasis is on the acoustics and perception of speech. (Formerly Phonetic Analysis.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Grant McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): LING 100.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 151 Phonetics II\nHands-on introduction to instrumental phonetic analysis, phonetic analysis using experimental methods. Emphasis is on the acoustics and perception of speech. (Formerly Phonetic Analysis.)\nCredits 5\nInstructor Grant McGuire\nRequirements Prerequisite(s): LING 100.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 152 Applied Phonetics",
+        "description": "Examines areas in which phonetic analysis and experimentation are used in practice. Emphasizes problem-solving, experiments, and analytical tasks.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 151.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 152 Applied Phonetics\nExamines areas in which phonetic analysis and experimentation are used in practice. Emphasizes problem-solving, experiments, and analytical tasks.\nCredits 5\nRequirements Prerequisite(s): LING 151.\n"
+    },
+    {
+        "coursename": "LING 154 Language and Social Identity",
+        "description": "Introduction to sociolinguistics exploring the relationship between language and such social parameters as social status, ethnicity, race, gender, etc., including the role of language differences in the creation of social stereotypes. Emphasis on gathering, examining, and reporting data.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Grant McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and either LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 154 Language and Social Identity\nIntroduction to sociolinguistics exploring the relationship between language and such social parameters as social status, ethnicity, race, gender, etc., including the role of language differences in the creation of social stereotypes. Emphasis on gathering, examining, and reporting data.\nCredits 5\nInstructor Grant McGuire\nRequirements Prerequisite(s): LING 101, and either LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 155 Language and Cognition",
+        "description": "Introduces and examines some of the foundational assumptions, practices, and methods of generative grammar in comparison to those of other areas of cognitive science, notably psychology and philosophy.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 111 or LING 112; and LING 53 and LING 101.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 155 Language and Cognition\nIntroduces and examines some of the foundational assumptions, practices, and methods of generative grammar in comparison to those of other areas of cognitive science, notably psychology and philosophy.\nCredits 5\nRequirements Prerequisite(s): LING 111 or LING 112; and LING 53 and LING 101.\n"
+    },
+    {
+        "coursename": "LING 160 Language Engineering",
+        "description": "Addresses a particular problem in language engineering, chosen for its practical and theoretical interest and its tractability. The entire course focuses on a team project to design a solution to the problem. Permission of instructor required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 160 Language Engineering\nAddresses a particular problem in language engineering, chosen for its practical and theoretical interest and its tractability. The entire course focuses on a team project to design a solution to the problem. Permission of instructor required.\nCredits 5\nInstructor The Staff\n"
+    },
+    {
+        "coursename": "LING 164 Linguistics for Engineers",
+        "description": "Introduction to computational linguistics for engineers with a focus on providing background and skills in linguistics. Students are expected to already have programming skills and basic computer science. Knowledge of shell scripting or a scripting language suggested.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 10 and CSE 14, or permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 164 Linguistics for Engineers\nIntroduction to computational linguistics for engineers with a focus on providing background and skills in linguistics. Students are expected to already have programming skills and basic computer science. Knowledge of shell scripting or a scripting language suggested.\nCredits 5\nRequirements Prerequisite(s): CSE 10 and CSE 14, or permission of instructor.\n"
+    },
+    {
+        "coursename": "LING 171 Psycholinguistics I",
+        "description": "Theory and methods in psycholinguistics, covering perception, production, and acquisition of language and linguistic structure. A hands-on, laboratory-style introduction to the topic, focusing on the relation between experimental findings and linguistic theory. Students cannot receive credit for this course and LING 257. (Formerly LING 157, Psycholinguistics and Linguistic Theory.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Amanda Rysling, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): LING 50.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "LING 171 Psycholinguistics I\nTheory and methods in psycholinguistics, covering perception, production, and acquisition of language and linguistic structure. A hands-on, laboratory-style introduction to the topic, focusing on the relation between experimental findings and linguistic theory. Students cannot receive credit for this course and LING 257. (Formerly LING 157, Psycholinguistics and Linguistic Theory.)\nCredits 5\nInstructor Amanda Rysling, The Staff\nRequirements Prerequisite(s): LING 50.\nGeneral Education Code SR\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "LING 172 Psycholinguistics II",
+        "description": "Advanced topics in psycholinguistics and experimental linguistics, contemporary memory models, computational models of comprehension and production, and neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. (Formerly LING 158, Advanced Psycholinguistics.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matt Wagers",
+        "extrarequirements": "Requirements Prerequisite(s): LING 171.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 172 Psycholinguistics II\nAdvanced topics in psycholinguistics and experimental linguistics, contemporary memory models, computational models of comprehension and production, and neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. (Formerly LING 158, Advanced Psycholinguistics.)\nCredits 5\nInstructor Matt Wagers\nRequirements Prerequisite(s): LING 171.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 180 Structure of a Particular Language",
+        "description": "Topics in the phonology, morphology, syntax, or semantics of a language that is the research interest of the instructor. The language investigated changes with each offering of the course.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 180 Structure of a Particular Language\nTopics in the phonology, morphology, syntax, or semantics of a language that is the research interest of the instructor. The language investigated changes with each offering of the course.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 101; and LING 111 or LING 112.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 181 Structure of Romance Languages",
+        "description": "Discusses topics in the phonology, syntax, and semantics of Romance languages, with emphasis left to the discretion of the instructor. Students read original research articles and pursue empirical investigation of Romance languages by collecting data from scholarly publications, fieldwork, and/or corpus analysis. Some knowledge of Italian, French, or Spanish is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 181 Structure of Romance Languages\nDiscusses topics in the phonology, syntax, and semantics of Romance languages, with emphasis left to the discretion of the instructor. Students read original research articles and pursue empirical investigation of Romance languages by collecting data from scholarly publications, fieldwork, and/or corpus analysis. Some knowledge of Italian, French, or Spanish is required.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 182 Structure of Spanish",
+        "description": "The phonology and syntax of Spanish, studied from a modern linguistic perspective. Some knowledge of Spanish is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 182 Structure of Spanish\nThe phonology and syntax of Spanish, studied from a modern linguistic perspective. Some knowledge of Spanish is required.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 183 Structure of French",
+        "description": "The phonology, morphology, and syntax aspects of French. Some knowledge of French is helpful.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 183 Structure of French\nThe phonology, morphology, and syntax aspects of French. Some knowledge of French is helpful.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 185 Structure of Russian",
+        "description": "The phonology, morphology, and syntax of Russian. Some knowledge of Russian is helpful.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 185 Structure of Russian\nThe phonology, morphology, and syntax of Russian. Some knowledge of Russian is helpful.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 186 Structure of German",
+        "description": "Phonological, morphological, and syntactic aspects of the structure of the German language. Some knowledge of German is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 186 Structure of German\nPhonological, morphological, and syntactic aspects of the structure of the German language. Some knowledge of German is required.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 187 Structure of Japanese",
+        "description": "The phonology, morphology, and syntax of Japanese.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 187 Structure of Japanese\nThe phonology, morphology, and syntax of Japanese.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 188 Structure of Chinese Languages",
+        "description": "Introduces the syntax and semantics of Chinese Languages (particularly Cantonese and Mandarin), especially those aspects that are typologically different from Indo-European languages like English. Students learn to appreciate typological differences in natural languages and develop skills to analyze them. Course involves a global classroom component: throughout the quarter students meet and work with students from another institute in an international location to explore language differences.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101; and LING 111 or LING 112.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 188 Structure of Chinese Languages\nIntroduces the syntax and semantics of Chinese Languages (particularly Cantonese and Mandarin), especially those aspects that are typologically different from Indo-European languages like English. Students learn to appreciate typological differences in natural languages and develop skills to analyze them. Course involves a global classroom component: throughout the quarter students meet and work with students from another institute in an international location to explore language differences.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 101; and LING 111 or LING 112.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 189 Structure of Arabic",
+        "description": "The phonology, morphology, and syntax of Arabic. (Mainly modern standard, but also some regional dialects.) No knowledge of Arabic is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 101, and LING 111 or LING 112.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 189 Structure of Arabic\nThe phonology, morphology, and syntax of Arabic. (Mainly modern standard, but also some regional dialects.) No knowledge of Arabic is required.\nCredits 5\nRequirements Prerequisite(s): LING 101, and LING 111 or LING 112.\n"
+    },
+    {
+        "coursename": "LING 190 Senior Research",
+        "description": "Students produce a research paper or other significant project to satisfy the capstone requirement. Prerequisite(s): LING 101, and either LING 111 or LING 112. Concurrent enrollment in a specified upper-division course is required. Enrollment is by permission of the instructor and is restricted to senior linguistics and language studies majors.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 190 Senior Research\nStudents produce a research paper or other significant project to satisfy the capstone requirement. Prerequisite(s): LING 101, and either LING 111 or LING 112. Concurrent enrollment in a specified upper-division course is required. Enrollment is by permission of the instructor and is restricted to senior linguistics and language studies majors.\nCredits 2\nInstructor The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 193 Field Study",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 193 Field Study\nStudents submit petition to sponsoring agency.\nCredits 5\n"
+    },
+    {
+        "coursename": "LING 195 Senior Thesis",
+        "description": "Deadline for submission of thesis proposal is one year in advance of proposed completion. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 195 Senior Thesis\nDeadline for submission of thesis proposal is one year in advance of proposed completion. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 198 Independent Field Study",
+        "description": "Provides for department-sponsored individual study programs off campus for which faculty supervision is not in person (e.g., supervision by correspondence). Preparation and approval must be completed by the fifth day of instruction of any given quarter. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 198 Independent Field Study\nProvides for department-sponsored individual study programs off campus for which faculty supervision is not in person (e.g., supervision by correspondence). Preparation and approval must be completed by the fifth day of instruction of any given quarter. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 211 Phonology A",
+        "description": "First part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Bennett",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 211 Phonology A\nFirst part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.\nCredits 5\nInstructor Ryan Bennett\nRequirements Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 212 Phonology B",
+        "description": "Second part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rachel Walker",
+        "extrarequirements": "Requirements Prerequisite(s): LING 211. Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 212 Phonology B\nSecond part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.\nCredits 5\nInstructor Rachel Walker\nRequirements Prerequisite(s): LING 211. Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 214 Phonetics",
+        "description": "Introduction to phonetic theory concentrating on acoustic phonetics and speech perception along with common experimental methods, the role of phonetic principles in explaining phonological patterns and markedness.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Grant McGuire",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 214 Phonetics\nIntroduction to phonetic theory concentrating on acoustic phonetics and speech perception along with common experimental methods, the role of phonetic principles in explaining phonological patterns and markedness.\nCredits 5\nInstructor Grant McGuire\nRequirements Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 216 Phonology Proseminar",
+        "description": "One or more topics in phonological theory. Topics vary from year to year, covering literature and current research in phonology.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 216 Phonology Proseminar\nOne or more topics in phonological theory. Topics vary from year to year, covering literature and current research in phonology.\nCredits 5\nRequirements Prerequisite(s): LING 212. Enrollment is restricted to graduate students or by permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 219 Phonology Seminar",
+        "description": "Advanced topics in phonology drawn from the current research interests of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jaye Padgett",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 219 Phonology Seminar\nAdvanced topics in phonology drawn from the current research interests of the instructor.\nCredits 5\nInstructor Jaye Padgett\nRequirements Prerequisite(s): LING 212. Enrollment is restricted to graduate students or by permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 219G Phonology Seminar",
+        "description": "Advanced topics in phonology drawn from the current research interests of the instructor. Three-credit version of LING 219. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 219G Phonology Seminar\nAdvanced topics in phonology drawn from the current research interests of the instructor. Three-credit version of LING 219. Does not require a final paper.\nCredits 3\nRequirements Prerequisite(s): LING 212. Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 221 Syntax A",
+        "description": "Introduction to syntactic theory. Phrase structure; subcategorization; lexical entries; passive; infinitival constructions.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jorge Hankamer",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 221 Syntax A\nIntroduction to syntactic theory. Phrase structure; subcategorization; lexical entries; passive; infinitival constructions.\nCredits 5\nInstructor Jorge Hankamer\nRequirements Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 222 Syntax B",
+        "description": "Continuation of Syntax A. The syntax of unbounded dependencies, including constituent questions, relative clauses, clefts, topicalization. Constraints on extraction; unbounded versus successive cyclic movement; the licensing of gaps.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): LING 221. Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 222 Syntax B\nContinuation of Syntax A. The syntax of unbounded dependencies, including constituent questions, relative clauses, clefts, topicalization. Constraints on extraction; unbounded versus successive cyclic movement; the licensing of gaps.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 221. Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 226 Proseminar in Syntax",
+        "description": "In-depth investigation of some topic in syntactic theory. Topics vary from year to year, covering literature and current research in grammatical structure from varying theoretical perspectives.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ivy Sichel",
+        "extrarequirements": "Requirements Prerequisite(s): LING 222. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 226 Proseminar in Syntax\nIn-depth investigation of some topic in syntactic theory. Topics vary from year to year, covering literature and current research in grammatical structure from varying theoretical perspectives.\nCredits 5\nInstructor Ivy Sichel\nRequirements Prerequisite(s): LING 222. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 226G Proseminar in Syntax",
+        "description": "In-depth investigation of some topic in syntactic theory. Topics vary from year to year, covering literature and current research in grammatical structure from varying theoretical perspectives. Three-credit version of LING 226. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 226G Proseminar in Syntax\nIn-depth investigation of some topic in syntactic theory. Topics vary from year to year, covering literature and current research in grammatical structure from varying theoretical perspectives. Three-credit version of LING 226. Does not require a final paper.\nCredits 3\nRequirements Prerequisite(s): LING 222. Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 229 Syntax Seminar",
+        "description": "Advanced topics in syntax drawn from the current research interests of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 229 Syntax Seminar\nAdvanced topics in syntax drawn from the current research interests of the instructor.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 222. Enrollment is restricted to graduate students or by permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 229G Syntax Seminar",
+        "description": "Advanced topics in syntax drawn from the current research interests of the instructor. Three-credit version of LING 229. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 229G Syntax Seminar\nAdvanced topics in syntax drawn from the current research interests of the instructor. Three-credit version of LING 229. Does not require a final paper.\nCredits 3\nRequirements Prerequisite(s): LING 222. Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 231 Semantics A",
+        "description": "Introduction to linguistic semantics: nature of lexical entries, thematic relations, representation of logical form; relation between semantic interpretation and syntactic representation, quantification and scope relations, reference and presupposition.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Pranav Anand, Maziar Toosarvandani",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 231 Semantics A\nIntroduction to linguistic semantics: nature of lexical entries, thematic relations, representation of logical form; relation between semantic interpretation and syntactic representation, quantification and scope relations, reference and presupposition.\nCredits 5\nInstructor Pranav Anand, Maziar Toosarvandani\nRequirements Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 232 Semantics B",
+        "description": "Model-theoretic semantics for natural language. Truth-conditional, compositional semantics. Various logical ontologies and their application to natural language categories. Dynamic interpretation of discourse and anaphoric relations. Treatment of illocutionary force.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Maziar Toosarvandani",
+        "extrarequirements": "Requirements Prerequisite(s): LING 231. Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 232 Semantics B\nModel-theoretic semantics for natural language. Truth-conditional, compositional semantics. Various logical ontologies and their application to natural language categories. Dynamic interpretation of discourse and anaphoric relations. Treatment of illocutionary force.\nCredits 5\nInstructor Maziar Toosarvandani\nRequirements Prerequisite(s): LING 231. Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 236 Proseminar in Semantics",
+        "description": "In-depth investigation of some topic in semantics and pragmatics. Topics vary from year to year, covering literature and current research in linguistic semantics and pragmatics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 231. Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 236 Proseminar in Semantics\nIn-depth investigation of some topic in semantics and pragmatics. Topics vary from year to year, covering literature and current research in linguistic semantics and pragmatics.\nCredits 5\nRequirements Prerequisite(s): LING 231. Enrollment is restricted to graduate students or by permission of instructor.\n"
+    },
+    {
+        "coursename": "LING 236G Semantics Proseminar",
+        "description": "In-depth investigation of some topic in semantics and pragmatics. Topics vary from year to year, covering literature and current research in linguistic semantics and pragmatics. Three-credit version of LING 236. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 236G Semantics Proseminar\nIn-depth investigation of some topic in semantics and pragmatics. Topics vary from year to year, covering literature and current research in linguistic semantics and pragmatics. Three-credit version of LING 236. Does not require a final paper.\nCredits 3\nRequirements Prerequisite(s): LING 231. Enrollment is restricted to graduate students, or by consent of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 239 Semantics Seminar",
+        "description": "Advanced topics in semantics drawn from the current research interests of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 239 Semantics Seminar\nAdvanced topics in semantics drawn from the current research interests of the instructor.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): LING 232. Enrollment is restricted to graduate students or by permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 239G Semantics Seminar",
+        "description": "Advanced topics insemantics drawn from the current research interests of the instructor. Three-credit version of LING 239. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 239G Semantics Seminar\nAdvanced topics insemantics drawn from the current research interests of the instructor. Three-credit version of LING 239. Does not require a final paper.\nCredits 3\nRequirements Prerequisite(s): LING 232. Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 240 The Pedagogy of Linguistics",
+        "description": "Provides training for graduate students in university-level pedagogy in general and in the pedagogy of linguistics specifically. Under the supervision of a faculty member, coordinated by a graduate student with substantial experience as a teaching assistant.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "LING 240 The Pedagogy of Linguistics\nProvides training for graduate students in university-level pedagogy in general and in the pedagogy of linguistics specifically. Under the supervision of a faculty member, coordinated by a graduate student with substantial experience as a teaching assistant.\nCredits 1\nInstructor The Staff\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "LING 244 Computational Methods for Linguists",
+        "description": "Practical introduction to computational methods for linguists. Topics covered: database development; indexation and search; morphological and syntactic parsing; and modern annotation methodologies. Students concurrently learn Python and JavaScript. No background in programming is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students, or by consent of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 244 Computational Methods for Linguists\nPractical introduction to computational methods for linguists. Topics covered: database development; indexation and search; morphological and syntactic parsing; and modern annotation methodologies. Students concurrently learn Python and JavaScript. No background in programming is required.\nCredits 5\nRequirements Enrollment is restricted to graduate students, or by consent of the instructor.\n"
+    },
+    {
+        "coursename": "LING 248 Topics in Computational Methods and Models",
+        "description": "Seminar in computational approaches in linguistics and the language sciences with topics drawn from the current interests of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 248 Topics in Computational Methods and Models\nSeminar in computational approaches in linguistics and the language sciences with topics drawn from the current interests of the instructor.\nCredits 5\nRequirements Prerequisite(s): LING 221 and LING 231. Enrollment is restricted to linguistics graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 249 Morphology Seminar",
+        "description": "Presents theoretical and descriptive issues, particularly those raised by the framework of distributed morphology and its current competitors. Course work consists of readings, squibs, and a term paper.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jorge Hankamer",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 249 Morphology Seminar\nPresents theoretical and descriptive issues, particularly those raised by the framework of distributed morphology and its current competitors. Course work consists of readings, squibs, and a term paper.\nCredits 5\nInstructor Jorge Hankamer\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "LING 249G Morphology Seminar",
+        "description": "Presents theoretical and descriptive issues, particularly those raised by the framework of distributed morphology and its current competitors. Coursework consists of readings and squibs. Three-credit version of LING 249. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 249G Morphology Seminar\nPresents theoretical and descriptive issues, particularly those raised by the framework of distributed morphology and its current competitors. Coursework consists of readings and squibs. Three-credit version of LING 249. Does not require a final paper.\nCredits 3\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 257 Psycholinguistics and Linguistic Theory",
+        "description": "Theory and methods in psycholinguistics, covering perception, production, and acquisition of language and linguistic structure. A hands-on, laboratory-style introduction to the topic, focusing on the relation between experimental findings and linguistic theory. Students cannot receive credit for this course and LING 157 or LING 257G",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Amanda Rysling",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 257 Psycholinguistics and Linguistic Theory\nTheory and methods in psycholinguistics, covering perception, production, and acquisition of language and linguistic structure. A hands-on, laboratory-style introduction to the topic, focusing on the relation between experimental findings and linguistic theory. Students cannot receive credit for this course and LING 157 or LING 257G\nCredits 5\nInstructor Amanda Rysling\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 258 Advanced Psycholinguistics",
+        "description": "Advanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. Graduate students have separate evaluation criteria. Students cannot receive credit for this course and LING 258G.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matt Wagers",
+        "extrarequirements": "Requirements Prerequisite(s): LING 257. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 258 Advanced Psycholinguistics\nAdvanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. Graduate students have separate evaluation criteria. Students cannot receive credit for this course and LING 258G.\nCredits 5\nInstructor Matt Wagers\nRequirements Prerequisite(s): LING 257. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 258G Advanced Psycholinguistics",
+        "description": "Advanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students apply advanced analytical techniques. Graduate students have separate evaluation criteria. Three-credit version of LING 258. Does not require a final paper. Students cannot receive credit for this course and LING 258.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): LING 257. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 258G Advanced Psycholinguistics\nAdvanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students apply advanced analytical techniques. Graduate students have separate evaluation criteria. Three-credit version of LING 258. Does not require a final paper. Students cannot receive credit for this course and LING 258.\nCredits 3\nRequirements Prerequisite(s): LING 257. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "LING 259 Phonetics Seminar",
+        "description": "Advanced topics in acoustic and articulatory phonetics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Grant McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): LING 214. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 259 Phonetics Seminar\nAdvanced topics in acoustic and articulatory phonetics.\nCredits 5\nInstructor Grant McGuire\nRequirements Prerequisite(s): LING 214. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 259G Phonetics Seminar",
+        "description": "Advanced topics in acoustic and articulatory phonetics. Three-credit version of LING 259. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 259G Phonetics Seminar\nAdvanced topics in acoustic and articulatory phonetics. Three-credit version of LING 259. Does not require a final paper.\nCredits 3\nRequirements Prerequisite(s): LING 214. Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 279 Research Seminar in Psycholinguistics",
+        "description": "Contemporary research in psycholinguistic theory models, and methods. Topics vary with research interests of faculty and graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matt Wagers",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "LING 279 Research Seminar in Psycholinguistics\nContemporary research in psycholinguistic theory models, and methods. Topics vary with research interests of faculty and graduate students.\nCredits 5\nInstructor Matt Wagers\nRequirements Enrollment is restricted to graduate students or by permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "LING 280 Proseminar in Experimental Linguistics",
+        "description": "Examines experimental design and analysis for gathering linguistic data; the advantages and disadvantages of major response measures, including reaction times; interaction with extra-grammatical factors; and statistics on categorical and continuous measures. Students present results in research papers. Students cannot receive credit for this course and course 280G.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Amanda Rysling",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "LING 280 Proseminar in Experimental Linguistics\nExamines experimental design and analysis for gathering linguistic data; the advantages and disadvantages of major response measures, including reaction times; interaction with extra-grammatical factors; and statistics on categorical and continuous measures. Students present results in research papers. Students cannot receive credit for this course and course 280G.\nCredits 5\nInstructor Amanda Rysling\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "LING 280A Linguistic Investigation",
+        "description": "Methods of primary linguistic investigation. Close study of one language typologically different from English. Data analysis and elicitation techniques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 280A Linguistic Investigation\nMethods of primary linguistic investigation. Close study of one language typologically different from English. Data analysis and elicitation techniques.\nCredits 5\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 280B Linguis Investigati",
+        "description": "Linguis Investigati",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 280B Linguis Investigati\nLinguis Investigati\nCredits 5\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "LING 280G Proseminar in Experimental Linguistics",
+        "description": "Examines experimental design and analysis for gathering linguistic data: the advantages and disadvantages of major response measures, including reaction times; interaction with extra-grammatical factors; and statistics on categorical and continuous measures. Three-credit version of LING 280. Does not require a final paper.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "LING 280G Proseminar in Experimental Linguistics\nExamines experimental design and analysis for gathering linguistic data: the advantages and disadvantages of major response measures, including reaction times; interaction with extra-grammatical factors; and statistics on categorical and continuous measures. Three-credit version of LING 280. Does not require a final paper.\nCredits 3\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "LING 282 Field Methods",
+        "description": "Exploration of a language previously unfamiliar to students through elicitation from a native speaker. Discussion of elicitation techniques. Students investigate selected aspects of the language in depth. Enrollment is restricted to graduate students; enrollment is by instructor permission only.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Bennett",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "LING 282 Field Methods\nExploration of a language previously unfamiliar to students through elicitation from a native speaker. Discussion of elicitation techniques. Students investigate selected aspects of the language in depth. Enrollment is restricted to graduate students; enrollment is by instructor permission only.\nCredits 5\nInstructor Ryan Bennett\n"
+    },
+    {
+        "coursename": "LING 290 Research Seminar",
+        "description": "A research seminar for undergraduate and graduate students to develop the skills of the profession. Critical reading, reviewing, teaching, presentation, and writing. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students or by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Bennett",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 290 Research Seminar\nA research seminar for undergraduate and graduate students to develop the skills of the profession. Critical reading, reviewing, teaching, presentation, and writing. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students or by permission of instructor.\nCredits 5\nInstructor Ryan Bennett\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "LING 295 Directed Reading",
+        "description": "Directed reading which does not involve a term paper. Enrollment is restricted to graduate students or by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 295 Directed Reading\nDirected reading which does not involve a term paper. Enrollment is restricted to graduate students or by permission of instructor.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 296 Linguistics Colloquium",
+        "description": "Independent graduate-level activities and assignments relating to professionalism; organizing and attending colloquium and conferences; participation in discussion at such events; and preparation of commentaries on academic papers. Students submit petition to sponsoring agency. Enrollment is restricted to linguistics graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 296 Linguistics Colloquium\nIndependent graduate-level activities and assignments relating to professionalism; organizing and attending colloquium and conferences; participation in discussion at such events; and preparation of commentaries on academic papers. Students submit petition to sponsoring agency. Enrollment is restricted to linguistics graduate students.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 297A Independent Study",
+        "description": "Enrollment restricted to graduate standing or consent of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 297A Independent Study\nEnrollment restricted to graduate standing or consent of instructor.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 297B Independent Study",
+        "description": "Enrollment restricted to graduate standing or consent of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 297B Independent Study\nEnrollment restricted to graduate standing or consent of instructor.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 297C Independent Study",
+        "description": "Enrollment restricted to graduate standing or consent of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 297C Independent Study\nEnrollment restricted to graduate standing or consent of instructor.\nCredits 15\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 297F Independent Study",
+        "description": "Two-credit independent study. Enrollment restricted to graduate students, or by consent of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "LING 297F Independent Study\nTwo-credit independent study. Enrollment restricted to graduate students, or by consent of instructor.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "LING 299A Thesis Research",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 299A Thesis Research\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 299B Thesis Research",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 299B Thesis Research\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "LING 299C Thesis Research",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "LING 299C Thesis Research\nCredits 15\nRepeatable For Credit Yes\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "CSE 245 Computational Models of Discourse and Dialogue",
+        "description": "Focuses on classic and current theories and research topics in the computational modeling of discourse and dialogue, with applications to human-computer dialogue interactions; dialogue interaction in computer games and interactive story systems; and processing of human-to-human conversational and dialogue-like language such as e-mails. Topics vary depending on the current research of the instructor(s) and the interests of the students. Students read theoretical and technical papers from journals and conference proceedings and present class lectures. A research project is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marilyn Walker",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "CSE 245 Computational Models of Discourse and Dialogue\nFocuses on classic and current theories and research topics in the computational modeling of discourse and dialogue, with applications to human-computer dialogue interactions; dialogue interaction in computer games and interactive story systems; and processing of human-to-human conversational and dialogue-like language such as e-mails. Topics vary depending on the current research of the instructor(s) and the interests of the students. Students read theoretical and technical papers from journals and conference proceedings and present class lectures. A research project is required.\nCredits 5\nCross Listed Courses LING 245, CMPM 245\nInstructor Marilyn Walker\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.\n"
+    }
+]

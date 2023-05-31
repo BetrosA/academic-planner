@@ -1,0 +1,172 @@
+[
+    {
+        "coursename": "CHIN 1 First-Year Chinese",
+        "description": "Instruction in elementary spoken and written Chinese (Mandarin), beginning with the sounds of Chinese and their representation in the pinyin romanization system. Conversation, structural analysis, and an introduction to character texts. The first-year sequence (1-2-3) begins only in the fall quarter. Students interested in learning Chinese who are uncertain about where they should enter the sequence should meet with the instructor prior to the first class meeting.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHIN 1 First-Year Chinese\nInstruction in elementary spoken and written Chinese (Mandarin), beginning with the sounds of Chinese and their representation in the pinyin romanization system. Conversation, structural analysis, and an introduction to character texts. The first-year sequence (1-2-3) begins only in the fall quarter. Students interested in learning Chinese who are uncertain about where they should enter the sequence should meet with the instructor prior to the first class meeting.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHIN 2 First-Year Chinese",
+        "description": "Continuation of Chinese 1, which assumes that students are familiar both with the pinyin romanization system and approximately 150 basic characters.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 1 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHIN 2 First-Year Chinese\nContinuation of Chinese 1, which assumes that students are familiar both with the pinyin romanization system and approximately 150 basic characters.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 1 or by consent of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHIN 3 First-Year Chinese",
+        "description": "Continuation of Chinese 2, which assumes that students are familiar both with the pinyin romanization system and approximately 300 basic characters.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 2 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHIN 3 First-Year Chinese\nContinuation of Chinese 2, which assumes that students are familiar both with the pinyin romanization system and approximately 300 basic characters.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 2 or by consent of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHIN 4 Second-Year Chinese",
+        "description": "Instruction in intermediate spoken and written Chinese (Mandarin). Conversation, composition, and the reading of modern texts. The second-year sequence (4-5-6) begins only in the fall quarter.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 3 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHIN 4 Second-Year Chinese\nInstruction in intermediate spoken and written Chinese (Mandarin). Conversation, composition, and the reading of modern texts. The second-year sequence (4-5-6) begins only in the fall quarter.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 3 or by consent of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHIN 5 Second-Year Chinese",
+        "description": "Continuation of Chinese 4. Conversation, composition, and the reading of modern texts.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 4 or CHIN 4H or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHIN 5 Second-Year Chinese\nContinuation of Chinese 4. Conversation, composition, and the reading of modern texts.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 4 or CHIN 4H or by consent of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHIN 6 Second-Year Chinese",
+        "description": "Continuation of Chinese 5. Conversation, composition, and the reading of modern texts.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 5 or CHIN 5H or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHIN 6 Second-Year Chinese\nContinuation of Chinese 5. Conversation, composition, and the reading of modern texts.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 5 or CHIN 5H or by consent of instructor.\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHIN 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHIN 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHIN 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHIN 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHIN 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHIN 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHIN 103 Advanced Chinese: Language and Society",
+        "description": "Designed to enhance the students' ability to understand, analyze, and discuss authentic Chinese reading materials. Chinese linguistic and cultural aspects are introduced.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 6 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHIN 103 Advanced Chinese: Language and Society\nDesigned to enhance the students' ability to understand, analyze, and discuss authentic Chinese reading materials. Chinese linguistic and cultural aspects are introduced.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 6 or by consent of instructor.\nGeneral Education Code TA\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHIN 104 Advanced Chinese: Readings in Literature",
+        "description": "Close readings in Chinese vernacular literature of recognized merit from contemporary and modern writers as wells as from models from the traditional period. Student are introduced to the basic critical issues, in Chinese, relating to narrative and drama, revealed by the works under discussion.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 105 or CHIN 107 or CHIN 108; or by consent of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "CHIN 104 Advanced Chinese: Readings in Literature\nClose readings in Chinese vernacular literature of recognized merit from contemporary and modern writers as wells as from models from the traditional period. Student are introduced to the basic critical issues, in Chinese, relating to narrative and drama, revealed by the works under discussion.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 103 or CHIN 105 or CHIN 107 or CHIN 108; or by consent of instructor.\nGeneral Education Code TA\n"
+    },
+    {
+        "coursename": "CHIN 105 Advanced Chinese: Readings in History",
+        "description": "Offers an appreciation of some of the central issues in Chinese history as defined by Chinese historians of the 20th century. Through readings of graduated difficulty, the vocabulary, style, and form of modern Chinese historical writing are introduced.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 107 or CHIN 108; or by consent of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "CHIN 105 Advanced Chinese: Readings in History\nOffers an appreciation of some of the central issues in Chinese history as defined by Chinese historians of the 20th century. Through readings of graduated difficulty, the vocabulary, style, and form of modern Chinese historical writing are introduced.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 107 or CHIN 108; or by consent of instructor.\nGeneral Education Code TA\n"
+    },
+    {
+        "coursename": "CHIN 107 Introduction to Classical Chinese Prose",
+        "description": "Introduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Reading from the Han and pre-Han era is featured.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 108; or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHIN 107 Introduction to Classical Chinese Prose\nIntroduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Reading from the Han and pre-Han era is featured.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 108; or by consent of instructor.\nGeneral Education Code TA\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHIN 108 Introduction to Classical Chinese Poetry",
+        "description": "Introduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Classical poetry and lyrics are featured.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 107; or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHIN 108 Introduction to Classical Chinese Poetry\nIntroduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Classical poetry and lyrics are featured.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 107; or by consent of instructor.\nGeneral Education Code TA\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHIN 194 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHIN 194 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHIN 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHIN 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHIN 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHIN 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

@@ -22,9 +22,7 @@ def tostr(x):
 
 
 def main():
-    for i in range(len(courseurls)):
-
-        courseurls = [
+    courseurls = [
             
             "https://ucsc.smartcatalogiq.com/current/General-Catalog/Courses/ACEN-Academic-English",
             "https://ucsc.smartcatalogiq.com/current/General-Catalog/Courses/AM-Applied-Mathematics",
@@ -112,6 +110,8 @@ def main():
             "https://ucsc.smartcatalogiq.com/current/General-Catalog/Courses/WRIT-Writing",
             "https://ucsc.smartcatalogiq.com/current/General-Catalog/Courses/YIDD-Yiddish"
         ]
+    
+    for i in range(len(courseurls)):
 
         # Grab URL
         url = courseurls[i]

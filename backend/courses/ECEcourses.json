@@ -1,0 +1,1372 @@
+[
+    {
+        "coursename": "ECE 1 Hands-On Computer Engineering",
+        "description": "Hands-on introduction to computer engineering practice and research, including computer hardware, robotics, and embedded systems. Encourages interaction with UCSC's School of Engineering community. Designed for students without previous background in computer engineering. (Formerly Computer Engineering 1.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment restricted to first-year students and sophomores.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 1 Hands-On Computer Engineering\nHands-on introduction to computer engineering practice and research, including computer hardware, robotics, and embedded systems. Encourages interaction with UCSC's School of Engineering community. Designed for students without previous background in computer engineering. (Formerly Computer Engineering 1.)\nCredits 2\nRequirements Enrollment restricted to first-year students and sophomores.\n"
+    },
+    {
+        "coursename": "ECE 8 Robot Automation: Intelligence through Feedback Control",
+        "description": "Introduction to dynamical systems, feedback control, and robotics. Fundamental concepts in dynamical systems, modeling, stability analysis, robustness to uncertainty, feedback as it occurs naturally, and the design of feedback-control laws to engineer desirable static and dynamic response. Course includes an introduction to MATLAB and programming in MATLAB.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mircea Teodorescu, Ricardo Sanfelice",
+        "extrarequirements": "Requirements Priority enrollment restricted to first-year students and sophomores.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 8 Robot Automation: Intelligence through Feedback Control\nIntroduction to dynamical systems, feedback control, and robotics. Fundamental concepts in dynamical systems, modeling, stability analysis, robustness to uncertainty, feedback as it occurs naturally, and the design of feedback-control laws to engineer desirable static and dynamic response. Course includes an introduction to MATLAB and programming in MATLAB.\nCredits 5\nInstructor Mircea Teodorescu, Ricardo Sanfelice\nRequirements Priority enrollment restricted to first-year students and sophomores.\nGeneral Education Code MF\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 9 Statics and Mechanics of Materials",
+        "description": "Theory and application of statics and mechanics of materials for mechanical and biomechanical systems. Covers statics of particles; equilibrium of rigid bodies; free-body diagrams; analysis of structure; friction; concepts of stress and strain; axial loading; torsion and bending; and failure criteria. (Formerly Introduction to Statics, Dynamics, and Biomechanics.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mircea Teodorescu, Michael Wehner",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 19A; and PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L; and AM 10 or MATH 21.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 9 Statics and Mechanics of Materials\nTheory and application of statics and mechanics of materials for mechanical and biomechanical systems. Covers statics of particles; equilibrium of rigid bodies; free-body diagrams; analysis of structure; friction; concepts of stress and strain; axial loading; torsion and bending; and failure criteria. (Formerly Introduction to Statics, Dynamics, and Biomechanics.)\nCredits 5\nInstructor Mircea Teodorescu, Michael Wehner\nRequirements Prerequisite(s): MATH 19A; and PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L; and AM 10 or MATH 21.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 10 Fundamentals of Robot Kinematics and Dynamics",
+        "description": "Covers the theory and application of mathematical models to analyze the kinematics and dynamics of robot mechanisms or their components using vector algebra, differential equations, and computer simulations; also covers robot vehicle kinematics, robot arm kinematics, and robot dynamics with computational examples and problems. Some basic programming skills and familiarity with MATLAB are expected. (Formerly CMPE 10.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Dejan Milutinovic, Steve McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 9, and AM 20 or MATH 24.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 10 Fundamentals of Robot Kinematics and Dynamics\nCovers the theory and application of mathematical models to analyze the kinematics and dynamics of robot mechanisms or their components using vector algebra, differential equations, and computer simulations; also covers robot vehicle kinematics, robot arm kinematics, and robot dynamics with computational examples and problems. Some basic programming skills and familiarity with MATLAB are expected. (Formerly CMPE 10.)\nCredits 5\nInstructor Dejan Milutinovic, Steve McGuire\nRequirements Prerequisite(s): ECE 9, and AM 20 or MATH 24.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 11 3D Prototyping",
+        "description": "Introduces the basics of rapid prototyping for robotics design from limiting stresses to optimal design. Discusses fast prototyping methods, advantages, and disadvantages. Introduces CAD, CAD packages, 3D printing with different materials, and 3D scanning. (Formerly CMPE 11.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mircea Teodorescu",
+        "extrarequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ECE 9.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 11 3D Prototyping\nIntroduces the basics of rapid prototyping for robotics design from limiting stresses to optimal design. Discusses fast prototyping methods, advantages, and disadvantages. Introduces CAD, CAD packages, 3D printing with different materials, and 3D scanning. (Formerly CMPE 11.)\nCredits 5\nInstructor Mircea Teodorescu\nRequirements Prerequisite(s): previous or concurrent enrollment in ECE 9.\n"
+    },
+    {
+        "coursename": "ECE 13 Computer Systems and C Programming",
+        "description": "Computer Systems and C Programming is intended to bring students up to speed on programming small and large programs in C. Originally written in 1978, C remains the most popular programming language, and the most used one in terms of numbers of computer programs written in it. The course approaches C from an embedded paradigm, and all programming assignments are on a 32-bit embedded micro, the Microchip PIC32. Students learn how to program in C, how to write modular code, and some of the tips and tricks when dealing with an embedded micro. This is a programming class and students will write lots of code. Expect to spend at least 15-20 hours outside of class playing with the code to get things to work. (Formerly CSE 13E Embedded Systems and C Programming)",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor The Staff, Ethan Miller, Darrell Long, Gabriel Elkaim, Steve McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 12. CSE 20 or CSE 30 (Python programming background) is recommended but not required. Programming experience in any other language is also acceptable.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ECE 13 Computer Systems and C Programming\nComputer Systems and C Programming is intended to bring students up to speed on programming small and large programs in C. Originally written in 1978, C remains the most popular programming language, and the most used one in terms of numbers of computer programs written in it. The course approaches C from an embedded paradigm, and all programming assignments are on a 32-bit embedded micro, the Microchip PIC32. Students learn how to program in C, how to write modular code, and some of the tips and tricks when dealing with an embedded micro. This is a programming class and students will write lots of code. Expect to spend at least 15-20 hours outside of class playing with the code to get things to work. (Formerly CSE 13E Embedded Systems and C Programming)\nCredits 7\nInstructor The Staff, Ethan Miller, Darrell Long, Gabriel Elkaim, Steve McGuire\nRequirements Prerequisite(s): CSE 12. CSE 20 or CSE 30 (Python programming background) is recommended but not required. Programming experience in any other language is also acceptable.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ECE 30 Engineering Principles of Electronics",
+        "description": "Suitable for sophomores pursuing computer science and engineering careers. Aims at deriving basic engineering principles directly from examples relevant to computing and electronics: 1) Newton's Laws and related fundamental mechanics; 2) basic thermodynamics and heat/energy transfer; 3) key electromagnetic principles, including Coulomb's Law, Gauss's Law, and basic circuit analysis using Kirchoff's Laws/Rules; and 4) Ray optics for fiber optic communications and camera electronics.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael Oye",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 19B. Enrollment is restricted to computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "ECE 30 Engineering Principles of Electronics\nSuitable for sophomores pursuing computer science and engineering careers. Aims at deriving basic engineering principles directly from examples relevant to computing and electronics: 1) Newton's Laws and related fundamental mechanics; 2) basic thermodynamics and heat/energy transfer; 3) key electromagnetic principles, including Coulomb's Law, Gauss's Law, and basic circuit analysis using Kirchoff's Laws/Rules; and 4) Ray optics for fiber optic communications and camera electronics.\nCredits 5\nInstructor Michael Oye\nRequirements Prerequisite(s): MATH 19B. Enrollment is restricted to computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.\nGeneral Education Code SI\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 80B Engineering Innovations for Medicine and Natural Sciences",
+        "description": "Introduces to a lay audience engineering innovations that have had an impact in medicine and biology. Course is designed for non-engineering majors, or pre-med students, as well as pre-engineering to provide a broad understanding of how technology has improved and keeps on improving healthcare.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shiva Abbaszadeh",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 80B Engineering Innovations for Medicine and Natural Sciences\nIntroduces to a lay audience engineering innovations that have had an impact in medicine and biology. Course is designed for non-engineering majors, or pre-med students, as well as pre-engineering to provide a broad understanding of how technology has improved and keeps on improving healthcare.\nCredits 5\nInstructor Shiva Abbaszadeh\nGeneral Education Code SI\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 80G Creating and Financing a Sustainable Startup in the Global Economy",
+        "description": "Introduces students and prospective entrepreneurs to the ingredients required to successfully create and finance a sustainability-minded startup or nonprofit in the global economy. Emphasis is placed on ethical business practice, tools for understanding markets and supply chains, and building value for all stakeholders, including communities and the environment.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Paul Vroomen",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 80G Creating and Financing a Sustainable Startup in the Global Economy\nIntroduces students and prospective entrepreneurs to the ingredients required to successfully create and finance a sustainability-minded startup or nonprofit in the global economy. Emphasis is placed on ethical business practice, tools for understanding markets and supply chains, and building value for all stakeholders, including communities and the environment.\nCredits 5\nCross Listed Courses CRSN 80G\nInstructor Paul Vroomen\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "ECE 80H Bending the Curve: Solutions to Climate Change",
+        "description": "Students examine the interconnectedness of natural and social systems as they evaluate, interpret, and debate evidence and explanations of climate change. Includes interviewing family members, friends, and professionals for a variety of divergent views on the climate change debate. Class sessions are devoted to student discussion of the course materials, including readings, take-home assignments and pre-recorded videos. The class culminates with a written proposal and group presentations of ideas for solutions, with the guidance of the instructor, addressing one of the \"grand challenges\" presented in the course with the goal of empowering students to emerge as critical thinkers and actors equipped with a solution-based mindset.",
+        "genEd": "General Education Code PE-H",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Les Guliasi",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 80H Bending the Curve: Solutions to Climate Change\nStudents examine the interconnectedness of natural and social systems as they evaluate, interpret, and debate evidence and explanations of climate change. Includes interviewing family members, friends, and professionals for a variety of divergent views on the climate change debate. Class sessions are devoted to student discussion of the course materials, including readings, take-home assignments and pre-recorded videos. The class culminates with a written proposal and group presentations of ideas for solutions, with the guidance of the instructor, addressing one of the \"grand challenges\" presented in the course with the goal of empowering students to emerge as critical thinkers and actors equipped with a solution-based mindset.\nCredits 5\nCross Listed Courses CRSN 80H\nInstructor Les Guliasi\nGeneral Education Code PE-H\n"
+    },
+    {
+        "coursename": "ECE 80E Engineering Ethics",
+        "description": "Ethical theories, analysis, and their application to issues in the practice of engineering, such as safety and liability, professional responsibility to clients and employers, codes of ethics, legal obligations, environmental issues, and social issues. Emphasis on developing independent ethical analysis through the use of case studies. (Formerly CMPE 80E.)",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Sri Kurniawan",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 80E Engineering Ethics\nEthical theories, analysis, and their application to issues in the practice of engineering, such as safety and liability, professional responsibility to clients and employers, codes of ethics, legal obligations, environmental issues, and social issues. Emphasis on developing independent ethical analysis through the use of case studies. (Formerly CMPE 80E.)\nCredits 5\nInstructor The Staff, Sri Kurniawan\nGeneral Education Code PE-T\n"
+    },
+    {
+        "coursename": "ECE 80J Renewable Energy Sources, Storage, and Smart Grids",
+        "description": "Introduces energy sources and storage with special emphasis on renewables as part of smart grids. Fundamental energy-conversion limits based on physics and existing source properties are studied. Various sources, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Electric vehicles, sustainable microgrids, and the integration to smart grids are studied. Finally, smart meters, demand response, the energy market, and policy are covered. Students cannot receive credit for this course and course 81J. (Formerly EE 80J.)",
+        "genEd": "General Education Code PE-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yu Zhang",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 80J Renewable Energy Sources, Storage, and Smart Grids\nIntroduces energy sources and storage with special emphasis on renewables as part of smart grids. Fundamental energy-conversion limits based on physics and existing source properties are studied. Various sources, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Electric vehicles, sustainable microgrids, and the integration to smart grids are studied. Finally, smart meters, demand response, the energy market, and policy are covered. Students cannot receive credit for this course and course 81J. (Formerly EE 80J.)\nCredits 5\nInstructor Yu Zhang\nGeneral Education Code PE-E\n"
+    },
+    {
+        "coursename": "ECE 80S Sustainability Engineering and Practice",
+        "description": "Topical introduction to principles and practices of sustainability engineering and ecological design with emphasis on implementation in society. Provides an understanding of basic scientific, engineering, and social principles in the design, deployment, and operation of resource-based human systems, and how they can be maintained for this and future generations. No specialized background in engineering, science, or social sciences is assumed. (Formerly EE 80S.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katie Monsen",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 80S Sustainability Engineering and Practice\nTopical introduction to principles and practices of sustainability engineering and ecological design with emphasis on implementation in society. Provides an understanding of basic scientific, engineering, and social principles in the design, deployment, and operation of resource-based human systems, and how they can be maintained for this and future generations. No specialized background in engineering, science, or social sciences is assumed. (Formerly EE 80S.)\nCredits 5\nInstructor Katie Monsen\nGeneral Education Code SR\n"
+    },
+    {
+        "coursename": "ECE 80T Modern Electronic Technology and How It Works",
+        "description": "Basic knowledge of electricity and how things work, how technology evolves, its impact on society and history, and basic technical literacy for the non-specialist. Broad overview of professional aspects of engineering and introduction and overview of basic systems and components. Topics include electrical power, radio, television, radar, computers, robots, telecommunications, and the Internet. (Formerly EE 80T.)",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kenneth Pedrotti",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 80T Modern Electronic Technology and How It Works\nBasic knowledge of electricity and how things work, how technology evolves, its impact on society and history, and basic technical literacy for the non-specialist. Broad overview of professional aspects of engineering and introduction and overview of basic systems and components. Topics include electrical power, radio, television, radar, computers, robots, telecommunications, and the Internet. (Formerly EE 80T.)\nCredits 5\nInstructor Kenneth Pedrotti\nGeneral Education Code SI\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 94 Group Tutorial",
+        "description": "A means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 94 Group Tutorial\nA means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 94F Group Tutorial",
+        "description": "A means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 94F Group Tutorial\nA means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 101 Introduction to Electronic Circuits",
+        "description": "Introduction to the physical basis and mathematical models of electrical components and circuits. Topics include circuit theorems (Thevenin and Norton Equivalents, Superposition), constant and sinusoidal inputs, natural and forced response of linear circuits. Introduction to circuit/network design, maximum power transfer, analog filters, and circuit analysis using Matlab. Topics in elementary electronics including amplifiers and feedback. (Formerly EE 101.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sung-Mo (Steve) Kang, Stephen Petersen, Sara Abrahamsson, Sangho Shin, Marco Rolandi, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N; or PHYS 6C and PHYS 6N; and MATH 24 or previous or concurrent enrollment in AM 20. Concurrent enrollment in ECE 101L is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "ECE 101 Introduction to Electronic Circuits\nIntroduction to the physical basis and mathematical models of electrical components and circuits. Topics include circuit theorems (Thevenin and Norton Equivalents, Superposition), constant and sinusoidal inputs, natural and forced response of linear circuits. Introduction to circuit/network design, maximum power transfer, analog filters, and circuit analysis using Matlab. Topics in elementary electronics including amplifiers and feedback. (Formerly EE 101.)\nCredits 5\nInstructor Sung-Mo (Steve) Kang, Stephen Petersen, Sara Abrahamsson, Sangho Shin, Marco Rolandi, The Staff\nRequirements Prerequisite(s): PHYS 5C and PHYS 5N; or PHYS 6C and PHYS 6N; and MATH 24 or previous or concurrent enrollment in AM 20. Concurrent enrollment in ECE 101L is required.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "ECE 101L Introduction to Electronic Circuits Laboratory",
+        "description": "Illustrates topics covered in ECE 101. One two-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Sung-Mo (Steve) Kang, Stephen Petersen, Sara Abrahamsson, Sangho Shin, Marco Rolandi, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N; and MATH 24 or previous or concurrent enrollment in AM 20. Concurrent enrollment in ECE 101 is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "ECE 101L Introduction to Electronic Circuits Laboratory\nIllustrates topics covered in ECE 101. One two-hour laboratory session per week.\nCredits 2\nInstructor Sung-Mo (Steve) Kang, Stephen Petersen, Sara Abrahamsson, Sangho Shin, Marco Rolandi, The Staff\nRequirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N; and MATH 24 or previous or concurrent enrollment in AM 20. Concurrent enrollment in ECE 101 is required.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "ECE 102 Properties of Materials",
+        "description": "The fundamental electrical, optical, and magnetic properties of materials, with emphasis on metals and semiconductors: chemical bonds, crystal structures, elementary quantum mechanics, energy bands. Electrical and thermal conduction. Optical and magnetic properties. (Formerly EE 145.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Holger Schmidt, Nobuhiko Kobayashi",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L, PHYS 5B and PHYS 5M, and PHYS 5C and 5N; or PHYS 6A and PHYS 6L, PHYS 6B and PHYS 6M, and PHYS 6C and PHYS 6N. Concurrent enrollment in ECE 102L is required.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 102 Properties of Materials\nThe fundamental electrical, optical, and magnetic properties of materials, with emphasis on metals and semiconductors: chemical bonds, crystal structures, elementary quantum mechanics, energy bands. Electrical and thermal conduction. Optical and magnetic properties. (Formerly EE 145.)\nCredits 5\nInstructor Holger Schmidt, Nobuhiko Kobayashi\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L, PHYS 5B and PHYS 5M, and PHYS 5C and 5N; or PHYS 6A and PHYS 6L, PHYS 6B and PHYS 6M, and PHYS 6C and PHYS 6N. Concurrent enrollment in ECE 102L is required.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 102L Properties of Materials Laboratory",
+        "description": "Laboratory sequence illustrating topics covered in course 145. One two-hour laboratory per week.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Nobuhiko Kobayashi, Holger Schmidt",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L, PHYS 5B and PHYS 5M, and PHYS 5C and 5N; or PHYS 6A and PHYS 6L, PHYS 6B and PHYS 6M, and PHYS 6C and PHYS 6N. Concurrent enrollment in ECE 102 is required.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 102L Properties of Materials Laboratory\nLaboratory sequence illustrating topics covered in course 145. One two-hour laboratory per week.\nCredits 2\nInstructor Nobuhiko Kobayashi, Holger Schmidt\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L, PHYS 5B and PHYS 5M, and PHYS 5C and 5N; or PHYS 6A and PHYS 6L, PHYS 6B and PHYS 6M, and PHYS 6C and PHYS 6N. Concurrent enrollment in ECE 102 is required.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 103 Signals and Systems",
+        "description": "Course covers the following topics: characterization and analysis of continuous-time signals and linear systems, time domain analysis using convolution, frequency domain analysis using the Fourier series and the Fourier transform, the Laplace transform, transfer functions and block diagrams, continuous-time filters, sampling of continuous time signals, examples of applications to communications and control systems. (Formerly EE 103.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Hamid Sadjadpour, Yu Zhang, Zouheir Rezki",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L; and AM 20 or MATH 24.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ECE 103 Signals and Systems\nCourse covers the following topics: characterization and analysis of continuous-time signals and linear systems, time domain analysis using convolution, frequency domain analysis using the Fourier series and the Fourier transform, the Laplace transform, transfer functions and block diagrams, continuous-time filters, sampling of continuous time signals, examples of applications to communications and control systems. (Formerly EE 103.)\nCredits 5\nInstructor Hamid Sadjadpour, Yu Zhang, Zouheir Rezki\nRequirements Prerequisite(s): ECE 101 and ECE 101L; and AM 20 or MATH 24.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ECE 103L Signals and Systems Laboratory",
+        "description": "Use and operation of spectrum analyzers; advanced signal analysis using oscilloscopes; measuring impulse response, step response, frequency response, and computer analysis of real signals. MATLAB programming is taught and used as a tool for signal analysis. Students are billed a materials fee. (Formerly EE 103L.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Hamid Sadjadpour, Sung-Mo (Steve) Kang, Yu Zhang, Zouheir Rezki",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and AM 20 or MATH 24. Concurrent enrollment in ECE 103 is required.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ECE 103L Signals and Systems Laboratory\nUse and operation of spectrum analyzers; advanced signal analysis using oscilloscopes; measuring impulse response, step response, frequency response, and computer analysis of real signals. MATLAB programming is taught and used as a tool for signal analysis. Students are billed a materials fee. (Formerly EE 103L.)\nCredits 2\nInstructor Hamid Sadjadpour, Sung-Mo (Steve) Kang, Yu Zhang, Zouheir Rezki\nRequirements Prerequisite(s): ECE 101 and ECE 101L and AM 20 or MATH 24. Concurrent enrollment in ECE 103 is required.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ECE 104 Bioelectronics",
+        "description": "Covers selected case studies in interfacing electronic devices with biological systems. from Galvani to neuronal stimulation and electroceuticals. These studies include: the squid giant axon, the pace maker, deep brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly student papers on case studies and through a final presentation. (Formerly EE 104.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marco Rolandi",
+        "extrarequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 104 Bioelectronics\nCovers selected case studies in interfacing electronic devices with biological systems. from Galvani to neuronal stimulation and electroceuticals. These studies include: the squid giant axon, the pace maker, deep brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly student papers on case studies and through a final presentation. (Formerly EE 104.)\nCredits 5\nInstructor Marco Rolandi\nRequirements Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 115 Introduction to Solid Mechanics",
+        "description": "Introduces the solid mechanics of materials. Topics include: stress and strain, torsion, bending of beams, shearing stresses in beams, compound stresses, principal stresses, deflections of beams, and statically indeterminate members and columns. (Formerly CMPE 115.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mircea Teodorescu",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 9 and MATH 19B, and AM 10 or MATH 21.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 115 Introduction to Solid Mechanics\nIntroduces the solid mechanics of materials. Topics include: stress and strain, torsion, bending of beams, shearing stresses in beams, compound stresses, principal stresses, deflections of beams, and statically indeterminate members and columns. (Formerly CMPE 115.)\nCredits 5\nInstructor Mircea Teodorescu\nRequirements Prerequisite(s): ECE 9 and MATH 19B, and AM 10 or MATH 21.\n"
+    },
+    {
+        "coursename": "ECE 118 Introduction to Mechatronics",
+        "description": "Technologies involved in mechatronics (intelligent electro-mechanical systems) and techniques necessary to integrate these technologies into mechatronic systems. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Combines lab component of structured assignments with a large and open-ended team project. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language. Cannot receive credit for this course and ECE 218.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 10",
+        "instructor": "Instructor Gabriel Elkaim, The Staff , Michael Wehner",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and CSE 100 and CSE 100L; and ECE 13 or CSE 13E. ECE 121 and ECE 167 are highly recommended (but not required).",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ECE 118 Introduction to Mechatronics\nTechnologies involved in mechatronics (intelligent electro-mechanical systems) and techniques necessary to integrate these technologies into mechatronic systems. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Combines lab component of structured assignments with a large and open-ended team project. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language. Cannot receive credit for this course and ECE 218.\nCredits 10\nInstructor Gabriel Elkaim, The Staff , Michael Wehner\nRequirements Prerequisite(s): ECE 101 and ECE 101L and CSE 100 and CSE 100L; and ECE 13 or CSE 13E. ECE 121 and ECE 167 are highly recommended (but not required).\nGeneral Education Code PR-E\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ECE 121 Microcontroller System Design",
+        "description": "Focus is on the design and use of microcontroller-based embedded systems, specifically addressing issues of low-level functionality, direct manipulation of input/output using various specialized peripheral sets, and multiple communications protocols. Covers timers, Input Capture, Output Compare, ADC, PWM, interrupts, bus and memory organization, DMA, SPI, I2C, device driver programming, serial packet communication, and clocking. Students enrolled in this class learn how to use the C programming language to solve engineering problems.",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor The Staff, Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 12; and ECE 13 or CSE 13E. Concurrent enrollment in ECE 101 and ECE 101L is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 121 Microcontroller System Design\nFocus is on the design and use of microcontroller-based embedded systems, specifically addressing issues of low-level functionality, direct manipulation of input/output using various specialized peripheral sets, and multiple communications protocols. Covers timers, Input Capture, Output Compare, ADC, PWM, interrupts, bus and memory organization, DMA, SPI, I2C, device driver programming, serial packet communication, and clocking. Students enrolled in this class learn how to use the C programming language to solve engineering problems.\nCredits 7\nInstructor The Staff, Stephen Petersen\nRequirements Prerequisite(s): CSE 12; and ECE 13 or CSE 13E. Concurrent enrollment in ECE 101 and ECE 101L is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 122A Collaborative Sustainability Project Design",
+        "description": "This course is the first quarter of a three quarter series of courses that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service), which provides students with opportunities to plan, implement, and evaluate interdisciplinary sustainable design projects in the built environment for the Monterey Bay Region. In fall quarter students are introduced to project topics and background information. In collaboration with an outside mentor project teams design, revise, and complete a project plan including project goals and deliverables, timeline of key activities and major milestones, stakeholder map, evaluation plan, and budget (as applicable). Students apply online; selected applicants complete in-person interviews. (Formerly EE 122A.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 122A Collaborative Sustainability Project Design\nThis course is the first quarter of a three quarter series of courses that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service), which provides students with opportunities to plan, implement, and evaluate interdisciplinary sustainable design projects in the built environment for the Monterey Bay Region. In fall quarter students are introduced to project topics and background information. In collaboration with an outside mentor project teams design, revise, and complete a project plan including project goals and deliverables, timeline of key activities and major milestones, stakeholder map, evaluation plan, and budget (as applicable). Students apply online; selected applicants complete in-person interviews. (Formerly EE 122A.)\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 122B Collaborative Sustainability Project Implementation",
+        "description": "The second of a three-quarter sequence that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service) which provides opportunities for students to plan, implement, and evaluate interdisciplinary sustainable-design projects in the built environment for the Monterey Bay Region. In winter quarter, project teams work collaboratively to implement the project plans approved during the fall quarter. Students participate in a weekly seminary series that includes guest lectures and field trips as well as workshops in project management, public speaking, writing skills, and other professional development. Prerequisite(s): ECE 122A. Students apply online; selected applicants complete in-person interviews. Enrollment is restricted to juniors and seniors. (Formerly EE 122B.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 122B Collaborative Sustainability Project Implementation\nThe second of a three-quarter sequence that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service) which provides opportunities for students to plan, implement, and evaluate interdisciplinary sustainable-design projects in the built environment for the Monterey Bay Region. In winter quarter, project teams work collaboratively to implement the project plans approved during the fall quarter. Students participate in a weekly seminary series that includes guest lectures and field trips as well as workshops in project management, public speaking, writing skills, and other professional development. Prerequisite(s): ECE 122A. Students apply online; selected applicants complete in-person interviews. Enrollment is restricted to juniors and seniors. (Formerly EE 122B.)\nCredits 5\n"
+    },
+    {
+        "coursename": "ECE 122C Collaborative Sustainability Project Implementation",
+        "description": "The third of a three-quarter sequence that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service) which provides opportunities for students to plan, implement, and evaluate interdisciplinary sustainable-design projects in the built environment for the Monterey Bay Region. In spring quarter, project teams work collaboratively to continue implementation of project plans approved during the fall quarter, then evaluate projects impacts. Students participate in a weekly seminary series that includes guest lectures and field trips as well as workshops in project management, public speaking, writing skills, and other professional development. Students also work in the community on educational public outreach regarding project impacts. Prerequisite(s): ECE 122A. Students apply online; selected applicants complete in-person interviews. Enrollment is restricted to juniors and seniors. (Formerly EE 122C.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 122C Collaborative Sustainability Project Implementation\nThe third of a three-quarter sequence that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service) which provides opportunities for students to plan, implement, and evaluate interdisciplinary sustainable-design projects in the built environment for the Monterey Bay Region. In spring quarter, project teams work collaboratively to continue implementation of project plans approved during the fall quarter, then evaluate projects impacts. Students participate in a weekly seminary series that includes guest lectures and field trips as well as workshops in project management, public speaking, writing skills, and other professional development. Students also work in the community on educational public outreach regarding project impacts. Prerequisite(s): ECE 122A. Students apply online; selected applicants complete in-person interviews. Enrollment is restricted to juniors and seniors. (Formerly EE 122C.)\nCredits 5\n"
+    },
+    {
+        "coursename": "ECE 129A Capstone Project I",
+        "description": "First of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this first course, students complete the specification and planning for a substantial project. Topics covered: engineering design cycle, engineering teams, and professional practices. (Formerly EE 129A.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 100; enrollment restricted to senior Electrical Engineering and Robotics Engineering majors. Electrical Engineering majors must complete ECE 171; and ECE 157 or ECE 173 or ECE 118 or ECE 121. Robotics Engineering majors must complete ECE 118 and ECE 121.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 129A Capstone Project I\nFirst of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this first course, students complete the specification and planning for a substantial project. Topics covered: engineering design cycle, engineering teams, and professional practices. (Formerly EE 129A.)\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 100; enrollment restricted to senior Electrical Engineering and Robotics Engineering majors. Electrical Engineering majors must complete ECE 171; and ECE 157 or ECE 173 or ECE 118 or ECE 121. Robotics Engineering majors must complete ECE 118 and ECE 121.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 129B Capstone Project II",
+        "description": "Second of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this second course, students complete the training, research, and procurement for a substantial project and a preliminary implementation.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, John Vesecky, Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129A. Enrollment is restricted to seniors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 129B Capstone Project II\nSecond of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this second course, students complete the training, research, and procurement for a substantial project and a preliminary implementation.\nCredits 5\nInstructor The Staff, John Vesecky, Stephen Petersen\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129A. Enrollment is restricted to seniors.\nGeneral Education Code PR-E\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 129C Capstone Project III",
+        "description": "Third of a three-course sequence in which students apply knowledge and skills gained in this elective track to complete a major design project. In this third course, students work in teams to complete the project specified and advance on the results of the work in the first two courses. A formal written report, oral presentation, and demonstration of the successful project to a review panel of engineering faculty is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Stephen Petersen, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129B. Enrollment is restricted to seniors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 129C Capstone Project III\nThird of a three-course sequence in which students apply knowledge and skills gained in this elective track to complete a major design project. In this third course, students work in teams to complete the project specified and advance on the results of the work in the first two courses. A formal written report, oral presentation, and demonstration of the successful project to a review panel of engineering faculty is required.\nCredits 5\nInstructor Stephen Petersen, The Staff\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129B. Enrollment is restricted to seniors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 130 Introduction to Optoelectronics and Photonics",
+        "description": "Introduction to optics, photonics and optoelectronics, fiber optic devices and communication systems: Topics include: ray optics, electromagnetic optics, resonator optics, interaction between photons and atoms, dielectric waveguides and fibers, semiconductor light sources and detectors, modulators, amplifiers, switches, and optical fiber communication systems. Taught in conjunction with course 230. Students cannot receive credit for this course and ECE 230. (Formerly EE 130.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5B and PHYS 5C, or PHYS 6B and PHYS 6C; concurrent enrollment in ECE 130L.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 130 Introduction to Optoelectronics and Photonics\nIntroduction to optics, photonics and optoelectronics, fiber optic devices and communication systems: Topics include: ray optics, electromagnetic optics, resonator optics, interaction between photons and atoms, dielectric waveguides and fibers, semiconductor light sources and detectors, modulators, amplifiers, switches, and optical fiber communication systems. Taught in conjunction with course 230. Students cannot receive credit for this course and ECE 230. (Formerly EE 130.)\nCredits 5\nInstructor Ahmet Yanik\nRequirements Prerequisite(s): PHYS 5B and PHYS 5C, or PHYS 6B and PHYS 6C; concurrent enrollment in ECE 130L.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 130L Introduction to Optoelectronics Laboratory",
+        "description": "Includes a series of projects to provide hands-on experience needed for basic concepts and laboratory techniques of optical fiber technology.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5L, PHYS 5M, and PHYS 5N, or PHYS 6L, PHYS 6M, and PHYS 6N; concurrent enrollment in ECE 130.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 130L Introduction to Optoelectronics Laboratory\nIncludes a series of projects to provide hands-on experience needed for basic concepts and laboratory techniques of optical fiber technology.\nCredits 1\nInstructor Ahmet Yanik\nRequirements Prerequisite(s): PHYS 5L, PHYS 5M, and PHYS 5N, or PHYS 6L, PHYS 6M, and PHYS 6N; concurrent enrollment in ECE 130.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 135 Electromagnetic Fields and Waves",
+        "description": "Vector analysis. Electrostatic fields. Magnetostatic fields. Time-varying fields and Maxwell's equations. Plane waves. (Formerly EE 135.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L; MATH 23B; and MATH 24 or AM 20. Students must concurrently enroll in ECE 135L.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 135 Electromagnetic Fields and Waves\nVector analysis. Electrostatic fields. Magnetostatic fields. Time-varying fields and Maxwell's equations. Plane waves. (Formerly EE 135.)\nCredits 5\nInstructor Ahmet Yanik\nRequirements Prerequisite(s): ECE 101 and ECE 101L; MATH 23B; and MATH 24 or AM 20. Students must concurrently enroll in ECE 135L.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 135L Electromagnetic Fields and Waves Laboratory",
+        "description": "Laboratory sequence illustrating topics in course 135. One two-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L; MATH 23B; and MATH 24 or AM 20. Students must concurrently enroll in ECE 135.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 135L Electromagnetic Fields and Waves Laboratory\nLaboratory sequence illustrating topics in course 135. One two-hour laboratory session per week.\nCredits 2\nInstructor Ahmet Yanik\nRequirements Prerequisite(s): ECE 101 and ECE 101L; MATH 23B; and MATH 24 or AM 20. Students must concurrently enroll in ECE 135.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 136 Engineering Electromagnetics",
+        "description": "Course will cover electromagnetic wave propagation, transmission lines, waveguides, and antennas. (Formerly EE 136.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nobuhiko Kobayashi, Keith Corzine, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 135 and ECE 135L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 136 Engineering Electromagnetics\nCourse will cover electromagnetic wave propagation, transmission lines, waveguides, and antennas. (Formerly EE 136.)\nCredits 5\nInstructor Nobuhiko Kobayashi, Keith Corzine, The Staff\nRequirements Prerequisite(s): ECE 135 and ECE 135L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 141 Feedback Control Systems",
+        "description": "Analysis and design of continuous linear feedback control systems. Essential principles and advantages of feedback. Design by root locus, frequency response, and state space methods and comparisons of these techniques. Applications. (Formerly CMPE 141 and EE 153.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Dejan Milutinovic",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors, or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 141 Feedback Control Systems\nAnalysis and design of continuous linear feedback control systems. Essential principles and advantages of feedback. Design by root locus, frequency response, and state space methods and comparisons of these techniques. Applications. (Formerly CMPE 141 and EE 153.)\nCredits 5\nInstructor Dejan Milutinovic\nRequirements Prerequisite(s): ECE 103. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors, or by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 145 Estimation and Introduction to Control of Stochastic Processes",
+        "description": "Provides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 245. Enrollment by permission of instructor. (Formerly CMPE 145.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Dejan Milutinovic",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 145 Estimation and Introduction to Control of Stochastic Processes\nProvides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 245. Enrollment by permission of instructor. (Formerly CMPE 145.)\nCredits 5\nInstructor Dejan Milutinovic\nGeneral Education Code SR\n"
+    },
+    {
+        "coursename": "ECE 149 Introduction to Cyber-physical Systems",
+        "description": "Presents the basic concepts and tools for the study of cyber-physical systems, including modeling and analysis tools for continuous-time and discrete-time systems, finite state machines, stateflow, timed and hybrid automata, concurrency, invariants, linear temporal logic, verification, and numerical simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. The course is self-contained. Students are expected to have a basic background in logic circuits, programming, the mathematical modeling of dynamical systems (ECE 8 is recommended), differential equations, linear algebra, and basic calculus. Knowledge of MATLAB/Simulink is useful. Students cannot receive credit for this course and ECE 249.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ricardo Sanfelice",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 100 and ECE 100L or equivalent, and ECE 13 or CSE 13E or equivalent.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 149 Introduction to Cyber-physical Systems\nPresents the basic concepts and tools for the study of cyber-physical systems, including modeling and analysis tools for continuous-time and discrete-time systems, finite state machines, stateflow, timed and hybrid automata, concurrency, invariants, linear temporal logic, verification, and numerical simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. The course is self-contained. Students are expected to have a basic background in logic circuits, programming, the mathematical modeling of dynamical systems (ECE 8 is recommended), differential equations, linear algebra, and basic calculus. Knowledge of MATLAB/Simulink is useful. Students cannot receive credit for this course and ECE 249.\nCredits 5\nInstructor Ricardo Sanfelice\nRequirements Prerequisite(s): ECE 100 and ECE 100L or equivalent, and ECE 13 or CSE 13E or equivalent.\n"
+    },
+    {
+        "coursename": "ECE 151 Communications Systems",
+        "description": "An introduction to communication systems. Analysis and design of communication systems based on radio, transmission lines, and fiber optics. Topics include fundamentals of analog and digital signal transmission in the context of baseband communications, including concepts such as modulation and demodulation techniques, multiplexing and multiple access, channel loss, distortion, bandwidth, signal-to-noise ratios and error control. Digital communication concepts include an introduction to sampling and quantization, transmission coding and error control. (Formerly EE 151.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Hamid Sadjadpour, Benjamin Friedlander",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103, ECE 101, and ECE 101L; and CSE 107 or STAT 131 or probability theory and random variables background. Enrollment is restricted to School of Engineering and Physical and Biological Sciences majors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 151 Communications Systems\nAn introduction to communication systems. Analysis and design of communication systems based on radio, transmission lines, and fiber optics. Topics include fundamentals of analog and digital signal transmission in the context of baseband communications, including concepts such as modulation and demodulation techniques, multiplexing and multiple access, channel loss, distortion, bandwidth, signal-to-noise ratios and error control. Digital communication concepts include an introduction to sampling and quantization, transmission coding and error control. (Formerly EE 151.)\nCredits 5\nInstructor Hamid Sadjadpour, Benjamin Friedlander\nRequirements Prerequisite(s): ECE 103, ECE 101, and ECE 101L; and CSE 107 or STAT 131 or probability theory and random variables background. Enrollment is restricted to School of Engineering and Physical and Biological Sciences majors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 152 Introduction to Wireless Communications",
+        "description": "Introduction to the principles of wireless communications systems. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 252. (Formerly EE 152.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Benjamin Friedlander, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 107 and ECE 151, or by consent of instructor. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 152 Introduction to Wireless Communications\nIntroduction to the principles of wireless communications systems. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 252. (Formerly EE 152.)\nCredits 5\nInstructor Benjamin Friedlander, The Staff\nRequirements Prerequisite(s): CSE 107 and ECE 151, or by consent of instructor. Enrollment is restricted to juniors and seniors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 153 Digital Signal Processing",
+        "description": "Introduction to the principles of signal processing, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, and filter design techniques. Taught in conjunction with Electrical Engineering 250. Students cannot receive credit for this course and Electrical Engineering 250. (Formerly EE 153 and CMPE 153.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Benjamin Friedlander, Patrick Mantey, Farid Dowla, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 153 Digital Signal Processing\nIntroduction to the principles of signal processing, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, and filter design techniques. Taught in conjunction with Electrical Engineering 250. Students cannot receive credit for this course and Electrical Engineering 250. (Formerly EE 153 and CMPE 153.)\nCredits 5\nInstructor Benjamin Friedlander, Patrick Mantey, Farid Dowla, The Staff\nRequirements Prerequisite(s): ECE 103. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 157 RF Hardware Design",
+        "description": "Engineering design cycle for wireless and RF systems: design, practical hardware implementation, and prototype. (Formerly EE 157.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157L is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 157 RF Hardware Design\nEngineering design cycle for wireless and RF systems: design, practical hardware implementation, and prototype. (Formerly EE 157.)\nCredits 5\nInstructor Stephen Petersen\nRequirements Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157L is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 157L RF Hardware Design Laboratory",
+        "description": "Laboratory to accompany course 157, emphasizing hardware-design practice and principles applies to RF apparatus. Students design and implement a substantial final project during the last half of the course. Students are billed a materials fee of $112. (Formerly EE 157L.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157 is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 157L RF Hardware Design Laboratory\nLaboratory to accompany course 157, emphasizing hardware-design practice and principles applies to RF apparatus. Students design and implement a substantial final project during the last half of the course. Students are billed a materials fee of $112. (Formerly EE 157L.)\nCredits 2\nInstructor Stephen Petersen\nRequirements Prerequisite(s): ECE 101 and ECE 101L, ECE 103, and ECE 171, and ECE 174; or consent of instructor. Concurrent enrollment in ECE 157 is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 163 Introduction to Small-Scale UAV Theory and Practice",
+        "description": "Technologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Taught in conjunction with ECE 263. Students cannot receive credit for this course and ECE 263.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 7",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 or ECE 242; and CSE 30 or ECE 13 or CSE 13E or CSE 13S. ECE 121, ECE 167, and ECE 145 recommended but not required. Enrollment is restricted to sophomores, juniors and seniors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 163 Introduction to Small-Scale UAV Theory and Practice\nTechnologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Taught in conjunction with ECE 263. Students cannot receive credit for this course and ECE 263.\nCredits 7\nRequirements Prerequisite(s): ECE 141 or ECE 241 or ECE 242; and CSE 30 or ECE 13 or CSE 13E or CSE 13S. ECE 121, ECE 167, and ECE 145 recommended but not required. Enrollment is restricted to sophomores, juniors and seniors.\nGeneral Education Code MF\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 167 Sensing and Sensor Technologies",
+        "description": "Introduces fundamental issues in sensing of temperature, motion, sound, light, position, etc. Sensors are integrated into a digital system using filtering, amplification, and analog-to-digital conversion. Advanced topics may include noise, temperature, and other sources of variability. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language.",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor The Staff, Matthew Guthaus",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 13E or ECE 13; and ECE 103 and ECE 103L.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 167 Sensing and Sensor Technologies\nIntroduces fundamental issues in sensing of temperature, motion, sound, light, position, etc. Sensors are integrated into a digital system using filtering, amplification, and analog-to-digital conversion. Advanced topics may include noise, temperature, and other sources of variability. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language.\nCredits 7\nInstructor The Staff, Matthew Guthaus\nRequirements Prerequisite(s): CSE 13E or ECE 13; and ECE 103 and ECE 103L.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 170 Advanced Power Electronics",
+        "description": "Advanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 270. Students cannot receive credit for this course and ECE 270.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Keith Corzine",
+        "extrarequirements": "Requirements Prerequisites: ECE 177 or equivalent or instructor approval. Enrollment is restricted to seniors.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 170 Advanced Power Electronics\nAdvanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 270. Students cannot receive credit for this course and ECE 270.\nCredits 5\nInstructor Keith Corzine\nRequirements Prerequisites: ECE 177 or equivalent or instructor approval. Enrollment is restricted to seniors.\n"
+    },
+    {
+        "coursename": "ECE 171 Analog Electronics",
+        "description": "Introduction to (semiconductor) electronic devices. Conduction of electric currents in semiconductors, the semiconductor p-n junction, the transistor. Analysis and synthesis of linear and nonlinear electronic circuits containing diodes and transistors. Biasing, small signal models, frequency response, and feedback. Operational amplifiers and integrated circuits. (Formerly EE 171.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kenneth Pedrotti, Marco Rolandi, Stephen Petersen, Shiva Abbaszadeh, Eshraghian Jason",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L; previous or concurrent enrollment in ECE 171L is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "ECE 171 Analog Electronics\nIntroduction to (semiconductor) electronic devices. Conduction of electric currents in semiconductors, the semiconductor p-n junction, the transistor. Analysis and synthesis of linear and nonlinear electronic circuits containing diodes and transistors. Biasing, small signal models, frequency response, and feedback. Operational amplifiers and integrated circuits. (Formerly EE 171.)\nCredits 5\nInstructor Kenneth Pedrotti, Marco Rolandi, Stephen Petersen, Shiva Abbaszadeh, Eshraghian Jason\nRequirements Prerequisite(s): ECE 101 and ECE 101L; previous or concurrent enrollment in ECE 171L is required.\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "ECE 171L Analog Electronics Laboratory",
+        "description": "Laboratory sequence illustrating topics covered in course 171. One two-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Kenneth Pedrotti, Marco Rolandi, Stephen Petersen, Shiva Abbaszadeh, Jason Eshraghian",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L; previous or concurrent enrollment in ECE 171 is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "ECE 171L Analog Electronics Laboratory\nLaboratory sequence illustrating topics covered in course 171. One two-hour laboratory session per week.\nCredits 2\nInstructor Kenneth Pedrotti, Marco Rolandi, Stephen Petersen, Shiva Abbaszadeh, Jason Eshraghian\nRequirements Prerequisite(s): ECE 101 and ECE 101L; previous or concurrent enrollment in ECE 171 is required.\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "ECE 172 Advanced Analog Circuits",
+        "description": "Analog circuit design covering the basic amplifier configurations, current mirrors, differential amplifiers, frequency response, feedback amplifiers, noise, bandgap references, one- and two-stage operational amplifier design, feedback amplifier stability, switched capacitor circuits and optionally the fundamentals of digital-to-analog and analog-to-digital converters. Emphasis throughout will be on the development of approximate and intuitive methods for understanding and designing circuits. Cannot receive credit for this course and course 221. (Formerly EE 172.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kenneth Pedrotti",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 171.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 172 Advanced Analog Circuits\nAnalog circuit design covering the basic amplifier configurations, current mirrors, differential amplifiers, frequency response, feedback amplifiers, noise, bandgap references, one- and two-stage operational amplifier design, feedback amplifier stability, switched capacitor circuits and optionally the fundamentals of digital-to-analog and analog-to-digital converters. Emphasis throughout will be on the development of approximate and intuitive methods for understanding and designing circuits. Cannot receive credit for this course and course 221. (Formerly EE 172.)\nCredits 5\nInstructor Kenneth Pedrotti\nRequirements Prerequisite(s): ECE 171.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 173 High-Speed Digital Design",
+        "description": "Studies of analog circuit principles relevant to high-speed digital design: signal propagation, crosstalk, and electromagnetic interference. Topics include electrical characteristics of digital circuits, interfacing different logic families, measurement techniques, distributed circuits and transmission lines, ground planes and grounding, terminations, power systems, electromagnetic compatibility and noise suppression. Laboratory sequence illustrates fundamental lecture topics and includes completion of a final design project.",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor Stephen Petersen, Eshraghian Jason",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and ECE 174, or by permission of the instructor. ECE 171 and ECE 121 are recommended.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 173 High-Speed Digital Design\nStudies of analog circuit principles relevant to high-speed digital design: signal propagation, crosstalk, and electromagnetic interference. Topics include electrical characteristics of digital circuits, interfacing different logic families, measurement techniques, distributed circuits and transmission lines, ground planes and grounding, terminations, power systems, electromagnetic compatibility and noise suppression. Laboratory sequence illustrates fundamental lecture topics and includes completion of a final design project.\nCredits 7\nInstructor Stephen Petersen, Eshraghian Jason\nRequirements Prerequisite(s): ECE 101 and ECE 101L and ECE 174, or by permission of the instructor. ECE 171 and ECE 121 are recommended.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 174 Introduction to EDA Tools for PCB Design",
+        "description": "Focus on EDA tools for design of printed-circuit boards. Elements of design flow covered: schematic capture and simulation to final PCB layout. Final project is required. Students are billed a materials fee.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L or consent of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 174 Introduction to EDA Tools for PCB Design\nFocus on EDA tools for design of printed-circuit boards. Elements of design flow covered: schematic capture and simulation to final PCB layout. Final project is required. Students are billed a materials fee.\nCredits 3\nInstructor Stephen Petersen\nRequirements Prerequisite(s): ECE 101 and ECE 101L or consent of instructor.\n"
+    },
+    {
+        "coursename": "ECE 175 Energy Generation and Control",
+        "description": "Introduces electrical energy generation, sensing, and control, emphasizing the emerging smart grid. Topics include 3-phase AC power systems, voltage and transient stability, fault analysis, grid protection, power-flow analysis, economic dispatch, and high voltage DC distribution (HVDC). (Formerly EE 175.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, John Vesecky, Leila Parsa, Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101. Concurrent enrollment in ECE 175L is required.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 175 Energy Generation and Control\nIntroduces electrical energy generation, sensing, and control, emphasizing the emerging smart grid. Topics include 3-phase AC power systems, voltage and transient stability, fault analysis, grid protection, power-flow analysis, economic dispatch, and high voltage DC distribution (HVDC). (Formerly EE 175.)\nCredits 5\nInstructor The Staff, John Vesecky, Leila Parsa, Stephen Petersen\nRequirements Prerequisite(s): ECE 101. Concurrent enrollment in ECE 175L is required.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 175L Energy Generation and Control Laboratory",
+        "description": "Computer analysis and simulation of energy generation, components, power-flow analysis, systems, and control covering topics from course 195. Weekly computer simulations reinforce the concepts introduced in course 175. (Formerly EE 175L.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff, John Vesecky, Leila Parsa, Stephen Petersen",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 101. Concurrent enrollment in ECE 175 is required.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 175L Energy Generation and Control Laboratory\nComputer analysis and simulation of energy generation, components, power-flow analysis, systems, and control covering topics from course 195. Weekly computer simulations reinforce the concepts introduced in course 175. (Formerly EE 175L.)\nCredits 2\nInstructor The Staff, John Vesecky, Leila Parsa, Stephen Petersen\nRequirements Prerequisite(s): ECE 101. Concurrent enrollment in ECE 175 is required.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 176 Energy Conservation and Control",
+        "description": "AC/DC electric-machine drives for speed/position control. Integrated discussion of electric machines, power electronics, and control systems. Computer simulations. Applications in electric transportation, hybrid-car technology, robotics, process control, and energy conservation. (Formerly EE 176.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Stephen Petersen, Leila Parsa",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103 and ECE 171. Concurrent enrollment in ECE 176L is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 176 Energy Conservation and Control\nAC/DC electric-machine drives for speed/position control. Integrated discussion of electric machines, power electronics, and control systems. Computer simulations. Applications in electric transportation, hybrid-car technology, robotics, process control, and energy conservation. (Formerly EE 176.)\nCredits 5\nInstructor The Staff, Stephen Petersen, Leila Parsa\nRequirements Prerequisite(s): ECE 103 and ECE 171. Concurrent enrollment in ECE 176L is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 176L Energy Conversion and Control Laboratory",
+        "description": "Simulink-based simulations of electric machines/drives in applications such as energy conservation and motion control in robotics and electric vehicles. (Formerly EE 176L.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff, Stephen Petersen, Leila Parsa",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103 and ECE 171. Concurrent enrollment in course 176 is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 176L Energy Conversion and Control Laboratory\nSimulink-based simulations of electric machines/drives in applications such as energy conservation and motion control in robotics and electric vehicles. (Formerly EE 176L.)\nCredits 2\nInstructor The Staff, Stephen Petersen, Leila Parsa\nRequirements Prerequisite(s): ECE 103 and ECE 171. Concurrent enrollment in course 176 is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 177 Power Electronics",
+        "description": "Switch-mode power converter design and analysis. Non-switching power supplies. Electronic power-factor correction. Soft switching. Power-semiconductor devices. Use in energy conservation, renewable energy, lighting, and power transmission. (Formerly EE 177.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Keith Corzine",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103. Concurrent enrollment in ECE 177L is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 177 Power Electronics\nSwitch-mode power converter design and analysis. Non-switching power supplies. Electronic power-factor correction. Soft switching. Power-semiconductor devices. Use in energy conservation, renewable energy, lighting, and power transmission. (Formerly EE 177.)\nCredits 5\nInstructor Keith Corzine\nRequirements Prerequisite(s): ECE 103. Concurrent enrollment in ECE 177L is required.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 177L Power Electronics Laboratory",
+        "description": "Buck, boost, buck-boost, flyback, and forward converter design and control.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Keith Corzine",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103. Concurrent enrollment in ECE 177 is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 177L Power Electronics Laboratory\nBuck, boost, buck-boost, flyback, and forward converter design and control.\nCredits 2\nInstructor Keith Corzine\nRequirements Prerequisite(s): ECE 103. Concurrent enrollment in ECE 177 is required.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 178 Device Electronics",
+        "description": "This course reviews the fundamental principles, device's materials, and design and introduces the operation of several semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, the field-effect transistor, the light-emitting diode, and the photodiode. (Formerly EE 178.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kenneth Pedrotti, Nobuhiko Kobayashi",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 102 and ECE 102L and ECE 171 and ECE 171L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 178 Device Electronics\nThis course reviews the fundamental principles, device's materials, and design and introduces the operation of several semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, the field-effect transistor, the light-emitting diode, and the photodiode. (Formerly EE 178.)\nCredits 5\nInstructor Kenneth Pedrotti, Nobuhiko Kobayashi\nRequirements Prerequisite(s): ECE 102 and ECE 102L and ECE 171 and ECE 171L. Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 179 Decision Analysis in Management",
+        "description": "Presents decision tools/theory with a focus on investment, finance, management, technology, and policy. Often, irreversible decisions are made without enough information to analyze the possible consequences. Course uses systematic approaches to analyze these types of situations to enable rational decisions. (CSE 174.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yihsu Chen",
+        "extrarequirements": "Requirements Prerequisite(s): AM 30 or MATH 22 or MATH 23A; and ECON 113; and ECON 100A or ECON 100M. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 179 Decision Analysis in Management\nPresents decision tools/theory with a focus on investment, finance, management, technology, and policy. Often, irreversible decisions are made without enough information to analyze the possible consequences. Course uses systematic approaches to analyze these types of situations to enable rational decisions. (CSE 174.)\nCredits 5\nInstructor Yihsu Chen\nRequirements Prerequisite(s): AM 30 or MATH 22 or MATH 23A; and ECON 113; and ECON 100A or ECON 100M. Enrollment is restricted to juniors and seniors.\n"
+    },
+    {
+        "coursename": "ECE 180J Advanced Renewable Energy Sources, Storage, and Smart Grids",
+        "description": "Provides a comprehensive overview of renewable energy, storage, and smart grids. Fundamental energy-conversion limits based on physics and existing material properties are discussed. Various sources and facilities, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Solar- and wind-site assessment, electric vehicles, as well as sustainable microgrids are also discussed. Finally, the latest research on smart grids and smart cities is introduced. Taught in conjunction with course 80J. Students who enroll in this class will learn how to use Matlab to solve engineering problems.(Formerly EE 180J.)",
+        "genEd": "General Education Code PE-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yu Zhang",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 3 or AM 3 or AM 5 or AM 7.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 180J Advanced Renewable Energy Sources, Storage, and Smart Grids\nProvides a comprehensive overview of renewable energy, storage, and smart grids. Fundamental energy-conversion limits based on physics and existing material properties are discussed. Various sources and facilities, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Solar- and wind-site assessment, electric vehicles, as well as sustainable microgrids are also discussed. Finally, the latest research on smart grids and smart cities is introduced. Taught in conjunction with course 80J. Students who enroll in this class will learn how to use Matlab to solve engineering problems.(Formerly EE 180J.)\nCredits 5\nInstructor Yu Zhang\nRequirements Prerequisite(s): MATH 3 or AM 3 or AM 5 or AM 7.\nGeneral Education Code PE-E\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 181J Renewable Energy Sources in Practice",
+        "description": "Provides a fundamental understanding of renewable energies in practice by experiencing them in a functional context. Students visit and evaluate renewable-energy facilities, such as wind power, solar energy, hydrogen storage, biofuel production, waste-water testing facilities, biomass, biodiesel, and biogas. This intensive one-month program allows students to carry out applied research in a real-life, industrial-scale, renewable-energy context. Prerequisite(s): course 80J or equivalent. Enrollment restricted to junior, senior, and graduate students and by permission of instructor. (Formerly EE 181J.)",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor Ali Shakouri",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 181J Renewable Energy Sources in Practice\nProvides a fundamental understanding of renewable energies in practice by experiencing them in a functional context. Students visit and evaluate renewable-energy facilities, such as wind power, solar energy, hydrogen storage, biofuel production, waste-water testing facilities, biomass, biodiesel, and biogas. This intensive one-month program allows students to carry out applied research in a real-life, industrial-scale, renewable-energy context. Prerequisite(s): course 80J or equivalent. Enrollment restricted to junior, senior, and graduate students and by permission of instructor. (Formerly EE 181J.)\nCredits 7\nInstructor Ali Shakouri\n"
+    },
+    {
+        "coursename": "ECE 183 Special Topics in Electrical Engineering",
+        "description": "Topics vary with instructor. Sample topics include smart grids, bioelectronics, antennas, etc. Enrollment by instructor permission. Approval of undergraduate adviser required for credit as an upper-division elective. (Formerly EE 183.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yi Zhang, Colleen Josephson",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 183 Special Topics in Electrical Engineering\nTopics vary with instructor. Sample topics include smart grids, bioelectronics, antennas, etc. Enrollment by instructor permission. Approval of undergraduate adviser required for credit as an upper-division elective. (Formerly EE 183.)\nCredits 5\nInstructor Yi Zhang, Colleen Josephson\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 193 Field Study",
+        "description": "Provides for individual programs of study with specific academic objectives carried out under the direction of a faculty member of the electrical engineering program and a willing sponsor at the field site and using resources not normally available on campus. Credit is based on the presentation of evidence of achieving the objectives by submitting a written and oral presentation. May not normally be repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 193 Field Study\nProvides for individual programs of study with specific academic objectives carried out under the direction of a faculty member of the electrical engineering program and a willing sponsor at the field site and using resources not normally available on campus. Credit is based on the presentation of evidence of achieving the objectives by submitting a written and oral presentation. May not normally be repeated for credit.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 193F Field Study",
+        "description": "Provides for individual programs of study with specific academic objectives carried out under the direction of a faculty member of the electrical engineering program and a willing sponsor at the field site and using resources not normally available on campus. Credit is based on the presentation of evidence of achieving the objectives by submitting a written and oral presentation. May not normally be repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 193F Field Study\nProvides for individual programs of study with specific academic objectives carried out under the direction of a faculty member of the electrical engineering program and a willing sponsor at the field site and using resources not normally available on campus. Credit is based on the presentation of evidence of achieving the objectives by submitting a written and oral presentation. May not normally be repeated for credit.\nCredits 2\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 195 Senior Thesis Research",
+        "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency. If using this course to replace the capstone design requirement (ECE 129A, ECE129B, ECE 129C), students must take ECE 129A. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "genEd": "none",
+        "credithours": "none",
+        "instructor": "Instructor Stephen Petersen",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 195 Senior Thesis Research\nIndividual directed study for upper-division undergraduates. Students submit petition to sponsoring agency. If using this course to replace the capstone design requirement (ECE 129A, ECE129B, ECE 129C), students must take ECE 129A. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.\n  Credits 5\nInstructor Stephen Petersen\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 195F Senior Thesis Research",
+        "description": "Prerequisite(s): petition on file with sponsoring agency. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 195F Senior Thesis Research\nPrerequisite(s): petition on file with sponsoring agency. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 198 Individual Study or Research",
+        "description": "Provides for department-sponsored individual study program off campus, for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 198 Individual Study or Research\nProvides for department-sponsored individual study program off campus, for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 198F Independent Field Study",
+        "description": "Provides for department-sponsored individual study program off campus for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 198F Independent Field Study\nProvides for department-sponsored individual study program off campus for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 199 Tutorial",
+        "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 199 Tutorial\nIndividual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 199F Tutorial",
+        "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 199F Tutorial\nIndividual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 200 Research and Teaching in Electrical Engineering",
+        "description": "Basic teaching techniques for TAs: responsibilities and rights, resource materials, computer security, leading discussion or lab sessions, presentations techniques, maintaining class records, electronic handling of homework, and grading. Examines research and professional training: use of library and online databases, technical typesetting, writing journal and conference papers, publishing, giving talks, and ethical issues. (Formerly EE 200.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 200 Research and Teaching in Electrical Engineering\nBasic teaching techniques for TAs: responsibilities and rights, resource materials, computer security, leading discussion or lab sessions, presentations techniques, maintaining class records, electronic handling of homework, and grading. Examines research and professional training: use of library and online databases, technical typesetting, writing journal and conference papers, publishing, giving talks, and ethical issues. (Formerly EE 200.)\nCredits 3\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ECE 201 Introduction to Nanotechnology",
+        "description": "Introduction to underlying principles of nanoscience and nanotechnology. Intended for multidisciplinary audience with a variety of backgrounds. Introduces scientific principles and laws relevant on the nanoscale. Discusses applications in engineering, physics, chemistry, and biology. (Formerly EE 211.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Holger Schmidt, Marco Rolandi, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 102 or consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 201 Introduction to Nanotechnology\nIntroduction to underlying principles of nanoscience and nanotechnology. Intended for multidisciplinary audience with a variety of backgrounds. Introduces scientific principles and laws relevant on the nanoscale. Discusses applications in engineering, physics, chemistry, and biology. (Formerly EE 211.)\nCredits 5\nInstructor Holger Schmidt, Marco Rolandi, The Staff\nRequirements Prerequisite(s): ECE 102 or consent of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 203 Nanocharacterization of Materials",
+        "description": "Covers the many characterization techniques used to characterize materials from volumes less than one cubic micrometer, including the basic physics of each method, the methodology used to get quantitative results, and the advantages and limitations of each technique. (Formerly EE 213.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment restricted to graduate students, or to undergraduates majoring in engineering or science by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 203 Nanocharacterization of Materials\nCovers the many characterization techniques used to characterize materials from volumes less than one cubic micrometer, including the basic physics of each method, the methodology used to get quantitative results, and the advantages and limitations of each technique. (Formerly EE 213.)\nCredits 5\nRequirements Enrollment restricted to graduate students, or to undergraduates majoring in engineering or science by permission of instructor.\n"
+    },
+    {
+        "coursename": "ECE 204 Bioelectronics",
+        "description": "Covers selected case studies in interfacing electronic devices with biological systems from Galvani to neuronal stimulation and electroceuticals. Studies include: the squid giant axon, the pacemaker, deep-brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly papers on case studies and through a final presentation. (Formerly EE 204.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marco Rolandi, Shiva Abbaszadeh",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 204 Bioelectronics\nCovers selected case studies in interfacing electronic devices with biological systems from Galvani to neuronal stimulation and electroceuticals. Studies include: the squid giant axon, the pacemaker, deep-brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly papers on case studies and through a final presentation. (Formerly EE 204.)\nCredits 5\nInstructor Marco Rolandi, Shiva Abbaszadeh\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 205 Fundamentals of Nanoelectronics",
+        "description": "Covers microscopic theory of electron transport in nanoelectronic devices and transistors. Topics include: ballistic transport; quantum conductance, NEGF-Landauer formalisms; molecular conductors; graphene and carbon nanotubes, quantum resonant tunneling devices; nanotransistors; and spintronics. (Formerly EE 218.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 201 or ECE 207. Enrollment is restricted to graduate students. Students with background in basic matrix algebra and MATLAB programming may enroll with permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 205 Fundamentals of Nanoelectronics\nCovers microscopic theory of electron transport in nanoelectronic devices and transistors. Topics include: ballistic transport; quantum conductance, NEGF-Landauer formalisms; molecular conductors; graphene and carbon nanotubes, quantum resonant tunneling devices; nanotransistors; and spintronics. (Formerly EE 218.)\nCredits 5\nInstructor Ahmet Yanik\nRequirements Prerequisite(s): ECE 201 or ECE 207. Enrollment is restricted to graduate students. Students with background in basic matrix algebra and MATLAB programming may enroll with permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 207 Nanomaterials and Nanometer-Scale Devices",
+        "description": "Materials controlled at nanometer-scale will revolutionize existing technologies. Course offers opportunities of learning materials that exhibit peculiar physical characteristics at the nanometer scales. Course also includes discussions of unique device architecture based on materials crafted at the nanometer scale. (Formerly EE 216.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nobuhiko Kobayashi",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 207 Nanomaterials and Nanometer-Scale Devices\nMaterials controlled at nanometer-scale will revolutionize existing technologies. Course offers opportunities of learning materials that exhibit peculiar physical characteristics at the nanometer scales. Course also includes discussions of unique device architecture based on materials crafted at the nanometer scale. (Formerly EE 216.)\nCredits 5\nInstructor Nobuhiko Kobayashi\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 215 Models of Robotic Manipulation",
+        "description": "Theory and application of mathematical models to analyze, design, and program serial kinematic chains (robot arms). Covers models of arbitrary articulated robotic or biological arms and their application to realistic arms and tasks, including the homogeneous coordinate model of positioning tasks; the forward and inverse kinematic models; the Jacobian matrix; trajectory generation;and dynamic models, including Newton-Euler and Lagrangian formulations. (Formerly CMPE 215.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mircea Teodorescu, Michael Wehner, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; and to seniors who have taken ECE 141, and AM 10 or MATH 21; or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 215 Models of Robotic Manipulation\nTheory and application of mathematical models to analyze, design, and program serial kinematic chains (robot arms). Covers models of arbitrary articulated robotic or biological arms and their application to realistic arms and tasks, including the homogeneous coordinate model of positioning tasks; the forward and inverse kinematic models; the Jacobian matrix; trajectory generation;and dynamic models, including Newton-Euler and Lagrangian formulations. (Formerly CMPE 215.)\nCredits 5\nInstructor Mircea Teodorescu, Michael Wehner, The Staff\nRequirements Enrollment is restricted to graduate students; and to seniors who have taken ECE 141, and AM 10 or MATH 21; or by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 216 Bio-Inspired Locomotion",
+        "description": "Presents the principles of biological locomotion and application to robotics problems. Students learn about effective movements in the biological world (slithering, walking, climbing, and flying); extract their underlying principles; and apply them creatively to robotics design. (Formerly CMPE 216.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mircea Teodorescu",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 9 or equivalent. Enrollment is restricted to graduate students, and seniors by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 216 Bio-Inspired Locomotion\nPresents the principles of biological locomotion and application to robotics problems. Students learn about effective movements in the biological world (slithering, walking, climbing, and flying); extract their underlying principles; and apply them creatively to robotics design. (Formerly CMPE 216.)\nCredits 5\nInstructor Mircea Teodorescu\nRequirements Prerequisite(s): ECE 9 or equivalent. Enrollment is restricted to graduate students, and seniors by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 218 Mechatronics",
+        "description": "  Examines technologies involved in mechatronics (intelligent electro-mechanical systems)and techniques necessary to integrate these technologies. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Students learn how to solve engineering problems using C Programming Language. Combines lab component of structured assignments with a large and open-ended team project. Students cannot receive credit for this course and ECE 118.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "Instructor Gabriel Elkaim, Michael Wehner, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ECE 218 Mechatronics\n  Examines technologies involved in mechatronics (intelligent electro-mechanical systems)and techniques necessary to integrate these technologies. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Students learn how to solve engineering problems using C Programming Language. Combines lab component of structured assignments with a large and open-ended team project. Students cannot receive credit for this course and ECE 118.\nCredits 10\nInstructor Gabriel Elkaim, Michael Wehner, The Staff\nRequirements Prerequisite(s): Enrollment is restricted to graduate students.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ECE 221 Advanced Analog Integrated Circuits",
+        "description": "Analog integrated circuit design with emphasis on fundamentals of designing linear circuits using CMOS. Covers MOS devices and device modeling, current mirrors, op-amp design, op-amp compensation, comparators, multipliers, voltage references, sample-and-holds, noise, and an introduction to more complicated systems using these building blocks, such as phase locked loops and analog-to-digital converters. If time permits, integrated circuit layout issues and device/circuit fabrication. Students cannot receive credit for this course and ECE 172. (Formerly EE 221.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kenneth Pedrotti",
+        "extrarequirements": "Requirements Prerequisite(s): course ECE 171 or equivalent; ECE 178 or equivalent recommended.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 221 Advanced Analog Integrated Circuits\nAnalog integrated circuit design with emphasis on fundamentals of designing linear circuits using CMOS. Covers MOS devices and device modeling, current mirrors, op-amp design, op-amp compensation, comparators, multipliers, voltage references, sample-and-holds, noise, and an introduction to more complicated systems using these building blocks, such as phase locked loops and analog-to-digital converters. If time permits, integrated circuit layout issues and device/circuit fabrication. Students cannot receive credit for this course and ECE 172. (Formerly EE 221.)\nCredits 5\nInstructor Kenneth Pedrotti\nRequirements Prerequisite(s): course ECE 171 or equivalent; ECE 178 or equivalent recommended.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 222 High-Speed Low-Power Integrated Circuit Design",
+        "description": "Digital integrated circuit design covered with an emphasis on high-speed and low-power applications. Covers signaling techniques and circuits including transmitters and receivers, with emphasis on on-chip interconnect, timing fundamentals and timing circuits. Theoretical fundamentals of phase locked loops and design issues of implementation addressed. Course has a project design component. Interview to assess technical skills of student. Enrollment is restricted to electrical engineering and computer engineering graduate students. (Formerly EE 222.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 222 High-Speed Low-Power Integrated Circuit Design\nDigital integrated circuit design covered with an emphasis on high-speed and low-power applications. Covers signaling techniques and circuits including transmitters and receivers, with emphasis on on-chip interconnect, timing fundamentals and timing circuits. Theoretical fundamentals of phase locked loops and design issues of implementation addressed. Course has a project design component. Interview to assess technical skills of student. Enrollment is restricted to electrical engineering and computer engineering graduate students. (Formerly EE 222.)\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 223 Advanced Solid-State Devices",
+        "description": "Solid-state devices advance rapidly by employing new materials, new architecture, and new functional principles. Class offers opportunities to learn the latest advancements in solid-state devices (e.g., electronic, optoelectronic, photonic devices, and smart sensors) viewed from various scientific, technological, and engineering aspects, such as energy conversion and computation. (Formerly EE 223.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 223 Advanced Solid-State Devices\nSolid-state devices advance rapidly by employing new materials, new architecture, and new functional principles. Class offers opportunities to learn the latest advancements in solid-state devices (e.g., electronic, optoelectronic, photonic devices, and smart sensors) viewed from various scientific, technological, and engineering aspects, such as energy conversion and computation. (Formerly EE 223.)\nCredits 5\n"
+    },
+    {
+        "coursename": "ECE 224 Device Electronics",
+        "description": "Reviews the fundamentals of semiconductors and then explores the structure, design, and operation of the most important and widely used semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, field-effect transistor, the light-emitting diode, and the photodiode.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kenneth Pedrotti, Nobuhiko Kobayashi",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 224 Device Electronics\nReviews the fundamentals of semiconductors and then explores the structure, design, and operation of the most important and widely used semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, field-effect transistor, the light-emitting diode, and the photodiode.\nCredits 5\nInstructor Kenneth Pedrotti, Nobuhiko Kobayashi\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 225 Semiconductor Processing and Bandgap Engineering",
+        "description": "Addresses principles of semiconductor processing with applications for semiconductor materials engineering, research, and development. The materials fabrication and processing topics include preparation of silicon, III-V compounds, and dielectric thin films, including thin film deposition techniques, diffusion, ion implantation, and standard device fabrication sequences. Applications of these processing principles for semiconductor materials engineering and bandgap engineering in semiconductor heterostructures are discussed for devices, such as LEDs, lasers, photoreceptors, modulators, and high-speed transistors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael Oye",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 225 Semiconductor Processing and Bandgap Engineering\nAddresses principles of semiconductor processing with applications for semiconductor materials engineering, research, and development. The materials fabrication and processing topics include preparation of silicon, III-V compounds, and dielectric thin films, including thin film deposition techniques, diffusion, ion implantation, and standard device fabrication sequences. Applications of these processing principles for semiconductor materials engineering and bandgap engineering in semiconductor heterostructures are discussed for devices, such as LEDs, lasers, photoreceptors, modulators, and high-speed transistors.\nCredits 5\nInstructor Michael Oye\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ECE 226 CMOS Radio Frequency Integrated Circuit Design",
+        "description": "Covers narrowband and high-frequency techniques, noise, distortion, nonlinearities, low-noise amplifiers, power amplifiers, mixers, receivers, and transmitters for wireless communications. Topics are presented in the context of integrated designs in CMOS, but topics are fundamental and widely applicable. (Formerly EE 226.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Steve Kang, Kenneth Pedrotti",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 172 or ECE 221 or permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 226 CMOS Radio Frequency Integrated Circuit Design\nCovers narrowband and high-frequency techniques, noise, distortion, nonlinearities, low-noise amplifiers, power amplifiers, mixers, receivers, and transmitters for wireless communications. Topics are presented in the context of integrated designs in CMOS, but topics are fundamental and widely applicable. (Formerly EE 226.)\nCredits 5\nInstructor Steve Kang, Kenneth Pedrotti\nRequirements Prerequisite(s): ECE 172 or ECE 221 or permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 227 Fundamentals of Semiconductor Physics",
+        "description": "Semiconductor physics is examined for advanced new materials and devices. Discusses how familiar concepts are extended to new electronics. Intended for students interested in electrical engineering, physics, and materials science applications. Good familiarity with basic electromagnetism and quantum physics is assumed. (Formerly EE 227.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 227 Fundamentals of Semiconductor Physics\nSemiconductor physics is examined for advanced new materials and devices. Discusses how familiar concepts are extended to new electronics. Intended for students interested in electrical engineering, physics, and materials science applications. Good familiarity with basic electromagnetism and quantum physics is assumed. (Formerly EE 227.)\nCredits 5\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ECE 228 Engineering of Thin Film Deposition",
+        "description": "Covers key processes to build a coherent picture of the deposition of thin films. Offers an opportunity to implement general computing resources in describing the formation of thin films. The deposition of thin films plays a key role in technology due to their unprecedented physical properties. Their deposition depends on such factors as thermodynamics in the deposition environment and kinetics on the solid surfaces where atoms are assembled; therefore, understanding the fundamental processes involved is important. (Formerly EE 217.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nobuhiko Kobayashi",
+        "extrarequirements": "Requirements Students should have a background in solid-state materials that is equivalent to ECE 102. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 228 Engineering of Thin Film Deposition\nCovers key processes to build a coherent picture of the deposition of thin films. Offers an opportunity to implement general computing resources in describing the formation of thin films. The deposition of thin films plays a key role in technology due to their unprecedented physical properties. Their deposition depends on such factors as thermodynamics in the deposition environment and kinetics on the solid surfaces where atoms are assembled; therefore, understanding the fundamental processes involved is important. (Formerly EE 217.)\nCredits 5\nInstructor Nobuhiko Kobayashi\nRequirements Students should have a background in solid-state materials that is equivalent to ECE 102. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ECE 229 Quantum Electronics",
+        "description": "Covers basic theory of interaction of electromagnetic radiation with resonant atomic transitions and density matrix treatment; and applications including Rabi oscillations, slow light; nonlinear optics; coherent radiation, and noise in photodetectors and lasers. (Formerly EE 232.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Toshishige Yamada",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 231 or equivalent.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 229 Quantum Electronics\nCovers basic theory of interaction of electromagnetic radiation with resonant atomic transitions and density matrix treatment; and applications including Rabi oscillations, slow light; nonlinear optics; coherent radiation, and noise in photodetectors and lasers. (Formerly EE 232.)\nCredits 5\nInstructor The Staff, Toshishige Yamada\nRequirements Prerequisite(s): ECE 231 or equivalent.\n"
+    },
+    {
+        "coursename": "ECE 230 Optical Fiber Communication",
+        "description": "Components and system design of optical fiber communication. Topics include step-index fibers, graded-index fibers, fiber modes, single-mode fibers, multimode fibers, dispersion, loss mechanics, fiber fabrication, light-emission processes in semiconductors, light-emitting diodes, laser diodes, modulation response, source-fiber coupling, photodetectors, receivers, receiver noise and sensitivity, system design, power budget and rise-time budget, fiber-optic networks (FDDI, SONET, etc.), wavelength division multiplexing (WDM). Students cannot receive credit for this course and ECE 130. (Formerly EE 230.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 230 Optical Fiber Communication\nComponents and system design of optical fiber communication. Topics include step-index fibers, graded-index fibers, fiber modes, single-mode fibers, multimode fibers, dispersion, loss mechanics, fiber fabrication, light-emission processes in semiconductors, light-emitting diodes, laser diodes, modulation response, source-fiber coupling, photodetectors, receivers, receiver noise and sensitivity, system design, power budget and rise-time budget, fiber-optic networks (FDDI, SONET, etc.), wavelength division multiplexing (WDM). Students cannot receive credit for this course and ECE 130. (Formerly EE 230.)\nCredits 5\nInstructor Ahmet Yanik\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 231 Optical Electronics",
+        "description": "Introduction to phenomena, devices, and applications of optoelectronics. Main emphasis is on optical properties of semiconductors and semiconductor lasers. (Formerly EE 231.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Holger Schmidt",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 231 Optical Electronics\nIntroduction to phenomena, devices, and applications of optoelectronics. Main emphasis is on optical properties of semiconductors and semiconductor lasers. (Formerly EE 231.)\nCredits 5\nInstructor Holger Schmidt\nRequirements Prerequisite(s): ECE 102 and ECE 102L.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 232 Integrated Biophotonics",
+        "description": "Covers use of integrated optics for study of biological material; fluorescence spectroscopy, single molecule detection, optical tweezers, layered dielectric media, hollow-core waveguides, photonic crystals, optofluidics, biophotonic systems, and applications. (Formerly EE 236.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Holger Schmidt",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 233 or equivalent. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 232 Integrated Biophotonics\nCovers use of integrated optics for study of biological material; fluorescence spectroscopy, single molecule detection, optical tweezers, layered dielectric media, hollow-core waveguides, photonic crystals, optofluidics, biophotonic systems, and applications. (Formerly EE 236.)\nCredits 5\nInstructor Holger Schmidt\nRequirements Prerequisite(s): ECE 233 or equivalent. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 236 Optics and Microscopy",
+        "description": "Covers the basic principles of optics and microscopy. Topics include geometrical optics, simple ray tracing, diffraction, Fourier optics, image formation in the human eye, the photographic camera, and different types of microscopes. Hands-on experience is provided in laboratories. Requires basic mathematics. (Formerly EE 266.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sara Abrahamsson",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 236 Optics and Microscopy\nCovers the basic principles of optics and microscopy. Topics include geometrical optics, simple ray tracing, diffraction, Fourier optics, image formation in the human eye, the photographic camera, and different types of microscopes. Hands-on experience is provided in laboratories. Requires basic mathematics. (Formerly EE 266.)\nCredits 5\nInstructor Sara Abrahamsson\nRequirements Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 237 Image Processing and Reconstruction",
+        "description": "Fundamental concepts in digital image processing and reconstruction. Continuous and discrete images; image acquisition, sampling. Linear transformations of images, convolution and superposition. Image enhancement and restoration, spatial and spectral filtering. Temporal image processing: change detection, image registration, motion estimation. Image reconstruction from incomplete data. Applications. (Formerly EE 264.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sara Abrahamsson",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 153 or permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 237 Image Processing and Reconstruction\nFundamental concepts in digital image processing and reconstruction. Continuous and discrete images; image acquisition, sampling. Linear transformations of images, convolution and superposition. Image enhancement and restoration, spatial and spectral filtering. Temporal image processing: change detection, image registration, motion estimation. Image reconstruction from incomplete data. Applications. (Formerly EE 264.)\nCredits 5\nInstructor Sara Abrahamsson\nRequirements Prerequisite(s): ECE 153 or permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 240 Introduction to Linear Dynamical Systems",
+        "description": "Introduction to applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics include the following: Least-squares approximations of over-determined equations and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm and singular value decomposition. Eigenvalues, left and right eigenvectors, and dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input multi-output systems, impulse and step matrices; convolution and transfer matrix descriptions. Control, reachability, state transfer, and least-norm inputs. Observability and least-squares state estimation. (Formerly CMPE 240.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Mircea Teodorescu, Gabriel Elkaim",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll if they have completed ECE 103 and AM 147.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 240 Introduction to Linear Dynamical Systems\nIntroduction to applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics include the following: Least-squares approximations of over-determined equations and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm and singular value decomposition. Eigenvalues, left and right eigenvectors, and dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input multi-output systems, impulse and step matrices; convolution and transfer matrix descriptions. Control, reachability, state transfer, and least-norm inputs. Observability and least-squares state estimation. (Formerly CMPE 240.)\nCredits 5\nInstructor The Staff, Mircea Teodorescu, Gabriel Elkaim\nRequirements Enrollment is restricted to graduate students; undergraduates may enroll if they have completed ECE 103 and AM 147.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 241 Introduction to Feedback Control Systems",
+        "description": "Graduate-level introduction to control of continuous linear systems using classical feedback techniques. Design of feedback controllers for command-following error, disturbance rejection, stability, and dynamic response specifications. Root locus and frequency response design techniques. Extensive use of Matlab for computer-aided controller design. Course has concurrent lectures with ECE 141.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Ricardo Sanfelice, Dejan Milutinovic, Steve McGuire",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 241 Introduction to Feedback Control Systems\nGraduate-level introduction to control of continuous linear systems using classical feedback techniques. Design of feedback controllers for command-following error, disturbance rejection, stability, and dynamic response specifications. Root locus and frequency response design techniques. Extensive use of Matlab for computer-aided controller design. Course has concurrent lectures with ECE 141.\nCredits 5\nInstructor The Staff, Ricardo Sanfelice, Dejan Milutinovic, Steve McGuire\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 242 Applied Feedback Control",
+        "description": "Sequel to Electrical Engineering 154. After reviewing control design techniques examined in EE 154, this course explores state space control, discrete time control, and two case studies in control design. Students design and implement feedback controllers on an inverted pendulum experiment. (Formerly CMPE 242.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ricardo Sanfelice, Gabriel Elkaim, Dejan Milutinovic",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 242 Applied Feedback Control\nSequel to Electrical Engineering 154. After reviewing control design techniques examined in EE 154, this course explores state space control, discrete time control, and two case studies in control design. Students design and implement feedback controllers on an inverted pendulum experiment. (Formerly CMPE 242.)\nCredits 5\nInstructor Ricardo Sanfelice, Gabriel Elkaim, Dejan Milutinovic\nRequirements Prerequisite(s): ECE 141 or ECE 241. Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 243 System Identification",
+        "description": "Course provides introduction to the construction of linear dynamical models from experimental data using parametric and non-parametric identification techniques. Theoretical and practical aspects of these techniques addressed. (Formerly CMPE 243.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Dejan Milutinovic",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 240, or by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 243 System Identification\nCourse provides introduction to the construction of linear dynamical models from experimental data using parametric and non-parametric identification techniques. Theoretical and practical aspects of these techniques addressed. (Formerly CMPE 243.)\nCredits 5\nInstructor Dejan Milutinovic\nRequirements Prerequisite(s): ECE 240, or by permission of instructor.\n"
+    },
+    {
+        "coursename": "ECE 244 Digital Control",
+        "description": "Teaches the design and analysis of digital control systems. The topics covered are discrete-time system modeling; z-transform; stability, controllability, and observability of discrete-time systems; various design approaches to control design in which sensor, computer hardware, actuation, communication, and user interface are part of the design. Note: knowledge of linear algebra, calculus, basic differential equations, Laplace transform, signals and systems, linear-system control theory, MATLAB, and the use of word-processing software are assumed. (Formerly CMPE 244.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Patrick Mantey, Dejan Milutinovic, Steve McGuire",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241. Enrollment is restricted to graduate students, or by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 244 Digital Control\nTeaches the design and analysis of digital control systems. The topics covered are discrete-time system modeling; z-transform; stability, controllability, and observability of discrete-time systems; various design approaches to control design in which sensor, computer hardware, actuation, communication, and user interface are part of the design. Note: knowledge of linear algebra, calculus, basic differential equations, Laplace transform, signals and systems, linear-system control theory, MATLAB, and the use of word-processing software are assumed. (Formerly CMPE 244.)\nCredits 5\nInstructor Patrick Mantey, Dejan Milutinovic, Steve McGuire\nRequirements Prerequisite(s): ECE 141 or ECE 241. Enrollment is restricted to graduate students, or by permission of the instructor.\n"
+    },
+    {
+        "coursename": "ECE 245 Estimation and Introduction to Control of Stochastic Processes",
+        "description": "Provides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 145. (Formerly CMPE 245.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Dejan Milutinovic",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 240 or ECE 241. Knowledge of Matlab is expected. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 245 Estimation and Introduction to Control of Stochastic Processes\nProvides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 145. (Formerly CMPE 245.)\nCredits 5\nInstructor Dejan Milutinovic\nRequirements Prerequisite(s): ECE 240 or ECE 241. Knowledge of Matlab is expected. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 246 Hybrid Dynamical Systems",
+        "description": "Examines the modeling and analysis of hybrid dynamical systems, including the modeling of hybrid systems, the concept of solutions, Zeno behavior, equilibrium sets, stability, convergence, Lyapunov-based conditions, robustness, and simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. (Formerly CMPE 246.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ricardo Sanfelice",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 241. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 246 Hybrid Dynamical Systems\nExamines the modeling and analysis of hybrid dynamical systems, including the modeling of hybrid systems, the concept of solutions, Zeno behavior, equilibrium sets, stability, convergence, Lyapunov-based conditions, robustness, and simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. (Formerly CMPE 246.)\nCredits 5\nInstructor Ricardo Sanfelice\nRequirements Prerequisite(s): ECE 241. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 249 Introduction to Cyber-physical Systems",
+        "description": "Presents the basic concepts and tools for the study of cyber-physical systems, including modeling and analysis tools for continuous-time and discrete-time systems, finite state machines, stateflow, timed and hybrid automata, concurrency, invariants, linear temporal logic, verification, and numerical simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. The course is self-contained. Students are expected to have a basic background in logic circuits, programming, the mathematical modeling of dynamical systems (ECE 8 is recommended), differential equations, linear algebra, and basic calculus. Knowledge of MATLAB/Simulink is useful. Students cannot receive credit for this course and ECE 149.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ricardo Sanfelice",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 100 and CSE 100L or equivalent, and ECE 13 or CSE 13E or equivalent.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 249 Introduction to Cyber-physical Systems\nPresents the basic concepts and tools for the study of cyber-physical systems, including modeling and analysis tools for continuous-time and discrete-time systems, finite state machines, stateflow, timed and hybrid automata, concurrency, invariants, linear temporal logic, verification, and numerical simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. The course is self-contained. Students are expected to have a basic background in logic circuits, programming, the mathematical modeling of dynamical systems (ECE 8 is recommended), differential equations, linear algebra, and basic calculus. Knowledge of MATLAB/Simulink is useful. Students cannot receive credit for this course and ECE 149.\nCredits 5\nInstructor Ricardo Sanfelice\nRequirements Prerequisite(s): CSE 100 and CSE 100L or equivalent, and ECE 13 or CSE 13E or equivalent.\n"
+    },
+    {
+        "coursename": "ECE 250 Digital Signal Processing",
+        "description": "In-depth study of signal processing techniques, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, filter design techniques. Students cannot receive credit for this course and course 153. (Formerly EE 250.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Benjamin Friedlander, Farid Dowla, The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 250 Digital Signal Processing\nIn-depth study of signal processing techniques, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, filter design techniques. Students cannot receive credit for this course and course 153. (Formerly EE 250.)\nCredits 5\nInstructor Benjamin Friedlander, Farid Dowla, The Staff\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 251 Principles of Digital Communications",
+        "description": "A core course on digital communications theory. Provides an introduction to digital communication, including source coding, characterization of communication signals and systems, modulation and demodulation for the additive Gaussian channel, digital signaling, and over bandwidth constrained linear filter channels and over fading multipath channels. (Formerly EE 251.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Benjamin Friedlander, Zouheir Rezki",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 151 and ECE 153 and CSE 107.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 251 Principles of Digital Communications\nA core course on digital communications theory. Provides an introduction to digital communication, including source coding, characterization of communication signals and systems, modulation and demodulation for the additive Gaussian channel, digital signaling, and over bandwidth constrained linear filter channels and over fading multipath channels. (Formerly EE 251.)\nCredits 5\nInstructor Benjamin Friedlander, Zouheir Rezki\nRequirements Prerequisite(s): ECE 151 and ECE 153 and CSE 107.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 252 Wireless Communications",
+        "description": "In-depth study of the physical layer of wireless communications. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 152. (Formerly EE 252.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Benjamin Friedlander, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 251.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 252 Wireless Communications\nIn-depth study of the physical layer of wireless communications. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 152. (Formerly EE 252.)\nCredits 5\nInstructor Benjamin Friedlander, The Staff\nRequirements Prerequisite(s): ECE 251.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 253 Introduction to Information Theory",
+        "description": "An introduction to information theory including topics such as entropy, relative entropy, mutual information, asymptotic equipartition property, channel capacity, differential entropy, rate distortion theory, and universal source coding. (Formerly EE 253 and CMPS 250.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Hamid Sadjadpour, Yu Zhang",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 253 Introduction to Information Theory\nAn introduction to information theory including topics such as entropy, relative entropy, mutual information, asymptotic equipartition property, channel capacity, differential entropy, rate distortion theory, and universal source coding. (Formerly EE 253 and CMPS 250.)\nCredits 5\nCross Listed Courses CSE 208\nInstructor Hamid Sadjadpour, Yu Zhang\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 254 Radar, Synthetic Aperture Radar, and ISAR",
+        "description": "Introduces radar signal processing, synthetic aperture radar (SAR), and inverse SAR (ISAR). Focuses on the fundamentals and design principles of modern radar systems. Students use hands-on computer simulations to build a strong background in radar sensor systems that can be applied to a variety of problems, such as medical imaging, ground-penetrating radar imaging for geophysical exploration, and the use of radar sensor systems for satellite-based SAR. (Formerly EE 288.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Farid Dowla",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 153. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 254 Radar, Synthetic Aperture Radar, and ISAR\nIntroduces radar signal processing, synthetic aperture radar (SAR), and inverse SAR (ISAR). Focuses on the fundamentals and design principles of modern radar systems. Students use hands-on computer simulations to build a strong background in radar sensor systems that can be applied to a variety of problems, such as medical imaging, ground-penetrating radar imaging for geophysical exploration, and the use of radar sensor systems for satellite-based SAR. (Formerly EE 288.)\nCredits 5\nInstructor Farid Dowla\nRequirements Prerequisite(s): ECE 153. Enrollment is restricted to juniors, seniors, and graduate students.\n"
+    },
+    {
+        "coursename": "ECE 255 Error Control Coding",
+        "description": "Covers the following topics: introduction to algebra; linear block code; cyclic codes; BCH code; RS codes; spectral domain study of codes; CRC; and product codes. (Formerly EE 261.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Hamid Sadjadpour",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 255 Error Control Coding\nCovers the following topics: introduction to algebra; linear block code; cyclic codes; BCH code; RS codes; spectral domain study of codes; CRC; and product codes. (Formerly EE 261.)\nCredits 5\nInstructor Hamid Sadjadpour\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 256 Statistical Signal Processing",
+        "description": "Covers fundamental approaches to designing optimal estimators and detectors of deterministic and random parameters and processes in noise, and includes analysis of their performance. Binary hypothesis testing: the Neyman-Pearson Theorem. Receiver operating characteristics. Deterministic versus random signals. Detection with unknown parameters. Optimal estimation of the unknown parameters: least square, maximum likelihood, Bayesian estimation. Will review the fundamental mathematical and statistical techniques employed. Many applications of the techniques are presented throughout the course. Note: While a review of probability and statistics is provided, this is not a basic course on this material. (Formerly EE 262.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Benjamin Friedlander, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ECE 103 and CSE 107, or permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 256 Statistical Signal Processing\nCovers fundamental approaches to designing optimal estimators and detectors of deterministic and random parameters and processes in noise, and includes analysis of their performance. Binary hypothesis testing: the Neyman-Pearson Theorem. Receiver operating characteristics. Deterministic versus random signals. Detection with unknown parameters. Optimal estimation of the unknown parameters: least square, maximum likelihood, Bayesian estimation. Will review the fundamental mathematical and statistical techniques employed. Many applications of the techniques are presented throughout the course. Note: While a review of probability and statistics is provided, this is not a basic course on this material. (Formerly EE 262.)\nCredits 5\nInstructor Benjamin Friedlander, The Staff\nRequirements Prerequisite(s): ECE 103 and CSE 107, or permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 258 Introduction to Inverse Problems",
+        "description": "Fundamental approaches and techniques in solving inverse problems in engineering and applied sciences, particularly in imaging. Initial emphasis on fundamental mathematical, numerical, and statistical formulations and known solution methods. Sampling of applications presented from diverse set of areas (astronomical, medical and optical imaging, and geophysical exploration). (Formerly EE 265.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor The Staff, Patrick Gill",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 258 Introduction to Inverse Problems\nFundamental approaches and techniques in solving inverse problems in engineering and applied sciences, particularly in imaging. Initial emphasis on fundamental mathematical, numerical, and statistical formulations and known solution methods. Sampling of applications presented from diverse set of areas (astronomical, medical and optical imaging, and geophysical exploration). (Formerly EE 265.)\nCredits 3\nInstructor The Staff, Patrick Gill\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ECE 263 Small-Scale UAV Theory and Practice",
+        "description": "Technologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Students gain team leadership and project management skills. Taught in conjunction with ECE 163. Students cannot receive credit for this course and ECE 163.",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor Gabriel Elkaim",
+        "extrarequirements": "Requirements Prerequisites: Students should have an understanding of Feedback Controls and Programming (Python preferred). It is recommended but not required that students have a background in Sensors, Microcontrollers, Kalman Filtering, and Estimation. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 263 Small-Scale UAV Theory and Practice\nTechnologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Students gain team leadership and project management skills. Taught in conjunction with ECE 163. Students cannot receive credit for this course and ECE 163.\nCredits 7\nInstructor Gabriel Elkaim\nRequirements Prerequisites: Students should have an understanding of Feedback Controls and Programming (Python preferred). It is recommended but not required that students have a background in Sensors, Microcontrollers, Kalman Filtering, and Estimation. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 270 Advanced Power Electronics",
+        "description": "Advanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 170. Students cannot receive credit for this course and ECE 170.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Keith Corzine",
+        "extrarequirements": "Requirements Prerequisites: Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 270 Advanced Power Electronics\nAdvanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 170. Students cannot receive credit for this course and ECE 170.\nCredits 5\nInstructor Keith Corzine\nRequirements Prerequisites: Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ECE 275 Energy Market, Policy, and Modeling",
+        "description": "The power industry is responsible for a large fraction of the U.S.'s emissions of SO2, NOx, and CO2, as well as much other water, solid waste, and land impacts. Its large environmental as well as economic footprint make it a target of many environmental policies, as well as an inherently interesting sector to study. The recent development of energy and climate policy at the global, the U.S. federal, and state-level has made Energy & Climate Policy an intriguing and dynamic topic for both industries and academia. This course will present fundamental analytical tools (optimization and simulation) for modeling firm and market behavior for the energy sector, with a focus on electric power. However, these models can be used for planning investments in generation, transmission, and energy conservation, and for analysis of public policy.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yihsu Chen",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 275 Energy Market, Policy, and Modeling\nThe power industry is responsible for a large fraction of the U.S.'s emissions of SO2, NOx, and CO2, as well as much other water, solid waste, and land impacts. Its large environmental as well as economic footprint make it a target of many environmental policies, as well as an inherently interesting sector to study. The recent development of energy and climate policy at the global, the U.S. federal, and state-level has made Energy & Climate Policy an intriguing and dynamic topic for both industries and academia. This course will present fundamental analytical tools (optimization and simulation) for modeling firm and market behavior for the energy sector, with a focus on electric power. However, these models can be used for planning investments in generation, transmission, and energy conservation, and for analysis of public policy.\nCredits 5\nInstructor Yihsu Chen\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 279 Optimization and Control for Electric Power Systems",
+        "description": "Provides a comprehensive overview of power systems. Students learn how mathematical tools are used for the system planning and operation. Advanced topics include smart grids, electric vehicles and energy data analytics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yu Zhang",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates admitted with permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 279 Optimization and Control for Electric Power Systems\nProvides a comprehensive overview of power systems. Students learn how mathematical tools are used for the system planning and operation. Advanced topics include smart grids, electric vehicles and energy data analytics.\nCredits 5\nInstructor Yu Zhang\nRequirements Enrollment is restricted to graduate students. Undergraduates admitted with permission of the instructor.\n"
+    },
+    {
+        "coursename": "ECE 280A Current Topics in Applied Microscopy and Neuronal Imaging",
+        "description": "A weekly seminar to discuss current topics in applied microscopy and neuronal imaging. (Formerly EE 280A.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Sara Abrahamsson",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 280A Current Topics in Applied Microscopy and Neuronal Imaging\nA weekly seminar to discuss current topics in applied microscopy and neuronal imaging. (Formerly EE 280A.)\nCredits 2\nInstructor Sara Abrahamsson\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 280B Seminar on Integrated Bioelectronics",
+        "description": "Weekly seminar covering current research in integrated bioelectronics. Enrollment is by permission of the instructor and is restricted to students who have research in bioelectronics. (Formerly EE 280B.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Marco Rolandi",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 280B Seminar on Integrated Bioelectronics\nWeekly seminar covering current research in integrated bioelectronics. Enrollment is by permission of the instructor and is restricted to students who have research in bioelectronics. (Formerly EE 280B.)\nCredits 2\nInstructor Marco Rolandi\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 280C Seminar on Control",
+        "description": "Weekly seminar series covering topics of current research in theory and application of control to engineering systems. Current research work and literature in these areas discussed. (Formerly CMPE 280C.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ricardo Sanfelice, Dejan Milutinovic, Mircea Teodorescu, Gabriel Elkaim",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 280C Seminar on Control\nWeekly seminar series covering topics of current research in theory and application of control to engineering systems. Current research work and literature in these areas discussed. (Formerly CMPE 280C.)\nCredits 2\nInstructor Ricardo Sanfelice, Dejan Milutinovic, Mircea Teodorescu, Gabriel Elkaim\nRequirements Enrollment is restricted to graduate students; undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 280D Graduate Research Seminar",
+        "description": "Weekly seminar series in topics of current research in information systems and technology management. Enrollment by permission of instructor. (Formerly TIM 280A.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Yihsu Chen",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 280D Graduate Research Seminar\nWeekly seminar series in topics of current research in information systems and technology management. Enrollment by permission of instructor. (Formerly TIM 280A.)\nCredits 2\nInstructor Yihsu Chen\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 280N Seminar on Nanophotonics and Lab-on-Chip Systems",
+        "description": "Weekly series covering current research in nanophotonics and lab-on-chip systems including nanoplasmonic biosensors; nanospectroscopy (Raman and vibrational mid-infrared spectroscopy); nanofabrication; nanophotonics devices for energy conversion and thermoplasmonics; acoustic fluids; and microfluidic integration. Current research work and recent literature are discussed. Enrollment is by permission of the instructor and restricted to graduate students. Sophomores, juniors, and seniors may enroll by permission of instructor. (Formerly EE 280N.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ahmet Yanik",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 280N Seminar on Nanophotonics and Lab-on-Chip Systems\nWeekly series covering current research in nanophotonics and lab-on-chip systems including nanoplasmonic biosensors; nanospectroscopy (Raman and vibrational mid-infrared spectroscopy); nanofabrication; nanophotonics devices for energy conversion and thermoplasmonics; acoustic fluids; and microfluidic integration. Current research work and recent literature are discussed. Enrollment is by permission of the instructor and restricted to graduate students. Sophomores, juniors, and seniors may enroll by permission of instructor. (Formerly EE 280N.)\nCredits 2\nInstructor Ahmet Yanik\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 280O Seminar on Applied Optics",
+        "description": "Weekly seminar series covering topics of current research in applied optics, including integrated, quantum, nonlinear, and nano-optics. Current research work and literature in these areas are discussed. Enrollment by permission of instructor. (Formerly EE 280O.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Holger Schmidt",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 280O Seminar on Applied Optics\nWeekly seminar series covering topics of current research in applied optics, including integrated, quantum, nonlinear, and nano-optics. Current research work and literature in these areas are discussed. Enrollment by permission of instructor. (Formerly EE 280O.)\nCredits 2\nInstructor Holger Schmidt\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 280Z Seminar on Smart Grids and Data Analytics",
+        "description": "Weekly series covering state-of-the-art research in smart power grids, machine learning, communications, and signal processing. Current research works and recent literature are discussed. Enrollment is by permission of the instructor and is restricted to graduate students. Undergraduates may enroll by permission of the instructor. (Formerly EE 280Z.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Yu Zhang",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 280Z Seminar on Smart Grids and Data Analytics\nWeekly series covering state-of-the-art research in smart power grids, machine learning, communications, and signal processing. Current research works and recent literature are discussed. Enrollment is by permission of the instructor and is restricted to graduate students. Undergraduates may enroll by permission of the instructor. (Formerly EE 280Z.)\nCredits 2\nInstructor Yu Zhang\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 283 Special Topics in Electrical and Computer Engineering",
+        "description": "Graduate seminar on a research topic in electrical engineering that varies with the particular instructor. Topics may include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, MEMS, and radio frequency. Enrollment is restricted to graduate students and consent of instructor. (Formerly EE 283.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Farid Dowla",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 283 Special Topics in Electrical and Computer Engineering\nGraduate seminar on a research topic in electrical engineering that varies with the particular instructor. Topics may include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, MEMS, and radio frequency. Enrollment is restricted to graduate students and consent of instructor. (Formerly EE 283.)\nCredits 3\nInstructor Farid Dowla\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 290 ECE Graduate Seminar",
+        "description": "Leading speakers from academia and industry present their latest research.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Michael Wehner, Yu Zhang, Sara Abrahamsson, Shiva Abbaszadeh, Zouheir Rezki, Steve McGuire",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 290 ECE Graduate Seminar\nLeading speakers from academia and industry present their latest research.\nCredits 2\nInstructor Michael Wehner, Yu Zhang, Sara Abrahamsson, Shiva Abbaszadeh, Zouheir Rezki, Steve McGuire\nRequirements Enrollment is restricted to computer engineering, electrical engineering, and electrical and computer engineering graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 291 Tomorrow's Professors, Engineers, and Entrepreneurs",
+        "description": "The aim of this course is two-fold: (1) inform, motivate, and prepare graduate students for possible careers in academia and industry; (2) expose graduate students to the professional skills required for possible career options in engineering and science. Course is for Satisfactory/Unsatisfactory grade only. (Formerly EE 291, Tomorrow's Professors, Engineers, and Entrepreneurs.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Marco Rolandi, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 291 Tomorrow's Professors, Engineers, and Entrepreneurs\nThe aim of this course is two-fold: (1) inform, motivate, and prepare graduate students for possible careers in academia and industry; (2) expose graduate students to the professional skills required for possible career options in engineering and science. Course is for Satisfactory/Unsatisfactory grade only. (Formerly EE 291, Tomorrow's Professors, Engineers, and Entrepreneurs.)\nCredits 3\nInstructor Marco Rolandi, The Staff\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 293 Advanced Topics in Electrical and Computer Engineering",
+        "description": "Graduate seminar on a research topic in electrical engineering that varies with the particular instructor. Typical topics include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, and MEMS. Prerequisite(s):Enrollment is by permission of the instructor and is restricted to graduate students. In some quarters course will be taught in conjunction with ECE 183. (Formerly EE 293.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Zouheir Rezki, Mehrdad Parsa, Yu Zhang, Michael Oye, Leila Parsa, Keith Corzine, Sara Abrahamsson, Shiva Abbaszadeh",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ECE 293 Advanced Topics in Electrical and Computer Engineering\nGraduate seminar on a research topic in electrical engineering that varies with the particular instructor. Typical topics include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, and MEMS. Prerequisite(s):Enrollment is by permission of the instructor and is restricted to graduate students. In some quarters course will be taught in conjunction with ECE 183. (Formerly EE 293.)\nCredits 5\nInstructor Zouheir Rezki, Mehrdad Parsa, Yu Zhang, Michael Oye, Leila Parsa, Keith Corzine, Sara Abrahamsson, Shiva Abbaszadeh\nRepeatable For Credit Yes\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ECE 296 Master Project",
+        "description": "Master project conducted under faculty supervision. Petition on file with sponsor faculty.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ECE 296 Master Project\nMaster project conducted under faculty supervision. Petition on file with sponsor faculty.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ECE 297A Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 297A Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 297B Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 297B Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 297C Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 297C Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ECE 297F Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "ECE 297F Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "ECE 299A Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ECE 299A Thesis Research\nThesis research conducted under faculty supervision. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ECE 299B Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ECE 299B Thesis Research\nThesis research conducted under faculty supervision. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ECE 299C Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ECE 299C Thesis Research\nThesis research conducted under faculty supervision. Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Spring\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "CRSN 81C Designing a Sustainable Future",
+        "description": "Introduces key technological solutions to environmental problems; discusses their underlying principles; and examines their societal dimensions. Topics include: conventional and renewable energy; emerging technologies for transportation, energy efficiency clean water; planetary engineering; and lean manufacturing.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Leila Parsa",
+        "extrarequirements": "Requirements Enrollment is restricted to first-year and sophomore college members.",
+        "quarteroffered": "none",
+        "fulldesc": "CRSN 81C Designing a Sustainable Future\nIntroduces key technological solutions to environmental problems; discusses their underlying principles; and examines their societal dimensions. Topics include: conventional and renewable energy; emerging technologies for transportation, energy efficiency clean water; planetary engineering; and lean manufacturing.\nCredits 5\nCross Listed Courses ECE 81C\nInstructor Leila Parsa\nRequirements Enrollment is restricted to first-year and sophomore college members.\nGeneral Education Code SI\n"
+    }
+]

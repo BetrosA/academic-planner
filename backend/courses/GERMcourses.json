@@ -1,0 +1,162 @@
+[
+    {
+        "coursename": "GERM 1 First-Year German",
+        "description": "German 1, a beginning-level course, introduces the German language and culture for students with no previous knowledge of German. The course focuses on speaking, reading, writing, and listening. The first-year sequence (GERM 1-GERM 2-GERM 3) starts in fall quarter only. (An accelerated sequence, GERM 1A-GERM 1B, begins in winter quarter.) (Formerly Instruction in the German Language.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "GERM 1 First-Year German\nGerman 1, a beginning-level course, introduces the German language and culture for students with no previous knowledge of German. The course focuses on speaking, reading, writing, and listening. The first-year sequence (GERM 1-GERM 2-GERM 3) starts in fall quarter only. (An accelerated sequence, GERM 1A-GERM 1B, begins in winter quarter.) (Formerly Instruction in the German Language.)\nCredits 5\nInstructor The Staff\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "GERM 1A Accelerated German",
+        "description": "Accelerated course covers GERM 1 and part of GERM 2. It is designed for motivated beginning students. Students develop skills in speaking, reading, writing, and listening to real-life German.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "GERM 1A Accelerated German\nAccelerated course covers GERM 1 and part of GERM 2. It is designed for motivated beginning students. Students develop skills in speaking, reading, writing, and listening to real-life German.\nCredits 5\nInstructor The Staff\n"
+    },
+    {
+        "coursename": "GERM 1B Accelerated German",
+        "description": "Accelerated course part 2 covers part of GERM 2 and all of GERM 3. In this course, students who have successfully completed GERM 1A (or its equivalent) continue to develop competence in speaking, reading, writing, and understanding real-life German.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 1A or GERM 2 or placement by examination. For students completing GERM 2, GERM 3 is preferable.",
+        "quarteroffered": "none",
+        "fulldesc": "GERM 1B Accelerated German\nAccelerated course part 2 covers part of GERM 2 and all of GERM 3. In this course, students who have successfully completed GERM 1A (or its equivalent) continue to develop competence in speaking, reading, writing, and understanding real-life German.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 1A or GERM 2 or placement by examination. For students completing GERM 2, GERM 3 is preferable.\n"
+    },
+    {
+        "coursename": "GERM 2 First-Year German",
+        "description": "GERM 2, a second-quarter course, is designed for students who have successfully completed German 1 (or its equivalent). Students continue to develop competence in speaking, reading, writing, and understanding in the context of real-life language use.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 1 or GERM 1A or placement by examination.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "GERM 2 First-Year German\nGERM 2, a second-quarter course, is designed for students who have successfully completed German 1 (or its equivalent). Students continue to develop competence in speaking, reading, writing, and understanding in the context of real-life language use.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 1 or GERM 1A or placement by examination.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "GERM 3 First-Year German",
+        "description": "GERM 3 is designed for students who have successfully completed GERM 2 (or its equivalent; e.g., 2-3 years of high school German). Students continue to develop competence in speaking, reading, writing, and understanding real-life German.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 2 or placement by examination.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GERM 3 First-Year German\nGERM 3 is designed for students who have successfully completed GERM 2 (or its equivalent; e.g., 2-3 years of high school German). Students continue to develop competence in speaking, reading, writing, and understanding real-life German.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 2 or placement by examination.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GERM 4 Second-Year German",
+        "description": "Intermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 1B or GERM 3 or placement by examination.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GERM 4 Second-Year German\nIntermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 1B or GERM 3 or placement by examination.\nGeneral Education Code CC\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GERM 5 Second-Year German",
+        "description": "Intermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 4 or placement by examination.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GERM 5 Second-Year German\nIntermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 4 or placement by examination.\nGeneral Education Code CC\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GERM 6 Second-Year German",
+        "description": "Intermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 5 or placement by examination.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GERM 6 Second-Year German\nIntermediate composition and conversation based on the reading of selected prose and related cultural material. Speaking, reading, writing, and listening comprehension skills are developed by extensive use of media materials. Conducted entirely in German.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 5 or placement by examination.\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GERM 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GERM 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "GERM 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GERM 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "GERM 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GERM 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "GERM 119 German Media",
+        "description": "This third-year language and culture course is designed for students who are comfortable speaking and writing German at the GERM 5 level or above. Using a variety of German media sources, students give oral presentations and write reports on contemporary issues. Taught in German.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Zsuzsanna Abrams",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "GERM 119 German Media\nThis third-year language and culture course is designed for students who are comfortable speaking and writing German at the GERM 5 level or above. Using a variety of German media sources, students give oral presentations and write reports on contemporary issues. Taught in German.\nCredits 5\nInstructor The Staff, Zsuzsanna Abrams\nRequirements Prerequisite(s): GERM 5 or placement by examination.\nRepeatable For Credit Yes\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "GERM 120 Advanced German Conversation and Composition",
+        "description": "This third-year language course is designed for students who are comfortable speaking and writing German at the GERM 5 level or above. Using a variety of German texts, including print- and visual media, students practice advanced conversation and composition skills. Taught in German.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GERM 5.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GERM 120 Advanced German Conversation and Composition\nThis third-year language course is designed for students who are comfortable speaking and writing German at the GERM 5 level or above. Using a variety of German texts, including print- and visual media, students practice advanced conversation and composition skills. Taught in German.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): GERM 5.\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GERM 194 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GERM 194 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "GERM 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GERM 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "GERM 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GERM 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "coursename": "FREN 1 First-Year French",
+        "description": "Introduction to French language and culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of French.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "FREN 1 First-Year French\nIntroduction to French language and culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of French.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "FREN 2 First-Year French",
+        "description": "Further development of cultural competence and basic French language skills, both written and spoken. Students learn past tenses in this course.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 1 or placement by interview.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "FREN 2 First-Year French\nFurther development of cultural competence and basic French language skills, both written and spoken. Students learn past tenses in this course.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 1 or placement by interview.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 3 First-Year French",
+        "description": "Final quarter of first-year sequence. Students complete study of French language basics, including the future tense and the conditional and the subjunctive moods, while continuing to learn about French and Francophone cultures.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 2 or placement by interview.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 3 First-Year French\nFinal quarter of first-year sequence. Students complete study of French language basics, including the future tense and the conditional and the subjunctive moods, while continuing to learn about French and Francophone cultures.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 2 or placement by interview.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 4 Second-Year French",
+        "description": "First course in intermediate sequence. Students review and expand upon their previous study of the language through short literary readings, vocabulary building, grammar study, composition, and discussions.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 3 or placement by interview.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 4 Second-Year French\nFirst course in intermediate sequence. Students review and expand upon their previous study of the language through short literary readings, vocabulary building, grammar study, composition, and discussions.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 3 or placement by interview.\nGeneral Education Code CC\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 5 Second-Year French",
+        "description": "Further development of intermediate-level oral and written skills through study of vocabulary and structures. Students also read and discuss a French or Francophone play.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 4 or placement by interview.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "FREN 5 Second-Year French\nFurther development of intermediate-level oral and written skills through study of vocabulary and structures. Students also read and discuss a French or Francophone play.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 4 or placement by interview.\nGeneral Education Code CC\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 6 Second-Year French",
+        "description": "Final course of intermediate sequence includes grammar study, vocabulary building, extensive writing, and discussion. Reading of a French or Francophone novel is an integral part of course.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 5 or placement by interview.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "FREN 6 Second-Year French\nFinal course of intermediate sequence includes grammar study, vocabulary building, extensive writing, and discussion. Reading of a French or Francophone novel is an integral part of course.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 5 or placement by interview.\nGeneral Education Code CC\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 85 (De)constructing contemporary French identity",
+        "description": "Taught in English, this course examines core values and events in France, such as Republican values (in the French sense of \"Republican\"), secularism, globalization, immigration, that have helped shape current French society.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Carine Rohmer",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "FREN 85 (De)constructing contemporary French identity\nTaught in English, this course examines core values and events in France, such as Republican values (in the French sense of \"Republican\"), secularism, globalization, immigration, that have helped shape current French society.\nCredits 5\nInstructor Carine Rohmer\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "FREN 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 108 French Cinema",
+        "description": "Investigation of a variety of topics (historical, cultural, and linguistic) in France and the French-speaking world. Topics are explored through film. Conducted in English.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 108 French Cinema\nInvestigation of a variety of topics (historical, cultural, and linguistic) in France and the French-speaking world. Topics are explored through film. Conducted in English.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nGeneral Education Code IM\n"
+    },
+    {
+        "coursename": "FREN 111 Stylistics",
+        "description": "Intensive work in French composition with the aim of attaining fluency and accuracy of expression while developing literary appreciation. May be repeated for credit with consent of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "FREN 111 Stylistics\nIntensive work in French composition with the aim of attaining fluency and accuracy of expression while developing literary appreciation. May be repeated for credit with consent of instructor.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 6. Students interested in this course who have not taken the prerequisite should meet with the instructor prior to the first class meeting.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "FREN 114 French Phonetics",
+        "description": "Introduction to the French sound system and basic phonetics. Extensive practice of French pronunciation and phonetic transcriptions of both written and spoken language samples.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "FREN 114 French Phonetics\nIntroduction to the French sound system and basic phonetics. Extensive practice of French pronunciation and phonetic transcriptions of both written and spoken language samples.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 6.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "FREN 120 French Linguistics",
+        "description": "Major topics in contemporary French linguistics, covering both formal and social properties of French. Descriptive and theoretical study of phonetics and phonology, lexicon, morphology, syntax, sociolinguistic variation, status of regional and minority languages, and language planning. Taught in French.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Bryan Donaldson",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6 or equivalent proficiency in French or by consent of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 120 French Linguistics\nMajor topics in contemporary French linguistics, covering both formal and social properties of French. Descriptive and theoretical study of phonetics and phonology, lexicon, morphology, syntax, sociolinguistic variation, status of regional and minority languages, and language planning. Taught in French.\nCredits 5\nInstructor The Staff, Bryan Donaldson\nRequirements Prerequisite(s): FREN 6 or equivalent proficiency in French or by consent of the instructor.\n"
+    },
+    {
+        "coursename": "FREN 121 History of the French Language",
+        "description": "Overview of the history and development of the French language from Latin to early modern French. Sound changes, grammatical and lexical changes, language policy (e.g., l'Academie francaise), external influences on the language. Taught in French.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Bryan Donaldson",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6 or equivalent proficiency in French, or by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 121 History of the French Language\nOverview of the history and development of the French language from Latin to early modern French. Sound changes, grammatical and lexical changes, language policy (e.g., l'Academie francaise), external influences on the language. Taught in French.\nCredits 5\nInstructor The Staff, Bryan Donaldson\nRequirements Prerequisite(s): FREN 6 or equivalent proficiency in French, or by permission of the instructor.\n"
+    },
+    {
+        "coursename": "FREN 125A French Civilization: 19th Century",
+        "description": "Survey of the important historical events, social changes, and artistic movements contributing to the development of French culture during the 19th century.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6.",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 125A French Civilization: 19th Century\nSurvey of the important historical events, social changes, and artistic movements contributing to the development of French culture during the 19th century.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 6.\n"
+    },
+    {
+        "coursename": "FREN 125B French Civilization: 20th Century",
+        "description": "A survey of the important historical events, social changes, and artistic movements contributing to the development of French culture during the 20th century.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6.",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 125B French Civilization: 20th Century\nA survey of the important historical events, social changes, and artistic movements contributing to the development of French culture during the 20th century.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 6.\n"
+    },
+    {
+        "coursename": "FREN 130 French for Professions",
+        "description": "Students better understand administrative organization in France through preparation of their own professional dossier in French, and preparation to look for professional opportunities in France. Taught in French.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Renee Cailloux",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6, or equivalent proficiency in French, or by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 130 French for Professions\nStudents better understand administrative organization in France through preparation of their own professional dossier in French, and preparation to look for professional opportunities in France. Taught in French.\nCredits 5\nInstructor The Staff, Renee Cailloux\nRequirements Prerequisite(s): FREN 6, or equivalent proficiency in French, or by permission of the instructor.\n"
+    },
+    {
+        "coursename": "FREN 131 Social Activism in France: The Tradition of Chanson Fran\u00e7aise Engag\u00e9e",
+        "description": "Explores the French tradition of musical activism from the French Revolution to the present. Societal issues such as war, racism, poverty, environmental issues, globalization, and terrorism are addressed.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): FREN 6 or by interview with consent of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 131 Social Activism in France: The Tradition of Chanson Fran\u00e7aise Engag\u00e9e\nExplores the French tradition of musical activism from the French Revolution to the present. Societal issues such as war, racism, poverty, environmental issues, globalization, and terrorism are addressed.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 6 or by interview with consent of instructor.\nGeneral Education Code TA\n"
+    },
+    {
+        "coursename": "FREN 136 La Francophonie",
+        "description": "In-depth multidisciplinary study of one or more French-speaking regions of the world. Topics may include history, language, society, literature, and the arts. All coursework will be done in French.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "FREN 136 La Francophonie\nIn-depth multidisciplinary study of one or more French-speaking regions of the world. Topics may include history, language, society, literature, and the arts. All coursework will be done in French.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): FREN 6.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "FREN 194 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 194 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "FREN 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "FREN 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

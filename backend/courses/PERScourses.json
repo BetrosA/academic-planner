@@ -1,0 +1,32 @@
+[
+    {
+        "coursename": "PERS 1 First-Year Persian",
+        "description": "Introduction to Persian (Farsi) and Persian-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Persian as well as heritage speakers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PERS 1 First-Year Persian\nIntroduction to Persian (Farsi) and Persian-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Persian as well as heritage speakers.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PERS 2 First-Year Persian",
+        "description": "Introduction to Persian (Farsi) and Persian-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Persian as well as heritage speakers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PERS 1 or comparable proficiency.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PERS 2 First-Year Persian\nIntroduction to Persian (Farsi) and Persian-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Persian as well as heritage speakers.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PERS 1 or comparable proficiency.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PERS 3 First-Year Persian",
+        "description": "Introduction to Persian (Farsi) and Persian-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Persian as well as heritage speakers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PERS 2 or comparable proficiency.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PERS 3 First-Year Persian\nIntroduction to Persian (Farsi) and Persian-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Persian as well as heritage speakers.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PERS 2 or comparable proficiency.\nQuarter Offered Spring\n"
+    }
+]

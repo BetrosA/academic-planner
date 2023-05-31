@@ -1,0 +1,902 @@
+[
+    {
+        "coursename": "CHEM 1A General Chemistry",
+        "description": "An integrated study of general chemistry. Covers a range of topics including the atomic structure of matter; molecules; chemical reactions; acids and bases; gases; and equilibria in the gas and liquid phase. Students are expected to use algebra to solve problems. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alegra Eroy-Reveles, Geri Kerstiens",
+        "extrarequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in MATH 3, AM 3, or equivalent, or a mathematics placement score of 300 or higher; taking the online chemistry self-assessment exam is strongly recommended.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CHEM 1A General Chemistry\nAn integrated study of general chemistry. Covers a range of topics including the atomic structure of matter; molecules; chemical reactions; acids and bases; gases; and equilibria in the gas and liquid phase. Students are expected to use algebra to solve problems. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.\nCredits 5\nInstructor Alegra Eroy-Reveles, Geri Kerstiens\nRequirements Prerequisite(s): Previous or concurrent enrollment in MATH 3, AM 3, or equivalent, or a mathematics placement score of 300 or higher; taking the online chemistry self-assessment exam is strongly recommended.\nGeneral Education Code SI\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 1B General Chemistry",
+        "description": "An integrated study of general chemistry. Coverage includes quantum mechanics; the hydrogen atom; many-electron atoms and chemical periodicity; elementary covalent bonding; transition metals; and chemical kinetics. Prerequisite(s): Strong high-school level chemistry is strongly recommended; taking the online chemistry self-assessment examination is strongly recommended. Concurrent enrollment in CHEM 1M is recommended. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Geri Kerstiens, William Scott",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CHEM 1B General Chemistry\nAn integrated study of general chemistry. Coverage includes quantum mechanics; the hydrogen atom; many-electron atoms and chemical periodicity; elementary covalent bonding; transition metals; and chemical kinetics. Prerequisite(s): Strong high-school level chemistry is strongly recommended; taking the online chemistry self-assessment examination is strongly recommended. Concurrent enrollment in CHEM 1M is recommended. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.\nCredits 5\nInstructor Geri Kerstiens, William Scott\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 1C General Chemistry",
+        "description": "An integrated study of general chemistry. Coverage includes thermodynamics; oxidation-reduction and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alegra Eroy-Reveles",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1A. Concurrent enrollment in course 1N is recommended.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CHEM 1C General Chemistry\nAn integrated study of general chemistry. Coverage includes thermodynamics; oxidation-reduction and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.\nCredits 5\nInstructor Alegra Eroy-Reveles\nRequirements Prerequisite(s): CHEM 1A. Concurrent enrollment in course 1N is recommended.\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 1M General Chemistry Laboratory",
+        "description": "Laboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C and important experimental techniques.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Randa Roland",
+        "extrarequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in CHEM 1B is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CHEM 1M General Chemistry Laboratory\nLaboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C and important experimental techniques.\nCredits 2\nInstructor Randa Roland\nRequirements Prerequisite(s): Previous or concurrent enrollment in CHEM 1B is required.\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 1N General Chemistry Laboratory",
+        "description": "Laboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C, respectively, and important experimental techniques.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Randa Roland",
+        "extrarequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in CHEM 1C is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CHEM 1N General Chemistry Laboratory\nLaboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C, respectively, and important experimental techniques.\nCredits 2\nInstructor Randa Roland\nRequirements Prerequisite(s): Previous or concurrent enrollment in CHEM 1C is required.\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 4A Advanced General Chemistry: Molecular Structure and Reactivity",
+        "description": "The first course of the two-quarter accelerated general chemistry series intended for students with a strong high school chemistry background. Coverage includes atomic structure and periodicity, general concepts of chemical bonding, covalent bonding, chemical equilibria and acid-base equilibria.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ted Holman",
+        "extrarequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in MATH 3 (or equivalent) or a mathematics placement score of 300 or higher. Concurrent enrollment in CHEM 1M is required. Strong high-school-level chemistry is strongly recommended.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "CHEM 4A Advanced General Chemistry: Molecular Structure and Reactivity\nThe first course of the two-quarter accelerated general chemistry series intended for students with a strong high school chemistry background. Coverage includes atomic structure and periodicity, general concepts of chemical bonding, covalent bonding, chemical equilibria and acid-base equilibria.\nCredits 5\nInstructor Ted Holman\nRequirements Prerequisite(s): Previous or concurrent enrollment in MATH 3 (or equivalent) or a mathematics placement score of 300 or higher. Concurrent enrollment in CHEM 1M is required. Strong high-school-level chemistry is strongly recommended.\nGeneral Education Code SI\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "CHEM 4B Advanced General Chemistry: Molecular Structure and Reactivity",
+        "description": "The second course of the two-quarter accelerated general chemistry series. Coverage includes thermodynamics; kinetics, oxidation-reduction, and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Glenn Millhauser",
+        "extrarequirements": "Requirements Prerequisite: CHEM 4A. Concurrent enrollment in CHEM 1N is required.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "CHEM 4B Advanced General Chemistry: Molecular Structure and Reactivity\nThe second course of the two-quarter accelerated general chemistry series. Coverage includes thermodynamics; kinetics, oxidation-reduction, and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry.\nCredits 5\nInstructor Glenn Millhauser\nRequirements Prerequisite: CHEM 4A. Concurrent enrollment in CHEM 1N is required.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 4BL Advanced General Chemistry Lab",
+        "description": "Focuses on science skills building with an emphasis on the general chemistry lab setting,. Provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Coursework includes in-person lab experiments/work as well as asynchronous work completed in Canvas and Webassign. This course taken with CHEM 4AL provides an advanced alternative to the CHEM 3BL/CHEM 3CL series.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Randa Roland",
+        "extrarequirements": "Requirements Prerequisite(s): Prior or concurrent enrollment in CHEM 4B.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "CHEM 4BL Advanced General Chemistry Lab\nFocuses on science skills building with an emphasis on the general chemistry lab setting,. Provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Coursework includes in-person lab experiments/work as well as asynchronous work completed in Canvas and Webassign. This course taken with CHEM 4AL provides an advanced alternative to the CHEM 3BL/CHEM 3CL series.\nCredits 2\nInstructor Randa Roland\nRequirements Prerequisite(s): Prior or concurrent enrollment in CHEM 4B.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 8A Organic Chemistry",
+        "description": "Introduces organic chemistry, with an emphasis on bonding and reactivity of organic compounds.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jevgenij Raskatov, Scott Lokey",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1B and CHEM 1C.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "CHEM 8A Organic Chemistry\nIntroduces organic chemistry, with an emphasis on bonding and reactivity of organic compounds.\nCredits 5\nInstructor Jevgenij Raskatov, Scott Lokey\nRequirements Prerequisite(s): CHEM 1B and CHEM 1C.\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "CHEM 8B Organic Chemistry",
+        "description": "Introduction to organic chemistry, with an emphasis on reactivity and synthesis of organic compounds.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rebecca Braslau, Lecturer TBD",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8A.",
+        "quarteroffered": "Quarter Offered Winter, Spring, Summer",
+        "fulldesc": "CHEM 8B Organic Chemistry\nIntroduction to organic chemistry, with an emphasis on reactivity and synthesis of organic compounds.\nCredits 5\nInstructor Rebecca Braslau, Lecturer TBD\nRequirements Prerequisite(s): CHEM 8A.\nQuarter Offered Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 8L Organic Chemistry Laboratory",
+        "description": "Laboratory experience in organic chemistry associated with CHEM 8A. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Caitlin Binder",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C and CHEM 1N and previous or concurrent enrollment in CHEM 8A is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "CHEM 8L Organic Chemistry Laboratory\nLaboratory experience in organic chemistry associated with CHEM 8A. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.\nCredits 2\nInstructor Caitlin Binder\nRequirements Prerequisite(s): CHEM 1C and CHEM 1N and previous or concurrent enrollment in CHEM 8A is required.\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "CHEM 8M Organic Chemistry Laboratory",
+        "description": "Laboratory experience in organic chemistry associated with course 8B. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Caitlin Binder",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8A and CHEM 8L and previous or concurrent enrollment in CHEM 8B is required.",
+        "quarteroffered": "Quarter Offered Winter, Spring, Summer",
+        "fulldesc": "CHEM 8M Organic Chemistry Laboratory\nLaboratory experience in organic chemistry associated with course 8B. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.\nCredits 2\nInstructor Caitlin Binder\nRequirements Prerequisite(s): CHEM 8A and CHEM 8L and previous or concurrent enrollment in CHEM 8B is required.\nQuarter Offered Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CHEM 8N Honors Organic Chemistry Lab",
+        "description": "Honors laboratory experience in organic chemistry associated with course CHEM 8B. Designed to introduce the exceptional student to many of the techniques associated with organic chemistry while taking part in an active organic chemistry research experience. Laboratory: 6 hours per week minimum. Prerequisite(s): CHEM 8A and CHEM 8L; concurrent enrollment in CHEM 8B is required. Enrollment is by permission of the instructor. Students must pass safety training to begin research. Students may only receive credit for one of the following: CHEM 8M or CHEM 8N. This class may only be taken as Pass/No Pass, which cannot be converted to a letter grade.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 8N Honors Organic Chemistry Lab\nHonors laboratory experience in organic chemistry associated with course CHEM 8B. Designed to introduce the exceptional student to many of the techniques associated with organic chemistry while taking part in an active organic chemistry research experience. Laboratory: 6 hours per week minimum. Prerequisite(s): CHEM 8A and CHEM 8L; concurrent enrollment in CHEM 8B is required. Enrollment is by permission of the instructor. Students must pass safety training to begin research. Students may only receive credit for one of the following: CHEM 8M or CHEM 8N. This class may only be taken as Pass/No Pass, which cannot be converted to a letter grade.\nCredits 2\n"
+    },
+    {
+        "coursename": "CHEM 80H Introduction to Wine Science and Chemistry",
+        "description": "A glimpse of the science and technology of wines through critical analysis. Students gain an appreciation of the scientific method and are be exposed to data from chemistry, biology, viticulture, and enology. This analysis is extended to examine commonly accepted practices used by scientists vs. non-scientist to assess and describe wine quality. (Formerly Introduction to Wines and Wine Chemistry.)",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Philip Crews",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 80H Introduction to Wine Science and Chemistry\nA glimpse of the science and technology of wines through critical analysis. Students gain an appreciation of the scientific method and are be exposed to data from chemistry, biology, viticulture, and enology. This analysis is extended to examine commonly accepted practices used by scientists vs. non-scientist to assess and describe wine quality. (Formerly Introduction to Wines and Wine Chemistry.)\nCredits 5\nInstructor Philip Crews\nGeneral Education Code SI\n"
+    },
+    {
+        "coursename": "CHEM 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 103 Biochemistry",
+        "description": "Introduction to biochemistry including biochemical molecules, protein structure and function, membranes, bioenergetics, and regulation of biosynthesis. Provides students with basic essentials of modern biochemistry. Students who plan to do advanced work in biochemistry and molecular biology should take the Biochemistry and Molecular Biology (BIOC) 100 series. Students cannot receive credit for this course after they have completed any two courses from the BIOC 100A, BIOC 100B, and BIOC 100C sequence.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sarah Loerch",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8B.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 103 Biochemistry\nIntroduction to biochemistry including biochemical molecules, protein structure and function, membranes, bioenergetics, and regulation of biosynthesis. Provides students with basic essentials of modern biochemistry. Students who plan to do advanced work in biochemistry and molecular biology should take the Biochemistry and Molecular Biology (BIOC) 100 series. Students cannot receive credit for this course after they have completed any two courses from the BIOC 100A, BIOC 100B, and BIOC 100C sequence.\nCredits 5\nInstructor Sarah Loerch\nRequirements Prerequisite(s): CHEM 8B.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 109 Intermediate Organic Chemistry and Applications to Biology",
+        "description": "Integrated study of fundamental organic chemistry, with emphasis on materials especially relevant to biological sciences.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Lecturer TBD",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8B or equivalent.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 109 Intermediate Organic Chemistry and Applications to Biology\nIntegrated study of fundamental organic chemistry, with emphasis on materials especially relevant to biological sciences.\nCredits 3\nInstructor Lecturer TBD\nRequirements Prerequisite(s): CHEM 8B or equivalent.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 110 Intermediate Organic Chemistry with Emphasis on Synthesis and Analytical Methods",
+        "description": "An intermediate study of organic chemistry, including synthetic methods, reaction mechanisms, and application of synthetic chemistry techniques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shaun McKinnie",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8B. Enrollment is restricted to chemistry majors, minors and proposed majors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 110 Intermediate Organic Chemistry with Emphasis on Synthesis and Analytical Methods\nAn intermediate study of organic chemistry, including synthetic methods, reaction mechanisms, and application of synthetic chemistry techniques.\nCredits 5\nInstructor Shaun McKinnie\nRequirements Prerequisite(s): CHEM 8B. Enrollment is restricted to chemistry majors, minors and proposed majors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 110L Intermediate Organic Chemistry Laboratory",
+        "description": "Laboratory experience in organic chemistry and associated principles. Experiments involve the preparation, purification, characterization, and identification of organic compounds, and make use of modern as well as classical techniques.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Lecturer TBD",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8M and previous or concurrent enrollment in CHEM 110.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 110L Intermediate Organic Chemistry Laboratory\nLaboratory experience in organic chemistry and associated principles. Experiments involve the preparation, purification, characterization, and identification of organic compounds, and make use of modern as well as classical techniques.\nCredits 2\nInstructor Lecturer TBD\nRequirements Prerequisite(s): CHEM 8M and previous or concurrent enrollment in CHEM 110.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 110N Honors Organic Chemistry Lab",
+        "description": "Honors laboratory experience in organic chemistry associated with CHEM 109 or CHEM 110. Designed to introduce the exceptional student to many of the techniques associated with organic chemistry while taking part in an active organic chemistry research experience. Laboratory: 6 hours per week minimum. Prerequisite(s): CHEM 8A, CHEM 8B and CHEM 8L and either CHEM 8M or CHEM 8N and and previous or concurrent enrollment in CHEM 109 or CHEM 110 is required. Enrollment is by permission of the instructor. Students must pass safety training to begin research. Students may only receive credit for one of the following: CHEM 110L, or CHEM 110N. This class may only be taken as Pass/No Pass, which cannot be converted to a letter grade.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 110N Honors Organic Chemistry Lab\nHonors laboratory experience in organic chemistry associated with CHEM 109 or CHEM 110. Designed to introduce the exceptional student to many of the techniques associated with organic chemistry while taking part in an active organic chemistry research experience. Laboratory: 6 hours per week minimum. Prerequisite(s): CHEM 8A, CHEM 8B and CHEM 8L and either CHEM 8M or CHEM 8N and and previous or concurrent enrollment in CHEM 109 or CHEM 110 is required. Enrollment is by permission of the instructor. Students must pass safety training to begin research. Students may only receive credit for one of the following: CHEM 110L, or CHEM 110N. This class may only be taken as Pass/No Pass, which cannot be converted to a letter grade.\nCredits 2\n"
+    },
+    {
+        "coursename": "CHEM 122 Principles of Instrumental Analysis",
+        "description": "A laboratory course designed to develop familiarity with techniques and instrumentation used in analytical chemistry, emphasizing determination of trace inorganic species. Primary emphasis on applications utilizing the absorption or emission of electromagnetic radiation and on voltammetry. Topics include molecular UV-visible absorption and fluorescence spectrometry; atomic absorption, emission and fluorescence spectrometry; and various forms of voltammetry. Lecture: 2 hours; laboratory: 8 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Pradip Mascharak",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 110 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior chemistry (B.S.) majors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 122 Principles of Instrumental Analysis\nA laboratory course designed to develop familiarity with techniques and instrumentation used in analytical chemistry, emphasizing determination of trace inorganic species. Primary emphasis on applications utilizing the absorption or emission of electromagnetic radiation and on voltammetry. Topics include molecular UV-visible absorption and fluorescence spectrometry; atomic absorption, emission and fluorescence spectrometry; and various forms of voltammetry. Lecture: 2 hours; laboratory: 8 hours.\nCredits 5\nInstructor Pradip Mascharak\nRequirements Prerequisite(s): CHEM 110 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior chemistry (B.S.) majors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 124 Bioanalytical Chemistry",
+        "description": "Introduces modern measurement science for biomolecules. DNA, proteins, and specialized metabolites and the methodologies for measuring them, both qualitative and quantitative, are covered. Techniques are presented with the basic framework and concepts, and modern applications are covered in lecture followed by a hands-on lab component. Provides students with the necessary framework to design and execute their own research-based bioanalytical experiments. Group lab reports are prepared as a \"Letter\" to Analytical Chemistry to report the findings from the laboratory-based experiments. Tests cover the material from the lecture prior to the test day and are not cumulative in nature, however, concepts may build on one another.",
+        "genEd": "none",
+        "credithours": "Credits 4",
+        "instructor": "Instructor Laura Sanchez",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 122. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 124 Bioanalytical Chemistry\nIntroduces modern measurement science for biomolecules. DNA, proteins, and specialized metabolites and the methodologies for measuring them, both qualitative and quantitative, are covered. Techniques are presented with the basic framework and concepts, and modern applications are covered in lecture followed by a hands-on lab component. Provides students with the necessary framework to design and execute their own research-based bioanalytical experiments. Group lab reports are prepared as a \"Letter\" to Analytical Chemistry to report the findings from the laboratory-based experiments. Tests cover the material from the lecture prior to the test day and are not cumulative in nature, however, concepts may build on one another.\nCredits 4\nInstructor Laura Sanchez\nRequirements Prerequisite(s): CHEM 122. Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 139 Chemical Problem Solving: Learning to Think Like a Scientist",
+        "description": "Students actively develop the skills and strategies required to become proficient problem solvers in both upper-division science classes and in scientific research. The focus is on systematic problem solving and scientific creativity. (Formerly CHEM 139A, Chemical Problem Solving I: Learning to Think Like a Scientist.)",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alex Ayzner",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C; and MATH 11A or MATH 19A.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 139 Chemical Problem Solving: Learning to Think Like a Scientist\nStudents actively develop the skills and strategies required to become proficient problem solvers in both upper-division science classes and in scientific research. The focus is on systematic problem solving and scientific creativity. (Formerly CHEM 139A, Chemical Problem Solving I: Learning to Think Like a Scientist.)\nCredits 5\nInstructor Alex Ayzner\nRequirements Prerequisite(s): CHEM 1C; and MATH 11A or MATH 19A.\nGeneral Education Code PR-E\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 143 Organic Chemical Structure and Reactions",
+        "description": "Advanced topics such as the chemistry of terpenes, steroids, synthetic polymers, alkaloids, reactive intermediates, and reaction mechanisms are treated. Lecture: 4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jevgenij Raskatov",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 110.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 143 Organic Chemical Structure and Reactions\nAdvanced topics such as the chemistry of terpenes, steroids, synthetic polymers, alkaloids, reactive intermediates, and reaction mechanisms are treated. Lecture: 4 hours.\nCredits 5\nInstructor Jevgenij Raskatov\nRequirements Prerequisite(s): CHEM 110.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 144 Catalysis In Organic Synthesis Using Metals and Metalloids Based Reagents",
+        "description": "Designed to introduce Junior/Senior undergraduates to the field of catalysis in organic synthesis. Course acquaints students with the chemistry, with relevant techniques of metals and metalloid chemistry, and focuses on new advancements in organoborane field. Also provides knowledge of the methods to use chemistry to address synthetic challenges in organic chemistry. Students become familiar with the concepts and approaches in the current field of chemical biology.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Bakthan Singaram",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 110",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 144 Catalysis In Organic Synthesis Using Metals and Metalloids Based Reagents\nDesigned to introduce Junior/Senior undergraduates to the field of catalysis in organic synthesis. Course acquaints students with the chemistry, with relevant techniques of metals and metalloid chemistry, and focuses on new advancements in organoborane field. Also provides knowledge of the methods to use chemistry to address synthetic challenges in organic chemistry. Students become familiar with the concepts and approaches in the current field of chemical biology.\nCredits 5\nInstructor Bakthan Singaram\nRequirements Prerequisite(s): CHEM 110\n"
+    },
+    {
+        "coursename": "CHEM 146A Advanced Laboratory in Organic Chemistry",
+        "description": "Exposes students to advanced laboratory techniques in organic chemistry. Designed for students without previous research background in organic chemistry. Experiments carry a research-like format and cover the areas of natural products and reaction chemistry. Modern methods of organic analysis are emphasized including chromatographic methods and organic structure determination by spectroscopy. Laboratory: 8 hours.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Lecturer TBD",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 110 and CHEM 110L; satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors. Minors by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 146A Advanced Laboratory in Organic Chemistry\nExposes students to advanced laboratory techniques in organic chemistry. Designed for students without previous research background in organic chemistry. Experiments carry a research-like format and cover the areas of natural products and reaction chemistry. Modern methods of organic analysis are emphasized including chromatographic methods and organic structure determination by spectroscopy. Laboratory: 8 hours.\nCredits 3\nInstructor Lecturer TBD\nRequirements Prerequisite(s): CHEM 110 and CHEM 110L; satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors. Minors by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 146B Advanced Laboratory in Inorganic Chemistry",
+        "description": "Designed to expose students to advanced synthetic and spectroscopic techniques in inorganic chemistry. Examples include anaerobic manipulations, characterization of inorganic materials through spectral assignments and synthesis of coordination and organometallic complexes. Lecture: 1-1/4 hours; laboratory: 8 hours. Students billed a materials fee of $240.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Ted Holman",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 151A and CHEM 151L; CHEM 163A; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 146B Advanced Laboratory in Inorganic Chemistry\nDesigned to expose students to advanced synthetic and spectroscopic techniques in inorganic chemistry. Examples include anaerobic manipulations, characterization of inorganic materials through spectral assignments and synthesis of coordination and organometallic complexes. Lecture: 1-1/4 hours; laboratory: 8 hours. Students billed a materials fee of $240.\nCredits 3\nInstructor Ted Holman\nRequirements Prerequisite(s): CHEM 151A and CHEM 151L; CHEM 163A; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 146C Advanced Laboratory in Physical Chemistry",
+        "description": "Provides advanced laboratory experience in the areas of nanomaterial synthesis and characterization; spectroscopy; fabrication and measurements energy-conversion devices; and soft lithography techniques and instrumentation. Lecture: 1-1/4 hours; laboratory: 4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yat Li",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 163B and CHEM 164; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 146C Advanced Laboratory in Physical Chemistry\nProvides advanced laboratory experience in the areas of nanomaterial synthesis and characterization; spectroscopy; fabrication and measurements energy-conversion devices; and soft lithography techniques and instrumentation. Lecture: 1-1/4 hours; laboratory: 4 hours.\nCredits 5\nInstructor Yat Li\nRequirements Prerequisite(s): CHEM 163B and CHEM 164; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 151A Chemistry of Metals",
+        "description": "Fundamental topics of inorganic chemistry are presented at the level of the standard texts of field. Special emphasis is given to maintain breadth in the areas of metallic, nonmetallic, and biological aspects of inorganic chemistry. Lecture: 3-1/2 hours; discussion: 1-1/4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Tim Johnstone",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A. Concurrent enrollment in CHEM 151L is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 151A Chemistry of Metals\nFundamental topics of inorganic chemistry are presented at the level of the standard texts of field. Special emphasis is given to maintain breadth in the areas of metallic, nonmetallic, and biological aspects of inorganic chemistry. Lecture: 3-1/2 hours; discussion: 1-1/4 hours.\nCredits 5\nInstructor Tim Johnstone\nRequirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A. Concurrent enrollment in CHEM 151L is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 151B Chemistry of the Main Group Elements",
+        "description": "Fundamental aspects of inorganic chemistry of main group elements are discussed. The emphasis is placed on the chemistry of nontransition elements including noble gases and halogens. In addition, students are exposed to the concepts of extended structures, new materials, and solid-state chemistry. Lecture: 3-3/4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Scott Oliver",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A. Recommended for chemistry majors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 151B Chemistry of the Main Group Elements\nFundamental aspects of inorganic chemistry of main group elements are discussed. The emphasis is placed on the chemistry of nontransition elements including noble gases and halogens. In addition, students are exposed to the concepts of extended structures, new materials, and solid-state chemistry. Lecture: 3-3/4 hours.\nCredits 5\nInstructor Scott Oliver\nRequirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A. Recommended for chemistry majors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 151L Inorganic Chemistry Laboratory",
+        "description": "Laboratory experience in inorganic chemistry. Experiments involve the preparation, purification, and characterization of inorganic compounds. In addition, experiments are designed to illustrate fundamental principles in inorganic chemistry and are coordinated with lectures in CHEM 151A. Laboratory: 4 hours per week. Laboratory lecture: 1 1/4 hours per week.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Tim Johnstone",
+        "extrarequirements": "Requirements Prerequisite(s):CHEM 8B and CHEM 8M and CHEM 163A. Concurrent enrollment in CHEM 151A is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 151L Inorganic Chemistry Laboratory\nLaboratory experience in inorganic chemistry. Experiments involve the preparation, purification, and characterization of inorganic compounds. In addition, experiments are designed to illustrate fundamental principles in inorganic chemistry and are coordinated with lectures in CHEM 151A. Laboratory: 4 hours per week. Laboratory lecture: 1 1/4 hours per week.\nCredits 2\nInstructor Tim Johnstone\nRequirements Prerequisite(s):CHEM 8B and CHEM 8M and CHEM 163A. Concurrent enrollment in CHEM 151A is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 156C Materials Chemistry",
+        "description": "Advanced topics in inorganic chemistry and an introduction to solid-state chemistry. Synthesis and structure of materials discussed as well as their influence on properties for modern devices and applications. Recent developments in area of material science also explored. Taught in conjunction with CHEM 256C.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Scott Oliver",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 151A. Enrollment is restricted to seniors.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 156C Materials Chemistry\nAdvanced topics in inorganic chemistry and an introduction to solid-state chemistry. Synthesis and structure of materials discussed as well as their influence on properties for modern devices and applications. Recent developments in area of material science also explored. Taught in conjunction with CHEM 256C.\nCredits 5\nInstructor Scott Oliver\nRequirements Prerequisite(s): CHEM 151A. Enrollment is restricted to seniors.\n"
+    },
+    {
+        "coursename": "CHEM 160J Biochemistry Research Laboratory",
+        "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Seth Rubin",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 8L and completion of or enrollment in BIOC 100A, BIOL 100, or CHEM 103.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 160J Biochemistry Research Laboratory\nIntroduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.\nCredits 5\nInstructor Seth Rubin\nRequirements Prerequisite(s): CHEM 8L and completion of or enrollment in BIOC 100A, BIOL 100, or CHEM 103.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 160K Biochemistry Research Laboratory",
+        "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Seth Rubin",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM160J.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 160K Biochemistry Research Laboratory\nIntroduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.\nCredits 5\nInstructor Seth Rubin\nRequirements Prerequisite(s): CHEM160J.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 160L Biochemistry Research Laboratory",
+        "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Seth Rubin",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 160K, satisfaction the Entry Level Writing and Composition requirements.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 160L Biochemistry Research Laboratory\nIntroduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.\nCredits 5\nInstructor Seth Rubin\nRequirements Prerequisite(s): CHEM 160K, satisfaction the Entry Level Writing and Composition requirements.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 163A Quantum Mechanics and Basic Spectroscopy",
+        "description": "A detailed introduction to quantum theory and the application of wave mechanics to problems of atomic structure, bonding in molecules, and fundamentals of spectroscopy. Students cannot receive credit for this course and BIOC 163A.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yuan Ping",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1B and CHEM 1C; PHYS 5A, PHYS 5B, and PHYS 5C or PHYS 6A, PHYS 6B, and PHYS 6C; and MATH 22 or MATH 23B. PHYS 6C can be taken concurrently.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 163A Quantum Mechanics and Basic Spectroscopy\nA detailed introduction to quantum theory and the application of wave mechanics to problems of atomic structure, bonding in molecules, and fundamentals of spectroscopy. Students cannot receive credit for this course and BIOC 163A.\nCredits 5\nInstructor Yuan Ping\nRequirements Prerequisite(s): CHEM 1B and CHEM 1C; PHYS 5A, PHYS 5B, and PHYS 5C or PHYS 6A, PHYS 6B, and PHYS 6C; and MATH 22 or MATH 23B. PHYS 6C can be taken concurrently.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 163B Chemical Thermodynamics",
+        "description": "Fundamentals of thermodynamics and applications to chemical and biochemical equilibria. Students cannot receive credit for this course and BIOC 163B.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shaowei Chen",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1B and CHEM 1C, PHYS 6A or PHYS 5A, and MATH 22 or MATH 23B.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 163B Chemical Thermodynamics\nFundamentals of thermodynamics and applications to chemical and biochemical equilibria. Students cannot receive credit for this course and BIOC 163B.\nCredits 5\nInstructor Shaowei Chen\nRequirements Prerequisite(s): CHEM 1B and CHEM 1C, PHYS 6A or PHYS 5A, and MATH 22 or MATH 23B.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 163C Statistical Thermodynamics and Kinetics",
+        "description": "Statistical mechanics, kinetic theory, and reaction kinetics and topics in spectroscopy. (Formerly Kinetic Theory and Reaction Kinetics, Statistical Mechanics, Spectroscopic Applications.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alex Ayzner",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 163A and CHEM 163B, or BIOC 163A and BIOC 163B.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 163C Statistical Thermodynamics and Kinetics\nStatistical mechanics, kinetic theory, and reaction kinetics and topics in spectroscopy. (Formerly Kinetic Theory and Reaction Kinetics, Statistical Mechanics, Spectroscopic Applications.)\nCredits 5\nInstructor Alex Ayzner\nRequirements Prerequisite(s): CHEM 163A and CHEM 163B, or BIOC 163A and BIOC 163B.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 164 Physical Chemistry Laboratory",
+        "description": "Provides laboratory experience and data analysis in the areas of thermodynamics, kinetics, and spectroscopy. Lecture: 1.75 hours; experimental laboratory: 4 hours; computer laboratory: 2 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yat Li",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1B and CHEM 1C; and PHYS 5A and PHYS 5B and PHYS 5C, or PHYS 6A and PHYS 6B and PHYS 6C; and MATH 22 or MATH 23B. CHEM 163A is recommended.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 164 Physical Chemistry Laboratory\nProvides laboratory experience and data analysis in the areas of thermodynamics, kinetics, and spectroscopy. Lecture: 1.75 hours; experimental laboratory: 4 hours; computer laboratory: 2 hours.\nCredits 5\nInstructor Yat Li\nRequirements Prerequisite(s): CHEM 1B and CHEM 1C; and PHYS 5A and PHYS 5B and PHYS 5C, or PHYS 6A and PHYS 6B and PHYS 6C; and MATH 22 or MATH 23B. CHEM 163A is recommended.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 169 Chemistry and Biology of Drug Design and Discovery",
+        "description": "An overview of the central elements of drug discovery, including target selection and validation; computational or virtual screening; high-throughput screening; fragment-based methods; and pharmacokinetics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Scott Lokey",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 103 or BIOC 100A.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 169 Chemistry and Biology of Drug Design and Discovery\nAn overview of the central elements of drug discovery, including target selection and validation; computational or virtual screening; high-throughput screening; fragment-based methods; and pharmacokinetics.\nCredits 5\nInstructor Scott Lokey\nRequirements Prerequisite(s): CHEM 103 or BIOC 100A.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 171 Chemical Biology",
+        "description": "Covers methods and techniques for the field of chemical biology. Brings together methods in chemistry, biochemistry, and genetics to study the interaction of small molecules with biological systems. Students cannot receive credit for this course and course CHEM 271.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shaun McKinnie",
+        "extrarequirements": "Requirements Prerequisites: CHEM 8B, and CHEM 103 or BIOC 100A. Enrollment is restricted to senior chemistry, biochemistry or related life science majors and minors. BIOL 101 and CHEM 110 recommended but not required.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 171 Chemical Biology\nCovers methods and techniques for the field of chemical biology. Brings together methods in chemistry, biochemistry, and genetics to study the interaction of small molecules with biological systems. Students cannot receive credit for this course and course CHEM 271.\nCredits 5\nInstructor Shaun McKinnie\nRequirements Prerequisites: CHEM 8B, and CHEM 103 or BIOC 100A. Enrollment is restricted to senior chemistry, biochemistry or related life science majors and minors. BIOL 101 and CHEM 110 recommended but not required.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 192 Dir Stu Teach",
+        "description": "Dir Stu Teach",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 192 Dir Stu Teach\nDir Stu Teach\nCredits 5\n"
+    },
+    {
+        "coursename": "CHEM 194 Senior Essay",
+        "description": "An individually supervised course with emphasis on reviewing the current scientific literature. Students are required to submit a summary and a critique of a scientific paper in the form of a senior essay. Students submit a petition to the sponsoring agency. This course may not be repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 194 Senior Essay\nAn individually supervised course with emphasis on reviewing the current scientific literature. Students are required to submit a summary and a critique of a scientific paper in the form of a senior essay. Students submit a petition to the sponsoring agency. This course may not be repeated for credit.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 195A Senior Research",
+        "description": "An individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 195A Senior Research\nAn individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 195B Senior Research",
+        "description": "An individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 195B Senior Research\nAn individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 195C Senior Thesis",
+        "description": "An individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit.",
+        "genEd": "none",
+        "credithours": "none",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 195C Senior Thesis\nAn individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit.\n  Credits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 200A Advanced Biochemistry: Biophysical Methods",
+        "description": "An introduction to the theory, principles, and practical application of biophysical methods to the study of biomolecules, especially proteins and nucleic acids. Emphasis on spectroscopic techniques. Topics include magnetic resonance, optical spectroscopy, fast reaction techniques, crystallography, and mass spectrometry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor William Scott",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 200A Advanced Biochemistry: Biophysical Methods\nAn introduction to the theory, principles, and practical application of biophysical methods to the study of biomolecules, especially proteins and nucleic acids. Emphasis on spectroscopic techniques. Topics include magnetic resonance, optical spectroscopy, fast reaction techniques, crystallography, and mass spectrometry.\nCredits 5\nInstructor William Scott\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 200B Advanced Biochemistry: Macromolecular Structure and Function",
+        "description": "A detailed discussion of nucleic acid and protein chemistry, ranging from the structure, thermodynamics, and folding to the relationship between structure and function, and encompassing the methods used to determine such information.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sarah Loerch",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 200B Advanced Biochemistry: Macromolecular Structure and Function\nA detailed discussion of nucleic acid and protein chemistry, ranging from the structure, thermodynamics, and folding to the relationship between structure and function, and encompassing the methods used to determine such information.\nCredits 5\nInstructor Sarah Loerch\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 200C Advanced Biochemistry: Enzyme Mechanisms and Kinetics",
+        "description": "A study of enzyme kinetics, mechanisms, and factors involved in enzymic catalysis. Lecture: 3-1/2 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor William Scott",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 200C Advanced Biochemistry: Enzyme Mechanisms and Kinetics\nA study of enzyme kinetics, mechanisms, and factors involved in enzymic catalysis. Lecture: 3-1/2 hours.\nCredits 5\nInstructor William Scott\n"
+    },
+    {
+        "coursename": "CHEM 222 Career Success in Industrial Science/ Engineering",
+        "description": "Provides skills for the transition from academia into industrial research careers, addressing presentation skills, project prioritization, teamwork, salary-benefit expectations, intellectual property, performance reviews, Myers-Briggs profiles, and career planning. Participant teams will analyze the commercialization of a technical innovation.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to Physical and Biological Sciences and School of Engineering graduate students who have completed one consecutive year. Undergraduates may enroll on a space available basis by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 222 Career Success in Industrial Science/ Engineering\nProvides skills for the transition from academia into industrial research careers, addressing presentation skills, project prioritization, teamwork, salary-benefit expectations, intellectual property, performance reviews, Myers-Briggs profiles, and career planning. Participant teams will analyze the commercialization of a technical innovation.\nCredits 2\nRequirements Enrollment is restricted to Physical and Biological Sciences and School of Engineering graduate students who have completed one consecutive year. Undergraduates may enroll on a space available basis by permission of instructor.\n"
+    },
+    {
+        "coursename": "CHEM 230 Grant Writing in Biomedical Research",
+        "description": "Introduces the fundamentals of grant writing in biomedical research, including best practices for presentation of data and communication of research findings. Students write and peer-edit most components of the NIH Ruth L. Kirschstein F31 predoctoral fellowship. Course is designed for students in their second year or later of graduate study.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Carrie Partch",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 230 Grant Writing in Biomedical Research\nIntroduces the fundamentals of grant writing in biomedical research, including best practices for presentation of data and communication of research findings. Students write and peer-edit most components of the NIH Ruth L. Kirschstein F31 predoctoral fellowship. Course is designed for students in their second year or later of graduate study.\nCredits 5\nInstructor Carrie Partch\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 234 Bioinorganic Chemistry",
+        "description": "The role played by transition metals in biological systems is discussed through application of the principles of coordination chemistry and inorganic spectroscopy. Topics include metalloproteins involved in oxygen binding, iron storage, biological redox reactions, and nitrogen fixation, as well as metal complexes of nucleic acids. Lecture: 4 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Pradip Mascharak",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 151A, CHEM 151L, CHEM 163A, and BIOC 100A; or graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 234 Bioinorganic Chemistry\nThe role played by transition metals in biological systems is discussed through application of the principles of coordination chemistry and inorganic spectroscopy. Topics include metalloproteins involved in oxygen binding, iron storage, biological redox reactions, and nitrogen fixation, as well as metal complexes of nucleic acids. Lecture: 4 hours.\nCredits 5\nInstructor Pradip Mascharak\nRequirements Prerequisite(s): CHEM 151A, CHEM 151L, CHEM 163A, and BIOC 100A; or graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 238 Topics in Biophysical Chemistry",
+        "description": "A discussion of the application of selected topics in biophysical chemistry to contemporary problems in biochemistry and molecular biology. Lecture: 3-1/2 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 238 Topics in Biophysical Chemistry\nA discussion of the application of selected topics in biophysical chemistry to contemporary problems in biochemistry and molecular biology. Lecture: 3-1/2 hours.\nCredits 5\n"
+    },
+    {
+        "coursename": "CHEM 242A Modern Physical Organic Chemistry",
+        "description": "Covers molecular structure and bonding, strain, and non-covalent binding forces. Other topics include acid-base chemistry, kinetics, thermodynamics, catalysis, organic reactions and mechanism, and quantum mechanical approaches to the analysis of organic molecules.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jevgenij Raskatov",
+        "extrarequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 242A Modern Physical Organic Chemistry\nCovers molecular structure and bonding, strain, and non-covalent binding forces. Other topics include acid-base chemistry, kinetics, thermodynamics, catalysis, organic reactions and mechanism, and quantum mechanical approaches to the analysis of organic molecules.\nCredits 5\nInstructor Jevgenij Raskatov\nRequirements Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.\n"
+    },
+    {
+        "coursename": "CHEM 242B Modern Synthetic Methods in Organic Chemistry",
+        "description": "Presents concepts in bond formation, conformation, selectivity, and stereocontrol in modern organic synthesis. Focuses on understanding reaction mechanisms. Culminates with strategy in designing multi-step synthesis of complex targets.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rebecca Braslau",
+        "extrarequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 242B Modern Synthetic Methods in Organic Chemistry\nPresents concepts in bond formation, conformation, selectivity, and stereocontrol in modern organic synthesis. Focuses on understanding reaction mechanisms. Culminates with strategy in designing multi-step synthesis of complex targets.\nCredits 5\nInstructor Rebecca Braslau\nRequirements Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 242C Spectroscopy and Applied Analytical Methods",
+        "description": "Presents strategies in organic structure elucidation, including nuclear magnetic resonance (NMR) and mass spectrometry. Provides theory and practical elements of structure elucidation and modern analytical methods for organic molecules.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor John MacMillan",
+        "extrarequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 242C Spectroscopy and Applied Analytical Methods\nPresents strategies in organic structure elucidation, including nuclear magnetic resonance (NMR) and mass spectrometry. Provides theory and practical elements of structure elucidation and modern analytical methods for organic molecules.\nCredits 5\nInstructor John MacMillan\nRequirements Enrollment is restricted to seniors who have taken CHEM 143, and graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 244 Organic Free Radical Chemistry",
+        "description": "Explores organic free radicals. Fundamental principles in physical chemistry provide an understanding of free-radical transformations in organic synthesis, polymerization, and some examples of free radicals in biology. For students who have a firm grounding in organic chemistry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rebecca Braslau",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 244 Organic Free Radical Chemistry\nExplores organic free radicals. Fundamental principles in physical chemistry provide an understanding of free-radical transformations in organic synthesis, polymerization, and some examples of free radicals in biology. For students who have a firm grounding in organic chemistry.\nCredits 5\nInstructor Rebecca Braslau\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CHEM 247 Using DFT Computational Methods to Study Molecular Structure and Reactivity",
+        "description": "This course is fully hands-on, highly interactive, and project-based. Students receive extensive training on the DFT program Gaussian and are then offered the opportunity to deepen their knowledge, tailored to their specific research projects. Students have the option to bring in their own molecules of interest from their research laboratories.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 247 Using DFT Computational Methods to Study Molecular Structure and Reactivity\nThis course is fully hands-on, highly interactive, and project-based. Students receive extensive training on the DFT program Gaussian and are then offered the opportunity to deepen their knowledge, tailored to their specific research projects. Students have the option to bring in their own molecules of interest from their research laboratories.\nCredits 5\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CHEM 256A Advanced Topics in Inorganic Chemistry",
+        "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Scott Oliver",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 256A Advanced Topics in Inorganic Chemistry\nAdvanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.\nCredits 5\nInstructor Scott Oliver\nRequirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.\n"
+    },
+    {
+        "coursename": "CHEM 256B Advanced Topics in Inorganic Chemistry",
+        "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Theodore Holman",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 256B Advanced Topics in Inorganic Chemistry\nAdvanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.\nCredits 5\nInstructor Theodore Holman\nRequirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.\n"
+    },
+    {
+        "coursename": "CHEM 256C Advanced Topics in Inorganic Chemistry",
+        "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Scott Oliver",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 256C Advanced Topics in Inorganic Chemistry\nAdvanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.\nCredits 5\nInstructor Scott Oliver\nRequirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A, CHEM 151L, and CHEM 146B.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 256D X-ray Crystallography",
+        "description": "Course in chemical crystallography focuses on the needs of small-molecule, single-crystal diffraction studies. Includes diffraction theory, space-group analysis, data collection, structure solution, and refinement. Practical component: use of diffraction equipment and solution/refinement software.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Timothy Johnstone",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students and seniors who have taken CHEM 151A, CHEM 151L, and CHEM 163A.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 256D X-ray Crystallography\nCourse in chemical crystallography focuses on the needs of small-molecule, single-crystal diffraction studies. Includes diffraction theory, space-group analysis, data collection, structure solution, and refinement. Practical component: use of diffraction equipment and solution/refinement software.\nCredits 5\nInstructor Timothy Johnstone\nRequirements Enrollment is restricted to graduate students and seniors who have taken CHEM 151A, CHEM 151L, and CHEM 163A.\n"
+    },
+    {
+        "coursename": "CHEM 261 Foundations of Spectroscopy",
+        "description": "The basic theory of time-dependent processes is covered at an advanced level. The interaction of electromagnetic radiation and matter is described using both semiclassical and quantum field formulations. A variety of modern spectroscopic techniques are discussed both in terms of the basic processes and their use in the elucidation of chemical structure and dynamics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jin Zhang",
+        "extrarequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 261 Foundations of Spectroscopy\nThe basic theory of time-dependent processes is covered at an advanced level. The interaction of electromagnetic radiation and matter is described using both semiclassical and quantum field formulations. A variety of modern spectroscopic techniques are discussed both in terms of the basic processes and their use in the elucidation of chemical structure and dynamics.\nCredits 5\nInstructor Jin Zhang\nRequirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 262 Statistical Mechanics",
+        "description": "Theory and concepts of statistical mechanics with applications to ideal gases, condensed systems, phase transition, and non-equilibrium thermodynamics. Lecture: 3-1/2 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ilan Benjamin",
+        "extrarequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CHEM 262 Statistical Mechanics\nTheory and concepts of statistical mechanics with applications to ideal gases, condensed systems, phase transition, and non-equilibrium thermodynamics. Lecture: 3-1/2 hours.\nCredits 5\nInstructor Ilan Benjamin\nRequirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CHEM 263 Quantum Mechanics",
+        "description": "A rigorous introductory course: the Schr\u00f6dinger equation, operator formalism, matrix mechanics, angular momentum, and spin. Perturbation and other approximate methods. Applications to atomic and molecular problems. Lecture: 3-1/2 hours.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yuan Ping",
+        "extrarequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A, PHYS 116A, and PHYS 116C.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 263 Quantum Mechanics\nA rigorous introductory course: the Schr\u00f6dinger equation, operator formalism, matrix mechanics, angular momentum, and spin. Perturbation and other approximate methods. Applications to atomic and molecular problems. Lecture: 3-1/2 hours.\nCredits 5\nInstructor Yuan Ping\nRequirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A, PHYS 116A, and PHYS 116C.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 264 Computational Materials",
+        "description": "Introduction of quantum mechanical simulations of materials at the atomistic level. This includes introduction of solid-state electronic structure formulated with density functional theory and plane-wave basis, calculations of spectroscopic and transport properties for solids and condensed phases from first-principles. Basic calculations of electronic structure, lattice dynamics with phonon dispersion and dielectric properties, treatment of electron correlation for open-shell systems with linear and non-linear magnetism. Advanced topics include calculations of excited-state spectroscopy with many-body interaction, ab-initio molecular dynamics, Wannier function and topological properties, and electron-phonon coupling for superconductivity and carrier transport. ",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yuan Ping",
+        "extrarequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students; undergraduates who have completed PHYS 102 or CHEM 163A may enroll.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CHEM 264 Computational Materials\nIntroduction of quantum mechanical simulations of materials at the atomistic level. This includes introduction of solid-state electronic structure formulated with density functional theory and plane-wave basis, calculations of spectroscopic and transport properties for solids and condensed phases from first-principles. Basic calculations of electronic structure, lattice dynamics with phonon dispersion and dielectric properties, treatment of electron correlation for open-shell systems with linear and non-linear magnetism. Advanced topics include calculations of excited-state spectroscopy with many-body interaction, ab-initio molecular dynamics, Wannier function and topological properties, and electron-phonon coupling for superconductivity and carrier transport. \nCredits 5\nInstructor Yuan Ping\nRequirements Prerequisite(s): Enrollment is restricted to graduate students; undergraduates who have completed PHYS 102 or CHEM 163A may enroll.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CHEM 265 Computer Simulation in Statistical Mechanics",
+        "description": "A detailed introduction of the use of computer simulation methods in physical and biophysical chemistry. Includes review of thermodynamics and statistical mechanics, molecular mechanics, molecular dynamics, and Monte-Carlo methods. Applications to liquid structure, reaction dynamics, and protein dynamics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ilan Benjamin",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 265 Computer Simulation in Statistical Mechanics\nA detailed introduction of the use of computer simulation methods in physical and biophysical chemistry. Includes review of thermodynamics and statistical mechanics, molecular mechanics, molecular dynamics, and Monte-Carlo methods. Applications to liquid structure, reaction dynamics, and protein dynamics.\nCredits 5\nInstructor Ilan Benjamin\n"
+    },
+    {
+        "coursename": "CHEM 268 Solid State and Materials Chemistry",
+        "description": "Topics include synthesis of solid-state materials and their characterization using experimental techniques: XRD, TEM spectroscopy, NMR, and their applications in technologies. Emphasis on new materials, e.g., polymer, biopolymers, nanomaterials, organic/inorganic composites, ceramics, superconductors, electronic, magnetic, and opto-electronic materials.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yat Li",
+        "extrarequirements": "Requirements Enrollment is restricted to chemistry graduate students or students previously enrolled in CHEM 163A and CHEM 163B.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 268 Solid State and Materials Chemistry\nTopics include synthesis of solid-state materials and their characterization using experimental techniques: XRD, TEM spectroscopy, NMR, and their applications in technologies. Emphasis on new materials, e.g., polymer, biopolymers, nanomaterials, organic/inorganic composites, ceramics, superconductors, electronic, magnetic, and opto-electronic materials.\nCredits 5\nInstructor Yat Li\nRequirements Enrollment is restricted to chemistry graduate students or students previously enrolled in CHEM 163A and CHEM 163B.\n"
+    },
+    {
+        "coursename": "CHEM 269 Electrochemistry",
+        "description": "Designed to introduce basic principles and applications of electrochemistry to students at upper undergraduate and lower graduate levels in various fields including analytical, physical, and materials chemistry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shaowei Chen",
+        "extrarequirements": "Requirements Enrollment is restricted to seniors and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 269 Electrochemistry\nDesigned to introduce basic principles and applications of electrochemistry to students at upper undergraduate and lower graduate levels in various fields including analytical, physical, and materials chemistry.\nCredits 5\nInstructor Shaowei Chen\nRequirements Enrollment is restricted to seniors and graduate students.\n"
+    },
+    {
+        "coursename": "CHEM 271 Chemical Biology",
+        "description": "Methods and techniques for the field of chemical biology. Brings together methods in chemistry, biochemistry, and genetics to study the interaction of small molecules with biological systems. Students cannot receive credit for this course and CHEM 171.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shaun McKinnie",
+        "extrarequirements": "Requirements Enrollment is restricted to chemistry graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 271 Chemical Biology\nMethods and techniques for the field of chemical biology. Brings together methods in chemistry, biochemistry, and genetics to study the interaction of small molecules with biological systems. Students cannot receive credit for this course and CHEM 171.\nCredits 5\nInstructor Shaun McKinnie\nRequirements Enrollment is restricted to chemistry graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 272 Mass Spectrometry: Fundamentals and Applications",
+        "description": "Lecture and lab course introducing graduate students to mass spectrometry. Begins with the basic framework and concepts in mass spectrometry to break down modern instrumentation to build toward utilizing modern biomedical applications of the technology. Course focuses on biological molecules (amino acids to proteins). Interpretation of organic mass spectra is only be briefly covered. Provides students with the necessary framework to design and execute their own research-based mass spectrometry experiments. Two weeks are dedicated to hands-on experiments using modern mass spectrometers and preparing short technical notes based on the Journal of the American Society for Mass Spectrometry (JASMS) to report findings from laboratory base experiments.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Laura Sanchez",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 272 Mass Spectrometry: Fundamentals and Applications\nLecture and lab course introducing graduate students to mass spectrometry. Begins with the basic framework and concepts in mass spectrometry to break down modern instrumentation to build toward utilizing modern biomedical applications of the technology. Course focuses on biological molecules (amino acids to proteins). Interpretation of organic mass spectra is only be briefly covered. Provides students with the necessary framework to design and execute their own research-based mass spectrometry experiments. Two weeks are dedicated to hands-on experiments using modern mass spectrometers and preparing short technical notes based on the Journal of the American Society for Mass Spectrometry (JASMS) to report findings from laboratory base experiments.\nCredits 5\nInstructor Laura Sanchez\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CHEM 274 Proseminar in Synthetic and Polymer Chemistry",
+        "description": "Weekly meetings devoted to study of synthetic organic chemistry and controlled polymer design for applications in nanotechnology. Topics drawn from current literature and research interests of participants.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rebecca Braslau",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "CHEM 274 Proseminar in Synthetic and Polymer Chemistry\nWeekly meetings devoted to study of synthetic organic chemistry and controlled polymer design for applications in nanotechnology. Topics drawn from current literature and research interests of participants.\nCredits 5\nInstructor Rebecca Braslau\nRepeatable For Credit Yes\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "CHEM 275 Proseminar in Biological Inorganic Chemistry",
+        "description": "Weekly meetings devoted to biological inorganic chemistry and biochemistry. Topics are drawn from current literature. Papers and reviews are discussed, and participants give short seminars on their research interests.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Theodore Holman",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 275 Proseminar in Biological Inorganic Chemistry\nWeekly meetings devoted to biological inorganic chemistry and biochemistry. Topics are drawn from current literature. Papers and reviews are discussed, and participants give short seminars on their research interests.\nCredits 5\nInstructor Theodore Holman\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 280 Proseminar in Materials Chemistry",
+        "description": "Weekly meetings devoted to materials and inorganic research. Topics are drawn from current literature. Papers and reviews are discussed. Participants also give short seminars on topics of their research interests.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Scott Oliver",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 280 Proseminar in Materials Chemistry\nWeekly meetings devoted to materials and inorganic research. Topics are drawn from current literature. Papers and reviews are discussed. Participants also give short seminars on topics of their research interests.\nCredits 5\nInstructor Scott Oliver\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 282 Proseminar: Synthetic Methods",
+        "description": "Weekly meetings devoted to the study of asymmetric and/or enantio-selective synthesis of optically active organic compounds of biological and medicinal significance. Topics drawn from the current literature and the research interests of the participants.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Bakthan Singaram",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 282 Proseminar: Synthetic Methods\nWeekly meetings devoted to the study of asymmetric and/or enantio-selective synthesis of optically active organic compounds of biological and medicinal significance. Topics drawn from the current literature and the research interests of the participants.\nCredits 5\nInstructor Bakthan Singaram\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CHEM 284 Proseminar in Synthetic Organic Chemistry",
+        "description": "Weekly meetings devoted to the study of synthetic organic chemistry. Topics drawn from the current literature and the research interests of the participants.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joseph Konopelski",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 284 Proseminar in Synthetic Organic Chemistry\nWeekly meetings devoted to the study of synthetic organic chemistry. Topics drawn from the current literature and the research interests of the participants.\nCredits 5\nInstructor Joseph Konopelski\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CHEM 285 Proseminar: Photobiochemistry and Photobiology",
+        "description": "A detailed study of molecular mechanisms of light energy conversion and light-signal transduction processes in biological systems. Student participation in critical discussion of current literature examples are emphasized. Two-hour lecture and two-hour seminar weekly.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Roberto Bogomolni",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 285 Proseminar: Photobiochemistry and Photobiology\nA detailed study of molecular mechanisms of light energy conversion and light-signal transduction processes in biological systems. Student participation in critical discussion of current literature examples are emphasized. Two-hour lecture and two-hour seminar weekly.\nCredits 5\nInstructor Roberto Bogomolni\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CHEM 286 Proseminar in Natural Products Chemistry",
+        "description": "Weekly meetings devoted to the study of natural products. Topics drawn from the current literature and research interests of the participants.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Philip Crews",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 286 Proseminar in Natural Products Chemistry\nWeekly meetings devoted to the study of natural products. Topics drawn from the current literature and research interests of the participants.\nCredits 5\nInstructor Philip Crews\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 288 Proseminar in Bioinorganic Chemistry",
+        "description": "Weekly meetings devoted to inorganic and bioinorganic research. Topics are drawn from current literature. Papers and reviews are discussed. Participants also give short seminars on topics of their research interests.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Pradip Mascharak",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 288 Proseminar in Bioinorganic Chemistry\nWeekly meetings devoted to inorganic and bioinorganic research. Topics are drawn from current literature. Papers and reviews are discussed. Participants also give short seminars on topics of their research interests.\nCredits 5\nInstructor Pradip Mascharak\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 291 Chemistry and Biochemistry Research Seminar",
+        "description": "A weekly chemistry and biochemistry seminar series covering recent developments and current research, led by experts from other institutions, as well as local speakers. Open to chemistry and biochemistry graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Laura Sanchez",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 291 Chemistry and Biochemistry Research Seminar\nA weekly chemistry and biochemistry seminar series covering recent developments and current research, led by experts from other institutions, as well as local speakers. Open to chemistry and biochemistry graduate students.\nCredits 5\nInstructor Laura Sanchez\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 292 Seminar",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Laura Sanchez",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or approval of the graduate adviser.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 292 Seminar\nCredits 2\nInstructor Laura Sanchez\nRequirements Enrollment is restricted to graduate students or approval of the graduate adviser.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 296 Teaching Chemistry",
+        "description": "University-level pedagogy in chemistry; examines the role of preparation, assessment, and feedback in teaching chemistry discussion and laboratory sections. Effective classroom techniques and organizational strategies discussed; oral presentations analyzed critically. Required of entering chemistry graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Randa Roland",
+        "extrarequirements": "Requirements Enrollment is restricted to chemistry graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CHEM 296 Teaching Chemistry\nUniversity-level pedagogy in chemistry; examines the role of preparation, assessment, and feedback in teaching chemistry discussion and laboratory sections. Effective classroom techniques and organizational strategies discussed; oral presentations analyzed critically. Required of entering chemistry graduate students.\nCredits 2\nInstructor Randa Roland\nRequirements Enrollment is restricted to chemistry graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CHEM 297A Independent Study",
+        "description": "A topic will be studied with faculty tutorial assistance to satisfy a need for the student when a regular course is not available. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 297A Independent Study\nA topic will be studied with faculty tutorial assistance to satisfy a need for the student when a regular course is not available. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 297B Independent Study",
+        "description": "A topic will be studied with faculty tutorial assistance to satisfy a need for the student when a regular course is not available. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CHEM 297B Independent Study\nA topic will be studied with faculty tutorial assistance to satisfy a need for the student when a regular course is not available. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CHEM 299A Thesis Research",
+        "description": "Thesis Research",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 299A Thesis Research\nThesis Research\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CHEM 299B Thesis Research",
+        "description": "Thesis Research",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 299B Thesis Research\nThesis Research\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CHEM 299C Thesis Research",
+        "description": "Thesis Research",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CHEM 299C Thesis Research\nThesis Research\nCredits 15\nRepeatable For Credit Yes\n"
+    }
+]

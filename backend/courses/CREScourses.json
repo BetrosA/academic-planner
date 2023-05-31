@@ -1,0 +1,652 @@
+[
+    {
+        "coursename": "CRES 10 Critical Race and Ethnic Studies: An Introduction",
+        "description": "Examines the concept of race, followed by an investigation of colorblindness, multiculturalism, and post-racialism. Race and ethnicity are examined as historically formulated in relationship to the concepts of gender, sexuality, class, nationalism, indigeneity, citizenship, immigration, and inequality.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marisol LeBron",
+        "extrarequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing requirement.",
+        "quarteroffered": "Quarter Offered Fall, Summer",
+        "fulldesc": "CRES 10 Critical Race and Ethnic Studies: An Introduction\nExamines the concept of race, followed by an investigation of colorblindness, multiculturalism, and post-racialism. Race and ethnicity are examined as historically formulated in relationship to the concepts of gender, sexuality, class, nationalism, indigeneity, citizenship, immigration, and inequality.\nCredits 5\nInstructor Marisol LeBron\nRequirements Prerequisite(s): Satisfaction of the Entry Level Writing requirement.\nGeneral Education Code ER\nQuarter Offered Fall, Summer\n"
+    },
+    {
+        "coursename": "CRES 14 Center for Racial Justice Service Learning",
+        "description": "Supplemented by invited guest speakers and field activities, this Center for Racial Justice-sponsored course is facilitated by an activist-in-residence. Through critical readings, discussions, and situated learning, students take part in an experiential learning project and contribute service hours to a community-based organization.",
+        "genEd": "General Education Code PR-S",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 14 Center for Racial Justice Service Learning\nSupplemented by invited guest speakers and field activities, this Center for Racial Justice-sponsored course is facilitated by an activist-in-residence. Through critical readings, discussions, and situated learning, students take part in an experiential learning project and contribute service hours to a community-based organization.\nCredits 5\nInstructor Staff\nRepeatable For Credit Yes\nGeneral Education Code PR-S\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 15 Resource Centers Service Learning Course",
+        "description": "This service learning course offers students of all majors the opportunity to intern at UCSC Resource Centers. Students organize educational community-oriented programs and projects to address retention and equity issues in higher education. Through this course, students develop critical thinking, problem-solving, project planning, and writing skills by combining theoretical concepts and experiential learning experience. Students explore texts that highlight resiliency of minoritized communities through the study of trans, queer, Asian American/Pacific Islander, Black, American Indian, Chicanx/Latinx, undocumented, and feminist political thought.",
+        "genEd": "General Education Code PR-S",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CRES 15 Resource Centers Service Learning Course\nThis service learning course offers students of all majors the opportunity to intern at UCSC Resource Centers. Students organize educational community-oriented programs and projects to address retention and equity issues in higher education. Through this course, students develop critical thinking, problem-solving, project planning, and writing skills by combining theoretical concepts and experiential learning experience. Students explore texts that highlight resiliency of minoritized communities through the study of trans, queer, Asian American/Pacific Islander, Black, American Indian, Chicanx/Latinx, undocumented, and feminist political thought.\nCredits 5\nInstructor Staff\nRepeatable For Credit Yes\nGeneral Education Code PR-S\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CRES 45 Pilipinx Historical Dialogue",
+        "description": "Examines the history, politics, and cultural expressions of the Pilipinx community, in the Philippines and the diaspora, with an emphasis on Pilipinx and Pilipinx-American activism.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CRES 45 Pilipinx Historical Dialogue\nExamines the history, politics, and cultural expressions of the Pilipinx community, in the Philippines and the diaspora, with an emphasis on Pilipinx and Pilipinx-American activism.\nCredits 5\nInstructor The Staff\nGeneral Education Code ER\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CRES 60E Blackness and Indigeneity in Europe",
+        "description": "What are the contours of Black Europe? This course emphasizes a range of disciplinary approaches to the concepts of blackness and indigeneity, introducing and questioning Black Europe as a field, a culture, and a set of ideologies.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Samantha The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 60E Blackness and Indigeneity in Europe\nWhat are the contours of Black Europe? This course emphasizes a range of disciplinary approaches to the concepts of blackness and indigeneity, introducing and questioning Black Europe as a field, a culture, and a set of ideologies.\nCredits 5\nInstructor Samantha The Staff\nGeneral Education Code ER\n"
+    },
+    {
+        "coursename": "CRES 68 Approaches to Black Studies",
+        "description": "Provides a diasporic approach to the field of Black Studies in the modern era, with a focus on histories of dispossession and resistance.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Xavier Livermon",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CRES 68 Approaches to Black Studies\nProvides a diasporic approach to the field of Black Studies in the modern era, with a focus on histories of dispossession and resistance.\nCredits 5\nInstructor Xavier Livermon\nGeneral Education Code ER\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CRES 70B Black Radical University?",
+        "description": "Course emerges from a collaboration with the Black Student Union around Black student organizing and Black liberationist pedagogies. Students explore and archive histories of Black student organizing on the UC Santa Cruz campus and beyond (locally, nationally, and globally), as well as Black liberationist pedagogy (e.g., decolonial thought in the Third World, freedom schools in the U.S. South, Black Panther Party liberation schools, Black feminist pedagogies). Course is offered for pass/no pass grading only.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CRES 70B Black Radical University?\nCourse emerges from a collaboration with the Black Student Union around Black student organizing and Black liberationist pedagogies. Students explore and archive histories of Black student organizing on the UC Santa Cruz campus and beyond (locally, nationally, and globally), as well as Black liberationist pedagogy (e.g., decolonial thought in the Third World, freedom schools in the U.S. South, Black Panther Party liberation schools, Black feminist pedagogies). Course is offered for pass/no pass grading only.\nCredits 5\nInstructor The Staff\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CRES 70S Introduction to the Sikhs",
+        "description": "Introduces the Sikh community, including its origins, history, belief system and contemporary challenges. Other topics include Sikh music, art, literature, and aspects of Sikh society. Specific attention is paid to the Sikh diaspora community in the United States, and in California in particular, including comparative perspectives with respect to other minority communities.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Naindeep Chann",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CRES 70S Introduction to the Sikhs\nIntroduces the Sikh community, including its origins, history, belief system and contemporary challenges. Other topics include Sikh music, art, literature, and aspects of Sikh society. Specific attention is paid to the Sikh diaspora community in the United States, and in California in particular, including comparative perspectives with respect to other minority communities.\nCredits 2\nInstructor Naindeep Chann\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CRES 70U (Un)docu Studies",
+        "description": "Deconstructs the common perception of immigration as strictly a Latinx issue in order to develop solidarity among different groups of students and to explore a range of narratives surrounding undocumented status and migration with the aim of empowering us as agents of transformative social change. Legal papers, as a violent affirmation of settler sovereignty, do not capture the complexities of who we are, much less all our relations\u2014to each other, to place, to life worlds. By exploring those complexities, we strive to create a communal space where we courageously articulate self, community, and relationality in ways that state documents must disavow. Course is offered for Pass/No Pass grading only.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CRES 70U (Un)docu Studies\nDeconstructs the common perception of immigration as strictly a Latinx issue in order to develop solidarity among different groups of students and to explore a range of narratives surrounding undocumented status and migration with the aim of empowering us as agents of transformative social change. Legal papers, as a violent affirmation of settler sovereignty, do not capture the complexities of who we are, much less all our relations\u2014to each other, to place, to life worlds. By exploring those complexities, we strive to create a communal space where we courageously articulate self, community, and relationality in ways that state documents must disavow. Course is offered for Pass/No Pass grading only.\nCredits 5\nInstructor The Staff\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CRES 94 Group Tutorial",
+        "description": "A lower-division group tutorial, led by a faculty member, that focuses on various problems within critical race and ethnic studies. Topics to be chosen by the instructor and undergraduate student participants. Enrollment is restricted to critical race and ethnic studies majors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 94 Group Tutorial\nA lower-division group tutorial, led by a faculty member, that focuses on various problems within critical race and ethnic studies. Topics to be chosen by the instructor and undergraduate student participants. Enrollment is restricted to critical race and ethnic studies majors.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 94F Group Tutorial",
+        "description": "A program of independent study arranged between a group of students and a faculty instructor. Students submit petition to sponsoring agency. Enrollment is restricted to critical race and ethnic studies majors.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 94F Group Tutorial\nA program of independent study arranged between a group of students and a faculty instructor. Students submit petition to sponsoring agency. Enrollment is restricted to critical race and ethnic studies majors.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 100 Comparative Theories of Race and Ethnicity",
+        "description": "Examines race and ethnicity as categories of lived identity intersecting with gender, sexuality, class, and culture; historical discourses of difference underwriting social inequalities and movements to redress those inequalities; and concepts critical to the understanding and reshaping of power and privilege.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Luis Trujillo",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and satisfaction of the Entry Level and Composition requirements.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CRES 100 Comparative Theories of Race and Ethnicity\nExamines race and ethnicity as categories of lived identity intersecting with gender, sexuality, class, and culture; historical discourses of difference underwriting social inequalities and movements to redress those inequalities; and concepts critical to the understanding and reshaping of power and privilege.\nCredits 5\nInstructor Luis Trujillo\nRequirements Prerequisite(s): CRES 10 and satisfaction of the Entry Level and Composition requirements.\nGeneral Education Code ER\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CRES 101 Research Methods and Writing in Critical Race and Ethnic Studies",
+        "description": "Introduces students to tools, conceptual frameworks, keywords, and methods for research and writing in critical race and ethnic studies. Drawing from ethnic studies, Asian American studies, Arab American studies, Black studies, Indigenous studies, Latinx studies, feminist studies, and queer studies, students analyze how scholars do the work of studying the effects of and resistance to U.S. colonialism, capitalism, empire, war, globalization, and migration. Examines questions of settler colonial state practice, dispossession, diaspora, incarceration, and the ethics of research methods. Students practice the craft of writing about race, colonialism, state violence, and the manifold movements that imagine alternative, decolonized futures.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Felicity Amaya Schaeffer",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and satisfaction of the Entry Level Writing and Composition requirements.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CRES 101 Research Methods and Writing in Critical Race and Ethnic Studies\nIntroduces students to tools, conceptual frameworks, keywords, and methods for research and writing in critical race and ethnic studies. Drawing from ethnic studies, Asian American studies, Arab American studies, Black studies, Indigenous studies, Latinx studies, feminist studies, and queer studies, students analyze how scholars do the work of studying the effects of and resistance to U.S. colonialism, capitalism, empire, war, globalization, and migration. Examines questions of settler colonial state practice, dispossession, diaspora, incarceration, and the ethics of research methods. Students practice the craft of writing about race, colonialism, state violence, and the manifold movements that imagine alternative, decolonized futures.\nCredits 5\nInstructor Felicity Amaya Schaeffer\nRequirements Prerequisite(s): CRES 10 and satisfaction of the Entry Level Writing and Composition requirements.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CRES 111 The Sounds of Struggle",
+        "description": "Explores relations between music and democratic politics. Is harmony the ideal condition of the nation-state? Is disharmony a necessary condition of democracy? Students read literary texts alongside political philosophy and listen to music as we explore how musical recordings and performances produce our understanding of the citizen-nation relationship.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 111 The Sounds of Struggle\nExplores relations between music and democratic politics. Is harmony the ideal condition of the nation-state? Is disharmony a necessary condition of democracy? Students read literary texts alongside political philosophy and listen to music as we explore how musical recordings and performances produce our understanding of the citizen-nation relationship.\nCredits 5\nGeneral Education Code ER\n"
+    },
+    {
+        "coursename": "CRES 112 AsianAm Enviro Justice",
+        "description": "Explores the concept of environmental racism in a transnational framework, focusing on the shaping of Asian American and Pacific Islander communities in the United States and in the current and former territories of U.S. empire in the Pacific. Students explore environmental racism within the historical contexts of U.S. militarism and imperial warfare, empire and settler colonialism, disasters and disaster aid, and climate change refugeehood.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Danielle Crawford",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 112 AsianAm Enviro Justice\nExplores the concept of environmental racism in a transnational framework, focusing on the shaping of Asian American and Pacific Islander communities in the United States and in the current and former territories of U.S. empire in the Pacific. Students explore environmental racism within the historical contexts of U.S. militarism and imperial warfare, empire and settler colonialism, disasters and disaster aid, and climate change refugeehood.\nCredits 5\nInstructor Danielle Crawford\n"
+    },
+    {
+        "coursename": "CRES 114 Race and Disability in American Drama",
+        "description": "Investigates how African-American, Asian-American, and Latin-American playwrights represent and criticize the concept of race and disability in their dramas on topics from freak shows to Jim Crow laws to the Virginia Tech massacre. Students cannot receive credit for this course and LIT 151K.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ka-Eul Yoo",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 114 Race and Disability in American Drama\nInvestigates how African-American, Asian-American, and Latin-American playwrights represent and criticize the concept of race and disability in their dramas on topics from freak shows to Jim Crow laws to the Virginia Tech massacre. Students cannot receive credit for this course and LIT 151K.\nCredits 5\nInstructor Ka-Eul Yoo\nGeneral Education Code IM\n"
+    },
+    {
+        "coursename": "CRES 116 Race and the Pacific: U.S. and Japanese Empires in Comparative Perspective",
+        "description": "A lens on the U.S. and Japanese empires that moves beyond the limits of traditional area and ethnic studies by thinking comparatively about the racial logic of empire. Examines how the U.S. and Japanese empires as rival powers that from the early 20th century onward, have competed against and conspired with each other in Asia and the Pacific.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yuki Obayashi",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 116 Race and the Pacific: U.S. and Japanese Empires in Comparative Perspective\nA lens on the U.S. and Japanese empires that moves beyond the limits of traditional area and ethnic studies by thinking comparatively about the racial logic of empire. Examines how the U.S. and Japanese empires as rival powers that from the early 20th century onward, have competed against and conspired with each other in Asia and the Pacific.\nCredits 5\nInstructor Yuki Obayashi\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "CRES 118 Abolitionist Futures",
+        "description": "Grounded in local, national, and global prison abolition movements, this course explores through feminist political frameworks creative strategies that imagine and work to end all systems of domination and exploitation. Looks at California's prisoner organizing and abolition movements, along with other historic and contemporary social movements which deepen our understandings of the ways in which carceral systems are shaped by and through capitalist formations of race, gender, sexuality, and disability. Also examines strategies such as disability justice and transformative justice which demonstrate expansive and liberatory visions of abolition, extending far beyond the prison system itself.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 118 Abolitionist Futures\nGrounded in local, national, and global prison abolition movements, this course explores through feminist political frameworks creative strategies that imagine and work to end all systems of domination and exploitation. Looks at California's prisoner organizing and abolition movements, along with other historic and contemporary social movements which deepen our understandings of the ways in which carceral systems are shaped by and through capitalist formations of race, gender, sexuality, and disability. Also examines strategies such as disability justice and transformative justice which demonstrate expansive and liberatory visions of abolition, extending far beyond the prison system itself.\nCredits 5\n"
+    },
+    {
+        "coursename": "CRES 121 The Struggle for K-12 Ethnic Studies",
+        "description": "Critical analysis of the movement for K-12 ethnic studies in historical and contemporary time periods with a particular focus on the Liberated Ethnic Studies Model Curriculum. Students read, discuss, and analyze past and present K-12 ethnic studies research, policy, and practice to deepen their knowledge and strengthen their ability to critique issues in K-12 ethnic studies education while reflecting on how the concepts and questions that arise relate to their own educational experiences and lives.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CRES 121 The Struggle for K-12 Ethnic Studies\nCritical analysis of the movement for K-12 ethnic studies in historical and contemporary time periods with a particular focus on the Liberated Ethnic Studies Model Curriculum. Students read, discuss, and analyze past and present K-12 ethnic studies research, policy, and practice to deepen their knowledge and strengthen their ability to critique issues in K-12 ethnic studies education while reflecting on how the concepts and questions that arise relate to their own educational experiences and lives.\nCredits 5\nCross Listed Courses EDUC 121\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CRES 131 Black Freedom Movements",
+        "description": "Examines the development of Black freedom movements ranging from resistance to slavery to contemporary movements for Black power in Jackson, Mississippi. Interdisciplinary in scope, course examines a variety of materials ranging from novels, to autobiographies, to political manifestos in order to understand fully the broad scope of Black freedom movements.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Tricia Gallagher-Geursten",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 131 Black Freedom Movements\nExamines the development of Black freedom movements ranging from resistance to slavery to contemporary movements for Black power in Jackson, Mississippi. Interdisciplinary in scope, course examines a variety of materials ranging from novels, to autobiographies, to political manifestos in order to understand fully the broad scope of Black freedom movements.\nCredits 5\nInstructor Tricia Gallagher-Geursten\nGeneral Education Code ER\n"
+    },
+    {
+        "coursename": "CRES 150 Race, Gender and Algorithms",
+        "description": "Algorithms shape race and gender today, yet algorithms are older than digital media and can be understood as recipes or rituals. Course engages with the emerging field of trans of color poetics by studying readings in women of color feminism, transgender studies, and decolonial theory. Digital media art grounds the discussion, including works from queer and trans artists of color working in digital games, anti-surveillance fashion and performance art. Students create digital media projects in response to the ideas of the course, in the medium or platform of their choice, including video prototypes, web sites, Scalar books, Twine games, podcasts and/or video channels, the technical aspects of which will be covered in class.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Micha Cardenas",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CRES 150 Race, Gender and Algorithms\nAlgorithms shape race and gender today, yet algorithms are older than digital media and can be understood as recipes or rituals. Course engages with the emerging field of trans of color poetics by studying readings in women of color feminism, transgender studies, and decolonial theory. Digital media art grounds the discussion, including works from queer and trans artists of color working in digital games, anti-surveillance fashion and performance art. Students create digital media projects in response to the ideas of the course, in the medium or platform of their choice, including video prototypes, web sites, Scalar books, Twine games, podcasts and/or video channels, the technical aspects of which will be covered in class.\nCredits 5\nInstructor Micha Cardenas\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CRES 181 The Lynch Doctrine: From Rough Justice to Stand Your Ground",
+        "description": "Interdisciplinary course examining the history, politics, and aesthetics of lynching culture in the United States.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 181 The Lynch Doctrine: From Rough Justice to Stand Your Ground\nInterdisciplinary course examining the history, politics, and aesthetics of lynching culture in the United States.\nCredits 5\nInstructor The Staff\nGeneral Education Code ER\n"
+    },
+    {
+        "coursename": "CRES 185A Race, Gender, and Science",
+        "description": "Examines how science as epistemology and its accompanying practices participate in, create, and are created by understandings of race, gender, sexuality, and nation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to critical race and ethnic studies majors. Other majors by permission.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 185A Race, Gender, and Science\nExamines how science as epistemology and its accompanying practices participate in, create, and are created by understandings of race, gender, sexuality, and nation.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to critical race and ethnic studies majors. Other majors by permission.\n"
+    },
+    {
+        "coursename": "CRES 188A Topics in Transnational Asian American and Pacific Islander Studies",
+        "description": "Focuses on a particular topic in Asian American and Pacific Islander studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, with a focus on a transnational critique of intellectual histories, political movements, cultural expressions, lived experiences and critical theories of Asian Americans and Pacific Islanders.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Thien-Huong Ninh",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CRES 188A Topics in Transnational Asian American and Pacific Islander Studies\nFocuses on a particular topic in Asian American and Pacific Islander studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, with a focus on a transnational critique of intellectual histories, political movements, cultural expressions, lived experiences and critical theories of Asian Americans and Pacific Islanders.\nCredits 5\nInstructor Thien-Huong Ninh\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CRES 188B Topics in Black Studies",
+        "description": "Focuses on a particular topic in black studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, with a focus on the intellectual histories, political movements, cultural expressions, lived experiences, and critical theories of peoples throughout the Black diaspora and Africa.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CRES 188B Topics in Black Studies\nFocuses on a particular topic in black studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, with a focus on the intellectual histories, political movements, cultural expressions, lived experiences, and critical theories of peoples throughout the Black diaspora and Africa.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CRES 188S Topics in Settler Colonial Critique",
+        "description": "Focuses on a particular topic in settler and colonial studies. Topics vary with each offering but might include examining the intersections of race and racism through a variety of disciplinary and interdisciplinary perspectives, intellectual histories, and political movements as they relate to empire, racial capitalization, colonial occupation and dispossession, mass incarceration and concepts of property and accumulation.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CRES 188S Topics in Settler Colonial Critique\nFocuses on a particular topic in settler and colonial studies. Topics vary with each offering but might include examining the intersections of race and racism through a variety of disciplinary and interdisciplinary perspectives, intellectual histories, and political movements as they relate to empire, racial capitalization, colonial occupation and dispossession, mass incarceration and concepts of property and accumulation.\nCredits 5\nRepeatable For Credit Yes\nGeneral Education Code ER\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CRES 188T Topics in Race, Science and Technology",
+        "description": "Focuses on a particular topic in race and science/technology. Topics vary, but focus on the history and politics of scientific inquiry and technological development within legacies and realities of racism and colonialism, including in the areas of public health, migration, labor, and reproductive rights.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CRES 188T Topics in Race, Science and Technology\nFocuses on a particular topic in race and science/technology. Topics vary, but focus on the history and politics of scientific inquiry and technological development within legacies and realities of racism and colonialism, including in the areas of public health, migration, labor, and reproductive rights.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CRES 188X Topics in Critical Race and Ethnic Studies",
+        "description": "Focuses on a particular topic in critical race and ethnic studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, including indigenous studies, Black studies, Latinx studies, Asian American studies, queer critique, gender studies, transgender studies, performance studies, human rights studies, mixed race studies, legal studies, critical area studies, war and empire studies, environmental studies, science studies, and critical university studies.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 188X Topics in Critical Race and Ethnic Studies\nFocuses on a particular topic in critical race and ethnic studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, including indigenous studies, Black studies, Latinx studies, Asian American studies, queer critique, gender studies, transgender studies, performance studies, human rights studies, mixed race studies, legal studies, critical area studies, war and empire studies, environmental studies, science studies, and critical university studies.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 190A Critical Race Feminisms",
+        "description": "Focuses on key learning outcomes of humanistic research and writing: developing a method for critical race feminist analysis, identifying objects and fields of study, formulating an appropriately narrow topic and thesis, identifying and critiquing sources, and completing well-structured written argumentation. Readings offer key theoretical models in critical race and ethnic studies, feminist studies, and queer theory.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Neel Ahuja",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to critical race and ethnic studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 190A Critical Race Feminisms\nFocuses on key learning outcomes of humanistic research and writing: developing a method for critical race feminist analysis, identifying objects and fields of study, formulating an appropriately narrow topic and thesis, identifying and critiquing sources, and completing well-structured written argumentation. Readings offer key theoretical models in critical race and ethnic studies, feminist studies, and queer theory.\nCredits 5\nCross Listed Courses FMST 194S\nInstructor Neel Ahuja\nRequirements Prerequisite(s): CRES 10 and CRES 100; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to critical race and ethnic studies majors.\n"
+    },
+    {
+        "coursename": "CRES 190B Critical Migration Studies",
+        "description": "Focuses on critically analyzing public representations of migration. Exploring key scholarship in migration and diaspora studies, including recent writings on \"border crises,\" students develop an individual research project exploring a controversy, archive, cultural text, or historical debate in research on a specific migrant or diasporic group. The focus is on key learning outcomes of humanistic research and writing: developing a method for studying migration attentive to critical race analysis; identifying objects and fields of study, formulating research questions, organizing an appropriately narrow thesis, identifying and critiquing sources, and completing well-structured written argumentation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Thien-Huong Ninh",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CRES 190B Critical Migration Studies\nFocuses on critically analyzing public representations of migration. Exploring key scholarship in migration and diaspora studies, including recent writings on \"border crises,\" students develop an individual research project exploring a controversy, archive, cultural text, or historical debate in research on a specific migrant or diasporic group. The focus is on key learning outcomes of humanistic research and writing: developing a method for studying migration attentive to critical race analysis; identifying objects and fields of study, formulating research questions, organizing an appropriately narrow thesis, identifying and critiquing sources, and completing well-structured written argumentation.\nCredits 5\nInstructor Thien-Huong Ninh\nRequirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CRES 190D Black Geographies and the Imperative of Abolition",
+        "description": "Far from a recent development, abolitionist demands to defund the police are actually central to a 400-year legacy of Black struggle. In the wake of the 2020 Black Lives Matter uprisings that erupted in response to several high-profile police murders, this senior seminar takes an interdisciplinary look at the burgeoning field of Black geographies to help us understand the renewed urgency of these calls in our current moment by engaging with works of activism, speculative fiction, and multimedia, including videos, podcasts, music, websites, and graphics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Camilla Hawthorne",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 190D Black Geographies and the Imperative of Abolition\nFar from a recent development, abolitionist demands to defund the police are actually central to a 400-year legacy of Black struggle. In the wake of the 2020 Black Lives Matter uprisings that erupted in response to several high-profile police murders, this senior seminar takes an interdisciplinary look at the burgeoning field of Black geographies to help us understand the renewed urgency of these calls in our current moment by engaging with works of activism, speculative fiction, and multimedia, including videos, podcasts, music, websites, and graphics.\nCredits 5\nInstructor Camilla Hawthorne\nRequirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 190P Trans of Color Performance and Media",
+        "description": "Trans of color poetics are emerging in media art and performance, the voice of movements for liberation from colonial systems of racialized gender, and the structures which uphold them, including the prison-industrial complex. Trans people of color, and people who exist in resistance to colonial gender constructs are responding to the ways that both popular media and academic fields such as transgender studies have focused on white, wealthy, normative transgender subjects. Seminar considers the social movements and the embodied movement of trans people of color and gender non-conforming people in media, art and performance. (Formerly Trans of Color Movements in Media, Art and Performance.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Micha Cardenas",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 190P Trans of Color Performance and Media\nTrans of color poetics are emerging in media art and performance, the voice of movements for liberation from colonial systems of racialized gender, and the structures which uphold them, including the prison-industrial complex. Trans people of color, and people who exist in resistance to colonial gender constructs are responding to the ways that both popular media and academic fields such as transgender studies have focused on white, wealthy, normative transgender subjects. Seminar considers the social movements and the embodied movement of trans people of color and gender non-conforming people in media, art and performance. (Formerly Trans of Color Movements in Media, Art and Performance.)\nCredits 5\nInstructor Micha Cardenas\nRequirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.\n"
+    },
+    {
+        "coursename": "CRES 190S From Slavery to Precarity: Race, Logistics and Globalization",
+        "description": "Over the past half-century, there has been a profound transformation in the way that goods are produced and moved about the world resulting in what has been referred to as the \"logistics revolution\". Course examines the ways in which this \"revolution\" in mass circulation of goods necessitates a radical thinking of race and racial politics in the context of contemporary capitalist globalization.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 190S From Slavery to Precarity: Race, Logistics and Globalization\nOver the past half-century, there has been a profound transformation in the way that goods are produced and moved about the world resulting in what has been referred to as the \"logistics revolution\". Course examines the ways in which this \"revolution\" in mass circulation of goods necessitates a radical thinking of race and racial politics in the context of contemporary capitalist globalization.\nCredits 5\nRequirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.\n"
+    },
+    {
+        "coursename": "CRES 190T The War on Terror: Imperialism Past and Present",
+        "description": "Senior seminar focusing on the theoretical underpinnings of U.S. imperialism from a global perspective, from the annexation of the Philippines in 1898 to the current War on Terror. Drawing on the history of U.S. settler-colonialism and liberal empire as racial projects, the course investigates contemporary forms of racialization surrounding the Muslim as figure for foreign enemy. Utilizing a diverse range of media, course considers various theoretical texts in critical race and ethnic studies, visual studies, gender and queer studies, history, and literature.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jabbar Talib",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 190T The War on Terror: Imperialism Past and Present\nSenior seminar focusing on the theoretical underpinnings of U.S. imperialism from a global perspective, from the annexation of the Philippines in 1898 to the current War on Terror. Drawing on the history of U.S. settler-colonialism and liberal empire as racial projects, the course investigates contemporary forms of racialization surrounding the Muslim as figure for foreign enemy. Utilizing a diverse range of media, course considers various theoretical texts in critical race and ethnic studies, visual studies, gender and queer studies, history, and literature.\nCredits 5\nInstructor Jabbar Talib\nRequirements Prerequisite(s): CRES 10 and CRES 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.\n"
+    },
+    {
+        "coursename": "CRES 190X Racial Capitalism",
+        "description": "Overview of the history and conceptualization of racial capitalism. Students study recent works in critical race and ethnic studies that analyze capitalism as a specifically racial phenomenon, and evaluate their contribution in a historical lens.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nick Mitchell",
+        "extrarequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 190X Racial Capitalism\nOverview of the history and conceptualization of racial capitalism. Students study recent works in critical race and ethnic studies that analyze capitalism as a specifically racial phenomenon, and evaluate their contribution in a historical lens.\nCredits 5\nInstructor Nick Mitchell\nRequirements Prerequisite(s): CRES 10 and CRES 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.\n"
+    },
+    {
+        "coursename": "CRES 192 Directed Student Teaching",
+        "description": "Teaching of a lower-division seminar by an upper-division student under faculty supervision. (See CRES 42.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 192 Directed Student Teaching\nTeaching of a lower-division seminar by an upper-division student under faculty supervision. (See CRES 42.)\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 194 Group Tutorial",
+        "description": "Group tutorial, led by a faculty member, that focuses on various problems within critical race and ethnic studies. Topics to be chosen by the instructor and undergraduate student participants. Enrollment restricted to critical race and ethnic studies majors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 194 Group Tutorial\nGroup tutorial, led by a faculty member, that focuses on various problems within critical race and ethnic studies. Topics to be chosen by the instructor and undergraduate student participants. Enrollment restricted to critical race and ethnic studies majors.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 199 Tutorial",
+        "description": "Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CRES 199 Tutorial\nStudents submit a petition to the sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CRES 199F Tutorial",
+        "description": "Individual study in areas approved by sponsoring instructors. May not be counted toward upper-division major requirements. Student submits petition to sponsoring agency. Enrollment is restricted to critical race and ethnic studies majors.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 199F Tutorial\nIndividual study in areas approved by sponsoring instructors. May not be counted toward upper-division major requirements. Student submits petition to sponsoring agency. Enrollment is restricted to critical race and ethnic studies majors.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CRES 200 Black Studies Methods",
+        "description": "Exploration of interdisciplinary research methodology\u2014a broader set of scientific beliefs, approaches, inquiries, theories, and analytics\u2014relevant to the study of Black communities. Students read, explore, and engage in particular methods\u2014approaches to data collection and analyses\u2014emphasizing various forms of ethnographic research. Course also examines other approaches to the study of Blackness, such as historical/archival, cultural studies and discursive analyses, and mixed methods.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Xavier Livermon",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CRES 200 Black Studies Methods\nExploration of interdisciplinary research methodology\u2014a broader set of scientific beliefs, approaches, inquiries, theories, and analytics\u2014relevant to the study of Black communities. Students read, explore, and engage in particular methods\u2014approaches to data collection and analyses\u2014emphasizing various forms of ethnographic research. Course also examines other approaches to the study of Blackness, such as historical/archival, cultural studies and discursive analyses, and mixed methods.\nCredits 5\nInstructor Xavier Livermon\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CRES 297A Independent Study",
+        "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CRES 297A Independent Study\nIndependent study and research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "ANTH 110G Westside Stories: Race, Place and the California Imaginary",
+        "description": "From South Central to La Misi\u00f3n, this course explores the role of race and culture in creating the California Dream. Draws on films, music, and activism as lenses into the complex flows of power that shape our communities.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Savannah Shange",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ANTH 110G Westside Stories: Race, Place and the California Imaginary\nFrom South Central to La Misi\u00f3n, this course explores the role of race and culture in creating the California Dream. Draws on films, music, and activism as lenses into the complex flows of power that shape our communities.\nCredits 5\nCross Listed Courses CRES 110G\nInstructor Savannah Shange\nGeneral Education Code IM\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ANTH 110Q Queer Sexuality in Black Popular Culture",
+        "description": "From Janet Mock to Young M.A., queerness has become hypervisible in Black popular culture--but at what cost? Using music, television, and social media as central texts, students investigate the intersections of sexuality, gender, and race in public life.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Savannah Shange-Binion",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ANTH 110Q Queer Sexuality in Black Popular Culture\nFrom Janet Mock to Young M.A., queerness has become hypervisible in Black popular culture--but at what cost? Using music, television, and social media as central texts, students investigate the intersections of sexuality, gender, and race in public life.\nCredits 5\nCross Listed Courses CRES 110Q, FMST 110Q\nInstructor Savannah Shange-Binion\nGeneral Education Code IM\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ANTH 130F Blackness In Motion: Anthology of the African Diasporas",
+        "description": "What connects Black communities in the Caribbean, the U.S., Latin America, and Canada, and what sets them apart? Examines theories of diaspora, gender and sexuality, slavery, colorism, music, U.S. hegemonies, social movements, and comparative racialization and global anti-blackness (Formerly African Diasporas in the Americas.)",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Savannah Shange-Binion",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ANTH 130F Blackness In Motion: Anthology of the African Diasporas\nWhat connects Black communities in the Caribbean, the U.S., Latin America, and Canada, and what sets them apart? Examines theories of diaspora, gender and sexuality, slavery, colorism, music, U.S. hegemonies, social movements, and comparative racialization and global anti-blackness (Formerly African Diasporas in the Americas.)\nCredits 5\nCross Listed Courses CRES 130\nInstructor Savannah Shange-Binion\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ANTH 140 The Body in Rain: Environmental and Medical Intersections",
+        "description": "Explores medical and environmental anthropologies, including how bodies-human and other-are implicated in processes often figured as environmental. Explores how the body and the environment combine and interact to form nexus of political, cultural, and material forces.",
+        "genEd": "General Education Code PE-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ANTH 140 The Body in Rain: Environmental and Medical Intersections\nExplores medical and environmental anthropologies, including how bodies-human and other-are implicated in processes often figured as environmental. Explores how the body and the environment combine and interact to form nexus of political, cultural, and material forces.\nCredits 5\nCross Listed Courses CRES 140\nInstructor The Staff\nGeneral Education Code PE-E\n"
+    },
+    {
+        "coursename": "ANTH 196G Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography",
+        "description": "How do we read, write, and recognize the queer body? How is it marked in politics, in intimate spaces, and in the ethnographic text? Drawing on ethnic studies and black queer studies, this seminar engages contemporary anthropological approaches to sexuality.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Savannah Shange-Binion",
+        "extrarequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1, ANTH 2, and ANTH 3. Enrollment is restricted to senior anthropology majors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ANTH 196G Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography\nHow do we read, write, and recognize the queer body? How is it marked in politics, in intimate spaces, and in the ethnographic text? Drawing on ethnic studies and black queer studies, this seminar engages contemporary anthropological approaches to sexuality.\nCredits 5\nCross Listed Courses CRES 190G\nInstructor Savannah Shange-Binion\nRequirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1, ANTH 2, and ANTH 3. Enrollment is restricted to senior anthropology majors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ARTG 142 Black Aesthetics: Interventions in Digital Media",
+        "description": "How do we conceptualize a Black Aesthetic in the realm of digital art and media? How do we re/define Black virtuality when, historically, computer graphics has failed to accurately render Blackness? This course looks at the field of digital media from a technological and cultural perspective, understanding the ways in which anti-Blackness has been embedded in our technology, from photography to video games. Concurrently, course examines the history of the Black Aesthetic as an interventionist art movement, and find ways to intervene in the contemporary digital media landscape.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior art and design: games and playable media, and critical race and ethnic studies majors, and Black studies minors.",
+        "quarteroffered": "none",
+        "fulldesc": "ARTG 142 Black Aesthetics: Interventions in Digital Media\nHow do we conceptualize a Black Aesthetic in the realm of digital art and media? How do we re/define Black virtuality when, historically, computer graphics has failed to accurately render Blackness? This course looks at the field of digital media from a technological and cultural perspective, understanding the ways in which anti-Blackness has been embedded in our technology, from photography to video games. Concurrently, course examines the history of the Black Aesthetic as an interventionist art movement, and find ways to intervene in the contemporary digital media landscape.\nCredits 5\nCross Listed Courses CRES 142\nInstructor The Staff\nRequirements Enrollment is restricted to sophomore, junior, and senior art and design: games and playable media, and critical race and ethnic studies majors, and Black studies minors.\nGeneral Education Code PE-T\n"
+    },
+    {
+        "coursename": "FMST 119 Indigenous Feminisms",
+        "description": "Explores issues central to Indigenous women's life experiences and Native feminist thought. Students consider the concerns and methodologies of Native feminisms\u2014theories and actions that highlight how settler colonialism is a fundamentally gendered process. Engages in foundational discussions of Native feminisms, settler colonial theory, and feminist methodologies. Course content focuses on communities in settler states currently known as the U.S. and Canada. Covers topics such as reproductive justice, gendered violence, cultural reclamation, and rematriation.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katie Keliiaa",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 119 Indigenous Feminisms\nExplores issues central to Indigenous women's life experiences and Native feminist thought. Students consider the concerns and methodologies of Native feminisms\u2014theories and actions that highlight how settler colonialism is a fundamentally gendered process. Engages in foundational discussions of Native feminisms, settler colonial theory, and feminist methodologies. Course content focuses on communities in settler states currently known as the U.S. and Canada. Covers topics such as reproductive justice, gendered violence, cultural reclamation, and rematriation.\nCredits 5\nCross Listed Courses CRES 119\nInstructor Katie Keliiaa\nGeneral Education Code ER\n"
+    },
+    {
+        "coursename": "FMST 13 California Indian History",
+        "description": "California encompasses the nation's largest Native population and the state's policies create a complex political and legal structure. This course provides a history of early California in the 18th and 19th centuries and a review of the urban Indian experience in the 20th century. The first part sets the historical foundation and traces early California Indian history. The second part shifts to 20th-century urban Indian issues and the contemporary moment for California Indian peoples. Covers topics such as Indian labor exploitation, genocide, termination, relocation, and federal recognition.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Caitlin Keliiaa",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 13 California Indian History\nCalifornia encompasses the nation's largest Native population and the state's policies create a complex political and legal structure. This course provides a history of early California in the 18th and 19th centuries and a review of the urban Indian experience in the 20th century. The first part sets the historical foundation and traces early California Indian history. The second part shifts to 20th-century urban Indian issues and the contemporary moment for California Indian peoples. Covers topics such as Indian labor exploitation, genocide, termination, relocation, and federal recognition.\nCredits 5\nCross Listed Courses CRES 13\nInstructor Caitlin Keliiaa\nGeneral Education Code ER\n"
+    },
+    {
+        "coursename": "FMST 136 Organizing for Water Justice in California",
+        "description": "Investigates, imagines, and practices movement toward water justice in California using feminist, Indigenous, and critical race theory. The course includes collaborative projects with environmental justice organizers in the Central Valley, and offers new ways of thinking about water inequity and access through racial capitalism, settler colonialism, and critical theories of place.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Vivian Underhill",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 136 Organizing for Water Justice in California\nInvestigates, imagines, and practices movement toward water justice in California using feminist, Indigenous, and critical race theory. The course includes collaborative projects with environmental justice organizers in the Central Valley, and offers new ways of thinking about water inequity and access through racial capitalism, settler colonialism, and critical theories of place.\nCredits 5\nCross Listed Courses CRES 136, ENVS 136\nInstructor Vivian Underhill\nGeneral Education Code PR-E\n"
+    },
+    {
+        "coursename": "FMST 194K Black Diaspora",
+        "description": "Seminar focuses on the historical and subjective processes that produce the concept of an African or Black Diaspora. In narrative, film, and cultural studies, themes of slavery, exile, home, identity, alienation, colonialism, politics, and reinvention are explored.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Gina Dent",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 194K Black Diaspora\nSeminar focuses on the historical and subjective processes that produce the concept of an African or Black Diaspora. In narrative, film, and cultural studies, themes of slavery, exile, home, identity, alienation, colonialism, politics, and reinvention are explored.\nCredits 5\nCross Listed Courses CRES 190K\nInstructor Gina Dent\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\n"
+    },
+    {
+        "coursename": "FMST 194L Comparative Settler Colonial Studies",
+        "description": "Discusses the characteristics of settler colonialism and the politics of comparison in the study of global settler colonialism. Looks at settler colonial state practice across multiple different sites, including Santa Cruz, as students craft their own research projects. (Formerly offered as Decoloniality, Feminism, and Science Studies.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jenny Kelly",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "FMST 194L Comparative Settler Colonial Studies\nDiscusses the characteristics of settler colonialism and the politics of comparison in the study of global settler colonialism. Looks at settler colonial state practice across multiple different sites, including Santa Cruz, as students craft their own research projects. (Formerly offered as Decoloniality, Feminism, and Science Studies.)\nCredits 5\nCross Listed Courses CRES 190L\nInstructor Jenny Kelly\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "FMST 194M Empire and Sexuality",
+        "description": "Explores the production of sexualities, sexual identification, and gender differentiation within multiple contexts of colonialism, decolonization, and emerging neo-colonial global formations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Anjali Arondekar",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 194M Empire and Sexuality\nExplores the production of sexualities, sexual identification, and gender differentiation within multiple contexts of colonialism, decolonization, and emerging neo-colonial global formations.\nCredits 5\nCross Listed Courses CRES 190M\nInstructor Anjali Arondekar\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\n"
+    },
+    {
+        "coursename": "FMST 194O The Politics of Gender and Human Rights",
+        "description": "Examines human rights projects and discourses with a focus on the politics of gender, sexuality, race, and rights in the international sphere. Reading important human rights documents and theoretical writings, and addressing particular case studies, emphasizes the tensions between the ideals of the universal and the particular inherent in human rights law, activism, and humanitarianism.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Neda Atanasoski",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 194O The Politics of Gender and Human Rights\nExamines human rights projects and discourses with a focus on the politics of gender, sexuality, race, and rights in the international sphere. Reading important human rights documents and theoretical writings, and addressing particular case studies, emphasizes the tensions between the ideals of the universal and the particular inherent in human rights law, activism, and humanitarianism.\nCredits 5\nCross Listed Courses CRES 190O\nInstructor Neda Atanasoski\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\n"
+    },
+    {
+        "coursename": "FMST 194Q Queer Diasporas",
+        "description": "Queer diaspora emerged from Third World/queer-of-color critique of queer theory and provides a framework for analyzing racializations, genders, and sexualities in colonial, developmental, and modernizing contexts. Readings from anthropology, history, literature, and feminist and cultural studies.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marcia Ochoa",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 194Q Queer Diasporas\nQueer diaspora emerged from Third World/queer-of-color critique of queer theory and provides a framework for analyzing racializations, genders, and sexualities in colonial, developmental, and modernizing contexts. Readings from anthropology, history, literature, and feminist and cultural studies.\nCredits 5\nCross Listed Courses CRES 190Q\nInstructor Marcia Ochoa\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\n"
+    },
+    {
+        "coursename": "FMST 194U Touring War and Empire",
+        "description": "Senior seminar focusing on tourism, colonialism, and militarism. Considers case studies on tourism in colonial contexts and sites of U.S. empire across multiple geographies as students craft their projects, participate in writing workshops, and present research.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 194U Touring War and Empire\nSenior seminar focusing on tourism, colonialism, and militarism. Considers case studies on tourism in colonial contexts and sites of U.S. empire across multiple geographies as students craft their projects, participate in writing workshops, and present research.\nCredits 5\nCross Listed Courses CRES 190U\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\n"
+    },
+    {
+        "coursename": "FMST 194V Marxism and Feminism",
+        "description": "Explores critically the intersections and crisis points between feminism and Marxism as bodies of thought, theoretical formations, and forms of historical inquiry.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nick Mitchell",
+        "extrarequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 194V Marxism and Feminism\nExplores critically the intersections and crisis points between feminism and Marxism as bodies of thought, theoretical formations, and forms of historical inquiry.\nCredits 5\nCross Listed Courses CRES 190V\nInstructor Nick Mitchell\nRequirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.\n"
+    },
+    {
+        "coursename": "FMST 208 African(a) Genders and Sexualities",
+        "description": "Examines a number of classic and new critical texts in the field of African(a) Feminism and Sexuality. Focuses on how African(a) scholars have had to theorize genders and sexualities through an intersectional lens that takes into account questions of decoloniality and freedom. How might we rethink issues of oppression and domination in relationship to race, nation, sex, gender, and sexuality in the global Black world using the tools provided by Africa(a) scholars?",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Xavier Livermon",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "FMST 208 African(a) Genders and Sexualities\nExamines a number of classic and new critical texts in the field of African(a) Feminism and Sexuality. Focuses on how African(a) scholars have had to theorize genders and sexualities through an intersectional lens that takes into account questions of decoloniality and freedom. How might we rethink issues of oppression and domination in relationship to race, nation, sex, gender, and sexuality in the global Black world using the tools provided by Africa(a) scholars?\nCredits 5\nCross Listed Courses CRES 208\nInstructor Xavier Livermon\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "FMST 218 Militarism and Tourism",
+        "description": "Positioning tourism and militarism as central sites of inquiry for feminist and ethnic studies, course draws from literature on colonialism and empire to illuminate how tourism functions and how tourists move, in sites of past and present warfare.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jennifer Lynn Kelly",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 218 Militarism and Tourism\nPositioning tourism and militarism as central sites of inquiry for feminist and ethnic studies, course draws from literature on colonialism and empire to illuminate how tourism functions and how tourists move, in sites of past and present warfare.\nCredits 5\nCross Listed Courses CRES 218\nInstructor Jennifer Lynn Kelly\n"
+    },
+    {
+        "coursename": "FMST 243 Feminism, Race, and the Politics of Knowledge",
+        "description": "Course takes as its central topic the institutional politics of feminist and critical race knowledges in the post-1960s United States university. Considers these fields' complex and contradictory relation to disciplinarity, the university's primary or default mode of arranging and legitimizing knowledge formations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nicholas Mitchell",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "FMST 243 Feminism, Race, and the Politics of Knowledge\nCourse takes as its central topic the institutional politics of feminist and critical race knowledges in the post-1960s United States university. Considers these fields' complex and contradictory relation to disciplinarity, the university's primary or default mode of arranging and legitimizing knowledge formations.\nCredits 5\nCross Listed Courses CRES 243\nInstructor Nicholas Mitchell\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "HISC 117 Making the Refugee Century: Non-Citizens and Modernity",
+        "description": "Examines the material, discursive, and racialized conditions that have produced refugees in the last century. Also examines the social claims made by refugees, institutional responses to them, and political alternatives to state belonging",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "HISC 117 Making the Refugee Century: Non-Citizens and Modernity\nExamines the material, discursive, and racialized conditions that have produced refugees in the last century. Also examines the social claims made by refugees, institutional responses to them, and political alternatives to state belonging\nCredits 5\nCross Listed Courses CRES 117\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "HISC 140A Africa: How to Make a Continent",
+        "description": "Introduces the histories of exploration, museum collection, and photography that shape historical and contemporary ideas about race, culture, and place in Africa.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "HISC 140A Africa: How to Make a Continent\nIntroduces the histories of exploration, museum collection, and photography that shape historical and contemporary ideas about race, culture, and place in Africa.\nCredits 5\nCross Listed Courses CRES 140A\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "LING 135 Language and Racialization",
+        "description": "Many of us are probably aware that people of different ethnic or racial backgrounds may speak differently, but most of us probably do not know that all varieties of English are equally \"grammatical.\" And while some of us are probably aware of the fact that racial and ethnic categories are \"constructed,\" most of us have probably not considered the ways in which language use figures in the construction of ethnic and/or racial identity. Course introduces a number of racialized linguistic varieties and their intersections with other identity categories (gender, sexuality, socio-economic class), as well as emergent new scholarship on language and racialization.",
+        "genEd": "General Education Code ER",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): Ling 50.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "LING 135 Language and Racialization\nMany of us are probably aware that people of different ethnic or racial backgrounds may speak differently, but most of us probably do not know that all varieties of English are equally \"grammatical.\" And while some of us are probably aware of the fact that racial and ethnic categories are \"constructed,\" most of us have probably not considered the ways in which language use figures in the construction of ethnic and/or racial identity. Course introduces a number of racialized linguistic varieties and their intersections with other identity categories (gender, sexuality, socio-economic class), as well as emergent new scholarship on language and racialization.\nCredits 5\nCross Listed Courses CRES 135\nInstructor The Staff\nRequirements Prerequisite(s): Ling 50.\nGeneral Education Code ER\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PSYC 148 Stereotyping, Prejudice, and Racism",
+        "description": "Introduction to and analysis of the social psychology of stereotyping, prejudice, and racism in the United States. Examines how individuals both perpetuate and experience these phenomena, through the lens of race as a system of privilege and disadvantage.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Courtney Bonam",
+        "extrarequirements": "Requirements Prerequisite(s): PSYC 100.",
+        "quarteroffered": "none",
+        "fulldesc": "PSYC 148 Stereotyping, Prejudice, and Racism\nIntroduction to and analysis of the social psychology of stereotyping, prejudice, and racism in the United States. Examines how individuals both perpetuate and experience these phenomena, through the lens of race as a system of privilege and disadvantage.\nCredits 5\nCross Listed Courses CRES 148\nInstructor Courtney Bonam\nRequirements Prerequisite(s): PSYC 100.\n"
+    }
+]

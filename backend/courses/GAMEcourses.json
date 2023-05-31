@@ -1,0 +1,282 @@
+[
+    {
+        "coursename": "GAME 200 Game Design Systems",
+        "description": "Analyzes how games aggregate mechanics to create dynamic, interactive systems. Students analyze and design systems by general categories (e.g., movement, economy, conflict) to better understand their histories, relationships, and implementations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Noah Wardrip-Fruin, Nathan Altice, Michael John, Elin Carstensdottir",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 200 Game Design Systems\nAnalyzes how games aggregate mechanics to create dynamic, interactive systems. Students analyze and design systems by general categories (e.g., movement, economy, conflict) to better understand their histories, relationships, and implementations.\nCredits 5\nInstructor Noah Wardrip-Fruin, Nathan Altice, Michael John, Elin Carstensdottir\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GAME 201 Level Design",
+        "description": "Level design integrates architecture, psychology, and drama with the tools of game making. Course explores both 2D and 3D level design through both analysis and construction of video game levels, along with key readings, particularly in architecture.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael John",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 201 Level Design\nLevel design integrates architecture, psychology, and drama with the tools of game making. Course explores both 2D and 3D level design through both analysis and construction of video game levels, along with key readings, particularly in architecture.\nCredits 5\nInstructor Michael John\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 202 Alternative Controllers, AR, and VR",
+        "description": "Introduction to physical computing, AR, VR, and interaction design concepts critical for building novel physical interfaces. It employs a combination of theory and practice, ranging from gamepad, circuit, and interaction design to in-class activities and projects guiding students through creating their own alternative controller games. (Formerly offered as Foundations of Alternative Controller Games.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Edward Melcer",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in games and playable media, human computer interaction, and serious games or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 202 Alternative Controllers, AR, and VR\nIntroduction to physical computing, AR, VR, and interaction design concepts critical for building novel physical interfaces. It employs a combination of theory and practice, ranging from gamepad, circuit, and interaction design to in-class activities and projects guiding students through creating their own alternative controller games. (Formerly offered as Foundations of Alternative Controller Games.)\nCredits 5\nInstructor Edward Melcer\nRequirements Enrollment is restricted to graduate students in games and playable media, human computer interaction, and serious games or by permission of the instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 210 Game Art Intensive",
+        "description": "Teaches the basic vocabulary, concepts, and practices of creating 2D and 3D art assets for games, as well as their management and integration into game engines. Includes sprites, models, textures, animations, and an introduction to effects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media and serious game graduate students; others by interview.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 210 Game Art Intensive\nTeaches the basic vocabulary, concepts, and practices of creating 2D and 3D art assets for games, as well as their management and integration into game engines. Includes sprites, models, textures, animations, and an introduction to effects.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to games and playable media and serious game graduate students; others by interview.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 215 Audio Direction",
+        "description": "Introduces fundamentals of digital audio and its implementation into a game project. Explores elements of acoustic audio therapy, musical theory, and digital audio theory, coupled with hands-on creation. Students work with audio software, synthesis, plug-in processing and microphones to develop and create an audio direction.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media and serious games graduate students, or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 215 Audio Direction\nIntroduces fundamentals of digital audio and its implementation into a game project. Explores elements of acoustic audio therapy, musical theory, and digital audio theory, coupled with hands-on creation. Students work with audio software, synthesis, plug-in processing and microphones to develop and create an audio direction.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to games and playable media and serious games graduate students, or by permission of the instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 221 Professional Development for Game Makers",
+        "description": "Professional preparation for students in Games and Playable Media, and Serious Games master's degree programs. Includes entrepreneurship, employment rights, IP law, interview skills, business analysis, and other topics aligned with the dynamic industry of computer games.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Jim Whitehead, Michael John",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media and serious games graduate students; others by interview.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GAME 221 Professional Development for Game Makers\nProfessional preparation for students in Games and Playable Media, and Serious Games master's degree programs. Includes entrepreneurship, employment rights, IP law, interview skills, business analysis, and other topics aligned with the dynamic industry of computer games.\nCredits 5\nInstructor The Staff, Jim Whitehead, Michael John\nRequirements Enrollment is restricted to games and playable media and serious games graduate students; others by interview.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GAME 222 Professional Development for Game Makers II",
+        "description": "Second course in a three-course sequence covering the game industry, game jobs, current thinking on games, and becoming a professional game maker. Focus on design considerations and methodologies employed in the game industry with emphasis placed upon the student's ability to develop designs beyond mere ideas through to execution.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Jim Whitehead, Michael John",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 222 Professional Development for Game Makers II\nSecond course in a three-course sequence covering the game industry, game jobs, current thinking on games, and becoming a professional game maker. Focus on design considerations and methodologies employed in the game industry with emphasis placed upon the student's ability to develop designs beyond mere ideas through to execution.\nCredits 2\nInstructor Jim Whitehead, Michael John\nRequirements Enrollment is restricted to games and playable media graduate students.\n"
+    },
+    {
+        "coursename": "GAME 223 Professional Development for Games Makers III",
+        "description": "The third course in a three-course sequence covering the game industry, game jobs, current thinking on games, and becoming a professional game maker. Focuses on the business of the game industry, including funding, corporation types and formation, budgeting and burn rates, pitch decks, and marketing.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Jim Whitehead, Michael John, Erin Robinson",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 223 Professional Development for Games Makers III\nThe third course in a three-course sequence covering the game industry, game jobs, current thinking on games, and becoming a professional game maker. Focuses on the business of the game industry, including funding, corporation types and formation, budgeting and burn rates, pitch decks, and marketing.\nCredits 2\nInstructor Jim Whitehead, Michael John, Erin Robinson\nRequirements Enrollment is restricted to games and playable media graduate students.\n"
+    },
+    {
+        "coursename": "GAME 230 Fundamentals of Game Engineering",
+        "description": "Deep introduction to technologies used in the construction of computer games. Principles of 2D game engine design, including architecture, object-oriented design patterns, collision detection, particle systems. Also examines artificial intelligence techniques including pathfinding, state machines, and behavior trees.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Edward Melcer, Jim Whitehead, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 230 Fundamentals of Game Engineering\nDeep introduction to technologies used in the construction of computer games. Principles of 2D game engine design, including architecture, object-oriented design patterns, collision detection, particle systems. Also examines artificial intelligence techniques including pathfinding, state machines, and behavior trees.\nCredits 5\nInstructor Edward Melcer, Jim Whitehead, The Staff\nRequirements Enrollment is restricted to games and playable media graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GAME 231 Game Technologies",
+        "description": "Learn the fundamentals of at least two contemporary game engines. Develop 3D game prototypes using custom-level geometry and shaders. Understand common features of the engines and how engine-specific features shape the space games that are reasonable to implement.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Edward Melcer",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GAME 231 Game Technologies\nLearn the fundamentals of at least two contemporary game engines. Develop 3D game prototypes using custom-level geometry and shaders. Understand common features of the engines and how engine-specific features shape the space games that are reasonable to implement.\nCredits 5\nInstructor Adam Smith, Edward Melcer\nRequirements Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GAME 232 Advanced Game Technologies",
+        "description": "Exposes students to cutting-edge research technologies enabling the creation of games not possible with off-the-shelf techniques. Students learn how understand research to incorporate such technologies into a game. Students create rapid prototypes using several different technologies.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Jim Whitehead",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 232 Advanced Game Technologies\nExposes students to cutting-edge research technologies enabling the creation of games not possible with off-the-shelf techniques. Students learn how understand research to incorporate such technologies into a game. Students create rapid prototypes using several different technologies.\nCredits 5\nInstructor Adam Smith, Jim Whitehead\nRequirements Prerequisite(s): GAME 230; or GAME 235 and GAME 236. Enrollment is restricted graduate students.\n"
+    },
+    {
+        "coursename": "GAME 235 Game Development I",
+        "description": "First in a two-course sequence providing an introduction to game programming using a modern object-oriented language. Introduces the technologies used in the construction of computer games. Introduces the principles of 2D game engine design, including architecture, object-oriented design patterns, and collision detection. Students may not receive credit for this course and GAME 230.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Noah Wardrip-Fruin, Edward Melcer, Michael John, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 235 Game Development I\nFirst in a two-course sequence providing an introduction to game programming using a modern object-oriented language. Introduces the technologies used in the construction of computer games. Introduces the principles of 2D game engine design, including architecture, object-oriented design patterns, and collision detection. Students may not receive credit for this course and GAME 230.\nCredits 5\nInstructor Noah Wardrip-Fruin, Edward Melcer, Michael John, The Staff\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GAME 236 Game Development II",
+        "description": "Second in a two-course sequence providing an introduction to game programming using a modern object-oriented language. Intermediate technologies are used in the construction of computer games. Includes NPC behavior, scenes and shaders, physics, debugging, and managing game code. Students may not receive credit for this course and GAME 230.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Noah Wardrip-Fruin, Michael John",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 235. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 236 Game Development II\nSecond in a two-course sequence providing an introduction to game programming using a modern object-oriented language. Intermediate technologies are used in the construction of computer games. Includes NPC behavior, scenes and shaders, physics, debugging, and managing game code. Students may not receive credit for this course and GAME 230.\nCredits 5\nInstructor Adam Smith, Noah Wardrip-Fruin, Michael John\nRequirements Prerequisite(s): GAME 235. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 238 Computer Graphics for Games",
+        "description": "Advanced computer-graphics techniques for computer games. Covers a range of computer graphics techniques used in contemporary computer games, with emphasis on those that complement existing game engines. Subjects covered include: lighting for models and scenes, shader programming (including several visual effects), procedural mesh manipulation, advanced use of particle systems, and non-photorealistic rendering techniques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 230 or GAME 235. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 238 Computer Graphics for Games\nAdvanced computer-graphics techniques for computer games. Covers a range of computer graphics techniques used in contemporary computer games, with emphasis on those that complement existing game engines. Subjects covered include: lighting for models and scenes, shader programming (including several visual effects), procedural mesh manipulation, advanced use of particle systems, and non-photorealistic rendering techniques.\nCredits 5\nRequirements Prerequisite(s): GAME 230 or GAME 235. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "GAME 240 Game Usability",
+        "description": "Research approaches to game usability, from direct interaction with players to game instrumentation methods. Students learn to understand, select between, and adapt research designs and analysis approaches. Includes defining and measuring impact and effect size of serious games.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katherine Isbister",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 240 Game Usability\nResearch approaches to game usability, from direct interaction with players to game instrumentation methods. Students learn to understand, select between, and adapt research designs and analysis approaches. Includes defining and measuring impact and effect size of serious games.\nCredits 5\nInstructor Katherine Isbister\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "GAME 250 Foundations of Serious Games and Gamification",
+        "description": "Provides an overview of serious games and its applications in health, education, training, and advertisements. Further, it introduces gamification and discusses various examples of gamifications used in the market today in various industries including social media, retail, health trackers, and food industry. Course also provides a practical guide of the process of design and development of serious games and gamification techniques. Through projects students apply these lessons and develop two serious games or gamification projects. (Formerly offered as Foundations of Serious Games.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sri Kurniawan, Katherine Isbister, Edward Melcer, Kathryn Ringland, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in games and playable media, human computer interaction, and serious games, or by permission of the instructor",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 250 Foundations of Serious Games and Gamification\nProvides an overview of serious games and its applications in health, education, training, and advertisements. Further, it introduces gamification and discusses various examples of gamifications used in the market today in various industries including social media, retail, health trackers, and food industry. Course also provides a practical guide of the process of design and development of serious games and gamification techniques. Through projects students apply these lessons and develop two serious games or gamification projects. (Formerly offered as Foundations of Serious Games.)\nCredits 5\nInstructor Sri Kurniawan, Katherine Isbister, Edward Melcer, Kathryn Ringland, The Staff\nRequirements Enrollment is restricted to graduate students in games and playable media, human computer interaction, and serious games, or by permission of the instructor\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GAME 251 Games User Research",
+        "description": "Research approaches to user experience of games, from direct interaction with players to game instrumentation methods. Students learn to understand, select between, and adapt research designs and analysis approaches. Includes defining and measuring impact and effect size of serious games.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media, computational media, serious games, and human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 251 Games User Research\nResearch approaches to user experience of games, from direct interaction with players to game instrumentation methods. Students learn to understand, select between, and adapt research designs and analysis approaches. Includes defining and measuring impact and effect size of serious games.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to games and playable media, computational media, serious games, and human computer interaction graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 252 Modeling and Simulation",
+        "description": "Introduces the concepts of models, including how models are created and represented both conceptually and computationally. Also delves into practical aspects of developing and evaluating simulations. Students introduced to the value of simulations for what-if analysis as well as a way to explore and derive models around specific phenomena such as social and cultural structures, global warming, weather systems, among other applications within the field of serious games. Students introduced to various theoretical concepts and then asked to implement a project involving developing a model and simulation given a particular topic.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Magy Seif El-Nasr, Elin Carstensdottir",
+        "extrarequirements": "Requirements Enrollment is restricted to computational media graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 252 Modeling and Simulation\nIntroduces the concepts of models, including how models are created and represented both conceptually and computationally. Also delves into practical aspects of developing and evaluating simulations. Students introduced to the value of simulations for what-if analysis as well as a way to explore and derive models around specific phenomena such as social and cultural structures, global warming, weather systems, among other applications within the field of serious games. Students introduced to various theoretical concepts and then asked to implement a project involving developing a model and simulation given a particular topic.\nCredits 5\nInstructor Magy Seif El-Nasr, Elin Carstensdottir\nRequirements Enrollment is restricted to computational media graduate students.\n"
+    },
+    {
+        "coursename": "GAME 255 Serious Games Studio I",
+        "description": "Focuses on developing innovative project concepts, rapid prototyping and playtesting, and the creation of concept presentations. Students identify appropriate sources of subject matter expertise, elicit knowledge to inform a game project, and integrate that knowledge into the core gameplay experience.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Edward Melcer, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 200, or GAME 230, or GAME 236, or GAME 250. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GAME 255 Serious Games Studio I\nFocuses on developing innovative project concepts, rapid prototyping and playtesting, and the creation of concept presentations. Students identify appropriate sources of subject matter expertise, elicit knowledge to inform a game project, and integrate that knowledge into the core gameplay experience.\nCredits 5\nInstructor Jim Whitehead, Edward Melcer, The Staff\nRequirements Prerequisite(s): GAME 200, or GAME 230, or GAME 236, or GAME 250. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GAME 256 Serious Games Studio II",
+        "description": "Students work in teams to develop serious games. Involves multiple aspects of game production with emphasis on initiating production and coordination between requirements and design, and preparing a game iteration for efficacy measurement. Students receive frequent critiques on emerging game projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Michael John, Magy Seif El-Nasr, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 255. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 256 Serious Games Studio II\nStudents work in teams to develop serious games. Involves multiple aspects of game production with emphasis on initiating production and coordination between requirements and design, and preparing a game iteration for efficacy measurement. Students receive frequent critiques on emerging game projects.\nCredits 5\nInstructor Jim Whitehead, Michael John, Magy Seif El-Nasr, The Staff\nRequirements Prerequisite(s): GAME 255. Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GAME 257 Serious Games Studio III",
+        "description": "Students work in teams to develop serious games. Involves multiple aspects of game production with emphasis on performing efficacy measurements and responding through iteration. Students receive frequent critiques on final game projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Michael John, Magy Seif El-Nasr",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 256. Enrollment is restricted to serious games graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 257 Serious Games Studio III\nStudents work in teams to develop serious games. Involves multiple aspects of game production with emphasis on performing efficacy measurements and responding through iteration. Students receive frequent critiques on final game projects.\nCredits 5\nInstructor Jim Whitehead, Michael John, Magy Seif El-Nasr\nRequirements Prerequisite(s): GAME 256. Enrollment is restricted to serious games graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 270 Games and Playable Media Studio I",
+        "description": "First course in a three-course sequence covering the fundamentals and advanced topics in game and playable-media development. Focuses on developing innovative project concepts using methods ranging from prototyping to design documents, planning, and initiating project development.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Erin Robinson, Elin Carstensdottir, Edward Melcer",
+        "extrarequirements": "Requirements Enrollment is restricted to games and playable media graduate students; others by interview.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "GAME 270 Games and Playable Media Studio I\nFirst course in a three-course sequence covering the fundamentals and advanced topics in game and playable-media development. Focuses on developing innovative project concepts using methods ranging from prototyping to design documents, planning, and initiating project development.\nCredits 5\nInstructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Erin Robinson, Elin Carstensdottir, Edward Melcer\nRequirements Enrollment is restricted to games and playable media graduate students; others by interview.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "GAME 271 Games and Playable Media Studio II",
+        "description": "The second course in a three-course sequence in which students work in teams to develop an innovative computer game. Coursework involves multiple aspects of game production, including agile methodology; game and level design; development of code to implement game behavior; art direction; and audio design. Students receive frequent critiques on emerging game projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Erin Robinson, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): GAME 270. Enrollment is restricted to games and playable media graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 271 Games and Playable Media Studio II\nThe second course in a three-course sequence in which students work in teams to develop an innovative computer game. Coursework involves multiple aspects of game production, including agile methodology; game and level design; development of code to implement game behavior; art direction; and audio design. Students receive frequent critiques on emerging game projects.\nCredits 5\nInstructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Erin Robinson, The Staff\nRequirements Prerequisite(s): GAME 270. Enrollment is restricted to games and playable media graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GAME 272 Games and Playable Media Studio III",
+        "description": "The third course in a four-course sequence in which students work in teams to develop an innovative computer game. Coursework involves multiple aspects of game production including agile methodology; game and level design; development of code to implement game behavior; art direction; and audio design. Students receive frequent critiques on emerging game projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Elin Carstensdottir, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in the games and playable media program.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GAME 272 Games and Playable Media Studio III\nThe third course in a four-course sequence in which students work in teams to develop an innovative computer game. Coursework involves multiple aspects of game production including agile methodology; game and level design; development of code to implement game behavior; art direction; and audio design. Students receive frequent critiques on emerging game projects.\nCredits 5\nInstructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Elin Carstensdottir, The Staff\nRequirements Enrollment is restricted to graduate students in the games and playable media program.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GAME 273 Game Production Intensive",
+        "description": "Fourth course in a four-course sequence in which students work in teams to launch an innovative computer game. Coursework involves multiple aspects of game production, including agile methodology, game and level design, development of code to implement game behavior, art direction, and audio design. The emphasis is on interacting with game media to publicize the game. Students receive frequent critiques on emerging game projects.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "Instructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Erin Robinson",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in the games and playable media program.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 273 Game Production Intensive\nFourth course in a four-course sequence in which students work in teams to launch an innovative computer game. Coursework involves multiple aspects of game production, including agile methodology, game and level design, development of code to implement game behavior, art direction, and audio design. The emphasis is on interacting with game media to publicize the game. Students receive frequent critiques on emerging game projects.\nCredits 10\nInstructor Jim Whitehead, Noah Wardrip-Fruin, Michael John, Erin Robinson\nRequirements Enrollment is restricted to graduate students in the games and playable media program.\n"
+    },
+    {
+        "coursename": "GAME 280A Games Proseminar",
+        "description": "Students learn through guest speakers, design exercises, master classes, and interactive group activities. Students prepare through reading texts, playing games, and developing their own materials. Features visitors from small and large developers, game scholars, and those using games in general. Can be taken for Satisfactory/Unsatisfactory credit only.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Michael John, Elin Carstensdottir, Edward Melcer",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "GAME 280A Games Proseminar\nStudents learn through guest speakers, design exercises, master classes, and interactive group activities. Students prepare through reading texts, playing games, and developing their own materials. Features visitors from small and large developers, game scholars, and those using games in general. Can be taken for Satisfactory/Unsatisfactory credit only.\nCredits 2\nInstructor Michael John, Elin Carstensdottir, Edward Melcer\nRequirements Enrollment is restricted to games and playable media and serious games graduate students, or by permission of the instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "GAME 280Y Games You Should Know",
+        "description": "Examines games that produce novel experiences. Each session consists of game play and discussion of associated readings. Students learn to appreciate the range of possible game experiences, and understand key design ideas that enable those experiences.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Daniel Shapiro",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "GAME 280Y Games You Should Know\nExamines games that produce novel experiences. Each session consists of game play and discussion of associated readings. Students learn to appreciate the range of possible game experiences, and understand key design ideas that enable those experiences.\nCredits 2\nInstructor Daniel Shapiro\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "GAME 290A Advanced Topics in Games",
+        "description": "In-depth study of current topics in digital and non-digital games. Topics vary, but are expected to include virtual reality, augmented reality, novel game interfaces, advanced computer graphics techniques, advanced game-design techniques, advanced procedural content generation, and autonomous characters.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, Michael Mateas, Michael John",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GAME 290A Advanced Topics in Games\nIn-depth study of current topics in digital and non-digital games. Topics vary, but are expected to include virtual reality, augmented reality, novel game interfaces, advanced computer graphics techniques, advanced game-design techniques, advanced procedural content generation, and autonomous characters.\nCredits 5\nInstructor Jim Whitehead, Michael Mateas, Michael John\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    }
+]
