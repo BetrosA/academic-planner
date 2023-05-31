@@ -1,0 +1,32 @@
+[
+    {
+        "coursename": "PUNJ 1 First-Year Punjabi",
+        "description": "Provides students with an introductory knowledge of Punjabi language and Gurmukhi script. Develops skills in reading, writing, speaking, and listening. Also focuses on vocabulary and grammar with the goal of engaging in conversation in real-life situations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PUNJ 1 First-Year Punjabi\nProvides students with an introductory knowledge of Punjabi language and Gurmukhi script. Develops skills in reading, writing, speaking, and listening. Also focuses on vocabulary and grammar with the goal of engaging in conversation in real-life situations.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PUNJ 2 First-Year Punjabi",
+        "description": "Students enhance their skills in reading, writing, speaking and listening. Students are given systematic lessons on Punjabi grammar, vocabulary, and the social use of the language in different situations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PUNJ 1 or placement by interview with instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PUNJ 2 First-Year Punjabi\nStudents enhance their skills in reading, writing, speaking and listening. Students are given systematic lessons on Punjabi grammar, vocabulary, and the social use of the language in different situations.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PUNJ 1 or placement by interview with instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PUNJ 3 First-Year Punjabi",
+        "description": "Designed to continue building and strengthening students' skills in reading, writing, speaking and listening of modern Punjabi. In addition to new vocabulary, students are introduced to Punjabi idioms, proverbs, modern/medieval poetry, letter writing, and more elaborate compositions.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PUNJ 2 or by consent of the instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PUNJ 3 First-Year Punjabi\nDesigned to continue building and strengthening students' skills in reading, writing, speaking and listening of modern Punjabi. In addition to new vocabulary, students are introduced to Punjabi idioms, proverbs, modern/medieval poetry, letter writing, and more elaborate compositions.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PUNJ 2 or by consent of the instructor.\nQuarter Offered Spring\n"
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "coursename": "METX 80E Aquatic Toxicology",
+        "description": "An introduction to the sources, cycling, and impacts of toxicants in aquatic systems, including acid rain, ground water, fresh water rivers and lakes, estuaries, and the ocean. Emphasis is on the properties of toxic chemicals that influence their biogeochemical cycles and factors that influence their toxicity to aquatic organisms and humans.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "METX 80E Aquatic Toxicology\nAn introduction to the sources, cycling, and impacts of toxicants in aquatic systems, including acid rain, ground water, fresh water rivers and lakes, estuaries, and the ocean. Emphasis is on the properties of toxic chemicals that influence their biogeochemical cycles and factors that influence their toxicity to aquatic organisms and humans.\nCredits 5\nGeneral Education Code SI\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "METX 100 Introduction to Microbiology",
+        "description": "Introduces the biology of microorganisms (bacteria, archaea, viruses, fungi, and unicellular eukaryotes), with an emphasis on bacteria. Topics include microbial cell structure and function, physiology, metabolism, genetics, and diversity. Also considers the role of microbes in human health, the environment, biotechnology, and food production. Students cannot receive credit for both this course and METX 119.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jacqueline Kimmey, Michael Patnode",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A or ESCI 30.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "METX 100 Introduction to Microbiology\nIntroduces the biology of microorganisms (bacteria, archaea, viruses, fungi, and unicellular eukaryotes), with an emphasis on bacteria. Topics include microbial cell structure and function, physiology, metabolism, genetics, and diversity. Also considers the role of microbes in human health, the environment, biotechnology, and food production. Students cannot receive credit for both this course and METX 119.\nCredits 5\nInstructor Jacqueline Kimmey, Michael Patnode\nRequirements Prerequisite(s): BIOL 20A or ESCI 30.\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "METX 101 Sources and Fates of Pollutants",
+        "description": "Presents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments, including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis placed on susceptibility and effects of toxicants across organ systems, toxicokinetic and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 201.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Chad Saltikov",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "METX 101 Sources and Fates of Pollutants\nPresents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments, including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis placed on susceptibility and effects of toxicants across organ systems, toxicokinetic and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 201.\nCredits 5\nInstructor The Staff, Chad Saltikov\n"
+    },
+    {
+        "coursename": "METX 102 Cell and Molecular Toxicology",
+        "description": "Emphases of biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Designed for advanced undergraduates. Students cannot receive credit for this course and METX 202. (Formerly Cellular and Organismal Toxicology.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Donald Smith, Raquel Saltikov",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B or equivalent; BIOL 100 and BIOC 110 recommended. Enrollment restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "METX 102 Cell and Molecular Toxicology\nEmphases of biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Designed for advanced undergraduates. Students cannot receive credit for this course and METX 202. (Formerly Cellular and Organismal Toxicology.)\nCredits 5\nInstructor Donald Smith, Raquel Saltikov\nRequirements Prerequisite(s): BIOL 20A and BIOE 20B or equivalent; BIOL 100 and BIOC 110 recommended. Enrollment restricted to juniors and seniors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "METX 115 Environmental Health Science",
+        "description": "Addresses challenges related to environmental health, their impact on the health of biological structures, and humans as active elements in the process of environmental degradation, and as passive elements as well. Students discuss events as case studies of environmental health that contributed to environmental protection, and disease control and prevention. Course involves collaborative endeavor in which students develop a group assignment throughout the 10 weeks of the course that is evaluated at the end of the course.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raquel Chamorro-Garcia",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A or ENVS 23 or BIOL 89.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 115 Environmental Health Science\nAddresses challenges related to environmental health, their impact on the health of biological structures, and humans as active elements in the process of environmental degradation, and as passive elements as well. Students discuss events as case studies of environmental health that contributed to environmental protection, and disease control and prevention. Course involves collaborative endeavor in which students develop a group assignment throughout the 10 weeks of the course that is evaluated at the end of the course.\nCredits 5\nInstructor Raquel Chamorro-Garcia\nRequirements Prerequisite(s): BIOL 20A or ENVS 23 or BIOL 89.\nGeneral Education Code PR-E\n"
+    },
+    {
+        "coursename": "METX 119L Microbiology Laboratory",
+        "description": "An introduction to the principles and practices of laboratory microbiology, with a substantial presentation of optical microscopy.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Chad Saltikov",
+        "extrarequirements": "Requirements Prerequisites: Satisfaction of Entry Level Writing and Composition requirements; and one course from the following: BIOL 20L, or BIOL 101L, or BIOL 102L; and previous or concurrent enrollment in METX 100 or METX 119. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology, and Neuroscience majors. Other majors may enroll by permission of the instructor. Students cannot enroll in METX 119L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 129L, and BIOL 186L.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "METX 119L Microbiology Laboratory\nAn introduction to the principles and practices of laboratory microbiology, with a substantial presentation of optical microscopy.\nCredits 5\nInstructor The Staff, Chad Saltikov\nRequirements Prerequisites: Satisfaction of Entry Level Writing and Composition requirements; and one course from the following: BIOL 20L, or BIOL 101L, or BIOL 102L; and previous or concurrent enrollment in METX 100 or METX 119. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology, and Neuroscience majors. Other majors may enroll by permission of the instructor. Students cannot enroll in METX 119L after receiving credit with a 'C' or better in BIOL 100L, BIOL 103L, BIOL 105L, BIOL 106L, BIOL 108L, BIOL 109L, BIOL 115L, BIOL 120L, BIOL 121L, BIOL 129L, and BIOL 186L.\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "METX 125 Practicing Safe Science",
+        "description": "Introduces research safety principles and practices. Instructors and guest experts discuss research hazards and control measures. Students explore the safe use of research methods and materials via hands-on and outside exercises. Issues include compliance with hazardous waste and other environmental safety regulations.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Terra Haddad",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "METX 125 Practicing Safe Science\nIntroduces research safety principles and practices. Instructors and guest experts discuss research hazards and control measures. Students explore the safe use of research methods and materials via hands-on and outside exercises. Issues include compliance with hazardous waste and other environmental safety regulations.\nCredits 2\nInstructor Terra Haddad\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "METX 135 Functional Anatomy",
+        "description": "A rigorous systems-based course in anatomy. Lectures provide an overview of functional anatomy at all levels from the systems to the tissues. Provides a mechanistic understanding of the structures of the body as a foundation for human-health oriented studies.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Manel Camps, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B. Concurrent enrollment in METX 135L is required. Enrollment restricted to biological sciences majors and affiliated majors and biology minors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 135 Functional Anatomy\nA rigorous systems-based course in anatomy. Lectures provide an overview of functional anatomy at all levels from the systems to the tissues. Provides a mechanistic understanding of the structures of the body as a foundation for human-health oriented studies.\nCredits 5\nInstructor Manel Camps, The Staff\nRequirements Prerequisite(s): BIOL 20A and BIOE 20B. Concurrent enrollment in METX 135L is required. Enrollment restricted to biological sciences majors and affiliated majors and biology minors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 135C Cadaver Dissection Laboratory",
+        "description": "Dissection of a human cadaver under the direction of an anatomy instructor.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Manel Camps, The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "METX 135C Cadaver Dissection Laboratory\nDissection of a human cadaver under the direction of an anatomy instructor.\nCredits 2\nInstructor Manel Camps, The Staff\nRequirements Prerequisite(s): METX 135 and METX 135L, or ANTH 102A.\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "METX 135L Functional Anatomy Lab",
+        "description": "Complements lecture course 135. Emphasizes nomenclature and recognition; includes the embryology and histology of bones, muscles, and internal organs, and the interactions between the systems of the body.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Manel Camps, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B. The class is geared toward students in the biological sciences majors and affiliated majors and biology minors, but open to other majors. Concurrent enrollment in METX 135 is required.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 135L Functional Anatomy Lab\nComplements lecture course 135. Emphasizes nomenclature and recognition; includes the embryology and histology of bones, muscles, and internal organs, and the interactions between the systems of the body.\nCredits 3\nInstructor Manel Camps, The Staff\nRequirements Prerequisite(s): BIOL 20A and BIOE 20B. The class is geared toward students in the biological sciences majors and affiliated majors and biology minors, but open to other majors. Concurrent enrollment in METX 135 is required.\n"
+    },
+    {
+        "coursename": "METX 140 Molecular Biology and Microbial Genetics",
+        "description": "Introduces students to the field of molecular biology and microbial genetics. Covers the following topics: molecular mechanisms of DNA replication, transcription, translation, regulatory systems controlling replication, transcription, and translation; basic genetic principles with an emphasis on bacterial genetics; molecular biology and microbial genetics approaches used to understand the molecular mechanisms of interaction of microorganisms with their surroundings and other organisms; and experimental methods employing molecular biology and molecular genetics and biotechnology applications which have arisen from discoveries of bacterial mechanisms.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Fitnat Yildiz",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 100 or BIOC 100A.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 140 Molecular Biology and Microbial Genetics\nIntroduces students to the field of molecular biology and microbial genetics. Covers the following topics: molecular mechanisms of DNA replication, transcription, translation, regulatory systems controlling replication, transcription, and translation; basic genetic principles with an emphasis on bacterial genetics; molecular biology and microbial genetics approaches used to understand the molecular mechanisms of interaction of microorganisms with their surroundings and other organisms; and experimental methods employing molecular biology and molecular genetics and biotechnology applications which have arisen from discoveries of bacterial mechanisms.\nCredits 5\nInstructor Fitnat Yildiz\nRequirements Prerequisite(s): BIOL 100 or BIOC 100A.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 150 Introduction to Research and Experimental Design",
+        "description": "Lecture-based course for advanced undergraduates actively engaged in undergraduate research (e.g., independent study or senior thesis). Emphasizes basic lab skills, including laboratory safety and handling of laboratory equipment; experimental design; scientific record keeping; and literature searching, review, and management.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Chad Saltikov",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 150 Introduction to Research and Experimental Design\nLecture-based course for advanced undergraduates actively engaged in undergraduate research (e.g., independent study or senior thesis). Emphasizes basic lab skills, including laboratory safety and handling of laboratory equipment; experimental design; scientific record keeping; and literature searching, review, and management.\nCredits 5\nInstructor Chad Saltikov\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 195 Senior Thesis",
+        "description": "An individually supervised course, with emphasis on independent research culminating in a senior thesis.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 195 Senior Thesis\nAn individually supervised course, with emphasis on independent research culminating in a senior thesis.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 195F Senior Thesis",
+        "description": "An individually supervised course with emphasis on independent research culminating in a senior thesis.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "METX 195F Senior Thesis\nAn individually supervised course with emphasis on independent research culminating in a senior thesis.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "METX 198 Independent Study",
+        "description": "Provides for individual programs of study (a) by means other than the usual supervision in person or (b) when the student is doing all or most of the coursework off campus. With permission of the department, two or three courses may be taken concurrently, or the course repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 198 Independent Study\nProvides for individual programs of study (a) by means other than the usual supervision in person or (b) when the student is doing all or most of the coursework off campus. With permission of the department, two or three courses may be taken concurrently, or the course repeated for credit.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 198F Independent Study",
+        "description": "Provides for individual programs of study (a) by means other than the usual supervision in person or (b) when the student is doing all or most of the coursework off campus. With permission of the department, two or three courses may be taken concurrently, or the course repeated for credit.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "METX 198F Independent Study\nProvides for individual programs of study (a) by means other than the usual supervision in person or (b) when the student is doing all or most of the coursework off campus. With permission of the department, two or three courses may be taken concurrently, or the course repeated for credit.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "METX 199 Tutorial",
+        "description": "Reading, discussion, written reports, and laboratory research on selected topics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 199 Tutorial\nReading, discussion, written reports, and laboratory research on selected topics.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 199F Tutorial",
+        "description": "Reading, discussion, written reports, and laboratory research on selected topics.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "METX 199F Tutorial\nReading, discussion, written reports, and laboratory research on selected topics.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "METX 200 Interdisciplinary Approaches in Environmental Toxicology",
+        "description": "Introduction to interdisciplinary, case-based approaches to problem-solving. Demonstrates how important, current problems in environmental and human health have been addressed and solved. Presents assigned problems that integrate the different organization levels (environmental, molecular/cellular, organismal/public health) inherent to environmental and human health. Students work in collaborative teams to analyze each problem and create a proposal for a research plan/solution. This course must be taken for a letter grade.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Don Smith",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Advanced undergraduates may enroll by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "METX 200 Interdisciplinary Approaches in Environmental Toxicology\nIntroduction to interdisciplinary, case-based approaches to problem-solving. Demonstrates how important, current problems in environmental and human health have been addressed and solved. Presents assigned problems that integrate the different organization levels (environmental, molecular/cellular, organismal/public health) inherent to environmental and human health. Students work in collaborative teams to analyze each problem and create a proposal for a research plan/solution. This course must be taken for a letter grade.\nCredits 5\nInstructor Don Smith\nRequirements Enrollment is restricted to graduate students. Advanced undergraduates may enroll by permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "METX 200B Graduate Research Project Development",
+        "description": "Presents a framework for scientific writing related to developing a thesis research proposal in a topical area of microbiology and/or environmental toxicology.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Chad Saltikov",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "METX 200B Graduate Research Project Development\nPresents a framework for scientific writing related to developing a thesis research proposal in a topical area of microbiology and/or environmental toxicology.\nCredits 2\nInstructor Chad Saltikov\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "METX 201 Sources and Fates of Pollutants",
+        "description": "Presents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis will be placed on the susceptibility and effects of toxicants across organ systems, toxicokinetics and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 101.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Chad Saltikov",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduate science majors may enroll with permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 201 Sources and Fates of Pollutants\nPresents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis will be placed on the susceptibility and effects of toxicants across organ systems, toxicokinetics and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 101.\nCredits 5\nInstructor Chad Saltikov\nRequirements Enrollment is restricted to graduate students; qualified undergraduate science majors may enroll with permission of instructor.\n"
+    },
+    {
+        "coursename": "METX 202 Cell and Molecular Toxicology",
+        "description": "Emphasizes biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Students cannot receive credit for this course and METX 102 or BIOL 122.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Smith, Chad Saltikov, Raquel Chamorro-Garcia",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "METX 202 Cell and Molecular Toxicology\nEmphasizes biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Students cannot receive credit for this course and METX 102 or BIOL 122.\nCredits 5\nInstructor David Smith, Chad Saltikov, Raquel Chamorro-Garcia\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "METX 203 Cellular and Molecular Toxicology",
+        "description": "Presents in-depth cellular and molecular principles of environmental toxicology. These include modes of action and cellular and molecular targets of toxicants, as well as mechanisms of cellular and molecular responses to toxicants and their detoxification. State-of-the-art biological methodologies and approaches to identify and study cellular targets of toxicants. Designed to provide students with a broad and deep understanding of the biological aspects of toxicology at both cellular and molecular levels, and the skills to approach emerging challenges in the field.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 203 Cellular and Molecular Toxicology\nPresents in-depth cellular and molecular principles of environmental toxicology. These include modes of action and cellular and molecular targets of toxicants, as well as mechanisms of cellular and molecular responses to toxicants and their detoxification. State-of-the-art biological methodologies and approaches to identify and study cellular targets of toxicants. Designed to provide students with a broad and deep understanding of the biological aspects of toxicology at both cellular and molecular levels, and the skills to approach emerging challenges in the field.\nCredits 5\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.\n"
+    },
+    {
+        "coursename": "METX 205 Scientific Grant Writing",
+        "description": "Provides fundamental training of graduate students in the scientific method; experimental design; ethics in science; grant proposal and scientific writing; and data presentation and scientific speaking. Students are evaluated on class participation, performance, and a written NIH/NSF-style research proposal. (Formerly Scientific Skills, Ethics, and Writing.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment restricted to graduate students. Advanced undergraduates may enroll with permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 205 Scientific Grant Writing\nProvides fundamental training of graduate students in the scientific method; experimental design; ethics in science; grant proposal and scientific writing; and data presentation and scientific speaking. Students are evaluated on class participation, performance, and a written NIH/NSF-style research proposal. (Formerly Scientific Skills, Ethics, and Writing.)\nCredits 5\nRequirements Enrollment restricted to graduate students. Advanced undergraduates may enroll with permission of the instructor.\n"
+    },
+    {
+        "coursename": "METX 206A Advanced Microbiology",
+        "description": "Focuses on aspects of bacterial molecular biology. Covers four main areas: (1) metabolism-catabolism, anabolism, building-block precursors; (2) transcription/signal transduction; (3) replication/plasmid biology/division; (4) translation/protein processing/secretion/cell structure. Strong focus on experimental techniques and approaches used in molecular biology, and on model bacteria, such as Escherichia coli and Bacillus subtilis.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Manel Camps, Karen Ottemann, Chad Saltikov, Victoria Stone",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Advanced undergraduates may enroll with permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "METX 206A Advanced Microbiology\nFocuses on aspects of bacterial molecular biology. Covers four main areas: (1) metabolism-catabolism, anabolism, building-block precursors; (2) transcription/signal transduction; (3) replication/plasmid biology/division; (4) translation/protein processing/secretion/cell structure. Strong focus on experimental techniques and approaches used in molecular biology, and on model bacteria, such as Escherichia coli and Bacillus subtilis.\nCredits 5\nInstructor Manel Camps, Karen Ottemann, Chad Saltikov, Victoria Stone\nRequirements Enrollment is restricted to graduate students. Advanced undergraduates may enroll with permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "METX 210 Molecular and Cellular Basis of Bacterial Pathogenesis",
+        "description": "Focuses on the molecular basis of bacterial pathogenesis with specific emphasis on gene expression, regulation, and ecology and evolution.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Fitnat Yildiz, Victoria Auerbuch Stone, Jaqueline Kimmey, Michael Patnode",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.Advanced undergraduates with extensive background in microbiology and biology may enroll with permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 210 Molecular and Cellular Basis of Bacterial Pathogenesis\nFocuses on the molecular basis of bacterial pathogenesis with specific emphasis on gene expression, regulation, and ecology and evolution.\nCredits 5\nInstructor Fitnat Yildiz, Victoria Auerbuch Stone, Jaqueline Kimmey, Michael Patnode\nRequirements Enrollment is restricted to graduate students.Advanced undergraduates with extensive background in microbiology and biology may enroll with permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 215 Antibiotics: Actions and Resistance",
+        "description": "Critical review of scientific literature covering genetic and physiological mechanisms conferring resistance to antibiotics and their spread in the population. Format based on structured discussion of selected topics and original research proposal.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Fitnat Yildiz, Manel Camps",
+        "extrarequirements": "Requirements Prerequisite(s): METX 206A or METX 119, or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 215 Antibiotics: Actions and Resistance\nCritical review of scientific literature covering genetic and physiological mechanisms conferring resistance to antibiotics and their spread in the population. Format based on structured discussion of selected topics and original research proposal.\nCredits 3\nInstructor Fitnat Yildiz, Manel Camps\nRequirements Prerequisite(s): METX 206A or METX 119, or by permission of the instructor. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "METX 238 Pathogenesis: Molecular Mechanisms of Disease",
+        "description": "Provides an overview of the mammalian innate immune response and the role of inflammation in disease. Also, presents how both environmental stressors and microbial pathogens impact inflammation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Donald Smith, Manel Camps, Victoria Stone",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "METX 238 Pathogenesis: Molecular Mechanisms of Disease\nProvides an overview of the mammalian innate immune response and the role of inflammation in disease. Also, presents how both environmental stressors and microbial pathogens impact inflammation.\nCredits 5\nInstructor Donald Smith, Manel Camps, Victoria Stone\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "METX 240 Molecular Biology of Prokaryotes",
+        "description": "Focuses on several aspects of prokaryotic molecular biology. Covers transcriptional regulation, translational regulation, DNA replication and segregation, protein secretion, transport of small molecules, control of metabolism, stress response, bacterial differentiation, signal transduction, biofilm formation, and motility. Strong focus on experimental techniques and approaches used in prokaryotic molecular biology. Focus on model bacteria such as Escherichia coli and Bacillus subtilis.Students cannot receive credit for this course and METX 140.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Karen Ottemann",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "METX 240 Molecular Biology of Prokaryotes\nFocuses on several aspects of prokaryotic molecular biology. Covers transcriptional regulation, translational regulation, DNA replication and segregation, protein secretion, transport of small molecules, control of metabolism, stress response, bacterial differentiation, signal transduction, biofilm formation, and motility. Strong focus on experimental techniques and approaches used in prokaryotic molecular biology. Focus on model bacteria such as Escherichia coli and Bacillus subtilis.Students cannot receive credit for this course and METX 140.\nCredits 5\nInstructor Karen Ottemann\n"
+    },
+    {
+        "coursename": "METX 245A Scientific Communication in Microbiology and Environmental Toxicology A",
+        "description": "Introduces multiple forms of scientific presentation and communication to graduate students. Students learn to craft and deliver multiple types of written and visual communications, including formal and informal modes, on a topic developed as part of the class.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Karen Ottemann, Don Smith",
+        "extrarequirements": "Requirements Prerequisite(s): METX 200. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 245A Scientific Communication in Microbiology and Environmental Toxicology A\nIntroduces multiple forms of scientific presentation and communication to graduate students. Students learn to craft and deliver multiple types of written and visual communications, including formal and informal modes, on a topic developed as part of the class.\nCredits 5\nInstructor Karen Ottemann, Don Smith\nRequirements Prerequisite(s): METX 200. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 245B Scientific Communication in Microbiology and Environmental Toxicology B",
+        "description": "Continuation of METX 245A. Students develop and refine a capstone in-depth report in a written form and as an oral presentation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Karen Ottemann, Don Smith",
+        "extrarequirements": "Requirements Prerequisite(s): METX 245A. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 245B Scientific Communication in Microbiology and Environmental Toxicology B\nContinuation of METX 245A. Students develop and refine a capstone in-depth report in a written form and as an oral presentation.\nCredits 5\nInstructor Karen Ottemann, Don Smith\nRequirements Prerequisite(s): METX 245A. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 250 Environmental Microbiology",
+        "description": "How microbes interact with their environments. Topics include anaerobic metabolism; biotransformation of toxic metals and organic pollutants; geomicrobiology; life in extreme environments; water quality. Advanced undergraduates with extensive background in microbiology and biology may enroll with permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Chad Saltikov",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "METX 250 Environmental Microbiology\nHow microbes interact with their environments. Topics include anaerobic metabolism; biotransformation of toxic metals and organic pollutants; geomicrobiology; life in extreme environments; water quality. Advanced undergraduates with extensive background in microbiology and biology may enroll with permission of instructor.\nCredits 5\nInstructor Chad Saltikov\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "METX 281A Topics in Environmental Toxicology",
+        "description": "Selected topics in environmental toxicology. Topics vary from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 281A Topics in Environmental Toxicology\nSelected topics in environmental toxicology. Topics vary from year to year.\nCredits 5\nRequirements Enrollment is restricted to graduate students; qualified upper-division science majors may enroll with instructor's permission.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 281C Topics in Environmental Microbiology",
+        "description": "Seminar and discussion focusing on mechanism of microbial transformation of metals. Participants present results from their research projects in a seminar format. Relevant journal articles presented and discussed.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Chad Saltikov",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281C Topics in Environmental Microbiology\nSeminar and discussion focusing on mechanism of microbial transformation of metals. Participants present results from their research projects in a seminar format. Relevant journal articles presented and discussed.\nCredits 2\nInstructor Chad Saltikov\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281J Mechanisms of Virulence and Resistance to Infectious Disease",
+        "description": "Research seminar focusing on the mechanisms underlying host resistance or susceptibility to infectious diseases, and virulence strategies utilized by bacterial pathogens. Participants are required to present results from their own research and relevant journal articles.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281J Mechanisms of Virulence and Resistance to Infectious Disease\nResearch seminar focusing on the mechanisms underlying host resistance or susceptibility to infectious diseases, and virulence strategies utilized by bacterial pathogens. Participants are required to present results from their own research and relevant journal articles.\nCredits 2\nRequirements Enrollment is restricted to graduate students. Qualified undergraduate students may enroll with instructor\u2019s permission.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281M Topics in Molecular Toxicology",
+        "description": "Seminar and discussion on the mechanisms of toxicity in DNA alkylating agents. Participants present results from their research, and relevant journal articles are discussed.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Manel Camps",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281M Topics in Molecular Toxicology\nSeminar and discussion on the mechanisms of toxicity in DNA alkylating agents. Participants present results from their research, and relevant journal articles are discussed.\nCredits 2\nInstructor Manel Camps\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll with instructor's permission.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281O Topics in Bacterial Pathogenesis",
+        "description": "Intensive seminar focusing on mechanisms of bacterial pathogenesis of the ulcer-causing bacterium Helicobacter pylori. Participants are required to present results from their own research and relevant journal articles.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Karen Ottemann",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 281O Topics in Bacterial Pathogenesis\nIntensive seminar focusing on mechanisms of bacterial pathogenesis of the ulcer-causing bacterium Helicobacter pylori. Participants are required to present results from their own research and relevant journal articles.\nCredits 2\nInstructor Karen Ottemann\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 281P Origins and Applications of Human Gut Microbial Symbiosis",
+        "description": "Research seminar focusing on how beneficial and harmful bacterial species living in the human intestine compete with one another for nutrients in food, and how our immune systems influence the outcomes of these competitions. Emphasis is placed on the evolution of relationships between organisms. Discussion will include genetic, biochemical, bioinformatic, and immunological methods for advancing knowledge about the impacts of microbes on host health. Participants are required to present results from their own research, analyze current literature, and develop future aims for their studies. All lab members of the Patnode Lab are required to take this course.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Michael Patnode",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281P Origins and Applications of Human Gut Microbial Symbiosis\nResearch seminar focusing on how beneficial and harmful bacterial species living in the human intestine compete with one another for nutrients in food, and how our immune systems influence the outcomes of these competitions. Emphasis is placed on the evolution of relationships between organisms. Discussion will include genetic, biochemical, bioinformatic, and immunological methods for advancing knowledge about the impacts of microbes on host health. Participants are required to present results from their own research, analyze current literature, and develop future aims for their studies. All lab members of the Patnode Lab are required to take this course.\nCredits 2\nInstructor Michael Patnode\nRequirements Enrollment is restricted to graduate students. Qualified undergraduate students may enroll with instructor\u2019s permission.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281R Topics in Genome-Environment Interactions",
+        "description": "Intensive research seminar focusing on the effects of exposure to environmental agents and multigenerational epigenetic inheritance of disease. Participants are required to present results from their own research and relevant journal articles.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281R Topics in Genome-Environment Interactions\nIntensive research seminar focusing on the effects of exposure to environmental agents and multigenerational epigenetic inheritance of disease. Participants are required to present results from their own research and relevant journal articles.\nCredits 2\nRequirements Enrollment is restricted to graduate students. Qualified undergraduate students may enroll with instructor\u2019s permission.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281S Cellular and Organismal Responses to Toxicants",
+        "description": "Intensive research seminar on the concepts, theory, and techniques in deriving physiologically based pharmacokinetic models of toxin exposure, metabolism, and efficacy of therapeutic treatment in mammalian models of human metal toxicity.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Donald Smith",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281S Cellular and Organismal Responses to Toxicants\nIntensive research seminar on the concepts, theory, and techniques in deriving physiologically based pharmacokinetic models of toxin exposure, metabolism, and efficacy of therapeutic treatment in mammalian models of human metal toxicity.\nCredits 2\nInstructor Donald Smith\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281V Topics in Bacterial Pathogenesis and Innate Immunity",
+        "description": "Focuses on the interplay between the human gut bacterial pathogen Yersinia pseudotuberculosis and the innate immune system of the host. Participants are required to present the goals, results, and conclusions from their own research. Participation in the general discussion during others' presentations is also required.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Victoria Stone",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281V Topics in Bacterial Pathogenesis and Innate Immunity\nFocuses on the interplay between the human gut bacterial pathogen Yersinia pseudotuberculosis and the innate immune system of the host. Participants are required to present the goals, results, and conclusions from their own research. Participation in the general discussion during others' presentations is also required.\nCredits 2\nInstructor Victoria Stone\nRequirements Enrollment is restricted to graduate students. Qualified undergraduates performing research under the supervision of the instructor may enroll with instructor's permission.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 281Y Biofilms: Processes and Regulation",
+        "description": "Intensive seminar series focusing on the most current work on genes and the processes that regulate biofilm development dynamics as well as on the recent developments on visualization of biofilms. Presentation and discussion based.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Fitnat Yildiz",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 281Y Biofilms: Processes and Regulation\nIntensive seminar series focusing on the most current work on genes and the processes that regulate biofilm development dynamics as well as on the recent developments on visualization of biofilms. Presentation and discussion based.\nCredits 2\nInstructor Fitnat Yildiz\nRequirements Enrollment is restricted to graduate students. Qualified undergraduate students may enroll with instructor's permission.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 282 Current Approaches to Molecular Pathogenesis",
+        "description": "Graduate level seminar focusing on the mechanisms by which bacterial pathogens cause disease. Specific topics include basic concepts of virulence and virulence factors, virulence factor regulation, toxins, and interactions of pathogens with mammalian cells and organs. Discussions focus on several key pathogens, including Helicobacter pylori, Vibrio cholerae, Salmonella typhimuruim, and Listeria monocytogenes.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Karen Ottemann",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 282 Current Approaches to Molecular Pathogenesis\nGraduate level seminar focusing on the mechanisms by which bacterial pathogens cause disease. Specific topics include basic concepts of virulence and virulence factors, virulence factor regulation, toxins, and interactions of pathogens with mammalian cells and organs. Discussions focus on several key pathogens, including Helicobacter pylori, Vibrio cholerae, Salmonella typhimuruim, and Listeria monocytogenes.\nCredits 2\nInstructor Karen Ottemann\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 290 Proseminar",
+        "description": "Special topics offered from time to time by faculty, visiting professors, or staff members.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 290 Proseminar\nSpecial topics offered from time to time by faculty, visiting professors, or staff members.\nCredits 5\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 290A Epidemiology and Risk Assessment",
+        "description": "Approaches different techniques of biological monitoring and the exposure and effect of biomarkers related to occupational and environmental exposure to chemicals. Available methods for risk assessment and identification of protective exposure limits also considered.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "METX 290A Epidemiology and Risk Assessment\nApproaches different techniques of biological monitoring and the exposure and effect of biomarkers related to occupational and environmental exposure to chemicals. Available methods for risk assessment and identification of protective exposure limits also considered.\nCredits 5\n"
+    },
+    {
+        "coursename": "METX 292 Introductory Graduate Seminar",
+        "description": "Weekly seminars by academic and research faculty on their areas of special interest. Students write weekly abstracts on articles covered by the seminars. This course can be taken for Satisfactory/Unsatisfactory credit only.",
+        "genEd": "none",
+        "credithours": "Credits 0",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "METX 292 Introductory Graduate Seminar\nWeekly seminars by academic and research faculty on their areas of special interest. Students write weekly abstracts on articles covered by the seminars. This course can be taken for Satisfactory/Unsatisfactory credit only.\nCredits 0\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "METX 297A Independent Study",
+        "description": "Independent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 297A Independent Study\nIndependent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 297B Independent Study",
+        "description": "Independent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 297B Independent Study\nIndependent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 297C Independent Study",
+        "description": "Independent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 297C Independent Study\nIndependent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 299A Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 299A Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 299B Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 299B Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "METX 299C Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "METX 299C Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\n"
+    }
+]

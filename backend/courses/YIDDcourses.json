@@ -1,0 +1,42 @@
+[
+    {
+        "coursename": "YIDD 1 First-Year Yiddish",
+        "description": "Introduces the Yiddish language. Students learn to speak and to ask others in Yiddish about themselves and about common situations (the classroom, work, family), and learn to read and write simple Yiddish texts.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "YIDD 1 First-Year Yiddish\nIntroduces the Yiddish language. Students learn to speak and to ask others in Yiddish about themselves and about common situations (the classroom, work, family), and learn to read and write simple Yiddish texts.\nCredits 5\nInstructor The Staff\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "YIDD 2 First-Year Yiddish",
+        "description": "Follows YIDD 1, expanding vocabulary to include the weather, physical health and sickness, holidays, clothing, etc., and increasing student ability for self-expression using different tenses and grammatical cases.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): YIDD 1 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "YIDD 2 First-Year Yiddish\nFollows YIDD 1, expanding vocabulary to include the weather, physical health and sickness, holidays, clothing, etc., and increasing student ability for self-expression using different tenses and grammatical cases.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): YIDD 1 or by consent of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "YIDD 3 First-Year Yiddish",
+        "description": "Follows YIDD 2, expanding vocabulary to include food, travel, and academic life, with an emphasis on the expression of feelings and opinions, agreement and disagreement, making use of all tenses and all grammatical cases.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): YIDD 2 or by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "YIDD 3 First-Year Yiddish\nFollows YIDD 2, expanding vocabulary to include food, travel, and academic life, with an emphasis on the expression of feelings and opinions, agreement and disagreement, making use of all tenses and all grammatical cases.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): YIDD 2 or by permission of the instructor.\n"
+    },
+    {
+        "coursename": "YIDD 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "YIDD 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

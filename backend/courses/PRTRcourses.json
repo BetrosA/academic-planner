@@ -1,0 +1,522 @@
+[
+    {
+        "coursename": "PRTR 1 Academic Literacy and Ethos: Arts of Reading",
+        "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages Porter's intellectual tradition of investigating the contribution the arts and humanities make to a good life, a just society, and a flourishing world.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to first-year college members.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PRTR 1 Academic Literacy and Ethos: Arts of Reading\nTeaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages Porter's intellectual tradition of investigating the contribution the arts and humanities make to a good life, a just society, and a flourishing world.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to first-year college members.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PRTR 1A Introduction to University Life and Learning",
+        "description": "PRTR 1A explores opportunities, expectations, and responsibilities in university life. Topics include: academic planning; general education requirements; majors and minors; campus policy; and preparation for Porter's core course: Re/reading Race. Students gain familiarity with resources for health, well-being, time management, academic success, cultivating just communities, sexual harassment and violence prevention, reflection on UCSC's principles of community, and an introduction to the living and learning tradition of Porter College. This course can be taken for Pass/No Pass grading only.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "Instructor Gerald Casel",
+        "extrarequirements": "Requirements Enrollment is restricted to entering first-year Porter College students.",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "PRTR 1A Introduction to University Life and Learning\nPRTR 1A explores opportunities, expectations, and responsibilities in university life. Topics include: academic planning; general education requirements; majors and minors; campus policy; and preparation for Porter's core course: Re/reading Race. Students gain familiarity with resources for health, well-being, time management, academic success, cultivating just communities, sexual harassment and violence prevention, reflection on UCSC's principles of community, and an introduction to the living and learning tradition of Porter College. This course can be taken for Pass/No Pass grading only.\nCredits 1\nInstructor Gerald Casel\nRequirements Enrollment is restricted to entering first-year Porter College students.\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "PRTR 2 Reading Films for Truth",
+        "description": "Building on the foundational skills, habits of mind, and interpretive proficiencies developed in Academic Literacy and Ethos: Arts of Reading (PRTR 1), students will explore the ways in which feature-length narrative and documentary films have approached the representation of truth.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PRTR 1 or permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 2 Reading Films for Truth\nBuilding on the foundational skills, habits of mind, and interpretive proficiencies developed in Academic Literacy and Ethos: Arts of Reading (PRTR 1), students will explore the ways in which feature-length narrative and documentary films have approached the representation of truth.\nCredits 5\nRequirements Prerequisite(s): PRTR 1 or permission of instructor.\nGeneral Education Code IM\n"
+    },
+    {
+        "coursename": "PRTR 26 Navigating the Research University",
+        "description": "Explores critical engagement in education in the context of a research university. Introduces first-year issues and success strategies and ways to participate in the institution's academic life. Investigates strategies for clarifying education goals and devising a plan for success. Students cannot receive credit for this course and KRSG 26 or STEV 26.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to first-year Porter and Kresge College members.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 26 Navigating the Research University\nExplores critical engagement in education in the context of a research university. Introduces first-year issues and success strategies and ways to participate in the institution's academic life. Investigates strategies for clarifying education goals and devising a plan for success. Students cannot receive credit for this course and KRSG 26 or STEV 26.\nCredits 2\nRequirements Enrollment is restricted to first-year Porter and Kresge College members.\n"
+    },
+    {
+        "coursename": "PRTR 35M The Mockumentary Film",
+        "description": "Mockumentaries such as Waiting for Guffman, This is Spinal Tap, and Woody Allen's Zelig grow out of the documentary tradition; but instead of claiming to represent real-world phenomena, they blatantly distort. Ten mockumentaries and their documentary correlates are studied. (Formerly course 80J.)",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "PRTR 35M The Mockumentary Film\nMockumentaries such as Waiting for Guffman, This is Spinal Tap, and Woody Allen's Zelig grow out of the documentary tradition; but instead of claiming to represent real-world phenomena, they blatantly distort. Ten mockumentaries and their documentary correlates are studied. (Formerly course 80J.)\nCredits 5\nInstructor Robert Giges\nGeneral Education Code IM\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "PRTR 37L Introduction to Laser Cutting, 3D Prinitng, and Vacuum Forming",
+        "description": "Design functional objects, sculpture, and other digitally inspired forms in a variety of 2D (Illustrator) and 3D applications (Cinema 4D, Ketch UP, or AutoCAD), then produce those models as physical objects with a variety of rapid-prototyping methods including laser cutting, 3D printing, and vacuum forming.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 37L Introduction to Laser Cutting, 3D Prinitng, and Vacuum Forming\nDesign functional objects, sculpture, and other digitally inspired forms in a variety of 2D (Illustrator) and 3D applications (Cinema 4D, Ketch UP, or AutoCAD), then produce those models as physical objects with a variety of rapid-prototyping methods including laser cutting, 3D printing, and vacuum forming.\nCredits 2\nRequirements Enrollment is restricted to college members.\n"
+    },
+    {
+        "coursename": "PRTR 41I Improvisation",
+        "description": "Theory and practice of improvisation in the performing arts with an emphasis on acting improvisation techniques. Readings and films develop a theoretical and historical understanding of spontaneous invention on stage. Students attend area theater improvisational performances.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter, Summer",
+        "fulldesc": "PRTR 41I Improvisation\nTheory and practice of improvisation in the performing arts with an emphasis on acting improvisation techniques. Readings and films develop a theoretical and historical understanding of spontaneous invention on stage. Students attend area theater improvisational performances.\nCredits 5\nInstructor Robert Giges\nGeneral Education Code PR-C\nQuarter Offered Winter, Summer\n"
+    },
+    {
+        "coursename": "PRTR 41S Solo Performance Works in the Theater",
+        "description": "Explores solo performance works made for the theater. While all course texts fall within the narrative tradition, some center on performers' lives, others on socio-political issues. Course participants screen video recordings of live performances in class., ultimately creating their own brief solo performances.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 41S Solo Performance Works in the Theater\nExplores solo performance works made for the theater. While all course texts fall within the narrative tradition, some center on performers' lives, others on socio-political issues. Course participants screen video recordings of live performances in class., ultimately creating their own brief solo performances.\nCredits 2\nInstructor Robert Giges\nRequirements Enrollment is restricted to college members.\nGeneral Education Code PR-C\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 41W Playwriting Workshop",
+        "description": "Explores different aspects of written drama: scene and character development, plot, dialogue, monologues, soliloquies, stage direction, setting, and structure. Excerpts of late 20th-century plays serve as the basis for class discussion.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Kate Hawley",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 41W Playwriting Workshop\nExplores different aspects of written drama: scene and character development, plot, dialogue, monologues, soliloquies, stage direction, setting, and structure. Excerpts of late 20th-century plays serve as the basis for class discussion.\nCredits 2\nInstructor Kate Hawley\nRequirements Enrollment is restricted to college members.\nGeneral Education Code PR-C\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 47K Korean Music and Culture",
+        "description": "Introduction to the farmers band tradition. Theory and practice of drumming are emphasized, resulting in a group performance.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 47K Korean Music and Culture\nIntroduction to the farmers band tradition. Theory and practice of drumming are emphasized, resulting in a group performance.\nCredits 2\n"
+    },
+    {
+        "coursename": "PRTR 47S Sound Art",
+        "description": "Several composers and performers of contemporary art music discuss the processes by which works are conceived in imagination, transcribed in notation, and realized in sound. After a brief introduction to contemporary music aesthetics, students attend a series of related presentations, seminars, and concerts.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "PRTR 47S Sound Art\nSeveral composers and performers of contemporary art music discuss the processes by which works are conceived in imagination, transcribed in notation, and realized in sound. After a brief introduction to contemporary music aesthetics, students attend a series of related presentations, seminars, and concerts.\nCredits 2\nRequirements Enrollment is restricted to college members.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "PRTR 51A The Artist's Novel",
+        "description": "A cross-cultural survey of the kunstlerroman, or artist's novel, from its origins in late 18th-century Germany to contemporary Latin America and the United States, this course explores how this genre understands artistic development and the role of artists in society.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Laura Martin",
+        "extrarequirements": "Requirements Enrollment is restricted to college members or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 51A The Artist's Novel\nA cross-cultural survey of the kunstlerroman, or artist's novel, from its origins in late 18th-century Germany to contemporary Latin America and the United States, this course explores how this genre understands artistic development and the role of artists in society.\nCredits 2\nInstructor Laura Martin\nRequirements Enrollment is restricted to college members or by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 61 Seminar in Arts",
+        "description": "Theoretical and historical aspects of the arts from one culture or world area are explored through seminar discussion, library research, and film/video presentations.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PRTR 61 Seminar in Arts\nTheoretical and historical aspects of the arts from one culture or world area are explored through seminar discussion, library research, and film/video presentations.\nCredits 2\nRequirements Priority given to college members. Others by permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PRTR 61B Handmade Books",
+        "description": "This workshop teaches the history and construction of handmade books as a mode of personal and/or political expression leading to an exhibition of student work.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Victoria May",
+        "extrarequirements": "Requirements Enrollment is restricted to college members or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 61B Handmade Books\nThis workshop teaches the history and construction of handmade books as a mode of personal and/or political expression leading to an exhibition of student work.\nCredits 2\nInstructor Victoria May\nRequirements Enrollment is restricted to college members or by permission of the instructor.\nGeneral Education Code PR-C\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 61J Jewish Personal Narratives on Film",
+        "description": "Considers Jewish-American filmmakers as they come to terms with their identity in autobiographical works. Students write responses to texts and create their own brief personal narratives.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 61J Jewish Personal Narratives on Film\nConsiders Jewish-American filmmakers as they come to terms with their identity in autobiographical works. Students write responses to texts and create their own brief personal narratives.\nCredits 2\nInstructor Robert Giges\nRequirements Enrollment is restricted to college members.\nGeneral Education Code PR-C\n"
+    },
+    {
+        "coursename": "PRTR 61N Personal Narratives in Theater and Film",
+        "description": "Considers filmmakers and monologue performers as they come to terms with their identity in autobiographical works. Students write responses to texts and create their own brief personal narratives.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "Requirements Priority given to college members. Others by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring, Summer",
+        "fulldesc": "PRTR 61N Personal Narratives in Theater and Film\nConsiders filmmakers and monologue performers as they come to terms with their identity in autobiographical works. Students write responses to texts and create their own brief personal narratives.\nCredits 2\nInstructor Robert Giges\nRequirements Priority given to college members. Others by permission of instructor.\nGeneral Education Code PR-C\nQuarter Offered Spring, Summer\n"
+    },
+    {
+        "coursename": "PRTR 61O Documenting Oral History",
+        "description": "Students learn basic techniques of interview and camera work to document on film oral histories collected from community elders. Students develop their skills in writing, theater, visual art, music, or film to reinterpret oral histories as artwork.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Tandy Beal",
+        "extrarequirements": "Requirements Priority given to college members. Others by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 61O Documenting Oral History\nStudents learn basic techniques of interview and camera work to document on film oral histories collected from community elders. Students develop their skills in writing, theater, visual art, music, or film to reinterpret oral histories as artwork.\nCredits 5\nInstructor Tandy Beal\nRequirements Priority given to college members. Others by permission of instructor.\n"
+    },
+    {
+        "coursename": "PRTR 61Q Queering the Arts",
+        "description": "Exploration of the arts as a way to understand and experience how queerness has been expressed, repressed, denigrated, and celebrated in visual arts, music, film, poetry, and dance.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Roxanne Hamilton",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 61Q Queering the Arts\nExploration of the arts as a way to understand and experience how queerness has been expressed, repressed, denigrated, and celebrated in visual arts, music, film, poetry, and dance.\nCredits 2\nInstructor Roxanne Hamilton\nRequirements Enrollment is restricted to college members.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 63F Fractals, Chaos Theory, and the Arts",
+        "description": "A consideration of chaos theory and fractal geometry as applied by 20th-century artists in all media. All necessary math and computer skills are covered. Students complete essays or art projects.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ralph Abraham",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 63F Fractals, Chaos Theory, and the Arts\nA consideration of chaos theory and fractal geometry as applied by 20th-century artists in all media. All necessary math and computer skills are covered. Students complete essays or art projects.\nCredits 2\nInstructor Ralph Abraham\nRequirements Enrollment is restricted to college members.\nGeneral Education Code PR-C\n"
+    },
+    {
+        "coursename": "PRTR 63W Ways of Knowing",
+        "description": "Creativity in different disciplines is developed via different ways of knowing. Musical, visual, scientific, and spatial literacy demand understanding which is not primarily logocentric. Explores how practitioners of arts and science develop their work and conceptualize its execution.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Brenda Sanfilippo",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 63W Ways of Knowing\nCreativity in different disciplines is developed via different ways of knowing. Musical, visual, scientific, and spatial literacy demand understanding which is not primarily logocentric. Explores how practitioners of arts and science develop their work and conceptualize its execution.\nCredits 5\nInstructor Brenda Sanfilippo\nRequirements Enrollment is restricted to college members.\nGeneral Education Code IM\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 71A Awakening Compassion: Transforming Our Relationship to Self and the World",
+        "description": "Develops the qualities of compassion and kindness toward oneself and others. Combining contemporary scientific research, mindfulness training, and traditional contemplative practices, this course supports students in the cultivation of a more discerning, thoughtful, and compassionate life.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Christine King",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 71A Awakening Compassion: Transforming Our Relationship to Self and the World\nDevelops the qualities of compassion and kindness toward oneself and others. Combining contemporary scientific research, mindfulness training, and traditional contemplative practices, this course supports students in the cultivation of a more discerning, thoughtful, and compassionate life.\nCredits 2\nInstructor Christine King\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 90A Aesthetics and Politics: Spanish Civil War",
+        "description": "Addresses questions of aesthetics and politics through a critical and practical examination of some artistic, literary, and broadly cultural developments proper to the political left during the Spanish Revolution and Civil War (1934-1939). Enrollment is restricted to first-year, Challenge Program participants from Stevenson College, Merrill College, Porter College, and Kresge College.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Lau",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 90A Aesthetics and Politics: Spanish Civil War\nAddresses questions of aesthetics and politics through a critical and practical examination of some artistic, literary, and broadly cultural developments proper to the political left during the Spanish Revolution and Civil War (1934-1939). Enrollment is restricted to first-year, Challenge Program participants from Stevenson College, Merrill College, Porter College, and Kresge College.\nCredits 5\nInstructor David Lau\nGeneral Education Code PR-C\n"
+    },
+    {
+        "coursename": "PRTR 90B Art and Politics After Google",
+        "description": "Addresses questions of aesthetics and politics through a critical and practical examination of some artistic, literary, and broadly cultural developments proper to the history of the Internet (1990s to the present).",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Lau",
+        "extrarequirements": "Requirements Enrollment is restricted to participants in the first-year scholars program.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 90B Art and Politics After Google\nAddresses questions of aesthetics and politics through a critical and practical examination of some artistic, literary, and broadly cultural developments proper to the history of the Internet (1990s to the present).\nCredits 5\nInstructor David Lau\nRequirements Enrollment is restricted to participants in the first-year scholars program.\nGeneral Education Code IM\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 93 Field Study",
+        "description": "Field Study",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 93 Field Study\nField Study\nCredits 5\n"
+    },
+    {
+        "coursename": "PRTR 95A Arts Education in the Community",
+        "description": "Organized in small teams, participants engage with students from public elementary classrooms to develop fully-staged group performance projects by end of term. Students are guided by instructor's models of teaching techniques, designed to stimulate the imagination, and by diverse readings.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Tandy Beal",
+        "extrarequirements": "Requirements Priority given to college members. Others by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 95A Arts Education in the Community\nOrganized in small teams, participants engage with students from public elementary classrooms to develop fully-staged group performance projects by end of term. Students are guided by instructor's models of teaching techniques, designed to stimulate the imagination, and by diverse readings.\nCredits 5\nInstructor Tandy Beal\nRequirements Priority given to college members. Others by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 99 Tutorial",
+        "description": "Various topics to be arranged. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 99 Tutorial\nVarious topics to be arranged. Students submit petition to sponsoring agency.\nCredits 5\n"
+    },
+    {
+        "coursename": "PRTR 99F Tutorial",
+        "description": "Various topics to be arranged. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 99F Tutorial\nVarious topics to be arranged. Students submit petition to sponsoring agency.\nCredits 2\n"
+    },
+    {
+        "coursename": "PRTR 131C Curatorial Practice",
+        "description": "Offers the opportunity to participate in programming interdisciplinary curatorial praxis, arts events, exhibitions, performances, lectures, and film screenings. Students are exposed to UCSC alumni and faculty members' research through visiting class lectures. Students learn basic protocol for arts programming and critical arts writing, and are required to create their own participatory curatorial project at Porter College.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Shelby Graham",
+        "extrarequirements": "Requirements Enrollment is restricted to Porter College members.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 131C Curatorial Practice\nOffers the opportunity to participate in programming interdisciplinary curatorial praxis, arts events, exhibitions, performances, lectures, and film screenings. Students are exposed to UCSC alumni and faculty members' research through visiting class lectures. Students learn basic protocol for arts programming and critical arts writing, and are required to create their own participatory curatorial project at Porter College.\nCredits 2\nInstructor Shelby Graham\nRequirements Enrollment is restricted to Porter College members.\nGeneral Education Code PR-E\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 131P What is Photography? History, Politics, and Critique of Photographic Representation",
+        "description": "We live in a world permeated with photographic images, but do we really notice photographs? Do we understand how they work and what they mean? Do we know how to read them? Now that our phones and cameras have merged, we might also say that we live in a world that is forever inviting, imploring us to take photos; we might say we live in a world in which it is almost impossible not to take photos. Are we all photographers now? Do we choose to take photographs or has photography, in a sense, chosen us?",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Laura Martin",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 131P What is Photography? History, Politics, and Critique of Photographic Representation\nWe live in a world permeated with photographic images, but do we really notice photographs? Do we understand how they work and what they mean? Do we know how to read them? Now that our phones and cameras have merged, we might also say that we live in a world that is forever inviting, imploring us to take photos; we might say we live in a world in which it is almost impossible not to take photos. Are we all photographers now? Do we choose to take photographs or has photography, in a sense, chosen us?\nCredits 5\nInstructor Laura Martin\nGeneral Education Code IM\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 135W Women and the Silent Screen: An Interactive history",
+        "description": "Students learn about women's engagement with early movie culture, conduct their own historical research, and collaborate on building a web site that brings this knowledge to a public audience.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shelley Stamp",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 135W Women and the Silent Screen: An Interactive history\nStudents learn about women's engagement with early movie culture, conduct their own historical research, and collaborate on building a web site that brings this knowledge to a public audience.\nCredits 5\nInstructor Shelley Stamp\nRequirements Enrollment is restricted to college members.\nGeneral Education Code IM\n"
+    },
+    {
+        "coursename": "PRTR 141C Shakespeare's Clown Characters",
+        "description": "This performance-based course explores Shakespeare's clowns, jesters, and fools (the characters as well as the performers who originated them). Examines the comic traditions from which Shakespeare drew his inspiration, and considers how Shakespeare's work continues to influence contemporary comedy practices. No experience with Shakespeare or performance is necessary.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Patricia Gallagher",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 141C Shakespeare's Clown Characters\nThis performance-based course explores Shakespeare's clowns, jesters, and fools (the characters as well as the performers who originated them). Examines the comic traditions from which Shakespeare drew his inspiration, and considers how Shakespeare's work continues to influence contemporary comedy practices. No experience with Shakespeare or performance is necessary.\nCredits 5\nInstructor Patricia Gallagher\nRequirements Enrollment is restricted to college members.\nGeneral Education Code PR-C\n"
+    },
+    {
+        "coursename": "PRTR 141L Long Form Improvisation",
+        "description": "Focuses on long-form (acting) improvisation, building participants' knowledge and skills through practical and theoretical readings, by viewing relevant performances, and by improvising in class and in small groups outside class. Participants perform in a final public showing.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "Requirements PRTR 41I, PRTR 80I, or equivalent college-level experience or coursework.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 141L Long Form Improvisation\nFocuses on long-form (acting) improvisation, building participants' knowledge and skills through practical and theoretical readings, by viewing relevant performances, and by improvising in class and in small groups outside class. Participants perform in a final public showing.\nCredits 5\nInstructor Robert Giges\nRequirements PRTR 41I, PRTR 80I, or equivalent college-level experience or coursework.\nGeneral Education Code PR-C\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 141W Improvisation Workshop",
+        "description": "For practitioners of acting improvisation, this course deepens participants' knowledge and skills through practical and theoretical readings, by viewing performances, and by improvising in class and in small groups outside class. Participants perform in a final public showing.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Robert Giges",
+        "extrarequirements": "Requirements Prerequisite(s): PRTR 41I or equivalent college-level experience or coursework.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 141W Improvisation Workshop\nFor practitioners of acting improvisation, this course deepens participants' knowledge and skills through practical and theoretical readings, by viewing performances, and by improvising in class and in small groups outside class. Participants perform in a final public showing.\nCredits 5\nInstructor Robert Giges\nRequirements Prerequisite(s): PRTR 41I or equivalent college-level experience or coursework.\nGeneral Education Code PR-C\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 147O Opera Workshop/Music Practicum",
+        "description": "Rehearsal of the principal vocal parts of an opera in preparation for a full production. Consideration of the dramatic aspects of each role and the interrelationships of the characters.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 147O Opera Workshop/Music Practicum\nRehearsal of the principal vocal parts of an opera in preparation for a full production. Consideration of the dramatic aspects of each role and the interrelationships of the characters.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 147P Advanced Music Practicum",
+        "description": "The practice of music in a particular area of the world at an advanced level. Students learn the music of one world area or culture over the quarter and study the associated cultural background. Enrollment limited.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 147P Advanced Music Practicum\nThe practice of music in a particular area of the world at an advanced level. Students learn the music of one world area or culture over the quarter and study the associated cultural background. Enrollment limited.\nCredits 2\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PRTR 151A Yaa Gyasi and Contemporary African Diasporic Literature",
+        "description": "Ghanaian American novelist Yaa Gyasi, a major emerging figure in U.S. literature, is read alongside African American writers such as Toni Morrison and African Diasporic writers including Chimamanda Ngozi Adichie and Teju Cole to consider her work as a bridge between African American and African Diasporic literary traditions.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Laura Martin",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 151A Yaa Gyasi and Contemporary African Diasporic Literature\nGhanaian American novelist Yaa Gyasi, a major emerging figure in U.S. literature, is read alongside African American writers such as Toni Morrison and African Diasporic writers including Chimamanda Ngozi Adichie and Teju Cole to consider her work as a bridge between African American and African Diasporic literary traditions.\nCredits 5\nInstructor Laura Martin\nGeneral Education Code TA\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 151F Writing the Future: Science Fiction",
+        "description": "Investigates how science fiction's utopic and/or dystopic projections give insights about equality, democracy, justice, and difference at the same time they register contemporary anxieties about community, kinship, war, viruses, genetic engineering, robotics, surveillance, and environmental degradation.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Dion Farquhar",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 151F Writing the Future: Science Fiction\nInvestigates how science fiction's utopic and/or dystopic projections give insights about equality, democracy, justice, and difference at the same time they register contemporary anxieties about community, kinship, war, viruses, genetic engineering, robotics, surveillance, and environmental degradation.\nCredits 5\nInstructor Dion Farquhar\nGeneral Education Code TA\n"
+    },
+    {
+        "coursename": "PRTR 151N Tommy Orange and the New Native Renaissance",
+        "description": "Major figures in the New Native Renaissance (Tommy Orange, Terese Mailhot, and Billy-Ray Belcourt) are read to discover the contours of this new movement of indigenous literature. Course explores a wide range of new Native genres (memoir, poetry, short stories, and novels), but the central text is Tommy Orange's \"There There,\" which critics have hailed as a central text in the revival of Native American letters.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 151N Tommy Orange and the New Native Renaissance\nMajor figures in the New Native Renaissance (Tommy Orange, Terese Mailhot, and Billy-Ray Belcourt) are read to discover the contours of this new movement of indigenous literature. Course explores a wide range of new Native genres (memoir, poetry, short stories, and novels), but the central text is Tommy Orange's \"There There,\" which critics have hailed as a central text in the revival of Native American letters.\nCredits 5\nGeneral Education Code TA\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 151P Building the Poem: Process, Form, and the Embodied Text",
+        "description": "Investigates form as it guides poetic utterance. Students complete texts to fit forms including broadsides, pamphlets, and books. Composition is guided by production methods, from holographic texts to letterpress and digital composition.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Gary Young",
+        "extrarequirements": "Requirements Enrollment is restricted to college members.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 151P Building the Poem: Process, Form, and the Embodied Text\nInvestigates form as it guides poetic utterance. Students complete texts to fit forms including broadsides, pamphlets, and books. Composition is guided by production methods, from holographic texts to letterpress and digital composition.\nCredits 5\nInstructor Gary Young\nRequirements Enrollment is restricted to college members.\nGeneral Education Code PR-C\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 151S Introduction to Shakespeare",
+        "description": "Introduces Shakespeare's works, focusing on representative examples drawn from the range of genres in which he wrote; poetry, comedy, history, tragedy, and tragicomedy.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Sean Keilen",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "PRTR 151S Introduction to Shakespeare\nIntroduces Shakespeare's works, focusing on representative examples drawn from the range of genres in which he wrote; poetry, comedy, history, tragedy, and tragicomedy.\nCredits 5\nInstructor The Staff, Sean Keilen\nRepeatable For Credit Yes\nGeneral Education Code TA\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "PRTR 161B Handmade Books",
+        "description": "Teaches the construction and history of handmade books as artistic expression. Coursework covers a variety of structures, the analysis of book content, and the integration of design and concept. Covers the generation of content; explorations in typography; and folded, glued, and stitched structures.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Victoria May",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PRTR 161B Handmade Books\nTeaches the construction and history of handmade books as artistic expression. Coursework covers a variety of structures, the analysis of book content, and the integration of design and concept. Covers the generation of content; explorations in typography; and folded, glued, and stitched structures.\nCredits 5\nInstructor Victoria May\nGeneral Education Code PR-C\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PRTR 170A Animal People: Vegans, Ethics, and Pop Culture",
+        "description": "Examines perceptions of vegans, critically questioning an array of negative stereotypes commonly associated with vegans and veganism. Also examines problems in mainstream veganism, such as white privilege, single-issue optics, consumerism, and perfectionism. Considers stigmas used to negate urgent planetary issues, such as animal ethics and animal exploitation, the impact of factory farming and animal agriculture on global climate change, and environmental racism and food apartheid. Students learn principles and practices of non-violent communication, build a theoretical vocabulary, develop their ability to understand and assess arguments, deepen their analytical skills and critical thinking abilities, and enhance their interpretative skills through writing assignments.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "PRTR 170A Animal People: Vegans, Ethics, and Pop Culture\nExamines perceptions of vegans, critically questioning an array of negative stereotypes commonly associated with vegans and veganism. Also examines problems in mainstream veganism, such as white privilege, single-issue optics, consumerism, and perfectionism. Considers stigmas used to negate urgent planetary issues, such as animal ethics and animal exploitation, the impact of factory farming and animal agriculture on global climate change, and environmental racism and food apartheid. Students learn principles and practices of non-violent communication, build a theoretical vocabulary, develop their ability to understand and assess arguments, deepen their analytical skills and critical thinking abilities, and enhance their interpretative skills through writing assignments.\nCredits 5\nGeneral Education Code TA\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "PRTR 171N Nature in Indigenous American Culture",
+        "description": "Explores indigenous American relationships with other-than-human nature. Studies prehistoric through contemporary beliefs and practices. Emphasis on North America but may also include attention to Central or South American cultures' relationships with nature. Features films, writings, and artwork by indigenous American people.",
+        "genEd": "General Education Code PE-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Judith Todd",
+        "extrarequirements": "Requirements Prerequisite(s): Entry level writing and composition requirements.",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "PRTR 171N Nature in Indigenous American Culture\nExplores indigenous American relationships with other-than-human nature. Studies prehistoric through contemporary beliefs and practices. Emphasis on North America but may also include attention to Central or South American cultures' relationships with nature. Features films, writings, and artwork by indigenous American people.\nCredits 5\nInstructor Judith Todd\nRequirements Prerequisite(s): Entry level writing and composition requirements.\nGeneral Education Code PE-E\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "PRTR 175A Imagination",
+        "description": "Examines contemporary perspectives on the theme of imagination. Course readings include philosophical treatments of imagination, Indigenous imaginative cultural formations, and Black radical imaginations for socio-spatial liberation. Addresses the following questions: To what extent is imagination tied to our particular position, culture, and time period? What are some ways to expand our imaginations and when are these approaches limited? And how can imagination help us advance radical social change? Explores imagination as an inherently cross-cultural topic and teaches students to present, analyze, and critically discuss philosophical and sociological arguments about imagination. Students cannot receive credit for this course and PHIL 136B, STEV 136/PHIL 136C, or COWL 175A/PHIL 136A.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 175A Imagination\nExamines contemporary perspectives on the theme of imagination. Course readings include philosophical treatments of imagination, Indigenous imaginative cultural formations, and Black radical imaginations for socio-spatial liberation. Addresses the following questions: To what extent is imagination tied to our particular position, culture, and time period? What are some ways to expand our imaginations and when are these approaches limited? And how can imagination help us advance radical social change? Explores imagination as an inherently cross-cultural topic and teaches students to present, analyze, and critically discuss philosophical and sociological arguments about imagination. Students cannot receive credit for this course and PHIL 136B, STEV 136/PHIL 136C, or COWL 175A/PHIL 136A.\nCredits 5\nCross Listed Courses PHIL 136B\n"
+    },
+    {
+        "coursename": "PRTR 192 Directed Student Teaching",
+        "description": "Teaching of a lower-division seminar by an upper-division student under faculty supervision. (See course 42.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 192 Directed Student Teaching\nTeaching of a lower-division seminar by an upper-division student under faculty supervision. (See course 42.)\nCredits 5\n"
+    },
+    {
+        "coursename": "PRTR 193 Field Study",
+        "description": "Field Study",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 193 Field Study\nField Study\nCredits 5\n"
+    },
+    {
+        "coursename": "PRTR 193J The Literary Journal: Process to Product",
+        "description": "Provides a combination of theoretical background and hands-on experience in literary magazine editing and publishing. Students collaborate to produce a special Santa Cruz issue of Stone Soup, the for kids, by kids journal founded at Porter College. Enrollment is by permission of the instructor. Enrollment is restricted to sophomore, junior, and senior Porter college members majoring in art; art and design: games and playable media; art history; the history of art and visual culture; literature; or film and digital media.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Emma Wood",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PRTR 193J The Literary Journal: Process to Product\nProvides a combination of theoretical background and hands-on experience in literary magazine editing and publishing. Students collaborate to produce a special Santa Cruz issue of Stone Soup, the for kids, by kids journal founded at Porter College. Enrollment is by permission of the instructor. Enrollment is restricted to sophomore, junior, and senior Porter college members majoring in art; art and design: games and playable media; art history; the history of art and visual culture; literature; or film and digital media.\nCredits 5\nInstructor Emma Wood\nGeneral Education Code PR-E\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PRTR 194 Group Tutorial",
+        "description": "A program of independent study arranged between a group of students and a faculty instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 194 Group Tutorial\nA program of independent study arranged between a group of students and a faculty instructor.\nCredits 5\n"
+    },
+    {
+        "coursename": "PRTR 198 Ind Field Study",
+        "description": "Ind Field Study",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 198 Ind Field Study\nInd Field Study\nCredits 5\n"
+    },
+    {
+        "coursename": "PRTR 199 Tutorial",
+        "description": "Tutorial",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 199 Tutorial\nTutorial\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PRTR 199F Tutorial",
+        "description": "Individual projects carried out under the supervision of a Porter faculty member. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PRTR 199F Tutorial\nIndividual projects carried out under the supervision of a Porter faculty member. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "THEA 145R From Hamlet to Hamilton: Performing Rhythm and Rhyme in the Twenty-first Century",
+        "description": "This acting studio is an introduction to the skills needed in the performance of rhythmic and rhyming texts. Explores the similarities and differences in the use of rhythm and rhyme between Shakespeare and the contemporary playwright Lin-Manuel Miranda. No acting experience or audition is needed to enroll.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "THEA 145R From Hamlet to Hamilton: Performing Rhythm and Rhyme in the Twenty-first Century\nThis acting studio is an introduction to the skills needed in the performance of rhythmic and rhyming texts. Explores the similarities and differences in the use of rhythm and rhyme between Shakespeare and the contemporary playwright Lin-Manuel Miranda. No acting experience or audition is needed to enroll.\nCredits 5\nCross Listed Courses PRTR 145R\nGeneral Education Code PR-C\n"
+    }
+]

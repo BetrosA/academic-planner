@@ -1,0 +1,172 @@
+[
+    {
+        "coursename": "JAPN 1 First-Year Japanese",
+        "description": "Students carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write Japanese scripts (hiragana, katakana, and about 40 kanji).",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Summer",
+        "fulldesc": "JAPN 1 First-Year Japanese\nStudents carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write Japanese scripts (hiragana, katakana, and about 40 kanji).\nCredits 5\nInstructor The Staff\nQuarter Offered Fall, Summer\n"
+    },
+    {
+        "coursename": "JAPN 2 First-Year Japanese",
+        "description": "Students carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 1 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "JAPN 2 First-Year Japanese\nStudents carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 1 or by consent of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "JAPN 3 First-Year Japanese",
+        "description": "Students carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 2 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "JAPN 3 First-Year Japanese\nStudents carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 2 or by consent of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "JAPN 4 Second-Year Japanese",
+        "description": "Students carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 3 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "JAPN 4 Second-Year Japanese\nStudents carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 70 additional kanji.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 3 or by consent of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "JAPN 5 Second-Year Japanese",
+        "description": "Students develop intermediate-level competence in listening, speaking, reading, and writing in diverse social contexts; acquire a deeper and broader understanding of Japanese society and culture; and learn how to read and write 70 additional kanji characters.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 4 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "JAPN 5 Second-Year Japanese\nStudents develop intermediate-level competence in listening, speaking, reading, and writing in diverse social contexts; acquire a deeper and broader understanding of Japanese society and culture; and learn how to read and write 70 additional kanji characters.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 4 or by consent of instructor.\nGeneral Education Code CC\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "JAPN 6 Second-Year Japanese",
+        "description": "Students carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis is placed on developing the student's cultural knowledge relevant to inter-cultural communication.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 5 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "JAPN 6 Second-Year Japanese\nStudents carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis is placed on developing the student's cultural knowledge relevant to inter-cultural communication.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 5 or by consent of instructor.\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "JAPN 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "JAPN 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "JAPN 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "JAPN 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "JAPN 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "JAPN 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "JAPN 103 Advanced Japanese",
+        "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 6 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "JAPN 103 Advanced Japanese\nStudents carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 6 or by consent of instructor.\nGeneral Education Code CC\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "JAPN 104 Advanced Japanese",
+        "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 103 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "JAPN 104 Advanced Japanese\nStudents carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 103 or by consent of instructor.\nGeneral Education Code CC\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "JAPN 105 Advanced Japanese",
+        "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Further development of cultural knowledge and understanding through critical examination of authentic Japanese materials in a variety of genres, including literary work, expository writing, and films. May be repeated for credit with consent of instructor.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 104 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "JAPN 105 Advanced Japanese\nStudents carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Further development of cultural knowledge and understanding through critical examination of authentic Japanese materials in a variety of genres, including literary work, expository writing, and films. May be repeated for credit with consent of instructor.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 104 or by consent of instructor.\nGeneral Education Code TA\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "JAPN 106 Advanced Japanese",
+        "description": "Students carry out advance-level tasks that involve listening, speaking, reading, and writing. Emphasis is placed on increasing the student's in-depth cultural knowledge about Japan and knowledge relevant to intercultural communication as well as developing the student's ability to critically read a variety of texts.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sakae Fujita",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 104 or by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "JAPN 106 Advanced Japanese\nStudents carry out advance-level tasks that involve listening, speaking, reading, and writing. Emphasis is placed on increasing the student's in-depth cultural knowledge about Japan and knowledge relevant to intercultural communication as well as developing the student's ability to critically read a variety of texts.\nCredits 5\nInstructor Sakae Fujita\nRequirements Prerequisite(s): JAPN 104 or by permission of instructor.\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "JAPN 109 Japanese Language, Culture, and Society",
+        "description": "Critical reading of Japanese texts, such as essays, film scripts, and novels in regard to linguistic diversity related to cultural and social diversity. Topics include standard Japanese and regional variation, politeness and honorifics, age-related stylistic variation, and gendered language.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): JAPN 104 or by consent of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "JAPN 109 Japanese Language, Culture, and Society\nCritical reading of Japanese texts, such as essays, film scripts, and novels in regard to linguistic diversity related to cultural and social diversity. Topics include standard Japanese and regional variation, politeness and honorifics, age-related stylistic variation, and gendered language.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): JAPN 104 or by consent of instructor.\nGeneral Education Code TA\n"
+    },
+    {
+        "coursename": "JAPN 194 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "JAPN 194 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "JAPN 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "JAPN 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "JAPN 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "JAPN 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

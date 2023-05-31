@@ -1,0 +1,842 @@
+[
+    {
+        "coursename": "CMPM 15 Research Explorations",
+        "description": "Students participate in two exploratory reading groups on topics related to ongoing research activities. Students read a selection of 8-10 papers providing a general overview and introduction to active research areas within each topic. May be repeated for credit. This class can be taken for Pass/No Pass credit only.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "Instructor Jim Whitehead, David Lee, James Davis",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 15 Research Explorations\nStudents participate in two exploratory reading groups on topics related to ongoing research activities. Students read a selection of 8-10 papers providing a general overview and introduction to active research areas within each topic. May be repeated for credit. This class can be taken for Pass/No Pass credit only.\nCredits 1\nInstructor Jim Whitehead, David Lee, James Davis\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 25 Introduction to 3D Modeling",
+        "description": "Introduces theory and techniques of 3D computer graphics. Topics include: capabilities of modern graphics hardware; 3D coordinate spaces; modeling with polygons; NURBS and subdivision surfaces; applying textures and materials; lighting; and simple effects. Students develop proficiency in 3D modeling via lectures and assignments focused on the use of a 3D modeling tool.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Jim Whitehead, Christopher Yonge",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 25 Introduction to 3D Modeling\nIntroduces theory and techniques of 3D computer graphics. Topics include: capabilities of modern graphics hardware; 3D coordinate spaces; modeling with polygons; NURBS and subdivision surfaces; applying textures and materials; lighting; and simple effects. Students develop proficiency in 3D modeling via lectures and assignments focused on the use of a 3D modeling tool.\nCredits 5\nInstructor The Staff, Jim Whitehead, Christopher Yonge\nGeneral Education Code PR-C\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 26 Introduction to 3D Animation",
+        "description": "Introduces theories and techniques of 3D computer animation. Topics include: character animation; rigging; simulation of cloth, liquids, and fire; motion capture; rendering; and editing animated scenes. Students develop proficiency in 3D animation via lectures and assignments focused on the use of a 3D animation tool and use of motion-capture software.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Christopher Yonge",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 25.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 26 Introduction to 3D Animation\nIntroduces theories and techniques of 3D computer animation. Topics include: character animation; rigging; simulation of cloth, liquids, and fire; motion capture; rendering; and editing animated scenes. Students develop proficiency in 3D animation via lectures and assignments focused on the use of a 3D animation tool and use of motion-capture software.\nCredits 5\nInstructor The Staff, Christopher Yonge\nRequirements Prerequisite(s): CMPM 25.\nGeneral Education Code PR-C\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 27 Fundamentals of Substance Designer and Painter",
+        "description": "Introduction to the development of physically based materials in Substance Designer and Substance Painter. These are then applied to a range of character and machine models within either the Blender or Maya 3D modeling applications.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Yonge",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 25 or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 27 Fundamentals of Substance Designer and Painter\nIntroduction to the development of physically based materials in Substance Designer and Substance Painter. These are then applied to a range of character and machine models within either the Blender or Maya 3D modeling applications.\nCredits 5\nInstructor Christopher Yonge\nRequirements Prerequisite(s): CMPM 25 or by permission of the instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 35 Data Structures for Interactive Media",
+        "description": "Introduction to common data structures, algorithms that operate on them, and techniques for implementation. Uses digital authoring of interactive media as a frame to motivate asymptotic (big-O) analysis of design scalability. Students will program in a strongly typed language.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 30",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 35 Data Structures for Interactive Media\nIntroduction to common data structures, algorithms that operate on them, and techniques for implementation. Uses digital authoring of interactive media as a frame to motivate asymptotic (big-O) analysis of design scalability. Students will program in a strongly typed language.\nCredits 5\nInstructor Adam Smith, The Staff\nRequirements Prerequisite(s): CSE 30\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 80A Accessible Games",
+        "description": "Overview of the physical, psychological, cultural, and psychosocial aspects of disability and how they impact game play. Discusses implications for universal and accessible game design.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Sri Kurniawan",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 80A Accessible Games\nOverview of the physical, psychological, cultural, and psychosocial aspects of disability and how they impact game play. Discusses implications for universal and accessible game design.\nCredits 5\nInstructor The Staff, Sri Kurniawan\nGeneral Education Code PE-T\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 80H Human-Centered AI",
+        "description": "As AI technologies start to integrate and permeate our everyday lives, we become aware of how they impact our lives and the biases inherent in these systems. Course introduces Human-Centered AI, investigating humanistic values and issues of a variety of current AI systems, including those in your car, on your phone (e.g., Siri), on public streets (delivery robots), and at different vendors. Introduces various societal, economic, and humanistic issues such as bias, trust, and accountability, and delves into methods that can be used to design more human-centered AI systems.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Magy Seif El-Nasr",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 80H Human-Centered AI\nAs AI technologies start to integrate and permeate our everyday lives, we become aware of how they impact our lives and the biases inherent in these systems. Course introduces Human-Centered AI, investigating humanistic values and issues of a variety of current AI systems, including those in your car, on your phone (e.g., Siri), on public streets (delivery robots), and at different vendors. Introduces various societal, economic, and humanistic issues such as bias, trust, and accountability, and delves into methods that can be used to design more human-centered AI systems.\nCredits 5\nInstructor Magy Seif El-Nasr\nGeneral Education Code PE-T\n"
+    },
+    {
+        "coursename": "CMPM 80I Introduction to Human Computer Interaction",
+        "description": "Introduces students to Human Computer Interaction (HCI) as a field, using their everyday experience with technology as a starting point. Students learn key HCI concepts and concerns in lectures, and try out HCI design techniques in sections.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katherine Isbister",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 80I Introduction to Human Computer Interaction\nIntroduces students to Human Computer Interaction (HCI) as a field, using their everyday experience with technology as a starting point. Students learn key HCI concepts and concerns in lectures, and try out HCI design techniques in sections.\nCredits 5\nInstructor Katherine Isbister\nGeneral Education Code PE-T\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 80K Foundations of Video Game Design",
+        "description": "A generally accessible course in which students explore how video games (and games generally) shape experiences and express ideas. Students develop novel games, engage in game interpretation, and survey related topics (e.g., game history, technology, narrative, and ethics) through lectures and readings. Programming experience is not required.",
+        "genEd": "General Education Code IM",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Jim Whitehead, Noah Wardrip-Fruin, Nathan Altice, Adam Smith",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter, Spring, Summer",
+        "fulldesc": "CMPM 80K Foundations of Video Game Design\nA generally accessible course in which students explore how video games (and games generally) shape experiences and express ideas. Students develop novel games, engage in game interpretation, and survey related topics (e.g., game history, technology, narrative, and ethics) through lectures and readings. Programming experience is not required.\nCredits 5\nInstructor The Staff, Jim Whitehead, Noah Wardrip-Fruin, Nathan Altice, Adam Smith\nGeneral Education Code IM\nQuarter Offered Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 80L Entrepreneurial Organization and Leadership",
+        "description": "Provides a framework for leadership in entrepreneurial organizations. Topics include leading with authenticity, motivation and personality, storytelling, teamwork and management, organizational culture and processes. Learning is integrated with practice through deep engagement with entrepreneurial leaders and a time-intensive entrepreneurial project. (Formerly Technology and Information Management 80L.)",
+        "genEd": "General Education Code PE-H",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Lee",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 80L Entrepreneurial Organization and Leadership\nProvides a framework for leadership in entrepreneurial organizations. Topics include leading with authenticity, motivation and personality, storytelling, teamwork and management, organizational culture and processes. Learning is integrated with practice through deep engagement with entrepreneurial leaders and a time-intensive entrepreneurial project. (Formerly Technology and Information Management 80L.)\nCredits 5\nInstructor David Lee\nGeneral Education Code PE-H\n"
+    },
+    {
+        "coursename": "CMPM 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 94F Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 94F Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 110 Writing for Game Technologies",
+        "description": "Game writers create worlds, characters, and stories, and also craft computational systems so that players can experience these fictions interactively. This course covers the fundamentals of authoring fictions and systems that work together toward powerful player experiences.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Noah Wardrip-Fruin",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 110 Writing for Game Technologies\nGame writers create worlds, characters, and stories, and also craft computational systems so that players can experience these fictions interactively. This course covers the fundamentals of authoring fictions and systems that work together toward powerful player experiences.\nCredits 5\nInstructor Noah Wardrip-Fruin\nRequirements Prerequisite(s): CMPM 120, or by permission of the instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 115 Lead by Design: Experiential Learning Collaborative",
+        "description": "Students work in teams to develop a template for a 10-week-long engineering design project. Teaches teamwork, leadership skills, inclusive team practices, Agile process, engineering ethics, and identity formation in engineers.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "CMPM 115 Lead by Design: Experiential Learning Collaborative\nStudents work in teams to develop a template for a 10-week-long engineering design project. Teaches teamwork, leadership skills, inclusive team practices, Agile process, engineering ethics, and identity formation in engineers.\nCredits 5\nInstructor Jim Whitehead, The Staff\nRequirements Enrollment is restricted to juniors and seniors.\nGeneral Education Code PR-E\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 118 Collaborative Research Experience in Engineering",
+        "description": "Guides small student teams through the performance of a quarter-long research project. Provides an overview of the process of performing research, research communities, and processes for finding and presenting research results.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jim Whitehead, David Lee, James David",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 118 Collaborative Research Experience in Engineering\nGuides small student teams through the performance of a quarter-long research project. Provides an overview of the process of performing research, research communities, and processes for finding and presenting research results.\nCredits 5\nInstructor Jim Whitehead, David Lee, James David\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 120 Game Development Experience",
+        "description": "Teaches the concrete programming and collaboration skills associated with making a digital game from start to finish, including but not limited to: establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game. This course is taught in conjunction with ARTG 120 which covers the skills required to design and critique digital games.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Nathan Altice, Jim Whitehead",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 80K; and FILM 80V; and CSE 15 and CSE 15L or CSE 30 or CMPM 35; and ARTG 80G or ARTG 80H or ARTG 80I; and concurrent enrollment in ARTG 120. Enrollment is restricted to juniors and seniors or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 120 Game Development Experience\nTeaches the concrete programming and collaboration skills associated with making a digital game from start to finish, including but not limited to: establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game. This course is taught in conjunction with ARTG 120 which covers the skills required to design and critique digital games.\nCredits 5\nInstructor Adam Smith, Nathan Altice, Jim Whitehead\nRequirements Prerequisite(s): CMPM 80K; and FILM 80V; and CSE 15 and CSE 15L or CSE 30 or CMPM 35; and ARTG 80G or ARTG 80H or ARTG 80I; and concurrent enrollment in ARTG 120. Enrollment is restricted to juniors and seniors or by permission of the instructor.\nGeneral Education Code PR-E\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 121 Game Technologies",
+        "description": "Introduction to construction of games using game engine technology, using a specific game engine as a focus. Covers major game engine features: input, collision, animation, model import, lighting, camera, rendering, textures, particle systems. Introduction to a specific game scripting language, custom game logic, game programming patterns.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Jim Whitehead",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 120.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 121 Game Technologies\nIntroduction to construction of games using game engine technology, using a specific game engine as a focus. Covers major game engine features: input, collision, animation, model import, lighting, camera, rendering, textures, particle systems. Introduction to a specific game scripting language, custom game logic, game programming patterns.\nCredits 5\nInstructor Adam Smith, Jim Whitehead\nRequirements Prerequisite(s): CMPM 120.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 122 Business of Games",
+        "description": "Ten-week course to provide instruction on important business topics for videogame creators\u2014many related to the games themselves and others for pursuing success in bringing the games to customers: publishing, distribution, marketing, funding, operations, and more.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Lee",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 122 Business of Games\nTen-week course to provide instruction on important business topics for videogame creators\u2014many related to the games themselves and others for pursuing success in bringing the games to customers: publishing, distribution, marketing, funding, operations, and more.\nCredits 5\nInstructor David Lee\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 131 User Experience for Interactive Media",
+        "description": "Theories and practices for approaching the design problems of interactive media holistically, beyond usability and accessibility. Includes hands-on learning, application of human-centered design and evaluation skills in group projects, and peer critique.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Steve Whittaker, Sri Kurniawan, Steve Whittaker",
+        "extrarequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 131 User Experience for Interactive Media\nTheories and practices for approaching the design problems of interactive media holistically, beyond usability and accessibility. Includes hands-on learning, application of human-centered design and evaluation skills in group projects, and peer critique.\nCredits 5\nInstructor The Staff, Steve Whittaker, Sri Kurniawan, Steve Whittaker\nRequirements Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 132 Interaction Design Studio",
+        "description": "Practice-based interaction design studio course. Students learn about design-led approaches to Human-Computer Interaction through participating in group projects. Course offers introductions to design methods and actionable strategies to do interaction design work and design-led technology research.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 132 Interaction Design Studio\nPractice-based interaction design studio course. Students learn about design-led approaches to Human-Computer Interaction through participating in group projects. Course offers introductions to design methods and actionable strategies to do interaction design work and design-led technology research.\nCredits 5\nRequirements Enrollment is restricted to juniors, seniors, and graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 146 Game AI",
+        "description": "Course provides a comprehensive introduction to the use of artificial intelligence (AI) in computer games. Building on fundamental principles of AI, course explains how to create non-player characters (NPCs) with progressively more sophisticated capabilities.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Adam Smith, Michael Mateas",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 101; familiarity with C++. Enrollment is restricted to sophomores, juniors, seniors, and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 146 Game AI\nCourse provides a comprehensive introduction to the use of artificial intelligence (AI) in computer games. Building on fundamental principles of AI, course explains how to create non-player characters (NPCs) with progressively more sophisticated capabilities.\nCredits 5\nInstructor The Staff, Adam Smith, Michael Mateas\nRequirements Prerequisite(s): CSE 101; familiarity with C++. Enrollment is restricted to sophomores, juniors, seniors, and graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 147 Generative Design",
+        "description": "Introduces generative methods for design. Uses algorithmic techniques to generate and evaluate game content (images, sounds, map designs) along with mechanics and progression systems. Search-based and learning-based techniques with connections to artificial intelligence are also covered.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 120.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 147 Generative Design\nIntroduces generative methods for design. Uses algorithmic techniques to generate and evaluate game content (images, sounds, map designs) along with mechanics and progression systems. Search-based and learning-based techniques with connections to artificial intelligence are also covered.\nCredits 5\nInstructor Adam Smith\nRequirements Prerequisite(s): CMPM 120.\n"
+    },
+    {
+        "coursename": "CMPM 148 Interactive Storytelling",
+        "description": "Covers a range of design approaches and technologies including storytelling in games, interactive fiction, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, students explore the theoretical positions, debates, and technical and design issues arising from these approaches.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Michael Mateas, Noah Wardrip-Fruin",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 101 or CMPM 35. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 148 Interactive Storytelling\nCovers a range of design approaches and technologies including storytelling in games, interactive fiction, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, students explore the theoretical positions, debates, and technical and design issues arising from these approaches.\nCredits 5\nInstructor The Staff, Michael Mateas, Noah Wardrip-Fruin\nRequirements Prerequisite(s): CSE 101 or CMPM 35. Enrollment is restricted to juniors and seniors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 150 Creating Digital Audio",
+        "description": "Introduces digital sound recording and editing technologies, sound synthesis, and concepts in sound design for media production. Covers the basics of sound capture, microphones, audio manipulation and editing, effects, sound formats, mixing and dynamics, synthesizers, audio software, and game audio.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nathan Altice",
+        "extrarequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 150 Creating Digital Audio\nIntroduces digital sound recording and editing technologies, sound synthesis, and concepts in sound design for media production. Covers the basics of sound capture, microphones, audio manipulation and editing, effects, sound formats, mixing and dynamics, synthesizers, audio software, and game audio.\nCredits 5\nInstructor Nathan Altice\nRequirements Enrollment is restricted to sophomores, juniors, and seniors.\nGeneral Education Code PR-C\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 151 Algorithmic Music for Games",
+        "description": "Introduces compositional techniques and procedural audio as exhibited in the sound and music of video games. Surveys different styles of music implemented in video games and associated compositional approaches. Students develop skill in procedural audio via a series of workshops and assignments.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nathan Altice",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 14 and CSE 14L, or CSE 11.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 151 Algorithmic Music for Games\nIntroduces compositional techniques and procedural audio as exhibited in the sound and music of video games. Surveys different styles of music implemented in video games and associated compositional approaches. Students develop skill in procedural audio via a series of workshops and assignments.\nCredits 5\nInstructor Nathan Altice\nRequirements Prerequisite(s): CSE 14 and CSE 14L, or CSE 11.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 152 Musical Data",
+        "description": "Surveys the relationship between music and data as exhibited in industry and research implementations of sonification and music information retrieval. Students introduced to various styles and algorithms of sound analysis and modeling and develop skills to program unique approaches in this area.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 150 or CMPM 151 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 152 Musical Data\nSurveys the relationship between music and data as exhibited in industry and research implementations of sonification and music information retrieval. Students introduced to various styles and algorithms of sound analysis and modeling and develop skills to program unique approaches in this area.\nCredits 5\nInstructor The Staff\nRequirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 150 or CMPM 151 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 163 Game Graphics and Real-Time Rendering",
+        "description": "Introduces real-time, hardware-accelerated graphics programming suitable for game development, visual effects, and interactive multimedia projects. Emphasizes contemporary shader-programming techniques and developing custom effects using game engines and multimedia software.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 120 (exceptions granted in special cases with permission of the instructor).",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 163 Game Graphics and Real-Time Rendering\nIntroduces real-time, hardware-accelerated graphics programming suitable for game development, visual effects, and interactive multimedia projects. Emphasizes contemporary shader-programming techniques and developing custom effects using game engines and multimedia software.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): CMPM 120 (exceptions granted in special cases with permission of the instructor).\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 164 Game Engines",
+        "description": "Covers the graphic elements in computer games. Topics include modifying, optimizing, adding components, and building a game engine. Course evaluation based on exams and several programming projects, including a game built using the student's game engine.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith",
+        "extrarequirements": "Requirements Prerequisite(s): CSE 160. Concurrent enrollment in CMPM 164L is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 164 Game Engines\nCovers the graphic elements in computer games. Topics include modifying, optimizing, adding components, and building a game engine. Course evaluation based on exams and several programming projects, including a game built using the student's game engine.\nCredits 5\nInstructor Adam Smith\nRequirements Prerequisite(s): CSE 160. Concurrent enrollment in CMPM 164L is required.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 164L Game Engines Lab",
+        "description": "Provides hands-on experience in using, designing, and building game engines. Students also explore different special effects, such as particle systems, spring systems, and game physics.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Adam Smith",
+        "extrarequirements": "Requirements Prerequiste(s): CSE 160. Concurrent enrollment in CMPM 164 is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 164L Game Engines Lab\nProvides hands-on experience in using, designing, and building game engines. Students also explore different special effects, such as particle systems, spring systems, and game physics.\nCredits 2\nInstructor Adam Smith\nRequirements Prerequiste(s): CSE 160. Concurrent enrollment in CMPM 164 is required.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 169 Creative Coding",
+        "description": "Surveys seminal and contemporary artworks and interactive installations that utilize and critically analyze new media, new technologies, and new algorithms. Students introduced to creative coding practices and encouraged to emulate existing digital arts techniques and to develop their own computational arts projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 163 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 169 Creative Coding\nSurveys seminal and contemporary artworks and interactive installations that utilize and critically analyze new media, new technologies, and new algorithms. Students introduced to creative coding practices and encouraged to emulate existing digital arts techniques and to develop their own computational arts projects.\nCredits 5\nInstructor The Staff\nRequirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 163 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 170 Game Design Studio I",
+        "description": "First of a three-course capstone sequence for the computer game design program. Students work in teams to develop a comprehensive game design for a substantial computer game, including detailed storyline, level design, artistic approach, implementation technologies, and art-asset pipeline. Emphasis placed on creating novel, artistic game design concepts. Includes design reviews and formal presentations. Companion lectures cover advanced topics in game design, game programming, and software project management.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Jim Whitehead, Michael Mateas, Noah Wardrip-Fruin, Nathan Altice, Adam Smith",
+        "extrarequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; CMPM 120, ARTG 120 and CSE 111. Enrollment is restricted to Computer science: computer game design majors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 170 Game Design Studio I\nFirst of a three-course capstone sequence for the computer game design program. Students work in teams to develop a comprehensive game design for a substantial computer game, including detailed storyline, level design, artistic approach, implementation technologies, and art-asset pipeline. Emphasis placed on creating novel, artistic game design concepts. Includes design reviews and formal presentations. Companion lectures cover advanced topics in game design, game programming, and software project management.\nCredits 5\nInstructor The Staff, Jim Whitehead, Michael Mateas, Noah Wardrip-Fruin, Nathan Altice, Adam Smith\nRequirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; CMPM 120, ARTG 120 and CSE 111. Enrollment is restricted to Computer science: computer game design majors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 171 Game Design Studio II",
+        "description": "Second of a three-course capstone sequence for the computer game design program. Students work in teams on the software design, implementation, and testing of the computer game designed in CMPM 170. Includes design reviews, progress reviews, and formal presentations. Companion lectures cover topics in software engineering, including design, testing, and project management. Game design and game programming also covered.",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor Jim Whitehead, Michael Mateas, Edeard Melcer, Nathan Altice",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 170 and CMPM 176 and one computer game engineering elective. Enrollment is restricted to computer science: computer game design majors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 171 Game Design Studio II\nSecond of a three-course capstone sequence for the computer game design program. Students work in teams on the software design, implementation, and testing of the computer game designed in CMPM 170. Includes design reviews, progress reviews, and formal presentations. Companion lectures cover topics in software engineering, including design, testing, and project management. Game design and game programming also covered.\nCredits 7\nInstructor Jim Whitehead, Michael Mateas, Edeard Melcer, Nathan Altice\nRequirements Prerequisite(s): CMPM 170 and CMPM 176 and one computer game engineering elective. Enrollment is restricted to computer science: computer game design majors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 172 Game Design Studio III",
+        "description": "Third of a three-course capstone sequence for the computer game design program. Students work in teams on the software design, implementation and testing of the computer game designed in courses 170 and 171. Includes progress reviews and formal presentations. Companion lectures cover topics in software engineering, including user and software testing, release engineering and project management; also covered are game design and game programming.",
+        "genEd": "none",
+        "credithours": "Credits 7",
+        "instructor": "Instructor The Staff, Jim Whitehead, Michael Mateas, Noah Wardrip-Fruin, Michael John, Adam Smith",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 171. Enrollment is restricted to Computer science:computer game design major.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 172 Game Design Studio III\nThird of a three-course capstone sequence for the computer game design program. Students work in teams on the software design, implementation and testing of the computer game designed in courses 170 and 171. Includes progress reviews and formal presentations. Companion lectures cover topics in software engineering, including user and software testing, release engineering and project management; also covered are game design and game programming.\nCredits 7\nInstructor The Staff, Jim Whitehead, Michael Mateas, Noah Wardrip-Fruin, Michael John, Adam Smith\nRequirements Prerequisite(s): CMPM 171. Enrollment is restricted to Computer science:computer game design major.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 176 Game Systems",
+        "description": "Presents game design as the interplay of multiple interacting game systems. Surveys various game systems: movement, combat, reward, economic, logistics, quest, information visibility, narrative. Students explore systems via study, design, and play of board, card, and computer games.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Nathan Altice, Elin Carstendottir",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 80K.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "CMPM 176 Game Systems\nPresents game design as the interplay of multiple interacting game systems. Surveys various game systems: movement, combat, reward, economic, logistics, quest, information visibility, narrative. Students explore systems via study, design, and play of board, card, and computer games.\nCredits 5\nInstructor The Staff, Nathan Altice, Elin Carstendottir\nRequirements Prerequisite(s): CMPM 80K.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "CMPM 177 Creative Strategies for Designing Interactive Media",
+        "description": "Surveys tactical, structural, contextual, and other methods to enhance creativity and innovation in the design of games and other interactive media. Investigates strategies for creativity and innovation drawn from diverse fields, including interactive affordances, narrative and poetics, biology, contextual inquiry, and design research. To innovate in a field of fixed genres is challenging: the allure of modeling exemplars is strong. Although imitation can be successful in the marketplace, the most creative action occurs on the leading edge of change. Innovation benefits from strategies and methods that are directly aimed at exploring new perspectives and structures to learn through the process of discovery.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katherine Isbister, Leila The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 177 Creative Strategies for Designing Interactive Media\nSurveys tactical, structural, contextual, and other methods to enhance creativity and innovation in the design of games and other interactive media. Investigates strategies for creativity and innovation drawn from diverse fields, including interactive affordances, narrative and poetics, biology, contextual inquiry, and design research. To innovate in a field of fixed genres is challenging: the allure of modeling exemplars is strong. Although imitation can be successful in the marketplace, the most creative action occurs on the leading edge of change. Innovation benefits from strategies and methods that are directly aimed at exploring new perspectives and structures to learn through the process of discovery.\nCredits 5\nInstructor Katherine Isbister, Leila The Staff\nRequirements Enrollment is restricted to juniors and seniors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 178 Human-Centered Design Research",
+        "description": "Students move through a rigorous design-research process involving skills and principles in human-centered design research as well as selected formal research methods. They learn to use tools for ideation, human-centered qualitative research, domestic probes, mock-ups, and prototypes.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sri Kurniawan, Katherine Isbister, David Lee",
+        "extrarequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 178 Human-Centered Design Research\nStudents move through a rigorous design-research process involving skills and principles in human-centered design research as well as selected formal research methods. They learn to use tools for ideation, human-centered qualitative research, domestic probes, mock-ups, and prototypes.\nCredits 5\nInstructor Sri Kurniawan, Katherine Isbister, David Lee\nRequirements Enrollment is restricted to juniors, seniors, and graduate students.\nGeneral Education Code PR-C\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 179 Game Design Practicum",
+        "description": "Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.",
+        "genEd": "General Education Code PR-C",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Jim Whitehead, Nathan Altice",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 179 Game Design Practicum\nProvides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.\nCredits 5\nCross Listed Courses ARTG 179\nInstructor The Staff, Jim Whitehead, Nathan Altice\nRequirements Prerequisite(s): CMPM 120 and CMPM 80K.\nRepeatable For Credit Yes\nGeneral Education Code PR-C\n"
+    },
+    {
+        "coursename": "CMPM 194 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 194 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 194F Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 194F Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 195 Senior Thesis Research",
+        "description": "Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 195 Senior Thesis Research\nStudents submit a petition to the sponsoring agency.\nCredits 5\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 195F Senior Thesis Research",
+        "description": "Intended for majors. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 195F Senior Thesis Research\nIntended for majors. Students submit a petition to the sponsoring agency.\nCredits 2\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 198 Individual Study or Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 198 Individual Study or Research\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 198F Individual Study or Research",
+        "description": "Intended for majors. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 198F Individual Study or Research\nIntended for majors. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 199 Tutorial",
+        "description": "For fourth-year students majoring in computational media. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 199 Tutorial\nFor fourth-year students majoring in computational media. Students submit a petition to the sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 199F Tutorial",
+        "description": "For fourth-year students majoring in computational media. Students submit a petition to the sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "CMPM 199F Tutorial\nFor fourth-year students majoring in computational media. Students submit a petition to the sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "CMPM 201 Introduction to Computational Media",
+        "description": "Provides a broad foundation in the history, theory, and contemporary practice of computational media, examining its roots in a variety of fields and current structures of participation. Also covers a selection of key critical lenses for understanding computational media.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Noah Wardrip-Fruin, Nathan Altice, Jim Whitehead",
+        "extrarequirements": "Requirements Enrollment is restricted to computational media graduate students, or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 201 Introduction to Computational Media\nProvides a broad foundation in the history, theory, and contemporary practice of computational media, examining its roots in a variety of fields and current structures of participation. Also covers a selection of key critical lenses for understanding computational media.\nCredits 5\nInstructor Noah Wardrip-Fruin, Nathan Altice, Jim Whitehead\nRequirements Enrollment is restricted to computational media graduate students, or by permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 202 Computation Media Research",
+        "description": "Overview of computational media research strategies. Includes case studies of how particular projects were defined and completed and how interdisciplinary concerns have been successfully integrated. Considers the expressive and authorial affordances of different system architecture approaches.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael Mateas, Adam Smith",
+        "extrarequirements": "Requirements Prerequisite(s): CMPM 201, or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 202 Computation Media Research\nOverview of computational media research strategies. Includes case studies of how particular projects were defined and completed and how interdisciplinary concerns have been successfully integrated. Considers the expressive and authorial affordances of different system architecture approaches.\nCredits 5\nInstructor Michael Mateas, Adam Smith\nRequirements Prerequisite(s): CMPM 201, or by permission of the instructor. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 203 Computational Media Methods",
+        "description": "Overview of major methods in computational media research. Includes non-numerical methods such as playtesting, arts critique, ethnographic observation, and humanistic interpretation. Also includes numerically oriented methods such as survey instruments, data mining, user experiments, and characterizing expressive/generative spaces.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katherine Isbister, Sri Kurniawan",
+        "extrarequirements": "Requirements Enrollment is restricted to Computational Media graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 203 Computational Media Methods\nOverview of major methods in computational media research. Includes non-numerical methods such as playtesting, arts critique, ethnographic observation, and humanistic interpretation. Also includes numerically oriented methods such as survey instruments, data mining, user experiments, and characterizing expressive/generative spaces.\nCredits 5\nInstructor Katherine Isbister, Sri Kurniawan\nRequirements Enrollment is restricted to Computational Media graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 204 Computational Media Project Definition",
+        "description": "Students define the topic, approach, and scope for an M.S. thesis or project. Includes discussion of successful past projects and theses, visits from faculty presenting open problems, reviews of related literature, topic and timeline presentations, and critiques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sri Kurniawan, Noah Wardrip-Fruin, Nathan Altice, Katherine Isbister, Angus Forbes",
+        "extrarequirements": "Requirements Enrollment is restricted to computational media graduate students, or by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 204 Computational Media Project Definition\nStudents define the topic, approach, and scope for an M.S. thesis or project. Includes discussion of successful past projects and theses, visits from faculty presenting open problems, reviews of related literature, topic and timeline presentations, and critiques.\nCredits 5\nInstructor Sri Kurniawan, Noah Wardrip-Fruin, Nathan Altice, Katherine Isbister, Angus Forbes\nRequirements Enrollment is restricted to computational media graduate students, or by permission of the instructor.\n"
+    },
+    {
+        "coursename": "CMPM 206 Computational Media Research Preparation",
+        "description": "Covers skills for finding relevant literature for a novel research topic, integrating that literature, and communicating the results. Also covers how to select work for a research portfolio, present that work, and describe contributions. Enrollment is by permission of the instructor. Prerequisite(s): CMPM 201, CMPM 202, and CMPM 203 for an understanding of media creation and computer programming; good standing in the Ph.D. program. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Noah Wardrip-Fruin, Michael Mateas",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 206 Computational Media Research Preparation\nCovers skills for finding relevant literature for a novel research topic, integrating that literature, and communicating the results. Also covers how to select work for a research portfolio, present that work, and describe contributions. Enrollment is by permission of the instructor. Prerequisite(s): CMPM 201, CMPM 202, and CMPM 203 for an understanding of media creation and computer programming; good standing in the Ph.D. program. Enrollment is restricted to graduate students.\nCredits 3\nInstructor Noah Wardrip-Fruin, Michael Mateas\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 230 Game Data Science",
+        "description": "Introduces the topic of game data science, where students use game data to understand players' behaviors. Goes through the process of data collection, processing, cleaning, visualization, analysis and reporting in detail. Covers the fundamental tools, methods, and principles of data science, including the feature extraction and selection, pattern recognition. Uses outputs of such methods to help derive design decisions concerning churn analysis and user segmentation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Magy Seif El-Nasr",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 230 Game Data Science\nIntroduces the topic of game data science, where students use game data to understand players' behaviors. Goes through the process of data collection, processing, cleaning, visualization, analysis and reporting in detail. Covers the fundamental tools, methods, and principles of data science, including the feature extraction and selection, pattern recognition. Uses outputs of such methods to help derive design decisions concerning churn analysis and user segmentation.\nCredits 5\nInstructor Magy Seif El-Nasr\nRequirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 232 Psychology of Play",
+        "description": "Psychology plays an important aspect in users' engagement and understanding psychological aspects that can affect users as they interact with technology. This course discusses theories of motivation, perception, emotions, personality, and preferences. Also discusses how such theories affect users' interaction with technologies, such as games, social media, mobile application, and other common technologies used today. Also reviews new papers and results showing the types of models affecting users engagement and their influence and use in the different phases of design or development.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Magy Seif El-Nasr, Elin Carstendottir",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 232 Psychology of Play\nPsychology plays an important aspect in users' engagement and understanding psychological aspects that can affect users as they interact with technology. This course discusses theories of motivation, perception, emotions, personality, and preferences. Also discusses how such theories affect users' interaction with technologies, such as games, social media, mobile application, and other common technologies used today. Also reviews new papers and results showing the types of models affecting users engagement and their influence and use in the different phases of design or development.\nCredits 5\nInstructor Magy Seif El-Nasr, Elin Carstendottir\nRequirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 235 User Evaluation of Technology",
+        "description": "Presents a variety of evaluation methodologies to assess usability, acceptance, and effectiveness of technology with the intended users. Combines lectures and exercises for students to gain firsthand experiences of these methodologies with real users.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sri Kurniawan, Katherine Isbister, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Seniors may enroll with completion of CSE 165.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 235 User Evaluation of Technology\nPresents a variety of evaluation methodologies to assess usability, acceptance, and effectiveness of technology with the intended users. Combines lectures and exercises for students to gain firsthand experiences of these methodologies with real users.\nCredits 5\nInstructor Sri Kurniawan, Katherine Isbister, The Staff\nRequirements Enrollment is restricted to graduate students. Seniors may enroll with completion of CSE 165.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 237 Advanced Topics in Human-Robot Interaction",
+        "description": "Study of current topics in human-robot interaction design and research. Topics vary, but are expected to include how people think, act, and behave around robotic agents; telepresence and teleoperated robotics; applications of human-robot systems; collaborative robotics; and social robotics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 237 Advanced Topics in Human-Robot Interaction\nStudy of current topics in human-robot interaction design and research. Topics vary, but are expected to include how people think, act, and behave around robotic agents; telepresence and teleoperated robotics; applications of human-robot systems; collaborative robotics; and social robotics.\nCredits 5\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 243 Social Computing Research: Design, Algorithms, and Incentives",
+        "description": "Provides an interdisciplinary view of computational systems and human interaction, with an emphasis on human-computer interaction and algorithmic economics. Students learn about seminal and cutting-edge research contributions and methodologies, and carry out a quarter-long research project. (Formerly Technology and Information Management 243.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Lee",
+        "extrarequirements": "Requirements Prerequisite(s): A background in either mathematical proofs or user-centered design and programming. Enrollment is restricted to graduate students; undergraduates may enroll by permission.of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "CMPM 243 Social Computing Research: Design, Algorithms, and Incentives\nProvides an interdisciplinary view of computational systems and human interaction, with an emphasis on human-computer interaction and algorithmic economics. Students learn about seminal and cutting-edge research contributions and methodologies, and carry out a quarter-long research project. (Formerly Technology and Information Management 243.)\nCredits 5\nInstructor David Lee\nRequirements Prerequisite(s): A background in either mathematical proofs or user-centered design and programming. Enrollment is restricted to graduate students; undergraduates may enroll by permission.of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "CMPM 244 Artificial Intelligence in Games",
+        "description": "The use of AI techniques to enable new player interactions, game mechanics, and genres. Combines elements from academic AI and machine learning with industry game AI techniques. Includes lecture and paper discussions as well as AI programming exercises and projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Michael Mateas",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; others by permission.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 244 Artificial Intelligence in Games\nThe use of AI techniques to enable new player interactions, game mechanics, and genres. Combines elements from academic AI and machine learning with industry game AI techniques. Includes lecture and paper discussions as well as AI programming exercises and projects.\nCredits 5\nInstructor Adam Smith, Michael Mateas\nRequirements Enrollment is restricted to graduate students; others by permission.\n"
+    },
+    {
+        "coursename": "CMPM 248 Interactive Storytelling",
+        "description": "Covers wide range of practices including hypertext, interactive fiction, embedded narratives in games, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, explores the theoretical positions, debates, and technical and design issues arising from these different approaches.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael Mateas",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 248 Interactive Storytelling\nCovers wide range of practices including hypertext, interactive fiction, embedded narratives in games, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, explores the theoretical positions, debates, and technical and design issues arising from these different approaches.\nCredits 5\nInstructor Michael Mateas\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 265 Generative Methods",
+        "description": "In-depth exploration of algorithms for the automated generation of 2D and 3D models and content. Covers multiple approaches, including noise, grammars, genetic algorithms and programming, parametric design, and answer-set programming. Includes application of techniques to computer-game content and level design.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Jim Whitehead, Michael Mateas",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 265 Generative Methods\nIn-depth exploration of algorithms for the automated generation of 2D and 3D models and content. Covers multiple approaches, including noise, grammars, genetic algorithms and programming, parametric design, and answer-set programming. Includes application of techniques to computer-game content and level design.\nCredits 5\nInstructor Adam Smith, Jim Whitehead, Michael Mateas\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 268 Immersive Analytics",
+        "description": "Investigates how new immersive display technologies and interaction techniques can support analytical reasoning and decision making in a variety of contexts.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 268 Immersive Analytics\nInvestigates how new immersive display technologies and interaction techniques can support analytical reasoning and decision making in a variety of contexts.\nCredits 5\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 269 Machine Learning for Creativity and Design",
+        "description": "Introduces contemporary techniques in deep learning focusing on the application of these techniques to a range of tasks related to art and design outputs.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisites: CMPM 202 or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 269 Machine Learning for Creativity and Design\nIntroduces contemporary techniques in deep learning focusing on the application of these techniques to a range of tasks related to art and design outputs.\nCredits 5\nRequirements Prerequisites: CMPM 202 or by permission of the instructor. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 280C Computational Media Seminar",
+        "description": "Graduate seminar with speakers from academia and industry. Covers state of the art research and industry trends in Computational Media and related areas.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Sri Kurniawan",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 280C Computational Media Seminar\nGraduate seminar with speakers from academia and industry. Covers state of the art research and industry trends in Computational Media and related areas.\nCredits 2\nInstructor Sri Kurniawan\nRequirements Enrollment is restricted to computational media and games and playable media graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CMPM 280F Seminar in Creative Coding and Computational Media",
+        "description": "Covers advanced topics and current research in creative coding as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment is restricted to graduate students and by permission of instructor. This class can be taken for Satisfactory/Unsatisfactory credit only.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 280F Seminar in Creative Coding and Computational Media\nCovers advanced topics and current research in creative coding as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment is restricted to graduate students and by permission of instructor. This class can be taken for Satisfactory/Unsatisfactory credit only.\nCredits 2\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CMPM 280G Seminar in Generative Methods",
+        "description": "Weekly seminar covering advanced topics and current research in generative methods--the field focused on algorithms for creation of 2D and 3D models and content.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Jim Whitehead, Adam Smith",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 280G Seminar in Generative Methods\nWeekly seminar covering advanced topics and current research in generative methods--the field focused on algorithms for creation of 2D and 3D models and content.\nCredits 2\nInstructor Jim Whitehead, Adam Smith\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 280H Seminar in Human-Computer Interaction and Computational Media",
+        "description": "Covers advanced topics and current research in human-computer interaction as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment restricted to graduate students and by permission of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Katherine Isbister",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "CMPM 280H Seminar in Human-Computer Interaction and Computational Media\nCovers advanced topics and current research in human-computer interaction as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment restricted to graduate students and by permission of the instructor.\nCredits 2\nInstructor Katherine Isbister\nRepeatable For Credit Yes\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 280I Human Computer Interaction Seminar",
+        "description": "Ongoing participatory seminar toward staying informed about the current state of the art in Human Computer Research, both within the Computational Media department, as well as in the broader field. Course consists of weekly lectures and discussion. Graduate students will take part in giving presentations.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Katherine Isbister, Sri Kurniawan",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 280I Human Computer Interaction Seminar\nOngoing participatory seminar toward staying informed about the current state of the art in Human Computer Research, both within the Computational Media department, as well as in the broader field. Course consists of weekly lectures and discussion. Graduate students will take part in giving presentations.\nCredits 2\nInstructor Katherine Isbister, Sri Kurniawan\nRequirements Enrollment restricted to computational media and games and playable media graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CMPM 280K Seminar in Interactive Systems for Individuals with Special Needs",
+        "description": "Covers advanced topics and current research in interactive systems for individuals who have special needs. Focuses on student presentations and seminar participation.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Sri Kurniawan",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 280K Seminar in Interactive Systems for Individuals with Special Needs\nCovers advanced topics and current research in interactive systems for individuals who have special needs. Focuses on student presentations and seminar participation.\nCredits 2\nInstructor Sri Kurniawan\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CMPM 280P Seminar in Player Experience and Modeling",
+        "description": "Covers advanced topics and current research in player experience and modeling. Delves into topics related to: artificial intelligence, psychology, data science, as well as computer human interaction as they intersect with games and player experience. Course is conducted as a studio/seminar, where students read and analyze previous research within this area. Students are asked to present and discuss current state of the art of research in the area of player experience and modeling and then develop their own research within this area. Through interaction with the instructor and other colleagues within the class, students work toward refining their research. This course can be taken for Satisfactory/Unsatisfactory credit only.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Magy Seif El-Nasr",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 280P Seminar in Player Experience and Modeling\nCovers advanced topics and current research in player experience and modeling. Delves into topics related to: artificial intelligence, psychology, data science, as well as computer human interaction as they intersect with games and player experience. Course is conducted as a studio/seminar, where students read and analyze previous research within this area. Students are asked to present and discuss current state of the art of research in the area of player experience and modeling and then develop their own research within this area. Through interaction with the instructor and other colleagues within the class, students work toward refining their research. This course can be taken for Satisfactory/Unsatisfactory credit only.\nCredits 2\nInstructor Magy Seif El-Nasr\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 280R Topics in Human-Robot Interaction",
+        "description": "Focuses on human-centered design and research approaches to the development of robotic technologies. Students read primary research papers, examine prototype robotic systems, and build upon those materials to lead group discussions, propose research projects, and conduct HRI research.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 280R Topics in Human-Robot Interaction\nFocuses on human-centered design and research approaches to the development of robotic technologies. Students read primary research papers, examine prototype robotic systems, and build upon those materials to lead group discussions, propose research projects, and conduct HRI research.\nCredits 2\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "CMPM 280S Seminar Topics",
+        "description": "Weekly seminar series of current research on a special topic in information systems and technology management. The theme of research presented throughout the course selected by the instructor. Topics may include, but are not limited to, knowledge planning, new product development and management of technology. Enrollment with permission of instructor. (Formerly Technology and Information Management 280S.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff, David Lee, Yunfei Chen",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 280S Seminar Topics\nWeekly seminar series of current research on a special topic in information systems and technology management. The theme of research presented throughout the course selected by the instructor. Topics may include, but are not limited to, knowledge planning, new product development and management of technology. Enrollment with permission of instructor. (Formerly Technology and Information Management 280S.)\nCredits 2\nInstructor The Staff, David Lee, Yunfei Chen\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 280W Seminar in Digital Media",
+        "description": "Covers advanced topics and current research in digital media\u2014the interdisciplinary field at the intersection of computer science, media authoring, and models of interpretation from the humanities and social sciences. Focuses on student presentations and seminar participation.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Noah Wardrip-Fruin, Nathan Altice",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 280W Seminar in Digital Media\nCovers advanced topics and current research in digital media\u2014the interdisciplinary field at the intersection of computer science, media authoring, and models of interpretation from the humanities and social sciences. Focuses on student presentations and seminar participation.\nCredits 2\nInstructor Noah Wardrip-Fruin, Nathan Altice\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 280X Expressive AI",
+        "description": "Weekly seminar covering topics of current research in artificial intelligence applied to interactive art and entertainment, including computer games. Enrollment by permission of instructor. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Michael Mateas, Noah Wardrip-Fruin",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 280X Expressive AI\nWeekly seminar covering topics of current research in artificial intelligence applied to interactive art and entertainment, including computer games. Enrollment by permission of instructor. Enrollment restricted to graduate students.\nCredits 2\nInstructor Michael Mateas, Noah Wardrip-Fruin\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 290A Topics in Computational Media",
+        "description": "Students learn about a current research area in computational media and make a contribution. Each course offering focuses on a different aspect of technical, creative, and/or interpretive work in the field.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Adam Smith, Noah Wardrip-Fruin, Nathan Altice, Elin Carstendottir",
+        "extrarequirements": "Requirements Enrollment is restricted to computational media graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 290A Topics in Computational Media\nStudents learn about a current research area in computational media and make a contribution. Each course offering focuses on a different aspect of technical, creative, and/or interpretive work in the field.\nCredits 5\nInstructor Adam Smith, Noah Wardrip-Fruin, Nathan Altice, Elin Carstendottir\nRequirements Enrollment is restricted to computational media graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 290J Playable Media",
+        "description": "Focuses on media, such as computer games, that invite and structure play. Work includes building and critiquing a series of prototypes; studying major examples in the field; and discussing both theoretical and practice-oriented texts. Enrollment by permission of instructor. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Noah Wardrip-Fruin, Robin Hunicke",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "CMPM 290J Playable Media\nFocuses on media, such as computer games, that invite and structure play. Work includes building and critiquing a series of prototypes; studying major examples in the field; and discussing both theoretical and practice-oriented texts. Enrollment by permission of instructor. Enrollment restricted to graduate students.\nCredits 5\nCross Listed Courses DANM 250D\nInstructor Noah Wardrip-Fruin, Robin Hunicke\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "CMPM 290K Social and Emotional Approaches to Human Computer Interaction",
+        "description": "Focuses on enhancing social and emotional capabilities and qualities in interactive systems. Students read research, look at sample systems, and engage in evaluation, design, and prototyping exercises. A research project and helping to lead class discussions are also required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Katherine Isbister",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "CMPM 290K Social and Emotional Approaches to Human Computer Interaction\nFocuses on enhancing social and emotional capabilities and qualities in interactive systems. Students read research, look at sample systems, and engage in evaluation, design, and prototyping exercises. A research project and helping to lead class discussions are also required.\nCredits 5\nInstructor Katherine Isbister\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "CMPM 290P Topics in Computational Cinematography",
+        "description": "Focuses on discussion of recent advances in visual storytelling in graphical environments. Major topics covered are: intelligent camera control, shot-compositions, lighting design, interactive storytelling, and computational techniques associated with these applications. Class consists of in-class discussions and student presentations of research papers and a final student project.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "CMPM 290P Topics in Computational Cinematography\nFocuses on discussion of recent advances in visual storytelling in graphical environments. Major topics covered are: intelligent camera control, shot-compositions, lighting design, interactive storytelling, and computational techniques associated with these applications. Class consists of in-class discussions and student presentations of research papers and a final student project.\nCredits 5\nCross Listed Courses DANM 290P\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "CMPM 296 Masters Project",
+        "description": "Students work on their master's project with a faculty supervisor. Students submit petition to sponsoring agency. Assessment is done based on project goals and the ability of the student to apply his/her knowledge and skills accumulated through the master's classes into the project.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Magy Seif El-Nasr",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 296 Masters Project\nStudents work on their master's project with a faculty supervisor. Students submit petition to sponsoring agency. Assessment is done based on project goals and the ability of the student to apply his/her knowledge and skills accumulated through the master's classes into the project.\nCredits 5\nInstructor Magy Seif El-Nasr\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 297A Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "CMPM 297A Independent Study or Research\nIndependent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "CMPM 297B Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "CMPM 297B Independent Study or Research\nIndependent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "CMPM 297C Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "CMPM 297C Independent Study or Research\nIndependent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "CMPM 297F Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "CMPM 297F Independent Study or Research\nIndependent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "CMPM 299A Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 299A Thesis Research\nThesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 299B Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 299B Thesis Research\nThesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "CMPM 299C Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "CMPM 299C Thesis Research\nThesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "CSE 245 Computational Models of Discourse and Dialogue",
+        "description": "Focuses on classic and current theories and research topics in the computational modeling of discourse and dialogue, with applications to human-computer dialogue interactions; dialogue interaction in computer games and interactive story systems; and processing of human-to-human conversational and dialogue-like language such as e-mails. Topics vary depending on the current research of the instructor(s) and the interests of the students. Students read theoretical and technical papers from journals and conference proceedings and present class lectures. A research project is required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marilyn Walker",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "CSE 245 Computational Models of Discourse and Dialogue\nFocuses on classic and current theories and research topics in the computational modeling of discourse and dialogue, with applications to human-computer dialogue interactions; dialogue interaction in computer games and interactive story systems; and processing of human-to-human conversational and dialogue-like language such as e-mails. Topics vary depending on the current research of the instructor(s) and the interests of the students. Students read theoretical and technical papers from journals and conference proceedings and present class lectures. A research project is required.\nCredits 5\nCross Listed Courses LING 245, CMPM 245\nInstructor Marilyn Walker\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.\n"
+    }
+]

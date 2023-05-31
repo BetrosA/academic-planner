@@ -1,0 +1,62 @@
+[
+    {
+        "coursename": "ARBC 1 First-Year Arabic",
+        "description": "Introduction to Arabic language and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ARBC 1 First-Year Arabic\nIntroduction to Arabic language and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ARBC 2 First-Year Arabic",
+        "description": "Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements ARBC 1 or equivalent proficiency.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ARBC 2 First-Year Arabic\nIntroduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.\nCredits 5\nInstructor The Staff\nRequirements ARBC 1 or equivalent proficiency.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ARBC 3 First-Year Arabic",
+        "description": "Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers. ",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ARBC 2 or equivalent proficiency.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ARBC 3 First-Year Arabic\nIntroduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers. \nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): ARBC 2 or equivalent proficiency.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ARBC 4 Second-Year Arabic",
+        "description": "Continuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 3 or possess equivalent proficiency.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ARBC 3 or proficient equivalency.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ARBC 4 Second-Year Arabic\nContinuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 3 or possess equivalent proficiency.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): ARBC 3 or proficient equivalency.\nGeneral Education Code CC\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ARBC 5 Second-Year Arabic",
+        "description": "Continuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 4 or possess equivalent proficiency.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ARBC 4 or comparable proficiency.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ARBC 5 Second-Year Arabic\nContinuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 4 or possess equivalent proficiency.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): ARBC 4 or comparable proficiency.\nGeneral Education Code CC\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ARBC 6 Second-Year Arabic",
+        "description": "Continuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed ARBC 5 or possess equivalent proficiency.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): ARAB 5 or comparable proficiency.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ARBC 6 Second-Year Arabic\nContinuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed ARBC 5 or possess equivalent proficiency.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): ARAB 5 or comparable proficiency.\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    }
+]

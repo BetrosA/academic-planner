@@ -1,0 +1,512 @@
+[
+    {
+        "coursename": "OCEA 1 The Oceans",
+        "description": "An interdisciplinary introduction to oceanography focusing on biological, chemical, geological, and physical processes. Covers topics such as origins and structure of planet Earth and its oceans, co-evolution of Earth and life, plate tectonics, liquid water and the hydrologic and hydrothermal cycles, salinity and elemental cycles, ocean circulation, primary production and nutrient cycles, plankton and nekton, life on the sea floor, near shore and estuarine communities, future environmental problems our oceans face. Students may also enroll in and receive credit for EART 1.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Edwards, Carl Lamborg",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter, Spring, Summer",
+        "fulldesc": "OCEA 1 The Oceans\nAn interdisciplinary introduction to oceanography focusing on biological, chemical, geological, and physical processes. Covers topics such as origins and structure of planet Earth and its oceans, co-evolution of Earth and life, plate tectonics, liquid water and the hydrologic and hydrothermal cycles, salinity and elemental cycles, ocean circulation, primary production and nutrient cycles, plankton and nekton, life on the sea floor, near shore and estuarine communities, future environmental problems our oceans face. Students may also enroll in and receive credit for EART 1.\nCredits 5\nInstructor Christopher Edwards, Carl Lamborg\nGeneral Education Code SI\nQuarter Offered Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "OCEA 80A Life in the Sea",
+        "description": "The ecology of plants and animals in oceans and coastal areas. Consideration of life in various marine habitats, including the open ocean, rocky shores, estuaries, and the sea. Includes field trips. High school biology and chemistry courses are recommended prior to taking this course.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marilou Sison-Mangus, Jonathan Zehr",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "OCEA 80A Life in the Sea\nThe ecology of plants and animals in oceans and coastal areas. Consideration of life in various marine habitats, including the open ocean, rocky shores, estuaries, and the sea. Includes field trips. High school biology and chemistry courses are recommended prior to taking this course.\nCredits 5\nInstructor Marilou Sison-Mangus, Jonathan Zehr\nGeneral Education Code SI\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "OCEA 80B Our Changing Planet",
+        "description": "Interdisciplinary scientific perspective on Earth system, focusing on human impacts on global environment. Introduces concepts of Earth system science and explores topics such as global warming, ozone depletion, pollution, deforestation, and future climate change. Prerequisite(s): high school chemistry course recommended.",
+        "genEd": "General Education Code PE-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Phoebe Lam, Jerome Fiechter, Pratigya Polissar",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "OCEA 80B Our Changing Planet\nInterdisciplinary scientific perspective on Earth system, focusing on human impacts on global environment. Introduces concepts of Earth system science and explores topics such as global warming, ozone depletion, pollution, deforestation, and future climate change. Prerequisite(s): high school chemistry course recommended.\nCredits 5\nInstructor Phoebe Lam, Jerome Fiechter, Pratigya Polissar\nGeneral Education Code PE-E\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "OCEA 90 Fundamentals of Climate",
+        "description": "Quantitative introduction to climate comprising five modules: atmosphere-ocean circulation, atmospheric teleconnections, El-Nino Southern Oscillation, the Pacific Decadal Oscillation, and global warming. Hands-on statistical methods are applied to real-world observations to develop a quantitative understanding of climate.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Edwards, Andrew Moore, Claudie Beaulieu",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Summer",
+        "fulldesc": "OCEA 90 Fundamentals of Climate\nQuantitative introduction to climate comprising five modules: atmosphere-ocean circulation, atmospheric teleconnections, El-Nino Southern Oscillation, the Pacific Decadal Oscillation, and global warming. Hands-on statistical methods are applied to real-world observations to develop a quantitative understanding of climate.\nCredits 5\nInstructor Christopher Edwards, Andrew Moore, Claudie Beaulieu\nRepeatable For Credit Yes\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Summer\n"
+    },
+    {
+        "coursename": "OCEA 100 Physical Oceanography",
+        "description": "Introduces physical aspects of the ocean including both descriptive representations of ocean properties and dynamical processes that govern ocean circulation. Topics include measurement methods, the equation of state, the equations of motion, geostrophy, atmospheric forcing, Ekman transport, gyre circulation, western boundary currents, the global circulation, and surface gravity waves.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Edwards, Andrew Moore, Jerome Fletcher",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 11B or equivalent; and PHYS 6B; and ESCI 100A or EART 110A.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 100 Physical Oceanography\nIntroduces physical aspects of the ocean including both descriptive representations of ocean properties and dynamical processes that govern ocean circulation. Topics include measurement methods, the equation of state, the equations of motion, geostrophy, atmospheric forcing, Ekman transport, gyre circulation, western boundary currents, the global circulation, and surface gravity waves.\nCredits 5\nInstructor Christopher Edwards, Andrew Moore, Jerome Fletcher\nRequirements Prerequisite(s): MATH 11B or equivalent; and PHYS 6B; and ESCI 100A or EART 110A.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 101 The Marine Environment",
+        "description": "An introduction to the marine environment stressing the interaction of physical, chemical, geological, and biological factors in the ocean. Provides the oceanographic background needed for studies in marine biology. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raphael Kudela",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C and MATH 11B or MATH 19B. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 101 The Marine Environment\nAn introduction to the marine environment stressing the interaction of physical, chemical, geological, and biological factors in the ocean. Provides the oceanographic background needed for studies in marine biology. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.\nCredits 5\nInstructor Raphael Kudela\nRequirements Prerequisite(s): CHEM 1C and MATH 11B or MATH 19B. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 102 Oceans and Climate: Past, Present, and Future",
+        "description": "An introduction to Earth's environment, particularly its oceanic and climatic components. Emphasizes interactions between chemical, physical, biological, and geological processes, and fundamentals of past, present, and future global environmental change. Provides backgrounds for specialized courses in oceanic or climatic change.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C.",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 102 Oceans and Climate: Past, Present, and Future\nAn introduction to Earth's environment, particularly its oceanic and climatic components. Emphasizes interactions between chemical, physical, biological, and geological processes, and fundamentals of past, present, and future global environmental change. Provides backgrounds for specialized courses in oceanic or climatic change.\nCredits 5\nRequirements Prerequisite(s): CHEM 1C.\n"
+    },
+    {
+        "coursename": "OCEA 111 Climate Dynamics",
+        "description": "Applies fundamental physical principles to the atmosphere, cryosphere, and land surface to interpret their observed properties. Interactions between the different components of the climate system, and their role in shaping Earth's climate, are also examined.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Andrew Moore",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 11B or equivalent; PHYS 6B; and ESCI 100A or EART 110A.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 111 Climate Dynamics\nApplies fundamental physical principles to the atmosphere, cryosphere, and land surface to interpret their observed properties. Interactions between the different components of the climate system, and their role in shaping Earth's climate, are also examined.\nCredits 5\nInstructor Andrew Moore\nRequirements Prerequisite(s): MATH 11B or equivalent; PHYS 6B; and ESCI 100A or EART 110A.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 118 Marine Microbial Ecology",
+        "description": "The study of marine bacteria and their role in the marine ecosystem. Emphasis on biochemistry and physiology in relation to metabolic activity and elemental cycles, trophic interactions, and flows of material and energy in marine food webs. Students cannot receive credit for this course and Ocean Sciences 218.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jonathan Zehr",
+        "extrarequirements": "Requirements Prerequisite(s): BIOE 20C or BIOE 21C, and CHEM 1C.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 118 Marine Microbial Ecology\nThe study of marine bacteria and their role in the marine ecosystem. Emphasis on biochemistry and physiology in relation to metabolic activity and elemental cycles, trophic interactions, and flows of material and energy in marine food webs. Students cannot receive credit for this course and Ocean Sciences 218.\nCredits 5\nInstructor Jonathan Zehr\nRequirements Prerequisite(s): BIOE 20C or BIOE 21C, and CHEM 1C.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 120 Aquatic Chemistry: Principles and Applications",
+        "description": "An integrated study of the chemical behavior of natural waters with an emphasis on both principles and applications. Topics include chemical equilibrium, kinetics, acids/bases, oxidation/reduction, complexation, solid dissolution and precipitation, and reactions on solid surfaces.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Carl Lamborg",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 108B or CHEM 112C.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "OCEA 120 Aquatic Chemistry: Principles and Applications\nAn integrated study of the chemical behavior of natural waters with an emphasis on both principles and applications. Topics include chemical equilibrium, kinetics, acids/bases, oxidation/reduction, complexation, solid dissolution and precipitation, and reactions on solid surfaces.\nCredits 5\nInstructor Carl Lamborg\nRequirements Prerequisite(s): CHEM 108B or CHEM 112C.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "OCEA 121 Aqueous Geochemistry",
+        "description": "Explores the geochemistry of the water-solid interface in the environment. Topics include: the composition of natural particles in the environment; the use of chemical equilibria and kinetics to assess the reactivity at the particle-water interface; and applications to environmental and oceanographic problems.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Phoebe Lam",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C, or previous or concurrent enrollment in EART 110A. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 121 Aqueous Geochemistry\nExplores the geochemistry of the water-solid interface in the environment. Topics include: the composition of natural particles in the environment; the use of chemical equilibria and kinetics to assess the reactivity at the particle-water interface; and applications to environmental and oceanographic problems.\nCredits 5\nInstructor Phoebe Lam\nRequirements Prerequisite(s): CHEM 1C, or previous or concurrent enrollment in EART 110A. Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 122 Chemical Oceanography",
+        "description": "Provides a chemical description of the sea. Emphasizes the chemical interactions of the ocean with the biosphere, atmosphere, and lithosphere. Topics include biochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Students may not receive credit for this course and OCEA 220.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Phoebe Lam",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C; a previous course in ocean sciences is also recommended. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 122 Chemical Oceanography\nProvides a chemical description of the sea. Emphasizes the chemical interactions of the ocean with the biosphere, atmosphere, and lithosphere. Topics include biochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Students may not receive credit for this course and OCEA 220.\nCredits 5\nInstructor Phoebe Lam\nRequirements Prerequisite(s): CHEM 1C; a previous course in ocean sciences is also recommended. Enrollment is restricted to juniors and seniors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 124 Aquatic Organic Geochemistry",
+        "description": "Introduction to organic geochemistry with emphasis on aquatic environments. Explores how non-living organic matter shapes biogeochemical cycles by carrying and sequestering reduced carbon and major nutrients and examines influence of chemical structure and environmental factors on transport and fate of organic molecules. Provides an introduction to organic biomarkers. Students cannot receive credit for this course and course 224.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matthew McCarthy",
+        "extrarequirements": "Requirements Prerequisite(s): basic college chemistry (Chemistry 1B, 1C); at least one quarter of college level organic chemistry required (e.g., Chemistry 7).",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 124 Aquatic Organic Geochemistry\nIntroduction to organic geochemistry with emphasis on aquatic environments. Explores how non-living organic matter shapes biogeochemical cycles by carrying and sequestering reduced carbon and major nutrients and examines influence of chemical structure and environmental factors on transport and fate of organic molecules. Provides an introduction to organic biomarkers. Students cannot receive credit for this course and course 224.\nCredits 5\nInstructor Matthew McCarthy\nRequirements Prerequisite(s): basic college chemistry (Chemistry 1B, 1C); at least one quarter of college level organic chemistry required (e.g., Chemistry 7).\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 130 Biological Oceanography",
+        "description": "Biological description of the sea, with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and Ocean Sciences 230.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marilou Sison Mangus",
+        "extrarequirements": "Requirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to juniors (with instructor approval), and seniors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 130 Biological Oceanography\nBiological description of the sea, with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and Ocean Sciences 230.\nCredits 5\nInstructor Marilou Sison Mangus\nRequirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to juniors (with instructor approval), and seniors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 150 Field and Laboratory Methods in Coastal and Aquatic Science",
+        "description": "Cross Listed Courses Prerequisite(s): CHEM 1C, and PHYS 5B or PHYS 6B, and MATH 11B or MATH 19B, and ESCI 30 or BIOE 20C.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Carl Lamborg",
+        "extrarequirements": "Requirements Prerequisite(s): CHEM 1C, and PHYS 5B or PHYS 6B, and MATH 11B or MATH 19B, and ESCI 30 or BIOE 20C.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "OCEA 150 Field and Laboratory Methods in Coastal and Aquatic Science\nStudents become familiar with some of the core measurement and sampling techniques routinely employed by working aquatic scientists. In keeping with the multi-disciplinary nature of aquatic science, these techniques and measurements include those taken from biology, geology, chemistry and physics. The overarching goal of is having students become deeply familiar with a field site and observing it over an extended period of time while working collaboratively to accomplish all the measurements. The field component of the work is conducted at UCSC's Younger Lagoon Research Reserve, located adjacent to the Long Marine Lab on the coastal campus. Taught in conjunction with OCEA 250; students cannot receive credit for this course and OCEA 250.\nCredits 5\nCross Listed Courses Prerequisite(s): CHEM 1C, and PHYS 5B or PHYS 6B, and MATH 11B or MATH 19B, and ESCI 30 or BIOE 20C.\nCross Listed Courses ESCI 150\nInstructor Carl Lamborg\nRequirements Prerequisite(s): CHEM 1C, and PHYS 5B or PHYS 6B, and MATH 11B or MATH 19B, and ESCI 30 or BIOE 20C.\nGeneral Education Code PR-E\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "OCEA 158 The Ecology and Conservation of Marine Birds and Mammals",
+        "description": "The systematics, physiology, ecology, behavior, and conservation of marine birds and mammals, with emphasis on the fauna and issues of the Monterey Bay area. Lectures are complemented by laboratory and field sessions. Lab topics include taxonomy and comparative morphology. Field exercises are designed to promote development of observation and identification skills. Field trips enable students to observe unique local species in their native habitats and learn current research techniques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): OCEA 80A, BIOE 20C, or permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 158 The Ecology and Conservation of Marine Birds and Mammals\nThe systematics, physiology, ecology, behavior, and conservation of marine birds and mammals, with emphasis on the fauna and issues of the Monterey Bay area. Lectures are complemented by laboratory and field sessions. Lab topics include taxonomy and comparative morphology. Field exercises are designed to promote development of observation and identification skills. Field trips enable students to observe unique local species in their native habitats and learn current research techniques.\nCredits 5\nRequirements Prerequisite(s): OCEA 80A, BIOE 20C, or permission of instructor.\n"
+    },
+    {
+        "coursename": "OCEA 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "OCEA 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "OCEA 200 Physical Oceanography",
+        "description": "Introduces the physics of the ocean. Topics include physical properties of seawater, atmospheric forcing, Ekman dynamics, Sverdrup dynamics, the wind-driven ocean circulation, ocean mixing, water masses, the meridional overturning circulation, surface gravity waves, Rossby waves, Kelvin waves, and ocean tides. Designed for beginning graduate students in ocean sciences and upper-division science majors. Calculus and physics recommended as preparation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jerome Fiechter, Christopher Edwards",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 200 Physical Oceanography\nIntroduces the physics of the ocean. Topics include physical properties of seawater, atmospheric forcing, Ekman dynamics, Sverdrup dynamics, the wind-driven ocean circulation, ocean mixing, water masses, the meridional overturning circulation, surface gravity waves, Rossby waves, Kelvin waves, and ocean tides. Designed for beginning graduate students in ocean sciences and upper-division science majors. Calculus and physics recommended as preparation.\nCredits 5\nInstructor Jerome Fiechter, Christopher Edwards\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 201 Advanced Physical Oceanography",
+        "description": "Covers advanced topics and physical principles as they relate to the ocean circulation. Designed as a follow-on class for OCEA 200, Physical Oceanography, and topics covered include: the dynamics of the subtropical gyres; potential vorticity dynamics; ventilated thermocline theory; the abyssal circulation; barotropic and baroclinic instability; and ocean eddies. Students use simple computer models to explore these important topics further, and review seminal papers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Andrew Moore",
+        "extrarequirements": "Requirements Prerequisite(s): OCEA 200, or a graduate geophysical fluid dynamics course or equivalent (e.g. EART 272/OCEA 272, AM 217, AM 227), or by instructor consent. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 201 Advanced Physical Oceanography\nCovers advanced topics and physical principles as they relate to the ocean circulation. Designed as a follow-on class for OCEA 200, Physical Oceanography, and topics covered include: the dynamics of the subtropical gyres; potential vorticity dynamics; ventilated thermocline theory; the abyssal circulation; barotropic and baroclinic instability; and ocean eddies. Students use simple computer models to explore these important topics further, and review seminal papers.\nCredits 5\nInstructor Andrew Moore\nRequirements Prerequisite(s): OCEA 200, or a graduate geophysical fluid dynamics course or equivalent (e.g. EART 272/OCEA 272, AM 217, AM 227), or by instructor consent. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 211 Climate Dynamics",
+        "description": "Introduction to the dynamics of the Earth climate system. Topics: climate system components, the global energy balance, radiative transfer, the hydrological cycle, general circulations of the atmosphere and ocean, El Nino, the North Atlantic Oscillation, and the Pacific Decadal Oscillation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Andrew Moore",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll by permission of instructor. Previous courses in calculus and ocean sciences or earth sciences are recommended.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 211 Climate Dynamics\nIntroduction to the dynamics of the Earth climate system. Topics: climate system components, the global energy balance, radiative transfer, the hydrological cycle, general circulations of the atmosphere and ocean, El Nino, the North Atlantic Oscillation, and the Pacific Decadal Oscillation.\nCredits 5\nInstructor Andrew Moore\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll by permission of instructor. Previous courses in calculus and ocean sciences or earth sciences are recommended.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 213 Biogeochemical Cycles",
+        "description": "Overview of biogeochemical cycles, present and past, and geochemical models. Topics include: marine, terrestrial, and global views of the carbon, nitrogen, phosphorus, silicon, sulfur, and oxygen cycles, and the evolution of these cycles and Earth's redox balance through geologic time.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matthew McCarthy, Carl Lamborg",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Upper-division undergraduates may enroll with instructor approval. College-level chemistry and an upper-division course in at least one relevant discipline are recommended.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 213 Biogeochemical Cycles\nOverview of biogeochemical cycles, present and past, and geochemical models. Topics include: marine, terrestrial, and global views of the carbon, nitrogen, phosphorus, silicon, sulfur, and oxygen cycles, and the evolution of these cycles and Earth's redox balance through geologic time.\nCredits 5\nCross Listed Courses EART 213\nInstructor Matthew McCarthy, Carl Lamborg\nRequirements Enrollment is restricted to graduate students. Upper-division undergraduates may enroll with instructor approval. College-level chemistry and an upper-division course in at least one relevant discipline are recommended.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 215 Predicting the Atmosphere, Ocean, and Climate",
+        "description": "Introduction to the theory and practice of operational prediction in meteorology, oceanography, and climate. Topics: observations and estimation theory, dynamic adjustment and initialization, estimation theory, data assimilation, forecast verification, predictability, ocean state estimation, seasonal forecasting.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Andrew Moore",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with instructor approval. OCEA 200, OCEA 260, EART 272, or equivalents are recommended.",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 215 Predicting the Atmosphere, Ocean, and Climate\nIntroduction to the theory and practice of operational prediction in meteorology, oceanography, and climate. Topics: observations and estimation theory, dynamic adjustment and initialization, estimation theory, data assimilation, forecast verification, predictability, ocean state estimation, seasonal forecasting.\nCredits 5\nInstructor Andrew Moore\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll with instructor approval. OCEA 200, OCEA 260, EART 272, or equivalents are recommended.\n"
+    },
+    {
+        "coursename": "OCEA 218 Marine Microbial Ecology",
+        "description": "Recent developments in the study of marine bacteria and their role in the marine ecosystem. Emphasis on biochemistry and physiology in relation to metabolic activity and elemental cycles, trophic interactions and flows of material and energy in marine food webs. Exams and research paper required. Students cannot receive credit for this course and OCEA 118 and BIOL 171. BIOL 20C and CHEM 1C recommended.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jonathan Zehr",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 218 Marine Microbial Ecology\nRecent developments in the study of marine bacteria and their role in the marine ecosystem. Emphasis on biochemistry and physiology in relation to metabolic activity and elemental cycles, trophic interactions and flows of material and energy in marine food webs. Exams and research paper required. Students cannot receive credit for this course and OCEA 118 and BIOL 171. BIOL 20C and CHEM 1C recommended.\nCredits 5\nInstructor Jonathan Zehr\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 220 Chemical Oceanography",
+        "description": "A chemical description of the sea; emphasis on the chemical interactions of the oceans with the biosphere, atmosphere, and lithosphere. Topics include biogeochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Course designed for graduate students; available to upper-division science majors. Students may not receive credit for this course and OCEA 122.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matthew McCarthy, Phoebe Lam",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 220 Chemical Oceanography\nA chemical description of the sea; emphasis on the chemical interactions of the oceans with the biosphere, atmosphere, and lithosphere. Topics include biogeochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Course designed for graduate students; available to upper-division science majors. Students may not receive credit for this course and OCEA 122.\nCredits 5\nInstructor Matthew McCarthy, Phoebe Lam\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 224 Aquatic Organic Geochemistry",
+        "description": "Introduction to organic geochemistry with emphasis on aquatic environments. Explores how non-living organic matter shapes biogeochemical cycles by carrying and sequestering reduced carbon and major nutrients and examines influence of chemical structure and environmental factors on transport and fate of organic molecules. Provides an introduction to organic biomarkers. Students cannot receive credit for this course and OCEA 124.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matthew McCarthy",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 224 Aquatic Organic Geochemistry\nIntroduction to organic geochemistry with emphasis on aquatic environments. Explores how non-living organic matter shapes biogeochemical cycles by carrying and sequestering reduced carbon and major nutrients and examines influence of chemical structure and environmental factors on transport and fate of organic molecules. Provides an introduction to organic biomarkers. Students cannot receive credit for this course and OCEA 124.\nCredits 5\nInstructor Matthew McCarthy\n"
+    },
+    {
+        "coursename": "OCEA 230 Biological Oceanography",
+        "description": "Biological description of the sea, with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and OCEA 130.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raphael Kudela",
+        "extrarequirements": "Requirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 230 Biological Oceanography\nBiological description of the sea, with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and OCEA 130.\nCredits 5\nInstructor Raphael Kudela\nRequirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 241 Dynamics of Marine Ecosystems",
+        "description": "Covers physical-biogeochemical interactions in the ocean on marine ecosystems, with a special focus on the California Current region. Lectures introduce fundamental processes occurring at local, regional, and basin scales, and describe their complex interplay.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jerome Fiechter",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 241 Dynamics of Marine Ecosystems\nCovers physical-biogeochemical interactions in the ocean on marine ecosystems, with a special focus on the California Current region. Lectures introduce fundamental processes occurring at local, regional, and basin scales, and describe their complex interplay.\nCredits 5\nInstructor Jerome Fiechter\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 250 Field and Laboratory Methods in Coastal and Aquatic Science",
+        "description": "Students become familiar with core measurement and sampling techniques and multi-disciplinary nature of aquatic sciences routinely employed by working aquatic scientists in the fields of biology, geology, chemistry and physics. Overarching goal of class is having students become deeply familiar with a field site and observing it over an extended period of time while working collaboratively to accomplish all the measurements. The field component of the work is conducted at UCSC's Younger Lagoon Research Reserve, located adjacent to the Long Marine Lab on the coastal campus. Taught in conjunction with OCEA 150 and ESCI 150. Students cannot receive credit for this course and OCEA 150/ESCI 150.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Carl Lamborg",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "OCEA 250 Field and Laboratory Methods in Coastal and Aquatic Science\nStudents become familiar with core measurement and sampling techniques and multi-disciplinary nature of aquatic sciences routinely employed by working aquatic scientists in the fields of biology, geology, chemistry and physics. Overarching goal of class is having students become deeply familiar with a field site and observing it over an extended period of time while working collaboratively to accomplish all the measurements. The field component of the work is conducted at UCSC's Younger Lagoon Research Reserve, located adjacent to the Long Marine Lab on the coastal campus. Taught in conjunction with OCEA 150 and ESCI 150. Students cannot receive credit for this course and OCEA 150/ESCI 150.\nCredits 5\nInstructor Carl Lamborg\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "OCEA 260 Introductory Data Analysis in the Ocean and Earth Sciences",
+        "description": "Introduces data analysis methods regularly encountered within the ocean and earth sciences. Topics include: error propagation, least squares analysis, data interpolation methods, empirical orthogonal functions, and Monte Carlo methods applied to problems drawn from oceanographic and earth sciences datasets. Introduces and uses a high-level computing and visualization package, MATLAB. Student project consists of analysis of the student's own dataset.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Edwards, Claudie Beaulieu",
+        "extrarequirements": "Requirements Prerequisite(s): previous course in ocean or earth sciences is recommended. Enrollment is restricted to graduate students; undergraduates with permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 260 Introductory Data Analysis in the Ocean and Earth Sciences\nIntroduces data analysis methods regularly encountered within the ocean and earth sciences. Topics include: error propagation, least squares analysis, data interpolation methods, empirical orthogonal functions, and Monte Carlo methods applied to problems drawn from oceanographic and earth sciences datasets. Introduces and uses a high-level computing and visualization package, MATLAB. Student project consists of analysis of the student's own dataset.\nCredits 5\nCross Listed Courses EART 260\nInstructor Christopher Edwards, Claudie Beaulieu\nRequirements Prerequisite(s): previous course in ocean or earth sciences is recommended. Enrollment is restricted to graduate students; undergraduates with permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 267 Applied Environmental Time Series Analysis",
+        "description": "Course takes an empirical approach to quantify and explain changes in the Earth system over time. Students learn how to analyze time-series data and answer questions about environmental change and variability. Students acquire the theoretical basis of the statistical approaches, gain experience interpreting and discussing the results, and debate the methods chosen resulting in a critical understanding of the underlying assumptions and limitations of the methods discussed. This is a hands-on class and utilizes a suite of observational datasets and outputs from Earth system models. Students cannot receive credit for this course and ESCI 167.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): Students are expected to know R, Matlab or Python and have statistics background. Please contact the instructor before enrolling if you are unsure.Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 267 Applied Environmental Time Series Analysis\nCourse takes an empirical approach to quantify and explain changes in the Earth system over time. Students learn how to analyze time-series data and answer questions about environmental change and variability. Students acquire the theoretical basis of the statistical approaches, gain experience interpreting and discussing the results, and debate the methods chosen resulting in a critical understanding of the underlying assumptions and limitations of the methods discussed. This is a hands-on class and utilizes a suite of observational datasets and outputs from Earth system models. Students cannot receive credit for this course and ESCI 167.\nCredits 5\nRequirements Prerequisite(s): Students are expected to know R, Matlab or Python and have statistics background. Please contact the instructor before enrolling if you are unsure.Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 280 Marine Geology",
+        "description": "Geology of the marine environment. Topics include controls on the types, origin, and distribution of marine sediments; geology of oceanic crust; evolution of continental margins and plate boundaries; and introduction to paleoceanography. Students cannot receive credit for this course and EART102.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor A. Christina Ravelo, Pratigya Polissar",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 280 Marine Geology\nGeology of the marine environment. Topics include controls on the types, origin, and distribution of marine sediments; geology of oceanic crust; evolution of continental margins and plate boundaries; and introduction to paleoceanography. Students cannot receive credit for this course and EART102.\nCredits 5\nInstructor A. Christina Ravelo, Pratigya Polissar\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 285 Past Climate Change",
+        "description": "Reviews the fundamentals of climate dynamics and explores how Earth's environment is a product of the interaction of its components. Uses examples of climate change from historical and geologic records, and from predictions of the future. Recommended for junior, senior, and graduate students in the sciences.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor A. Christina Ravelo, Pratigya Polissar",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 285 Past Climate Change\nReviews the fundamentals of climate dynamics and explores how Earth's environment is a product of the interaction of its components. Uses examples of climate change from historical and geologic records, and from predictions of the future. Recommended for junior, senior, and graduate students in the sciences.\nCredits 5\nInstructor A. Christina Ravelo, Pratigya Polissar\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 286 Introduction to Ocean Modeling",
+        "description": "Fundamental concepts and ideas that underpin numerical modeling of the ocean. Topics include numerical methods and solutions of partial differential equations (PDEs), ocean circulation, wave dynamics, ocean ecosystem model, and MATLAB programming.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Andrew Moore",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students, or seniors by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 286 Introduction to Ocean Modeling\nFundamental concepts and ideas that underpin numerical modeling of the ocean. Topics include numerical methods and solutions of partial differential equations (PDEs), ocean circulation, wave dynamics, ocean ecosystem model, and MATLAB programming.\nCredits 5\nInstructor Andrew Moore\nRequirements Enrollment is restricted to graduate students, or seniors by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 290A Topics in Chemical Oceanography",
+        "description": "A weekly seminar series covering recent developments in chemical oceanography. Different topics and approaches will be stressed from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Phoebe Lam",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 290A Topics in Chemical Oceanography\nA weekly seminar series covering recent developments in chemical oceanography. Different topics and approaches will be stressed from year to year.\nCredits 5\nInstructor Phoebe Lam\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "OCEA 290B Topics in Biological Oceanography",
+        "description": "Explores different problems of special interest in biological oceanography. Different topics and approaches will be stressed from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Marilou Sison Mangus",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 290B Topics in Biological Oceanography\nExplores different problems of special interest in biological oceanography. Different topics and approaches will be stressed from year to year.\nCredits 5\nInstructor Marilou Sison Mangus\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 290C Topics in Marine Geochemistry",
+        "description": "Selected topics in geochemistry. Discussion of theoretical models, different approaches, and recent research. Topics vary from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Carl Lamborg",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 290C Topics in Marine Geochemistry\nSelected topics in geochemistry. Discussion of theoretical models, different approaches, and recent research. Topics vary from year to year.\nCredits 5\nInstructor Carl Lamborg\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "OCEA 290D Topics in Marine Microbiology",
+        "description": "A weekly seminar series covering topics in environmental microbiology. Topics vary from year to year, and will include research in ecology, methodology, biochemistry and physiology of bacteria. Emphasis on the role of bacteria in biogeochemical cycling from microzone to global scales, with particular focus in marine systems.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jonathan Zehr",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 290D Topics in Marine Microbiology\nA weekly seminar series covering topics in environmental microbiology. Topics vary from year to year, and will include research in ecology, methodology, biochemistry and physiology of bacteria. Emphasis on the role of bacteria in biogeochemical cycling from microzone to global scales, with particular focus in marine systems.\nCredits 5\nInstructor Jonathan Zehr\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 290E Topics in Climatic and Oceanic Change",
+        "description": "Weekly seminar series covering recent developments in climatic and oceanic change. Different topics and approaches stressed from year to year. Prerequisite(s): interview with instructor prior to first class meeting.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Claudie Beaulieu",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 290E Topics in Climatic and Oceanic Change\nWeekly seminar series covering recent developments in climatic and oceanic change. Different topics and approaches stressed from year to year. Prerequisite(s): interview with instructor prior to first class meeting.\nCredits 5\nInstructor Claudie Beaulieu\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 290G Topics in Physical Oceanography",
+        "description": "Weekly seminar series covering topics in physical oceanography as well as biological-physical interactions in the oceans. Different topics and approaches stressed from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jerome Fiechter, Christopher Edwards, Andrew Moore",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 290G Topics in Physical Oceanography\nWeekly seminar series covering topics in physical oceanography as well as biological-physical interactions in the oceans. Different topics and approaches stressed from year to year.\nCredits 5\nInstructor Jerome Fiechter, Christopher Edwards, Andrew Moore\nRequirements Enrollment is restricted to graduate students; undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "OCEA 290H Topics in Ocean Optics",
+        "description": "Examines recent developments and application of bio-optics to the marine environment, including theory, instrumentation, and remote sensing. Different topics and approaches emphasized from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raphael Kudela",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 290H Topics in Ocean Optics\nExamines recent developments and application of bio-optics to the marine environment, including theory, instrumentation, and remote sensing. Different topics and approaches emphasized from year to year.\nCredits 5\nInstructor Raphael Kudela\nRequirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to graduate students; senior undergraduates with permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "OCEA 290J Topics in Marine Organic Geochemistry",
+        "description": "Examines recent developments in uses of organic geochemistry to trace oceanographic and biogeochemical processes. Focuses on introduction to organic biomarkers, current literature, and evolving applications. Different topics and approaches emphasized from year to year.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Matthew McCarthy",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "OCEA 290J Topics in Marine Organic Geochemistry\nExamines recent developments in uses of organic geochemistry to trace oceanographic and biogeochemical processes. Focuses on introduction to organic biomarkers, current literature, and evolving applications. Different topics and approaches emphasized from year to year.\nCredits 5\nInstructor Matthew McCarthy\nRequirements Prerequisite(s): previous course in ocean sciences and organic chemistry are recommended. Enrollment is restricted to graduate students; upper-division undergraduates with instructor's permission.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "OCEA 292 Seminar",
+        "description": "Weekly seminar on various topics attended by faculty, graduate, and upper-division undergraduate students.",
+        "genEd": "none",
+        "credithours": "Credits 0",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "OCEA 292 Seminar\nWeekly seminar on various topics attended by faculty, graduate, and upper-division undergraduate students.\nCredits 0\nInstructor The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "OCEA 296 Teaching in Ocean Sciences",
+        "description": "For new and/or relatively inexperienced graduate students in pedagogy of ocean sciences. Role and responsibilities of teaching in ocean sciences described and developed. Includes discussions about effective teaching methods; hands-on issues for work in the laboratory; university expectations; and regulations regarding teaching, organizational strategies, time management, and working with instructors and staff.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Christopher Edwards",
+        "extrarequirements": "Requirements Prerequisite(s): graduate standing or permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 296 Teaching in Ocean Sciences\nFor new and/or relatively inexperienced graduate students in pedagogy of ocean sciences. Role and responsibilities of teaching in ocean sciences described and developed. Includes discussions about effective teaching methods; hands-on issues for work in the laboratory; university expectations; and regulations regarding teaching, organizational strategies, time management, and working with instructors and staff.\nCredits 2\nInstructor Christopher Edwards\nRequirements Prerequisite(s): graduate standing or permission of instructor. Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 297A Independent Study",
+        "description": "Independent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 297A Independent Study\nIndependent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 297B Independent Study",
+        "description": "Independent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 297B Independent Study\nIndependent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.\nCredits 10\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 297C Independent Study",
+        "description": "Independent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 297C Independent Study\nIndependent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.\nCredits 15\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "OCEA 299A Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "OCEA 299A Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "OCEA 299B Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "OCEA 299B Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 10\nInstructor The Staff\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "OCEA 299C Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "OCEA 299C Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 15\nInstructor The Staff\nQuarter Offered Spring\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "EART 172 Geophysical Fluid Dynamics",
+        "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Taught in conjunction with EART 272. Students cannot receive credit for this course and EART 272.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Edwards",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 107 or AM 107; MATH 22 or MATH 23B recommended.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "EART 172 Geophysical Fluid Dynamics\nIntroduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Taught in conjunction with EART 272. Students cannot receive credit for this course and EART 272.\nCredits 5\nCross Listed Courses OCEA 172\nInstructor Christopher Edwards\nRequirements Prerequisite(s): PHYS 107 or AM 107; MATH 22 or MATH 23B recommended.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "EART 272 Geophysical Fluid Dynamics",
+        "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Students cannot receive credit for this course and EART 172.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Edwards",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "EART 272 Geophysical Fluid Dynamics\nIntroduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Students cannot receive credit for this course and EART 172.\nCredits 5\nCross Listed Courses OCEA 272\nInstructor Christopher Edwards\nRequirements Enrollment is restricted to graduate students.\n"
+    }
+]

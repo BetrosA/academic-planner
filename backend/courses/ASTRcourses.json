@@ -1,0 +1,562 @@
+[
+    {
+        "coursename": "ASTR 1 Introduction to the Cosmos",
+        "description": "Overview of the main ideas in our current view of the universe and how these ideas originated. Galaxies, quasars, stars, black holes, and planets. Students cannot receive credit for this course after receiving credit for ASTR 2.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alexie Leathaud",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "ASTR 1 Introduction to the Cosmos\nOverview of the main ideas in our current view of the universe and how these ideas originated. Galaxies, quasars, stars, black holes, and planets. Students cannot receive credit for this course after receiving credit for ASTR 2.\nCredits 5\nInstructor Alexie Leathaud\nGeneral Education Code SI\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 2 Overview of the Universe",
+        "description": "An overview of the main ideas in our current view of the universe, and how they originated. Galaxies, quasars, stars, pulsars, and planets. Intended primarily for nonscience majors interested in a one-quarter survey of classical and modern astronomy. Students cannot receive credit for for ASTR 1 after receiving credit for ASTR 2.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kevin Bundy",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ASTR 2 Overview of the Universe\nAn overview of the main ideas in our current view of the universe, and how they originated. Galaxies, quasars, stars, pulsars, and planets. Intended primarily for nonscience majors interested in a one-quarter survey of classical and modern astronomy. Students cannot receive credit for for ASTR 1 after receiving credit for ASTR 2.\nCredits 5\nInstructor Kevin Bundy\nGeneral Education Code MF\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ASTR 3 Introductory Astronomy: Planetary Systems",
+        "description": "Properties of the solar system and other planetary systems. Topics include the Sun, solar system exploration, the physical nature of the Earth and the other planets, comets and asteroids, the origin of the solar system, the possibility of life on other worlds, planet formation, and the discovery and characterization of planets beyond the solar system. Intended for nonscience majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately or sequentially.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Rebecca Jensen-Clem, Ruth Murray-Clay",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "ASTR 3 Introductory Astronomy: Planetary Systems\nProperties of the solar system and other planetary systems. Topics include the Sun, solar system exploration, the physical nature of the Earth and the other planets, comets and asteroids, the origin of the solar system, the possibility of life on other worlds, planet formation, and the discovery and characterization of planets beyond the solar system. Intended for nonscience majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately or sequentially.\nCredits 5\nInstructor Rebecca Jensen-Clem, Ruth Murray-Clay\nGeneral Education Code MF\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "ASTR 4 Introductory Astronomy: The Stars",
+        "description": "Stellar evolution: observed properties of stars, internal structure of stars, stages of a star's life including stellar births, white dwarfs, supernovae, pulsars, neutron stars, and black holes. Planet and constellation identification. Intended for nonscience majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately or sequentially.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Constance Rockosi",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 4 Introductory Astronomy: The Stars\nStellar evolution: observed properties of stars, internal structure of stars, stages of a star's life including stellar births, white dwarfs, supernovae, pulsars, neutron stars, and black holes. Planet and constellation identification. Intended for nonscience majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately or sequentially.\nCredits 5\nInstructor Constance Rockosi\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 5 Introductory Astronomy: The Formation and Evolution of the Universe",
+        "description": "The universe explained. Fundamental concepts of modern cosmology (Big Bang, dark matter, curved space, black holes, star and galaxy formation), the basic physics underlying them, and their scientific development. Intended for non-science majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael Bolte, Jean Brodie, Brant Robertson",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 5 Introductory Astronomy: The Formation and Evolution of the Universe\nThe universe explained. Fundamental concepts of modern cosmology (Big Bang, dark matter, curved space, black holes, star and galaxy formation), the basic physics underlying them, and their scientific development. Intended for non-science majors. ASTR 3, ASTR 4, and ASTR 5 are independent and may be taken separately.\nCredits 5\nInstructor Michael Bolte, Jean Brodie, Brant Robertson\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 6 The Space-Age Solar System",
+        "description": "Scientific study of the Moon, Earth, Mercury, Venus, and Mars by the space program; history of rocket development; the Apollo program and exploration of the Moon; unmanned spacecraft studies of the terrestrial planets; scientific theories of planetary surfaces and atmospheres. Intended for nonscience majors.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Graeme Smith",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ASTR 6 The Space-Age Solar System\nScientific study of the Moon, Earth, Mercury, Venus, and Mars by the space program; history of rocket development; the Apollo program and exploration of the Moon; unmanned spacecraft studies of the terrestrial planets; scientific theories of planetary surfaces and atmospheres. Intended for nonscience majors.\nCredits 5\nInstructor Graeme Smith\nGeneral Education Code SI\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ASTR 7 Black Holes",
+        "description": "Examines the nature of black holes, including their creation and evolution; evidence for their existence from astronomical observations; and the role of black holes in the evolution of the universe. Also examines current ideas about the nature of space, time, and gravity.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 7 Black Holes\nExamines the nature of black holes, including their creation and evolution; evidence for their existence from astronomical observations; and the role of black holes in the evolution of the universe. Also examines current ideas about the nature of space, time, and gravity.\nCredits 5\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 8 Exploring the Universe with Astronomical Data",
+        "description": "Introduces how we use observational data to learn about stars, galaxies, planets, and cosmology. Covers astronomical data and experimental design and basic physics and statistical techniques, such as model fitting, regression, significance tests, and error estimation.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Constance Rockosi, Jonathan Fortney",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ASTR 8 Exploring the Universe with Astronomical Data\nIntroduces how we use observational data to learn about stars, galaxies, planets, and cosmology. Covers astronomical data and experimental design and basic physics and statistical techniques, such as model fitting, regression, significance tests, and error estimation.\nCredits 5\nInstructor Constance Rockosi, Jonathan Fortney\nGeneral Education Code SR\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ASTR 9A Introduction to Research in Physics and Astrophysics",
+        "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Enrollment is restricted to first-year proposed astrophysics and physics majors and by permission of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ruth Murray-Clay, Jonathan Fortney",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 9A Introduction to Research in Physics and Astrophysics\nIntroduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Enrollment is restricted to first-year proposed astrophysics and physics majors and by permission of the instructor.\nCredits 2\nCross Listed Courses PHYS 9A\nInstructor Ruth Murray-Clay, Jonathan Fortney\n"
+    },
+    {
+        "coursename": "ASTR 9B Introduction to Research in Physics and Astrophysics",
+        "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Prerequisite(s): ASTR 9A. Enrollment is restricted to first-year proposed applied physics, physics, and physics (astrophysics) majors and by permission of the instructor.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 9B Introduction to Research in Physics and Astrophysics\nIntroduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Prerequisite(s): ASTR 9A. Enrollment is restricted to first-year proposed applied physics, physics, and physics (astrophysics) majors and by permission of the instructor.\nCredits 3\nCross Listed Courses PHYS 9B\nGeneral Education Code PR-E\n"
+    },
+    {
+        "coursename": "ASTR 10 From the Big Bang to Planet Earth",
+        "description": "Broad scientific overview of the universe, from the Big Bang to planet Earth. Origin and content: Big Bang, dark matter, dark energy, galaxies, black holes, star systems, exoplanets. Solar system and properties of Earth in relation to other planets. Physics of planetary atmospheres and impact of human activity on Earth's climate. Possibility of terraforming and of life beyond the solar system. Fate of Earth, the solar system, and the universe. Active learning class with continuous assessment. Intended for non-science majors. No previous college-level math, physics, or astronomy required.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alexie Leauthaud",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "ASTR 10 From the Big Bang to Planet Earth\nBroad scientific overview of the universe, from the Big Bang to planet Earth. Origin and content: Big Bang, dark matter, dark energy, galaxies, black holes, star systems, exoplanets. Solar system and properties of Earth in relation to other planets. Physics of planetary atmospheres and impact of human activity on Earth's climate. Possibility of terraforming and of life beyond the solar system. Fate of Earth, the solar system, and the universe. Active learning class with continuous assessment. Intended for non-science majors. No previous college-level math, physics, or astronomy required.\nCredits 5\nInstructor Alexie Leauthaud\nRepeatable For Credit Yes\nGeneral Education Code SI\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 19 Practical Programming for the Sciences",
+        "description": "Introduces how we use computer programming to solve scientific problems. Covers basic Python programming, code repositories, and scientific plotting and graphing. Introduces more advanced techniques through small projects featuring real data from throughout the sciences, with a focus on using programming to evaluate the statistical significance of scientific claims.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Brant Robertson",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ASTR 19 Practical Programming for the Sciences\nIntroduces how we use computer programming to solve scientific problems. Covers basic Python programming, code repositories, and scientific plotting and graphing. Introduces more advanced techniques through small projects featuring real data from throughout the sciences, with a focus on using programming to evaluate the statistical significance of scientific claims.\nCredits 5\nInstructor Brant Robertson\nGeneral Education Code SR\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ASTR 12 Stars and Stellar Evolution",
+        "description": "An introduction to the observational facts and physical theory pertaining to stars. Topics include the observed properties of stars and the physics underlying those properties; stellar atmospheres; stellar structure and evolution. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Foley",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 12 Stars and Stellar Evolution\nAn introduction to the observational facts and physical theory pertaining to stars. Topics include the observed properties of stars and the physics underlying those properties; stellar atmospheres; stellar structure and evolution. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.\nCredits 5\nInstructor Ryan Foley\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 13 Galaxies, Cosmology, and High Energy Astrophysics",
+        "description": "Introduction to modern cosmology and extragalactic astronomy. Topics include the origin of the universe, Big Bang cosmology, expansion of the universe, dark matter and dark energy, properties of galaxies and active galactic nuclei, and very energetic phenomena in our own and other galaxies. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 13 Galaxies, Cosmology, and High Energy Astrophysics\nIntroduction to modern cosmology and extragalactic astronomy. Topics include the origin of the universe, Big Bang cosmology, expansion of the universe, dark matter and dark energy, properties of galaxies and active galactic nuclei, and very energetic phenomena in our own and other galaxies. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.\nCredits 5\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 15 Dead Stars and Black Holes",
+        "description": "Course is primarily concerned with the structure, formation, and astrophysical manifestations of compact objects, such as white dwarfs, neutron stars, and black holes, and the astronomical evidence for their existence. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Enrico Ramirez-Ruiz",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 15 Dead Stars and Black Holes\nCourse is primarily concerned with the structure, formation, and astrophysical manifestations of compact objects, such as white dwarfs, neutron stars, and black holes, and the astronomical evidence for their existence. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.\nCredits 5\nInstructor Enrico Ramirez-Ruiz\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 16 Astrobiology: Life in the Universe",
+        "description": "Topics include the detection of extrasolar planets, planet formation, stellar evolution and properties of Mars, the exploration of our solar system and the search for life within it, and the evolution of life on Earth. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Natalie Batalha",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 16 Astrobiology: Life in the Universe\nTopics include the detection of extrasolar planets, planet formation, stellar evolution and properties of Mars, the exploration of our solar system and the search for life within it, and the evolution of life on Earth. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.\nCredits 5\nInstructor Natalie Batalha\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 18 Planets and Planetary Systems",
+        "description": "Our solar system and newly discovered planetary systems. Formation and structure of planets, moons, rings, asteroids, comets. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 18 Planets and Planetary Systems\nOur solar system and newly discovered planetary systems. Formation and structure of planets, moons, rings, asteroids, comets. Intended for science majors and qualified non-science majors. Knowledge of high school physics and an understanding of mathematics at the MATH 2 level required.\nCredits 5\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "ASTR 111 Order-of-Magnitude Astrophysics",
+        "description": "Examines the most basic and direct connection between physics and astrophysics in order to derive a better understanding of astrophysical phenomena from first principles to the extent possible.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Enrico Ramirez-Ruiz",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 22 or MATH 23A; PHYS 5B or PHYS 6B; and previous or concurrent enrollment in PHYS 102.",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 111 Order-of-Magnitude Astrophysics\nExamines the most basic and direct connection between physics and astrophysics in order to derive a better understanding of astrophysical phenomena from first principles to the extent possible.\nCredits 5\nInstructor Enrico Ramirez-Ruiz\nRequirements Prerequisite(s): MATH 22 or MATH 23A; PHYS 5B or PHYS 6B; and previous or concurrent enrollment in PHYS 102.\n"
+    },
+    {
+        "coursename": "ASTR 112 Physics of Stars",
+        "description": "The leading observational facts about stars as interpreted by current theories of stellar structure and evolution. Spectroscopy, abundances of the elements, nucleosynthesis, stellar atmospheres, stellar populations. Final stages of evolution, including white dwarfs, neutron stars, supernovae.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Foley",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ASTR 112 Physics of Stars\nThe leading observational facts about stars as interpreted by current theories of stellar structure and evolution. Spectroscopy, abundances of the elements, nucleosynthesis, stellar atmospheres, stellar populations. Final stages of evolution, including white dwarfs, neutron stars, supernovae.\nCredits 5\nInstructor Ryan Foley\nRequirements Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ASTR 113 Introduction to Cosmology",
+        "description": "Physical examination of our evolving universe: the Big Bang model; simple aspects of general relativity; particle physics in the early universe; production of various background radiations; production of elements; tests of geometry of the universe; dark energy and dark matter; and formation and evolution of galaxies and large-scale structure.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Piero Madau",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ASTR 113 Introduction to Cosmology\nPhysical examination of our evolving universe: the Big Bang model; simple aspects of general relativity; particle physics in the early universe; production of various background radiations; production of elements; tests of geometry of the universe; dark energy and dark matter; and formation and evolution of galaxies and large-scale structure.\nCredits 5\nInstructor Piero Madau\nRequirements Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ASTR 117 High Energy Astrophysics",
+        "description": "Theory and practice of space and ground-based x-ray and gamma-ray astronomical detectors. High-energy emission processes, neutron stars, black holes. Observations of x-ray binaries, pulsars, magnetars, clusters, gamma-ray bursts, the x-ray background. High-energy cosmic rays. Neutrino and gravitational-wave astronomy.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Enrico Ramirez-Ruiz",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 117 High Energy Astrophysics\nTheory and practice of space and ground-based x-ray and gamma-ray astronomical detectors. High-energy emission processes, neutron stars, black holes. Observations of x-ray binaries, pulsars, magnetars, clusters, gamma-ray bursts, the x-ray background. High-energy cosmic rays. Neutrino and gravitational-wave astronomy.\nCredits 5\nInstructor Enrico Ramirez-Ruiz\nRequirements Prerequisite(s): MATH 22 or MATH 23A, PHYS 5B or PHYS 6B, and PHYS 102.\n"
+    },
+    {
+        "coursename": "ASTR 118 Physics of Planetary Systems",
+        "description": "Determination of the physical properties of the solar system, its individual planets, and extrasolar planetary systems through ground-based and space-based observations, laboratory measurements, and theory. Theories of the origin and evolution of planets and planetary systems.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Natalie Batalha",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 22 or MATH 23A; and PHYS 5B or PHYS 6B.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ASTR 118 Physics of Planetary Systems\nDetermination of the physical properties of the solar system, its individual planets, and extrasolar planetary systems through ground-based and space-based observations, laboratory measurements, and theory. Theories of the origin and evolution of planets and planetary systems.\nCredits 5\nInstructor Natalie Batalha\nRequirements Prerequisite(s): MATH 22 or MATH 23A; and PHYS 5B or PHYS 6B.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ASTR 119 Introduction to Scientific Computing",
+        "description": "Introduction to solving scientific problems using computers. A series of simple problems from Earth sciences, physics, and astronomy are solved using a user-friendly scientific programming language (Python/SciPy).",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Brant Robertson",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 119 Introduction to Scientific Computing\nIntroduction to solving scientific problems using computers. A series of simple problems from Earth sciences, physics, and astronomy are solved using a user-friendly scientific programming language (Python/SciPy).\nCredits 5\nInstructor Brant Robertson\nRequirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 136 Advanced Astronomy Laboratory",
+        "description": "Introduces the techniques of modern observational astrophysics at optical wavelengths through hands-on experiments and use of remote observatories. Students develop the skills and experience to pursue original research. Course is time-intensive and research-oriented.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): ASTR 119 and PHYS 133. Enrollment is restricted to junior and senior astrophysics majors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ASTR 136 Advanced Astronomy Laboratory\nIntroduces the techniques of modern observational astrophysics at optical wavelengths through hands-on experiments and use of remote observatories. Students develop the skills and experience to pursue original research. Course is time-intensive and research-oriented.\nCredits 5\nRequirements Prerequisite(s): ASTR 119 and PHYS 133. Enrollment is restricted to junior and senior astrophysics majors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ASTR 192 Dir Stu Teach",
+        "description": "Dir Stu Teach",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 192 Dir Stu Teach\nDir Stu Teach\nCredits 5\n"
+    },
+    {
+        "coursename": "ASTR 199 Tutorial",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 199 Tutorial\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 202 Astrophysics I",
+        "description": "Survey of radiative processes of astrophysical importance from radio waves to gamma rays. The interaction of radiation with matter: radiative transfer, emission, and absorption. Thermal and non-thermal processes, including bremsstrahlung, synchrotron radiation, and Compton scattering. Radiation in plasmas. Enrollment is by permission of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Brant Robertson",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 202 Astrophysics I\nSurvey of radiative processes of astrophysical importance from radio waves to gamma rays. The interaction of radiation with matter: radiative transfer, emission, and absorption. Thermal and non-thermal processes, including bremsstrahlung, synchrotron radiation, and Compton scattering. Radiation in plasmas. Enrollment is by permission of the instructor.\nCredits 5\nInstructor Brant Robertson\n"
+    },
+    {
+        "coursename": "ASTR 204 Astrophysics II",
+        "description": "Explores how physical conditions in astrophysical objects can be diagnosed from their spectra. Discussion topics include how energy flows determine the thermal state of radiating objects and how the physics of radiative transfer can explain the emergent spectral characteristics of stars, accretion disks, Lyman-alpha clouds, and microwave background. (Formerly Astrophysical Flows.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ruth Murray-Clay",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ASTR 204 Astrophysics II\nExplores how physical conditions in astrophysical objects can be diagnosed from their spectra. Discussion topics include how energy flows determine the thermal state of radiating objects and how the physics of radiative transfer can explain the emergent spectral characteristics of stars, accretion disks, Lyman-alpha clouds, and microwave background. (Formerly Astrophysical Flows.)\nCredits 5\nInstructor Ruth Murray-Clay\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ASTR 205 Introduction to Astronomical Research and Teaching",
+        "description": "Lectures and seminar-style course intended to integrate new graduate students into the department; to introduce students to the research and interests of department faculty; and to expose graduate students to teaching skills and classroom techniques. (Formerly Introduction to Astronomical Research.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Graeme Smith",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ASTR 205 Introduction to Astronomical Research and Teaching\nLectures and seminar-style course intended to integrate new graduate students into the department; to introduce students to the research and interests of department faculty; and to expose graduate students to teaching skills and classroom techniques. (Formerly Introduction to Astronomical Research.)\nCredits 5\nInstructor Graeme Smith\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ASTR 214 Special Topics in Galactic and Extragalactic Astronomy",
+        "description": "Survey of some principal areas of research on the origin and growth of cosmic structures and galaxies: the dark ages; 21cm tomography; first galaxies; first stars and seed black holes; reionization and chemical enrichment of the intergalactic medium; the assembly of massive galaxies; quasi-stellar sources; interactions of massive black holes with their environment; extragalactic background radiation; numerical simulations and the nature of the dark matter; the dark halo of the Milky Way.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Alexie Leauthaud",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 214 Special Topics in Galactic and Extragalactic Astronomy\nSurvey of some principal areas of research on the origin and growth of cosmic structures and galaxies: the dark ages; 21cm tomography; first galaxies; first stars and seed black holes; reionization and chemical enrichment of the intergalactic medium; the assembly of massive galaxies; quasi-stellar sources; interactions of massive black holes with their environment; extragalactic background radiation; numerical simulations and the nature of the dark matter; the dark halo of the Milky Way.\nCredits 5\nInstructor Alexie Leauthaud\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ASTR 215 Research Practicum for Astrophysics",
+        "description": "Introduces graduate students to practical and efficient research methodology. Covers best practices in coding and code development, documentation of research, project management, preprint and journal article writing and submission, professional presentation preparation, and grant writing. Introduces more advanced techniques through experiential learning research projects developed in collaboration with the instructor. Prerequisite(s): ASTR 202, ASTR 204, ASTR 205, and ASTR 257. Students must take ASTR 215 from an instructor outside their Ph.D. specialty, and requires permission of the instructor to enroll.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Brant Robertson",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 215 Research Practicum for Astrophysics\nIntroduces graduate students to practical and efficient research methodology. Covers best practices in coding and code development, documentation of research, project management, preprint and journal article writing and submission, professional presentation preparation, and grant writing. Introduces more advanced techniques through experiential learning research projects developed in collaboration with the instructor. Prerequisite(s): ASTR 202, ASTR 204, ASTR 205, and ASTR 257. Students must take ASTR 215 from an instructor outside their Ph.D. specialty, and requires permission of the instructor to enroll.\nCredits 5\nInstructor Brant Robertson\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 220A Stars and Planets I",
+        "description": "Survey of stellar structure and evolution.Physical properties of stellar material. Convective and radiative energy transport. Stellar models and evolutionary tracks through all phases. Brown dwarfs and giant planets. Comparison with observations. (Formerly Stellar Structure and Evolution.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ryan Foley",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "ASTR 220A Stars and Planets I\nSurvey of stellar structure and evolution.Physical properties of stellar material. Convective and radiative energy transport. Stellar models and evolutionary tracks through all phases. Brown dwarfs and giant planets. Comparison with observations. (Formerly Stellar Structure and Evolution.)\nCredits 5\nInstructor Ryan Foley\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ASTR 222 Stars and Planets II",
+        "description": "Theory and observations of protoplanetary disks. Origin and evolution of the solar nebula. Formation and evolution of the terrestrial planets and the giant planets. (Formerly Planetary Formation and Evolution.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jonathan Fortney",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "ASTR 222 Stars and Planets II\nTheory and observations of protoplanetary disks. Origin and evolution of the solar nebula. Formation and evolution of the terrestrial planets and the giant planets. (Formerly Planetary Formation and Evolution.)\nCredits 5\nInstructor Jonathan Fortney\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "ASTR 225 High-Energy Astrophysics",
+        "description": "High-energy astrophysics and the final stages of stellar evolution: supernovae, binary stars, accretion disks, pulsars; extragalactic radio sources; active galactic nuclei; black holes. (Formerly Physics of Compact Objects)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 225 High-Energy Astrophysics\nHigh-energy astrophysics and the final stages of stellar evolution: supernovae, binary stars, accretion disks, pulsars; extragalactic radio sources; active galactic nuclei; black holes. (Formerly Physics of Compact Objects)\nCredits 5\n"
+    },
+    {
+        "coursename": "ASTR 230 Diffuse Matter in Space",
+        "description": "Fundamental physical theory of gaseous nebulae and the interstellar medium. Ionization, thermal balance, theory and observation of emission spectra. Interstellar absorption lines, extinction by interstellar dust. Ultraviolet, optical, infrared, and radio spectra of gaseous nebulae.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Piero Madau",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 230 Diffuse Matter in Space\nFundamental physical theory of gaseous nebulae and the interstellar medium. Ionization, thermal balance, theory and observation of emission spectra. Interstellar absorption lines, extinction by interstellar dust. Ultraviolet, optical, infrared, and radio spectra of gaseous nebulae.\nCredits 5\nInstructor Piero Madau\n"
+    },
+    {
+        "coursename": "ASTR 233 Galaxies and Cosmology I",
+        "description": "Advanced survey of topics in cosmology and galaxy formation. Appropriate for graduate students and undergraduates with a significant background in physics and astronomy. Topics include modern physical cosmology, curved space-times, observational tests of cosmology, the early universe, dark matter, the emergence of cosmic structure and the formation and evolution of galaxies. Enrollment is by permission of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kevin Bundy",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 233 Galaxies and Cosmology I\nAdvanced survey of topics in cosmology and galaxy formation. Appropriate for graduate students and undergraduates with a significant background in physics and astronomy. Topics include modern physical cosmology, curved space-times, observational tests of cosmology, the early universe, dark matter, the emergence of cosmic structure and the formation and evolution of galaxies. Enrollment is by permission of the instructor.\nCredits 5\nInstructor Kevin Bundy\n"
+    },
+    {
+        "coursename": "ASTR 234 Statistical Techniques in Astronomy",
+        "description": "Introduces probability and statistics in data analysis with emphasis on astronomical applications. Topics include probability, Bayes' theorem, statistics, error analysis, correlation, hypothesis testing, parameter estimation, surveys, time-series analysis, surface distributions, and image processing. Students learn to identify the appropriate statistical technique to apply to an astronomical problem and develop a portfolio of analytic and computational techniques that they can apply to their own research.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Andrew Skemer, Xavier Prochaska",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ASTR 234 Statistical Techniques in Astronomy\nIntroduces probability and statistics in data analysis with emphasis on astronomical applications. Topics include probability, Bayes' theorem, statistics, error analysis, correlation, hypothesis testing, parameter estimation, surveys, time-series analysis, surface distributions, and image processing. Students learn to identify the appropriate statistical technique to apply to an astronomical problem and develop a portfolio of analytic and computational techniques that they can apply to their own research.\nCredits 5\nInstructor Andrew Skemer, Xavier Prochaska\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ASTR 240A Galaxies and Cosmology II",
+        "description": "Structure and evolutionary histories of nearby galaxies. Stellar populations, galactic dynamics, dark matter, galactic structure and mass distributions. Peculiar galaxies and starbursting galaxies. Structure and content of the Milky Way. Evolution of density perturbations in the early universe. Hierarchical clustering model for galaxy formation and evolution. (Formerly Galactic and Extragalactic Stellar Systems.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Leathaud Alexie",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "ASTR 240A Galaxies and Cosmology II\nStructure and evolutionary histories of nearby galaxies. Stellar populations, galactic dynamics, dark matter, galactic structure and mass distributions. Peculiar galaxies and starbursting galaxies. Structure and content of the Milky Way. Evolution of density perturbations in the early universe. Hierarchical clustering model for galaxy formation and evolution. (Formerly Galactic and Extragalactic Stellar Systems.)\nCredits 5\nInstructor Leathaud Alexie\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "ASTR 257 Observational Astronomy",
+        "description": "  Introduction to observational astronomy with a multi-day field trip to Lick Observatory. Students learn the fundamentals of planning and executing observational projects, manipulating and interpreting raw astronomical data with standard tools and algorithms, presenting their observations in a standard written format that is appropriate for publication, and observatory operations and career paths.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor A. Skemer",
+        "extrarequirements": "Requirements Designed for graduate students; available to qualified undergraduate astrophysics majors by instructor permission.",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 257 Observational Astronomy\n  Introduction to observational astronomy with a multi-day field trip to Lick Observatory. Students learn the fundamentals of planning and executing observational projects, manipulating and interpreting raw astronomical data with standard tools and algorithms, presenting their observations in a standard written format that is appropriate for publication, and observatory operations and career paths.\nCredits 5\nInstructor A. Skemer\nRequirements Designed for graduate students; available to qualified undergraduate astrophysics majors by instructor permission.\n"
+    },
+    {
+        "coursename": "ASTR 260 Instrumentation for Astronomy",
+        "description": "An introduction to astronomical instrumentation for infrared and visible wavelengths. Topics include instrument requirements imposed by dust, atmosphere, and telescope; optical, mechanical, and structural design principles and components; electronic and software instrument control. Imaging cameras and spectrographs are described. Offered in alternate academic years.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Constance Rockosi",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 260 Instrumentation for Astronomy\nAn introduction to astronomical instrumentation for infrared and visible wavelengths. Topics include instrument requirements imposed by dust, atmosphere, and telescope; optical, mechanical, and structural design principles and components; electronic and software instrument control. Imaging cameras and spectrographs are described. Offered in alternate academic years.\nCredits 5\nInstructor Constance Rockosi\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ASTR 289 Adaptive Optics and Its Application",
+        "description": "Introduction to adaptive optics and its astronomical applications. Topics include effects of atmospheric turbulence on astronomical images, basic principles of feedback control, wavefront sensors and correctors, laser guide stars, how to analyze and optimize performance of adaptive optics systems, and techniques for utilizing current and future systems for astronomical observations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Claire Max",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 289 Adaptive Optics and Its Application\nIntroduction to adaptive optics and its astronomical applications. Topics include effects of atmospheric turbulence on astronomical images, basic principles of feedback control, wavefront sensors and correctors, laser guide stars, how to analyze and optimize performance of adaptive optics systems, and techniques for utilizing current and future systems for astronomical observations.\nCredits 5\nInstructor Claire Max\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "ASTR 292 Seminar",
+        "description": "Seminar attended by faculty, graduate students, and upper-division undergraduate students.",
+        "genEd": "none",
+        "credithours": "Credits 0",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 292 Seminar\nSeminar attended by faculty, graduate students, and upper-division undergraduate students.\nCredits 0\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 293 Current Literature in Astrophysics",
+        "description": "Training for following daily progress in astrophysical research to keep pace with the rapidly evolving scientific field. Students learn how to select and read interesting papers (that span a wide range of topics) efficiently and how to summarize their key results. Students have an opportunity to practice presentation skills in an informal group discussion setting.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 293 Current Literature in Astrophysics\nTraining for following daily progress in astrophysical research to keep pace with the rapidly evolving scientific field. Students learn how to select and read interesting papers (that span a wide range of topics) efficiently and how to summarize their key results. Students have an opportunity to practice presentation skills in an informal group discussion setting.\nCredits 2\nInstructor The Staff\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 294 Pedagogy of Astrophysical Research",
+        "description": "Teaches fundamental skills for scientific research in the context of coursework. Course has two branches: an instructor-intensive hands-on research training in an area beyond the thesis; and an instructor-led literature review. The research branch involves short, quarter-long projects with faculty that are designed to introduce skills and concepts broadly applicable to research but within a focused science domain. The literature branch involves short review projects for building expertise in evaluating literature, writing papers, refereeing articles, and reviewing grants and proposals.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Brant Robertson",
+        "extrarequirements": "Requirements Enrollment is restricted to astronomy and astrophysics graduate students.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 294 Pedagogy of Astrophysical Research\nTeaches fundamental skills for scientific research in the context of coursework. Course has two branches: an instructor-intensive hands-on research training in an area beyond the thesis; and an instructor-led literature review. The research branch involves short, quarter-long projects with faculty that are designed to introduce skills and concepts broadly applicable to research but within a focused science domain. The literature branch involves short review projects for building expertise in evaluating literature, writing papers, refereeing articles, and reviewing grants and proposals.\nCredits 5\nInstructor Brant Robertson\nRequirements Enrollment is restricted to astronomy and astrophysics graduate students.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 297A Independent Study",
+        "description": "Independent study or research for graduate students who have not yet begun work on their theses. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 297A Independent Study\nIndependent study or research for graduate students who have not yet begun work on their theses. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 297B Independent Study",
+        "description": "Independent study or research for graduate students who have not yet begun work on their theses. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 297B Independent Study\nIndependent study or research for graduate students who have not yet begun work on their theses. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 297C Independent Study",
+        "description": "Independent study or research for graduate students who have not yet begun work on their theses. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 297C Independent Study\nIndependent study or research for graduate students who have not yet begun work on their theses. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 299A Thesis Research",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 299A Thesis Research\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 299B Thesis Research",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 299B Thesis Research\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "ASTR 299C Thesis Research",
+        "description": "none",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "ASTR 299C Thesis Research\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "PHYS 135 Astrophysics Advanced Laboratory",
+        "description": "Introduction to the techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Offered in some academic years as a multiple-term course: PHYS 135A in fall and PHYS 135B in winter, depending on astronomical conditions.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Steve Ritz, David Smith",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 135 Astrophysics Advanced Laboratory\nIntroduction to the techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Offered in some academic years as a multiple-term course: PHYS 135A in fall and PHYS 135B in winter, depending on astronomical conditions.\nCredits 5\nCross Listed Courses ASTR 135\nInstructor Steve Ritz, David Smith\nRequirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 135A Astrophysics Advanced Laboratory",
+        "description": "Introduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term course PHYS 135 in fall, depending on astronomical conditions.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Tesla Jeltema",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 135A Astrophysics Advanced Laboratory\nIntroduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term course PHYS 135 in fall, depending on astronomical conditions.\nCredits 3\nCross Listed Courses ASTR 135A\nInstructor Tesla Jeltema\nRequirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors.\n"
+    },
+    {
+        "coursename": "PHYS 135B Astrophysics Advanced Laboratory",
+        "description": "Introduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term PHYS 135 in fall, depending on astronomical conditions.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor George Brown",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 135A. Enrollment is restricted to physics (astrophysics) majors.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 135B Astrophysics Advanced Laboratory\nIntroduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term PHYS 135 in fall, depending on astronomical conditions.\nCredits 2\nCross Listed Courses ASTR 135B\nInstructor George Brown\nRequirements Prerequisite(s): PHYS 135A. Enrollment is restricted to physics (astrophysics) majors.\n"
+    },
+    {
+        "coursename": "PHYS 171 General Relativity, Black Holes, and Cosmology",
+        "description": "Special relativity is reviewed. Curved space-time, including the metric and geodesics, are illustrated with simple examples. The Einstein equations are solved for cases of high symmetry. Black-hole physics and cosmology are discussed, including recent developments.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Edgar Shaghoulian",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 105, PHYS 110A, and PHYS 110B; and PHYS 116A or MATH 21 and MATH 24.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 171 General Relativity, Black Holes, and Cosmology\nSpecial relativity is reviewed. Curved space-time, including the metric and geodesics, are illustrated with simple examples. The Einstein equations are solved for cases of high symmetry. Black-hole physics and cosmology are discussed, including recent developments.\nCredits 5\nCross Listed Courses ASTR 171\nInstructor Edgar Shaghoulian\nRequirements Prerequisite(s): PHYS 105, PHYS 110A, and PHYS 110B; and PHYS 116A or MATH 21 and MATH 24.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 224 Particle Astrophysics and Cosmology",
+        "description": "Particle physics and cosmology of the very early universe: thermodynamics and thermal history; out-of-equilibrium phenomena (e.g., WIMPs freeze-out, neutrino cosmology, Big Bang nucleosynthesis, recombination); baryogenesis; inflation; topological defects. High-energy astrophysical processes: overview of cosmic ray and gamma ray astrophysics; radiative and inelastic processes; astroparticle acceleration mechanisms; magnetic fields and cosmic ray transport; radiation-energy density of the universe; ultrahigh-energy cosmic rays; dark-matter models; and detection techniques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Anthony Aguirre",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 224 Particle Astrophysics and Cosmology\nParticle physics and cosmology of the very early universe: thermodynamics and thermal history; out-of-equilibrium phenomena (e.g., WIMPs freeze-out, neutrino cosmology, Big Bang nucleosynthesis, recombination); baryogenesis; inflation; topological defects. High-energy astrophysical processes: overview of cosmic ray and gamma ray astrophysics; radiative and inelastic processes; astroparticle acceleration mechanisms; magnetic fields and cosmic ray transport; radiation-energy density of the universe; ultrahigh-energy cosmic rays; dark-matter models; and detection techniques.\nCredits 5\nCross Listed Courses ASTR 224\nInstructor Anthony Aguirre\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 226 General Relativity",
+        "description": "Develops the formalism of Einstein's general relativity, including solar system tests, gravitational waves, cosmology, and black holes.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Anthony Aguirre",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 226 General Relativity\nDevelops the formalism of Einstein's general relativity, including solar system tests, gravitational waves, cosmology, and black holes.\nCredits 5\nCross Listed Courses ASTR 226\nInstructor Anthony Aguirre\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    }
+]

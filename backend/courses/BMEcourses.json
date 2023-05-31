@@ -1,0 +1,842 @@
+[
+    {
+        "coursename": "BME 5 Introduction to Biotechnology",
+        "description": "Introduces the tools and applications of biotechnology in the fields of medicine, agriculture, the environment, and industry.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Nader Pourmand",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "BME 5 Introduction to Biotechnology\nIntroduces the tools and applications of biotechnology in the fields of medicine, agriculture, the environment, and industry.\nCredits 5\nInstructor The Staff, Nader Pourmand\nGeneral Education Code PE-T\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "BME 18 Scientific Principles of Life",
+        "description": "The principles of life as it exists on this planet and how they generalize. Darwinian evolution, genomes, scientific theories of life (mechanistic, thermodynamic, information theoretic). Future of life: Internet, machine learning and adaptation, artificial intelligence, genome editing, fully artificial life.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Haussler, David Deamer",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 18 Scientific Principles of Life\nThe principles of life as it exists on this planet and how they generalize. Darwinian evolution, genomes, scientific theories of life (mechanistic, thermodynamic, information theoretic). Future of life: Internet, machine learning and adaptation, artificial intelligence, genome editing, fully artificial life.\nCredits 5\nInstructor David Haussler, David Deamer\nGeneral Education Code SI\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 21L Introduction to Basic Laboratory Techniques",
+        "description": "Introduces students to basic laboratory techniques that are essential to begin work in faculty research labs and on capstone projects. Students have several independent blocks/fixed projects and learn how to use various instruments and techniques employed in biotechnology laboratories, such as: calibration and use of the pipette; making up various buffers; pH titration; Bactrial transformation; TAcloning; plasmid and DNA isolation; Polymerase Chain Reaction (PCR); gel electrophoresis; Pyrosequencing; and an introduction to Linux for DNA sequence analysis.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Nader Pourmand, Dianne Hendricks",
+        "extrarequirements": "Requirements Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "BME 21L Introduction to Basic Laboratory Techniques\nIntroduces students to basic laboratory techniques that are essential to begin work in faculty research labs and on capstone projects. Students have several independent blocks/fixed projects and learn how to use various instruments and techniques employed in biotechnology laboratories, such as: calibration and use of the pipette; making up various buffers; pH titration; Bactrial transformation; TAcloning; plasmid and DNA isolation; Polymerase Chain Reaction (PCR); gel electrophoresis; Pyrosequencing; and an introduction to Linux for DNA sequence analysis.\nCredits 3\nInstructor Nader Pourmand, Dianne Hendricks\nRequirements Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "BME 22L Foundations of Design and Experimentation in Molecular Biology, Part I",
+        "description": "The first in a two-part series that includes BME 23L. Together these courses prepare bioengineering students for successful junior/senior year projects in faculty research laboratories, iGEM, or Senior Design. The focus is on molecular biology laboratory and introductory bioinformatics skills. Students will design and initiate an original metagenome study near the end of the term.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Mark Akeson, Ali Shariati, Richard Edward Green, Dianne Hendricks",
+        "extrarequirements": "Requirements Prerequisites: BME 21L, CHEM 1B, and CHEM 1M; or by permission of instructor. Enrollment is restricted to sophomores and juniors.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "BME 22L Foundations of Design and Experimentation in Molecular Biology, Part I\nThe first in a two-part series that includes BME 23L. Together these courses prepare bioengineering students for successful junior/senior year projects in faculty research laboratories, iGEM, or Senior Design. The focus is on molecular biology laboratory and introductory bioinformatics skills. Students will design and initiate an original metagenome study near the end of the term.\nCredits 2\nInstructor Mark Akeson, Ali Shariati, Richard Edward Green, Dianne Hendricks\nRequirements Prerequisites: BME 21L, CHEM 1B, and CHEM 1M; or by permission of instructor. Enrollment is restricted to sophomores and juniors.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 23L Foundations of Design and Experimentation in Molecular Biology, Part II",
+        "description": "Continuation of BME 22L. Together these courses prepare bioengineering students for successful junior/senior year projects in faculty research laboratories, iGEM, or Senior Design. The focus is on molecular biology laboratory and introductory bioinformatics skills. Students will complete original metagenome and transcriptome studies.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Mark Akeson, Christopher Vollmers",
+        "extrarequirements": "Requirements Prerequisites: BME 22L or by permission of instructor. Enrollment is restricted to sophomore and junior bioengineering and biomolecular engineering and bionformatics majors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 23L Foundations of Design and Experimentation in Molecular Biology, Part II\nContinuation of BME 22L. Together these courses prepare bioengineering students for successful junior/senior year projects in faculty research laboratories, iGEM, or Senior Design. The focus is on molecular biology laboratory and introductory bioinformatics skills. Students will complete original metagenome and transcriptome studies.\nCredits 2\nInstructor Mark Akeson, Christopher Vollmers\nRequirements Prerequisites: BME 22L or by permission of instructor. Enrollment is restricted to sophomore and junior bioengineering and biomolecular engineering and bionformatics majors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 51A Applied Electronics for Bioengineers Part 1",
+        "description": "Lab-based course that introduces measuring, modeling, and designing electronics circuits, emphasizing voltage dividers and complex impedance culminating in simple, negative-feedback op amp circuits for amplifying audio signals.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kevin Karplus",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 19A; or MATH 11A by consent of instructor. High school physics recommended. Enrollment is restricted to bioengineering and biomolecular engineering & bioinformatics majors and proposed majors; other majors by consent.",
+        "quarteroffered": "none",
+        "fulldesc": "BME 51A Applied Electronics for Bioengineers Part 1\nLab-based course that introduces measuring, modeling, and designing electronics circuits, emphasizing voltage dividers and complex impedance culminating in simple, negative-feedback op amp circuits for amplifying audio signals.\nCredits 5\nInstructor Kevin Karplus\nRequirements Prerequisite(s): MATH 19A; or MATH 11A by consent of instructor. High school physics recommended. Enrollment is restricted to bioengineering and biomolecular engineering & bioinformatics majors and proposed majors; other majors by consent.\n"
+    },
+    {
+        "coursename": "BME 51B Applied Electronics for Bioengineers Part 2",
+        "description": "Lab-based course that introduces designing, measuring, and modeling electronics circuits, emphasizing RC filters and negative-feedback amplifiers for various sensors circuits for amplifying audio signals, design of multi-stage amplifiers, instrumentation amplifiers, and class-D power amplifiers.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kevin Karplus",
+        "extrarequirements": "Requirements Prerequisite(s): BME 51A.",
+        "quarteroffered": "none",
+        "fulldesc": "BME 51B Applied Electronics for Bioengineers Part 2\nLab-based course that introduces designing, measuring, and modeling electronics circuits, emphasizing RC filters and negative-feedback amplifiers for various sensors circuits for amplifying audio signals, design of multi-stage amplifiers, instrumentation amplifiers, and class-D power amplifiers.\nCredits 5\nInstructor Kevin Karplus\nRequirements Prerequisite(s): BME 51A.\n"
+    },
+    {
+        "coursename": "BME 55 Introduction to Lab Groups",
+        "description": "Course intended to assist second-year biomolecular engineering and bioinformatics undergraduates find research labs that they might join. Students sit in on different lab group meetings, read papers recommended by the lab groups, and report back to other students in the class both verbally and in writing. Course is offered for pass/no pass only.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Kevin Karplus",
+        "extrarequirements": "Requirements Enrollment is restricted to sophomore and junior proposed biomolecular engineering and bioinformatics majors, or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 55 Introduction to Lab Groups\nCourse intended to assist second-year biomolecular engineering and bioinformatics undergraduates find research labs that they might join. Students sit in on different lab group meetings, read papers recommended by the lab groups, and report back to other students in the class both verbally and in writing. Course is offered for pass/no pass only.\nCredits 2\nInstructor Kevin Karplus\nRequirements Enrollment is restricted to sophomore and junior proposed biomolecular engineering and bioinformatics majors, or by permission of the instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 80G Bioethics in the 21st Century: Science, Business, and Society",
+        "description": "Serves science and non-science majors interested in bioethics. Guest speakers and instructors lead discussions of major ethical questions having arisen from research in genetics, medicine, and industries supported by this knowledge.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Karen Miga",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 80G Bioethics in the 21st Century: Science, Business, and Society\nServes science and non-science majors interested in bioethics. Guest speakers and instructors lead discussions of major ethical questions having arisen from research in genetics, medicine, and industries supported by this knowledge.\nCredits 5\nCross Listed Courses PHIL 80G\nInstructor The Staff, Karen Miga\nGeneral Education Code PE-T\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 80H The Human Genome",
+        "description": "Course will focus on understanding human genes. Accessible to non-science majors. Will cover principles of human inheritance and techniques used in gene analysis. The evolutionary, social, ethical, and legal issues associated with knowledge of the human genome will be discussed.",
+        "genEd": "General Education Code PE-T",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Karen Miga, Christopher Vollmers, Richard Edward Green",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "BME 80H The Human Genome\nCourse will focus on understanding human genes. Accessible to non-science majors. Will cover principles of human inheritance and techniques used in gene analysis. The evolutionary, social, ethical, and legal issues associated with knowledge of the human genome will be discussed.\nCredits 5\nInstructor The Staff, Karen Miga, Christopher Vollmers, Richard Edward Green\nGeneral Education Code PE-T\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "BME 94 Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 94 Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 94F Group Tutorial",
+        "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 94F Group Tutorial\nProvides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 105 Genetics in the Genomics Era",
+        "description": "Principles of genetics and genomics focusing on how sequencing technologies enable us to understand gene function, genotype to phenotype relationships, and genetic inheritance.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Angela Brooks",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A. Enrollment is restricted to bioengineering, biomolecular engineering and bioinformatics, biotechnology, and bioinformatics majors and proposed majors and bioinformatics minors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 105 Genetics in the Genomics Era\nPrinciples of genetics and genomics focusing on how sequencing technologies enable us to understand gene function, genotype to phenotype relationships, and genetic inheritance.\nCredits 5\nInstructor Angela Brooks\nRequirements Prerequisite(s): BIOL 20A. Enrollment is restricted to bioengineering, biomolecular engineering and bioinformatics, biotechnology, and bioinformatics majors and proposed majors and bioinformatics minors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 110 Computational Biology Tools",
+        "description": "Hands-on lectures and laboratory geared to teach basic tools and skills used in computational biology (genome browsers, sequence database searching, motif analysis, multiple sequence alignment, gene finders, phylogenetics analysis, protein structure visualization, and others). Web-based tools/databases are used on student laptops. Open to all science students; no prior programming or Unix experience required.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Todd Lowe, Angela Brooks, Russell Corbett-Detig, Daniel Kim, Joshua Stuart",
+        "extrarequirements": "Requirements Prerequisite(s): BME 105, or BIOL 100, or BIOL 105, or BIOC 100A, or CHEM 103, or bioinformatics majors, or biomolecular engineering and bioinformatics majors.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 110 Computational Biology Tools\nHands-on lectures and laboratory geared to teach basic tools and skills used in computational biology (genome browsers, sequence database searching, motif analysis, multiple sequence alignment, gene finders, phylogenetics analysis, protein structure visualization, and others). Web-based tools/databases are used on student laptops. Open to all science students; no prior programming or Unix experience required.\nCredits 5\nInstructor The Staff, Todd Lowe, Angela Brooks, Russell Corbett-Detig, Daniel Kim, Joshua Stuart\nRequirements Prerequisite(s): BME 105, or BIOL 100, or BIOL 105, or BIOC 100A, or CHEM 103, or bioinformatics majors, or biomolecular engineering and bioinformatics majors.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 122H Extreme Environmental Virology",
+        "description": "Examines life in extreme environments with an emphasis on the viruses that live there. Integrates aspects of virology, molecular biology, and computational biology. Students investigate a high-salt, extreme environment at the Don Edwards National Wildlife Refuge, and use DNA extraction methods to find molecular evidence of the organisms that live there and describe the genetic content of viruses and the community living in those high-salt ponds.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, David Bernick",
+        "extrarequirements": "Requirements Enrollment is restricted to College Scholar Students, and or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "BME 122H Extreme Environmental Virology\nExamines life in extreme environments with an emphasis on the viruses that live there. Integrates aspects of virology, molecular biology, and computational biology. Students investigate a high-salt, extreme environment at the Don Edwards National Wildlife Refuge, and use DNA extraction methods to find molecular evidence of the organisms that live there and describe the genetic content of viruses and the community living in those high-salt ponds.\nCredits 5\nInstructor The Staff, David Bernick\nRequirements Enrollment is restricted to College Scholar Students, and or by permission of the instructor.\nGeneral Education Code TA\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "BME 123T Senior Thesis Writing",
+        "description": "For bioengineering senior thesis students, guidance in preparing a draft manuscript describing their senior research project. Students also practice conference-style oral or poster presentation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kevin Karplus, Mark Akeson, Terry Terhaar, Dianne Hendricks",
+        "extrarequirements": "Requirements Prerequisite(s): BME 185 or CSE 185E. Concurrent enrollment in BME 193F or BME 195F or BME 198F or CSE 193F or CSE 195F or CSE 198F or ECE 193F or ECE 195F or ECE 198F is required. Enrollment is restricted to senior biomolecular engineering and bioinformatics and bioengineering majors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 123T Senior Thesis Writing\nFor bioengineering senior thesis students, guidance in preparing a draft manuscript describing their senior research project. Students also practice conference-style oral or poster presentation.\nCredits 5\nInstructor Kevin Karplus, Mark Akeson, Terry Terhaar, Dianne Hendricks\nRequirements Prerequisite(s): BME 185 or CSE 185E. Concurrent enrollment in BME 193F or BME 195F or BME 198F or CSE 193F or CSE 195F or CSE 198F or ECE 193F or ECE 195F or ECE 198F is required. Enrollment is restricted to senior biomolecular engineering and bioinformatics and bioengineering majors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 128 Protein Engineering",
+        "description": "For bioengineering, bioinformatics, and biology majors, focuses on engineering (i.e., changing) of proteins. Topics focus on practical aspects of protein engineering strategies that are crucial to modern biotechnology and biomedicinal applications.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Rebecca Dubois",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A; and BIOL 100 or BIOC 100A, or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 128 Protein Engineering\nFor bioengineering, bioinformatics, and biology majors, focuses on engineering (i.e., changing) of proteins. Topics focus on practical aspects of protein engineering strategies that are crucial to modern biotechnology and biomedicinal applications.\nCredits 5\nInstructor The Staff, Rebecca Dubois\nRequirements Prerequisite(s): BIOL 20A; and BIOL 100 or BIOC 100A, or by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 128L Protein Engineering Laboratory",
+        "description": "Students address a current scientific question about protein stability using structure-guided protein engineering. Specifically, Students use recombinant DNA technology to produce an engineered protein that is predicted to have enhanced stability. Students then assess its stability with differential scanning fluorimetry. Students are billed a materials fee of $140.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Rebecca Dubois",
+        "extrarequirements": "Requirements Prerequisite(s): BME 128; and BIOL 101L, or BIOL 20L, or BME 21L. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering, and bioinformatics majors; other majors by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 128L Protein Engineering Laboratory\nStudents address a current scientific question about protein stability using structure-guided protein engineering. Specifically, Students use recombinant DNA technology to produce an engineered protein that is predicted to have enhanced stability. Students then assess its stability with differential scanning fluorimetry. Students are billed a materials fee of $140.\nCredits 2\nInstructor Rebecca Dubois\nRequirements Prerequisite(s): BME 128; and BIOL 101L, or BIOL 20L, or BME 21L. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering, and bioinformatics majors; other majors by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 129A Project Design and Implementation in Biomolecular Engineering I",
+        "description": "First of a three-part series focused on senior design projects in biomolecular engineering. In this first part, students examine experiments that elucidated the function of biological macromolecules at the Angstrom scale, and how technologies related to those functions were invented and implemented. Guided by these examples, each student develops a senior design project concept or small business proposal and defends its utility, plausibility, and inventiveness in a written document and an oral presentation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mark Akeson, Nader Pourmand, Rebecca Dubois",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A; BME 23L or BIOL 20L or BIOL 101L; BIOL 100 or BIOC 100A; and previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 129A Project Design and Implementation in Biomolecular Engineering I\nFirst of a three-part series focused on senior design projects in biomolecular engineering. In this first part, students examine experiments that elucidated the function of biological macromolecules at the Angstrom scale, and how technologies related to those functions were invented and implemented. Guided by these examples, each student develops a senior design project concept or small business proposal and defends its utility, plausibility, and inventiveness in a written document and an oral presentation.\nCredits 5\nInstructor Mark Akeson, Nader Pourmand, Rebecca Dubois\nRequirements Prerequisite(s): BIOL 20A; BME 23L or BIOL 20L or BIOL 101L; BIOL 100 or BIOC 100A; and previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 129B Project Design and Implementation in Biomolecular Engineering II",
+        "description": "Second part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mark Akeson, Russell Corbett-Detig",
+        "extrarequirements": "Requirements Prerequisite(s): BME 129A or BME 150. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 129B Project Design and Implementation in Biomolecular Engineering II\nSecond part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.\nCredits 5\nInstructor Mark Akeson, Russell Corbett-Detig\nRequirements Prerequisite(s): BME 129A or BME 150. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 129C Project Design and Implementation in Biomolecular Engineering III",
+        "description": "Final part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Bernick, Mark Akeson, Nader Pourmand, Kim Daniel, Stuart Joshua",
+        "extrarequirements": "Requirements Prerequisite(s): BME 129A and BME 129B. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 129C Project Design and Implementation in Biomolecular Engineering III\nFinal part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.\nCredits 5\nInstructor David Bernick, Mark Akeson, Nader Pourmand, Kim Daniel, Stuart Joshua\nRequirements Prerequisite(s): BME 129A and BME 129B. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 130 Genomes",
+        "description": "Advanced elective for biology majors, examining biology on the genome scale. Topics include genome sequencing; large scale computational and functional analysis; features specific to prokaryotic, eukaryotic, or mammalian genomes; proteomics; SNP analysis; medical genomics; and genome evolution.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Richard Edward Green",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 105 or BME 105; or permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 130 Genomes\nAdvanced elective for biology majors, examining biology on the genome scale. Topics include genome sequencing; large scale computational and functional analysis; features specific to prokaryotic, eukaryotic, or mammalian genomes; proteomics; SNP analysis; medical genomics; and genome evolution.\nCredits 5\nInstructor Richard Edward Green\nRequirements Prerequisite(s): BIOL 105 or BME 105; or permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 132 Evolutionary Genomics",
+        "description": "Covers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students cannot receive credit for this courses and course 232.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Russell Corbett-Detig",
+        "extrarequirements": "Requirements Prerequisite(s): BME 105 or BIOL 105 or METX 140. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 132 Evolutionary Genomics\nCovers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students cannot receive credit for this courses and course 232.\nCredits 5\nInstructor Russell Corbett-Detig\nRequirements Prerequisite(s): BME 105 or BIOL 105 or METX 140. Enrollment is restricted to juniors and seniors.\nGeneral Education Code TA\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 140 Bioinstrumentation",
+        "description": "Introduces the fundamental aspects of bioinstrumentation that are essential for beginning-level employment in clinical, pharmaceutical , and biotechnology laboratories. The advantages and disadvantages of several instruments are discussed and demonstrated, such as thermocycler, polymerase chain reaction (PCR), next-generation DNA sequencing platforms, pyrosequencing, fabless nanofabrication, ion-sensitive measurements, microarray fabrication, and fluorescent-activated cell sorter (FACS).",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nader Pourmand",
+        "extrarequirements": "Requirements Prerequisite(s): BME 5; or BME 51A and BME 51B; or EE 101 and EE 101L; or BIOL 100; or BIOC 100A.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 140 Bioinstrumentation\nIntroduces the fundamental aspects of bioinstrumentation that are essential for beginning-level employment in clinical, pharmaceutical , and biotechnology laboratories. The advantages and disadvantages of several instruments are discussed and demonstrated, such as thermocycler, polymerase chain reaction (PCR), next-generation DNA sequencing platforms, pyrosequencing, fabless nanofabrication, ion-sensitive measurements, microarray fabrication, and fluorescent-activated cell sorter (FACS).\nCredits 5\nInstructor Nader Pourmand\nRequirements Prerequisite(s): BME 5; or BME 51A and BME 51B; or EE 101 and EE 101L; or BIOL 100; or BIOC 100A.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 160 Research Programming in the Life Sciences",
+        "description": "No programming experience is required, but basic computer and molecular biology understanding is assumed. Students without prior programming experience may benefit from taking CSE 20 in preparation for this course. Students learn programming in Python to manipulate biological data. Programming assignments comprise the majority of the assignments, and a final project using skills developed in this course is required. Lab section registration is required. BioPython and other modules will be introduced for use in the final project.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 6",
+        "instructor": "Instructor The Staff, David Bernick, Joshua Stuart",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A or BIOL 21A.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "BME 160 Research Programming in the Life Sciences\nNo programming experience is required, but basic computer and molecular biology understanding is assumed. Students without prior programming experience may benefit from taking CSE 20 in preparation for this course. Students learn programming in Python to manipulate biological data. Programming assignments comprise the majority of the assignments, and a final project using skills developed in this course is required. Lab section registration is required. BioPython and other modules will be introduced for use in the final project.\nCredits 6\nInstructor The Staff, David Bernick, Joshua Stuart\nRequirements Prerequisite(s): BIOL 20A or BIOL 21A.\nGeneral Education Code MF\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 163 Applied Visualization and Analysis of Scientific Data",
+        "description": "Python and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used on scientific data to generate publication-quality figures. Students cannot receive credit for this course and course 263.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Christopher Vollmers",
+        "extrarequirements": "Requirements Prerequisite(s): BME 160 or BME 205. Prerequisites can be waived in cases where students have the required programming skills. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 163 Applied Visualization and Analysis of Scientific Data\nPython and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used on scientific data to generate publication-quality figures. Students cannot receive credit for this course and course 263.\nCredits 3\nInstructor Christopher Vollmers\nRequirements Prerequisite(s): BME 160 or BME 205. Prerequisites can be waived in cases where students have the required programming skills. Enrollment is restricted to juniors and seniors.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 175 Entrepreneurship in Biotechnology",
+        "description": "Focuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with BME 275.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Todd Lowe, Richard Edward Green",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 175 Entrepreneurship in Biotechnology\nFocuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with BME 275.\nCredits 5\nInstructor Todd Lowe, Richard Edward Green\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 177 Engineering Stem Cells",
+        "description": "For bioengineering students interested in stem cells. Class uses project-based learning to discuss basic stem cell concepts and past breakthrough approaches to identify and design solutions for technological hurdles in stem cell research.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ali Shariati, Camilla Forsberg, Daniel Kim",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A or by consent of instructor. Basic knowledge of molecular and cellular biology is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 177 Engineering Stem Cells\nFor bioengineering students interested in stem cells. Class uses project-based learning to discuss basic stem cell concepts and past breakthrough approaches to identify and design solutions for technological hurdles in stem cell research.\nCredits 5\nInstructor Ali Shariati, Camilla Forsberg, Daniel Kim\nRequirements Prerequisite(s): BIOL 20A or by consent of instructor. Basic knowledge of molecular and cellular biology is required.\nGeneral Education Code TA\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 178 Stem Cell Biology",
+        "description": "Basic concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading the primary scientific literature.",
+        "genEd": "General Education Code TA",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Camilla Forsberg, Daniel Kim",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 110; BIOL 115 recommended.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 178 Stem Cell Biology\nBasic concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading the primary scientific literature.\nCredits 5\nInstructor Camilla Forsberg, Daniel Kim\nRequirements Prerequisite(s): BIOL 110; BIOL 115 recommended.\nGeneral Education Code TA\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 180 Professional Practice in Bioengineering",
+        "description": "Seminar course where students develop a research proposal and the collaborative skills needed for independent research projects. Includes professional practice development in collaboration skills, project management, proposal development, and funding.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff, David Bernick",
+        "extrarequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 180 Professional Practice in Bioengineering\nSeminar course where students develop a research proposal and the collaborative skills needed for independent research projects. Includes professional practice development in collaboration skills, project management, proposal development, and funding.\nCredits 2\nInstructor The Staff, David Bernick\nRequirements Prerequisite(s): previous or concurrent enrollment in BME 185 or CSE 185E. Enrollment is restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.\nGeneral Education Code PR-E\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 185 Technical Writing for Biomolecular Engineers",
+        "description": "Writing by biomolecular engineers, not to general audiences, but to engineers, engineering managers, and technical writers. Exercises include job application and resume, library puzzle, graphics, laboratory protocols, document specification, progress report, survey article or research proposal, poster, and oral presentation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joy Hagen, Kevin Karplus, Dianne Hendricks",
+        "extrarequirements": "Requirements Prerequisite(s): BIOL 20A; satisfaction of Entry Level Writing and Composition requirements; Enrollment restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and biotechnology majors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 185 Technical Writing for Biomolecular Engineers\nWriting by biomolecular engineers, not to general audiences, but to engineers, engineering managers, and technical writers. Exercises include job application and resume, library puzzle, graphics, laboratory protocols, document specification, progress report, survey article or research proposal, poster, and oral presentation.\nCredits 5\nInstructor Joy Hagen, Kevin Karplus, Dianne Hendricks\nRequirements Prerequisite(s): BIOL 20A; satisfaction of Entry Level Writing and Composition requirements; Enrollment restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and biotechnology majors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 188A Synthetic Biology--Mentored Research A",
+        "description": "This two-credit course is the first of three courses in a 12-credit collaborative research project available to students in physical sciences, and biomolecular engineering intended to satisfy the capstone requirement. Provides a multidisciplinary, collaborative research experience working on a project in synthetic biology. Working with one or more research faculty, student teams complete a substantial project. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 180. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor David Bernick",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 188A Synthetic Biology--Mentored Research A\nThis two-credit course is the first of three courses in a 12-credit collaborative research project available to students in physical sciences, and biomolecular engineering intended to satisfy the capstone requirement. Provides a multidisciplinary, collaborative research experience working on a project in synthetic biology. Working with one or more research faculty, student teams complete a substantial project. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 180. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.\nCredits 2\nInstructor David Bernick\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 188B Synthetic Biology--Mentored Research B",
+        "description": "This five-credit course is the second of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 188A. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Bernick",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "BME 188B Synthetic Biology--Mentored Research B\nThis five-credit course is the second of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 188A. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.\nCredits 5\nInstructor David Bernick\nRepeatable For Credit Yes\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "BME 188C Synthetic Biology Mentored Research C",
+        "description": "Third of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Students in this course sequence may be participating in the annual IGEM (International Genetically Engineered Machines) competition. Course includes training in specific skills relevant to the specific sub-team and overall project, including lab-specific training (pcr, DNA electrophoresis, gel documentation, standard reagent prep, lab safety, lab equipment, project specifics). Prerequisite(s): BME 188B. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Bernick",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Summer",
+        "fulldesc": "BME 188C Synthetic Biology Mentored Research C\nThird of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Students in this course sequence may be participating in the annual IGEM (International Genetically Engineered Machines) competition. Course includes training in specific skills relevant to the specific sub-team and overall project, including lab-specific training (pcr, DNA electrophoresis, gel documentation, standard reagent prep, lab safety, lab equipment, project specifics). Prerequisite(s): BME 188B. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.\nCredits 5\nInstructor David Bernick\nQuarter Offered Summer\n"
+    },
+    {
+        "coursename": "BME 193 Field Study",
+        "description": "Provides for individual programs of study with specific aims and academic objectives carried out under the direction of a BME faculty member and a willing sponsor at a field site, using resources not normally available on campus. Credit is based upon written and oral presentations demonstrating the achievement of the objectives of the course. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 193 Field Study\nProvides for individual programs of study with specific aims and academic objectives carried out under the direction of a BME faculty member and a willing sponsor at a field site, using resources not normally available on campus. Credit is based upon written and oral presentations demonstrating the achievement of the objectives of the course. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 193F Field Study",
+        "description": "Provides for individual programs of study with specific aims and academic objectives carried out under the direction of a BME faculty member and a willing sponsor at a field site, using resources not normally available on campus. Credit is based upon written and oral presentations demonstrating the achievement of the objectives of the course. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 193F Field Study\nProvides for individual programs of study with specific aims and academic objectives carried out under the direction of a BME faculty member and a willing sponsor at a field site, using resources not normally available on campus. Credit is based upon written and oral presentations demonstrating the achievement of the objectives of the course. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 194 Group Tutorial",
+        "description": "A program of study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 194 Group Tutorial\nA program of study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 194F Group Tutorial",
+        "description": "A program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 194F Group Tutorial\nA program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 195 Senior Thesis Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 195 Senior Thesis Research\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 195F Senior Thesis or Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 195F Senior Thesis or Research\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 198 Individual Study or Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 198 Individual Study or Research\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 198F Individual Study or Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 198F Individual Study or Research\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 199 Tutorial",
+        "description": "For fourth-year students majoring in bioinformatics or bioengineering.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 199 Tutorial\nFor fourth-year students majoring in bioinformatics or bioengineering.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 201 Scientific Writing",
+        "description": "Covers effective writing styles for scientific communication for bio-science and engineering graduate students. Covers instruction for writing grant applications, scientific manuscripts, and thesis proposals. Students practice by preparing, editing, and evaluating each of these documents.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Richard Edward Green, Joshua Stuart",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 201 Scientific Writing\nCovers effective writing styles for scientific communication for bio-science and engineering graduate students. Covers instruction for writing grant applications, scientific manuscripts, and thesis proposals. Students practice by preparing, editing, and evaluating each of these documents.\nCredits 3\nInstructor Richard Edward Green, Joshua Stuart\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 205 Bioinformatics Models and Algorithms",
+        "description": "Covers bioinformatics models and algorithms: the use of computational techniques to convert the masses of information from biochemical experiments (DNA sequencing, DNA chips, and other high-throughput experimental methods) into useful information. Emphasis is on DNA and protein sequence alignment and analysis.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, David Bernick, Kevin Karplus",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with prerequisite(s): BME 160; and CSE 107 or STAT 131; and concurrent enrollment in BIOC 100A.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 205 Bioinformatics Models and Algorithms\nCovers bioinformatics models and algorithms: the use of computational techniques to convert the masses of information from biochemical experiments (DNA sequencing, DNA chips, and other high-throughput experimental methods) into useful information. Emphasis is on DNA and protein sequence alignment and analysis.\nCredits 5\nInstructor The Staff, David Bernick, Kevin Karplus\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll with prerequisite(s): BME 160; and CSE 107 or STAT 131; and concurrent enrollment in BIOC 100A.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 215 Applied Gene Technology",
+        "description": "Detailed insight into the techniques and technological trends in genomics and transcriptomics, building the necessary foundations for further research in genetic association studies, population genetic association studies, population genetics, diagnostics, medicine, and drug development. Students should already have a deeper understanding of the basic tools of molecular biotechnology than acquired in introductory courses in biotechnology, biochemistry, and molecular biotechnology.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Nader Pourmand",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "BME 215 Applied Gene Technology\nDetailed insight into the techniques and technological trends in genomics and transcriptomics, building the necessary foundations for further research in genetic association studies, population genetic association studies, population genetics, diagnostics, medicine, and drug development. Students should already have a deeper understanding of the basic tools of molecular biotechnology than acquired in introductory courses in biotechnology, biochemistry, and molecular biotechnology.\nCredits 5\nInstructor Nader Pourmand\nRequirements Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "BME 229 Protein and Cell Engineering",
+        "description": "Focuses on established and novel strategies for protein and cell engineering. Explores concepts, design, and practical applications of engineered proteins, cells, and organisms as research tools and in therapeutic applications. Recommended for graduate students with interests in bioengineering.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Camilla Forsberg, Rebecca Dubois",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "BME 229 Protein and Cell Engineering\nFocuses on established and novel strategies for protein and cell engineering. Explores concepts, design, and practical applications of engineered proteins, cells, and organisms as research tools and in therapeutic applications. Recommended for graduate students with interests in bioengineering.\nCredits 5\nInstructor Camilla Forsberg, Rebecca Dubois\nRequirements Enrollment is restricted to graduate students. Undergraduates by permission of instructor.\n"
+    },
+    {
+        "coursename": "BME 230A Introduction to Computational Genomics and Systems Biology",
+        "description": "Introductory and intermediate-level topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Covers topics in machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students conduct related independent research.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joshua Stuart, David Haussler, Benedict Paten",
+        "extrarequirements": "Requirements Prerequisite(s): BME 205. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 230A Introduction to Computational Genomics and Systems Biology\nIntroductory and intermediate-level topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Covers topics in machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students conduct related independent research.\nCredits 5\nInstructor Joshua Stuart, David Haussler, Benedict Paten\nRequirements Prerequisite(s): BME 205. Enrollment is restricted to juniors, seniors, and graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 230B Advanced Computational Genomics and Systems Biology",
+        "description": "Covers advanced topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Topics include machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students participate in teams in a computational analysis competition.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joshua Stuart, David Haussler, Benedict Paten",
+        "extrarequirements": "Requirements Prerequisite(s): BME 230A. Enrollment is restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "BME 230B Advanced Computational Genomics and Systems Biology\nCovers advanced topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Topics include machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students participate in teams in a computational analysis competition.\nCredits 5\nInstructor Joshua Stuart, David Haussler, Benedict Paten\nRequirements Prerequisite(s): BME 230A. Enrollment is restricted to juniors, seniors, and graduate students.\n"
+    },
+    {
+        "coursename": "BME 232 Evolutionary Genomics",
+        "description": "Covers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students may not receive credit for this course and course 132.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Russell Corbett-Detig",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students. BME 105 or BIOL 105 or equivalent courses in higher-level genetic processes are highly recommended.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 232 Evolutionary Genomics\nCovers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students may not receive credit for this course and course 132.\nCredits 5\nInstructor Russell Corbett-Detig\nRequirements Enrollment is restricted to graduate students. BME 105 or BIOL 105 or equivalent courses in higher-level genetic processes are highly recommended.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 237 Applied RNA Bioinformatics",
+        "description": "Teaches methods for RNA gene discovery; gene expression quantification; probabalistic modeling, secondary structure/trans-interaction prediction; mRNA splicing; and functional analysis. Emphasis on leveraging comparative genomics and employing high-throughput RNA sequencing data. Includes lectures, scientific literature discussion, problem sets, and final gene-discovery project.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Todd Lowe, Angela Brooks",
+        "extrarequirements": "Requirements Enrollment is restricted to seniors and graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 237 Applied RNA Bioinformatics\nTeaches methods for RNA gene discovery; gene expression quantification; probabalistic modeling, secondary structure/trans-interaction prediction; mRNA splicing; and functional analysis. Emphasis on leveraging comparative genomics and employing high-throughput RNA sequencing data. Includes lectures, scientific literature discussion, problem sets, and final gene-discovery project.\nCredits 5\nInstructor The Staff, Todd Lowe, Angela Brooks\nRequirements Enrollment is restricted to seniors and graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 263 Applied Visualization and Analysis of Scientific Data",
+        "description": "Python and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used to generate publication quality figures from scientific data. Students cannot receive credit for this course and course 163.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Christopher Vollmers",
+        "extrarequirements": "Requirements Prerequisite(s): BME 160 or BME 205. Prerequisite(s) can be waived in cases where students have required programming skills. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 263 Applied Visualization and Analysis of Scientific Data\nPython and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used to generate publication quality figures from scientific data. Students cannot receive credit for this course and course 163.\nCredits 5\nInstructor Christopher Vollmers\nRequirements Prerequisite(s): BME 160 or BME 205. Prerequisite(s) can be waived in cases where students have required programming skills. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 272 Precision Medicine",
+        "description": "Focuses on modern \"precision\" approaches to understanding human health, where every patient is unique. Explores basic and clinical discoveries and 'omics-based medicine for the prevention, diagnosis, and treatment of disease. Emphasis is on genomic approaches and applications to cancer.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Daniel Kim",
+        "extrarequirements": "Requirements Enrollment restricted to juniors, seniors, and graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 272 Precision Medicine\nFocuses on modern \"precision\" approaches to understanding human health, where every patient is unique. Explores basic and clinical discoveries and 'omics-based medicine for the prevention, diagnosis, and treatment of disease. Emphasis is on genomic approaches and applications to cancer.\nCredits 5\nInstructor Daniel Kim\nRequirements Enrollment restricted to juniors, seniors, and graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 275 Entrepreneurship in Biotechnology",
+        "description": "Focuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with Biomolecular Engineering 175.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Todd Lowe, Richard Edward Green",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 275 Entrepreneurship in Biotechnology\nFocuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with Biomolecular Engineering 175.\nCredits 5\nInstructor Todd Lowe, Richard Edward Green\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 278 Stem Cell Biology",
+        "description": "Basic stem cell concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading and critically evaluating the primary scientific literature. Students cannot receive credit for this course and BME 178.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Camilla Forsberg",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in PBSE program (Program in Biomedical Science and Engineering: Biomolecular Engineering and Bioinformatics (BMEB), Microbial Biology and Pathogenesis (MICRO), Chemical Biology, Biochemistry and Biophysics (CB3), Molecular, Cell and Developmental Biology (MCDB)) or consent of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 278 Stem Cell Biology\nBasic stem cell concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading and critically evaluating the primary scientific literature. Students cannot receive credit for this course and BME 178.\nCredits 5\nInstructor Camilla Forsberg\nRequirements Enrollment is restricted to graduate students in PBSE program (Program in Biomedical Science and Engineering: Biomolecular Engineering and Bioinformatics (BMEB), Microbial Biology and Pathogenesis (MICRO), Chemical Biology, Biochemistry and Biophysics (CB3), Molecular, Cell and Developmental Biology (MCDB)) or consent of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 280B Seminar on Bioinformatics and Bioengineering",
+        "description": "Weekly seminar series covering topics of current research in computational biology, and bioinformatics. Current research work and literature in these areas are discussed. Short papers reflecting on presentations required. Available for Satisfactory/Unsatisfactory (or Pass/No Pass) grading only.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Camilla Forsberg, Josh Stuart, Richard Edward Green, Angela Brooks, Daniel Kim, Shariati Ali, Todd Lowe, Christopher Vollmers",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 280B Seminar on Bioinformatics and Bioengineering\nWeekly seminar series covering topics of current research in computational biology, and bioinformatics. Current research work and literature in these areas are discussed. Short papers reflecting on presentations required. Available for Satisfactory/Unsatisfactory (or Pass/No Pass) grading only.\nCredits 2\nInstructor Camilla Forsberg, Josh Stuart, Richard Edward Green, Angela Brooks, Daniel Kim, Shariati Ali, Todd Lowe, Christopher Vollmers\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281A Seminar on Processive Enzymes and Nanopores",
+        "description": "Weekly seminar series covering experimental research in nanopore technology and single-molecule analysis of polymerase function. Current research work and literature is discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Mark Akeson",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "BME 281A Seminar on Processive Enzymes and Nanopores\nWeekly seminar series covering experimental research in nanopore technology and single-molecule analysis of polymerase function. Current research work and literature is discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Mark Akeson\nRequirements Enrollment is restricted to graduate students. Qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "BME 281C Seminar in Cancer Genomics",
+        "description": "Presents current computational biology research to identify genomics-based signatures of cancer onset, progression, and treatment response. Examples of such investigations include: genetic pathway interpretation of multivariate high-throughput datasets; discovery of mutations in whole-genome sequence; identifications and quantification of gene isoforms, alleles, and copy number variants; and machine-learning tools to predict clinical outcomes. Students present their own research, host journal clubs, and attend lectures and teleconferences to learn about research conducted by national and international projects.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Joshua Stuart, David Haussler",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "BME 281C Seminar in Cancer Genomics\nPresents current computational biology research to identify genomics-based signatures of cancer onset, progression, and treatment response. Examples of such investigations include: genetic pathway interpretation of multivariate high-throughput datasets; discovery of mutations in whole-genome sequence; identifications and quantification of gene isoforms, alleles, and copy number variants; and machine-learning tools to predict clinical outcomes. Students present their own research, host journal clubs, and attend lectures and teleconferences to learn about research conducted by national and international projects.\nCredits 2\nInstructor Joshua Stuart, David Haussler\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "BME 281D Seminar on Protein Engineering",
+        "description": "Weekly seminar series covering experimental research in protein structure, function, and engineering. Current research work and literature in this area are discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Rebecca Dubois",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281D Seminar on Protein Engineering\nWeekly seminar series covering experimental research in protein structure, function, and engineering. Current research work and literature in this area are discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Rebecca Dubois\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281E Seminar in Genomics",
+        "description": "Current topics in genomics including high-throughput sequencing, genome assembly, and comparative genomics. Students design and implement independent research projects. Weekly laboratory meetings are held to discuss these projects and related research in the field.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Richard Edward Green",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281E Seminar in Genomics\nCurrent topics in genomics including high-throughput sequencing, genome assembly, and comparative genomics. Students design and implement independent research projects. Weekly laboratory meetings are held to discuss these projects and related research in the field.\nCredits 2\nInstructor Richard Edward Green\nRequirements Enrollment is restricted to graduate students\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281F Blood Cell Development",
+        "description": "Weekly seminar covering topics in current research on blood cell development and stem cell biology. Current research and literature in these areas discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Camilla Forsberg",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281F Blood Cell Development\nWeekly seminar covering topics in current research on blood cell development and stem cell biology. Current research and literature in these areas discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Camilla Forsberg\nRequirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281H Seminar in Comparative Genomics",
+        "description": "Weekly seminar series covering topics of current computational and experimental research in comparative genomics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor David Haussler",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281H Seminar in Comparative Genomics\nWeekly seminar series covering topics of current computational and experimental research in comparative genomics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor David Haussler\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281J Seminar in Computational Genomics and Biomedicine",
+        "description": "Research seminar of the UCSC Computational Genomic Laboratory and Platform Teams. Students receive hands-on instruction in modern computational methods to address research questions. Topics include: genomic and transcriptomic sequence analysis methods, comparative and evolutionary genomics, big-data genomic analysis, biomedical data sharing, and precision medicine. Students attend and participate in monthly lab meetings, monthly all-hands meetings, where students give a quick report on their progress and the next month's goals, and a bi-weekly journal club, where pairs of students present and discuss a paper of their choosing with the lab. Students also participate in hands-on, active computational laboratory-based research. Student evaluation is based on suitable progress toward research goals and graduate program progress.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Benedict Paten",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281J Seminar in Computational Genomics and Biomedicine\nResearch seminar of the UCSC Computational Genomic Laboratory and Platform Teams. Students receive hands-on instruction in modern computational methods to address research questions. Topics include: genomic and transcriptomic sequence analysis methods, comparative and evolutionary genomics, big-data genomic analysis, biomedical data sharing, and precision medicine. Students attend and participate in monthly lab meetings, monthly all-hands meetings, where students give a quick report on their progress and the next month's goals, and a bi-weekly journal club, where pairs of students present and discuss a paper of their choosing with the lab. Students also participate in hands-on, active computational laboratory-based research. Student evaluation is based on suitable progress toward research goals and graduate program progress.\nCredits 2\nInstructor Benedict Paten\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281L Seminar in Computational Genetics",
+        "description": "Weekly seminar series covering topics and experimental research in computational genetics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Todd Lowe",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281L Seminar in Computational Genetics\nWeekly seminar series covering topics and experimental research in computational genetics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Todd Lowe\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281N Seminar in Transcriptomics",
+        "description": "Covers current topics in computational and experimental research in transcriptomics. Current research work and literature discussed. Weekly laboratory meetings held to discuss these projects and related research in the field.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Angela Brooks",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281N Seminar in Transcriptomics\nCovers current topics in computational and experimental research in transcriptomics. Current research work and literature discussed. Weekly laboratory meetings held to discuss these projects and related research in the field.\nCredits 2\nInstructor Angela Brooks\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281P Seminar on Nanotechnology and Biosensors",
+        "description": "Weekly seminar covering topics of research in the development of new tools and technologies to detect and study genes and proteins. Latest research work and literature in these areas are discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Nader Pourmand",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281P Seminar on Nanotechnology and Biosensors\nWeekly seminar covering topics of research in the development of new tools and technologies to detect and study genes and proteins. Latest research work and literature in these areas are discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Nader Pourmand\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281R Seminar in Stem Cell Genomics",
+        "description": "Weekly seminar series covering topics in research on stem cell genomics. Current research and literature in this area is discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Daniel Kim",
+        "extrarequirements": "Requirements Enrollment restricted to graduate students; qualified undergraduates may enroll with instructor permission.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281R Seminar in Stem Cell Genomics\nWeekly seminar series covering topics in research on stem cell genomics. Current research and literature in this area is discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Daniel Kim\nRequirements Enrollment restricted to graduate students; qualified undergraduates may enroll with instructor permission.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281S Seminar in Computational Functional Genomics",
+        "description": "Weekly seminar series covering topics of current computational and experimental research in computational functional genomics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Joshua Stuart",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281S Seminar in Computational Functional Genomics\nWeekly seminar series covering topics of current computational and experimental research in computational functional genomics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.\nCredits 2\nInstructor Joshua Stuart\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281V Immunogenomics Seminar",
+        "description": "Journal club and research presentations in immunogenomics. Enrollment is by consent of the instructor and is restricted to graduate students, juniors, and seniors.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Christopher Vollmers",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281V Immunogenomics Seminar\nJournal club and research presentations in immunogenomics. Enrollment is by consent of the instructor and is restricted to graduate students, juniors, and seniors.\nCredits 2\nInstructor Christopher Vollmers\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 281Z Seminar in Population and Evolutionary Genomics",
+        "description": "Covers major recent topics in evolutionary and population genomics. Consists primarily of discussions of recent literature and updates on group members' research. Enrollment is available only to members of the Corbett-Detig laboratory.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Russell Corbett-Detig",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 281Z Seminar in Population and Evolutionary Genomics\nCovers major recent topics in evolutionary and population genomics. Consists primarily of discussions of recent literature and updates on group members' research. Enrollment is available only to members of the Corbett-Detig laboratory.\nCredits 2\nInstructor Russell Corbett-Detig\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 293 Seminar in Biomolecular Engineering",
+        "description": "Weekly seminar series covering topics of bioinformatics and biomolecular engineering research. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "BME 293 Seminar in Biomolecular Engineering\nWeekly seminar series covering topics of bioinformatics and biomolecular engineering research. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.\nCredits 5\nRequirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.\n"
+    },
+    {
+        "coursename": "BME 296 Research in Bioinformatics",
+        "description": "Independent research in bioinformatics under faculty supervision. Although this course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 296 Research in Bioinformatics\nIndependent research in bioinformatics under faculty supervision. Although this course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 297A Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 297A Independent Study or Research\nIndependent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 297B Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 297B Independent Study or Research\nIndependent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 297C Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 297C Independent Study or Research\nIndependent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "BME 297F Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "BME 297F Independent Study or Research\nIndependent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "BME 299A Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "BME 299A Thesis Research\nThesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "BME 299B Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "BME 299B Thesis Research\nThesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.\nCredits 10\nRepeatable For Credit Yes\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "BME 299C Thesis Research",
+        "description": "Thesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "BME 299C Thesis Research\nThesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.\nCredits 15\nRepeatable For Credit Yes\nQuarter Offered Spring\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "BIOL 247 Stem Cell Research: Scientific, Ethical, Social, and Legal Issues",
+        "description": "Investigates the scientific, ethical, social, and legal dimensions of human embryonic stem-cell research, including the moral status of the embryo; the concept of respect for life; ethical constraints on oocyte procurement; creation of embryonic chimeras; federal policies; and political realities. (Also offered as Biomolecular Engineering 247. Students cannot receive credit for both courses.) Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Lindsay Hinck",
+        "extrarequirements": "Requirements Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "BIOL 247 Stem Cell Research: Scientific, Ethical, Social, and Legal Issues\nInvestigates the scientific, ethical, social, and legal dimensions of human embryonic stem-cell research, including the moral status of the embryo; the concept of respect for life; ethical constraints on oocyte procurement; creation of embryonic chimeras; federal policies; and political realities. (Also offered as Biomolecular Engineering 247. Students cannot receive credit for both courses.) Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.\nCredits 2\nCross Listed Courses BME 247\nInstructor Lindsay Hinck\nRequirements Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "SOCY 268A Science and Justice: Experiments in Collaboration",
+        "description": "Considers the practical and epistemological necessity of collaborative research in the development of new sciences and technologies that are attentive to questions of ethics and justice. Enrollment is by permission of instructor. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "SOCY 268A Science and Justice: Experiments in Collaboration\nConsiders the practical and epistemological necessity of collaborative research in the development of new sciences and technologies that are attentive to questions of ethics and justice. Enrollment is by permission of instructor. Enrollment is restricted to graduate students.\nCredits 5\nCross Listed Courses BME 268A, FMST 268A, ANTH 267A\n"
+    },
+    {
+        "coursename": "SOCY 268B Science and Justice Research Seminar",
+        "description": "Provides in-depth instruction in conducting collaborative interdisciplinary research. Students produce a final research project that explores how this training might generate research that is more responsive to the links between questions of knowledge and questions of justice. Prerequisite(s): SOCY 268A, BME 268A, FMST 268A, or ANTH 267A. Enrollment is restricted to graduate students and by permission of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jenny Reardon",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "SOCY 268B Science and Justice Research Seminar\nProvides in-depth instruction in conducting collaborative interdisciplinary research. Students produce a final research project that explores how this training might generate research that is more responsive to the links between questions of knowledge and questions of justice. Prerequisite(s): SOCY 268A, BME 268A, FMST 268A, or ANTH 267A. Enrollment is restricted to graduate students and by permission of the instructor.\nCredits 5\nCross Listed Courses FMST 268B, BME 268B, ANTH 267B\nInstructor Jenny Reardon\n"
+    }
+]

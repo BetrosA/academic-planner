@@ -1,0 +1,42 @@
+[
+    {
+        "coursename": "GREE 1 Elementary Ancient Greek",
+        "description": "Instruction in the grammar of Attic Greek, together with readings from ancient authors, designed to prepare for the study of classical literature. The sequence begins in the fall quarter only.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kristina Chew",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "GREE 1 Elementary Ancient Greek\nInstruction in the grammar of Attic Greek, together with readings from ancient authors, designed to prepare for the study of classical literature. The sequence begins in the fall quarter only.\nCredits 5\nInstructor Kristina Chew\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "GREE 2 Elementary Ancient Greek",
+        "description": "Instruction in the grammar of Attic Greek, together with readings from ancient authors, designed to prepare for the study of classical literature.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kristina Chew",
+        "extrarequirements": "Requirements Prerequisite(s): GREE 1, or permission of instructor",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "GREE 2 Elementary Ancient Greek\nInstruction in the grammar of Attic Greek, together with readings from ancient authors, designed to prepare for the study of classical literature.\nCredits 5\nInstructor Kristina Chew\nRequirements Prerequisite(s): GREE 1, or permission of instructor\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "GREE 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GREE 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "GREE 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "GREE 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

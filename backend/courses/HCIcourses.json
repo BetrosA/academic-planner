@@ -1,0 +1,102 @@
+[
+    {
+        "coursename": "HCI 200 Introduction to HCI",
+        "description": "Introduction to the core premises of human-computer interaction (HCI), including major phases in the evolution of HCI. Issues covered include the origins of HCI and its transformation alongside the spread of computing technologies into the fabric of everyday life.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Norman Su",
+        "extrarequirements": "Requirements Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "HCI 200 Introduction to HCI\nIntroduction to the core premises of human-computer interaction (HCI), including major phases in the evolution of HCI. Issues covered include the origins of HCI and its transformation alongside the spread of computing technologies into the fabric of everyday life.\nCredits 5\nInstructor Norman Su\nRequirements Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "HCI 201 Introduction to Design Methods in HCI",
+        "description": "Introduction to design methods in human-computer interaction (HCI). Students gain mastery of ideation, sketching, prototyping, and other current methods used in HCI design practice.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kathryn Ringland",
+        "extrarequirements": "Requirements Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "HCI 201 Introduction to Design Methods in HCI\nIntroduction to design methods in human-computer interaction (HCI). Students gain mastery of ideation, sketching, prototyping, and other current methods used in HCI design practice.\nCredits 5\nInstructor Kathryn Ringland\nRequirements Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "HCI 202A Introduction to HCI Build: Bootcamp",
+        "description": "Introductory build course that includes an introduction to hardware prototyping, introduction to programming, and introduction to soft electronics. Provides students with hardware/software skills that enable them to rapidly prototype interface concepts that include both physical and digital elements.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "HCI 202A Introduction to HCI Build: Bootcamp\nIntroductory build course that includes an introduction to hardware prototyping, introduction to programming, and introduction to soft electronics. Provides students with hardware/software skills that enable them to rapidly prototype interface concepts that include both physical and digital elements.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "HCI 202B Introduction to Build: Advanced",
+        "description": "Advanced course on build methods in HCI. Includes hardware prototyping, advanced programming, and development of soft electronics systems. Provides students with existing technical competency the opportunity to produce robust physical-digital prototype systems.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "HCI 202B Introduction to Build: Advanced\nAdvanced course on build methods in HCI. Includes hardware prototyping, advanced programming, and development of soft electronics systems. Provides students with existing technical competency the opportunity to produce robust physical-digital prototype systems.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "HCI 203 Introduction to Research",
+        "description": "Introduction to research and analysis methods in human-computer interaction (HCI). Introduces theoretical perspectives on HCI arising from cognitive science, sociology, and distributed cognition. Explores the key methods to apply and test these theories including: designing and conducting studies, statistics, analysis, heuristic evaluation, ethnography, interviews, surveys, field studies, and other established methods used by HCI practitioners.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "HCI 203 Introduction to Research\nIntroduction to research and analysis methods in human-computer interaction (HCI). Introduces theoretical perspectives on HCI arising from cognitive science, sociology, and distributed cognition. Explores the key methods to apply and test these theories including: designing and conducting studies, statistics, analysis, heuristic evaluation, ethnography, interviews, surveys, field studies, and other established methods used by HCI practitioners.\nCredits 5\nInstructor The Staff\nRequirements Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "HCI 220 Ethics and Activism in Tech and Design",
+        "description": "Examines tech ethics/activism in design. Students discuss biases within tech at large and reflect on their values and biases in designing technology through coursework. Students learn the possibilities of political action as UX/HCI practitioners.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Norman Sui, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): HCI 200 and HCI 201; or by permission of instructor. Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "HCI 220 Ethics and Activism in Tech and Design\nExamines tech ethics/activism in design. Students discuss biases within tech at large and reflect on their values and biases in designing technology through coursework. Students learn the possibilities of political action as UX/HCI practitioners.\nCredits 5\nInstructor Norman Sui, The Staff\nRequirements Prerequisite(s): HCI 200 and HCI 201; or by permission of instructor. Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "HCI 250 Participatory Design",
+        "description": "Introduces theoretical and practical knowledge on participatory design of digital technologies and related services. Applies participatory design methods and techniques in designing digital solutions and applications. Enables students to learn how to plan and manage a participatory design process, understanding their stakeholders and designing tools to engage them in the design process. Allows students to conduct various studies with their participants and engage in qualitative analysis of the results.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kathryn Ringland",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "HCI 250 Participatory Design\nIntroduces theoretical and practical knowledge on participatory design of digital technologies and related services. Applies participatory design methods and techniques in designing digital solutions and applications. Enables students to learn how to plan and manage a participatory design process, understanding their stakeholders and designing tools to engage them in the design process. Allows students to conduct various studies with their participants and engage in qualitative analysis of the results.\nCredits 5\nInstructor Kathryn Ringland\nRequirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.\n"
+    },
+    {
+        "coursename": "HCI 271 HCI Capstone 1",
+        "description": "Teaches students how to form project teams, brainstorm, and iterate ideas for the capstone projects, culminating in approved briefs and project teams, including an approved committee of advisers for each project. Advisers may be local industry people (including industry partners who have proposed projects), or may also be UCSC faculty from the main campus.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Kathryn Ringland",
+        "extrarequirements": "Requirements Prerequisite(s): HCI 200, HCI 201, and either HCI 202A or HCI 202B. Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "HCI 271 HCI Capstone 1\nTeaches students how to form project teams, brainstorm, and iterate ideas for the capstone projects, culminating in approved briefs and project teams, including an approved committee of advisers for each project. Advisers may be local industry people (including industry partners who have proposed projects), or may also be UCSC faculty from the main campus.\nCredits 5\nInstructor Kathryn Ringland\nRequirements Prerequisite(s): HCI 200, HCI 201, and either HCI 202A or HCI 202B. Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "HCI 272 HCI Capstone 2",
+        "description": "The goal of this course is for students in the Professional Master's Degree in Human-Computer Interaction to produce successful capstone projects. The course is organized around iterative feedback from peers and project advisers (both academic and professional), and includes extensive workshopping, critique, and testing. The course culminates in an end-of-quarter showcase of student work, with all project advisers and project sponsors invited. Also includes professional development. (Formerly Capstone 2.)",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "Instructor Norman Su, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): HCI 271. Enrollment is restricted to human computer interaction graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "HCI 272 HCI Capstone 2\nThe goal of this course is for students in the Professional Master's Degree in Human-Computer Interaction to produce successful capstone projects. The course is organized around iterative feedback from peers and project advisers (both academic and professional), and includes extensive workshopping, critique, and testing. The course culminates in an end-of-quarter showcase of student work, with all project advisers and project sponsors invited. Also includes professional development. (Formerly Capstone 2.)\nCredits 10\nInstructor Norman Su, The Staff\nRequirements Prerequisite(s): HCI 271. Enrollment is restricted to human computer interaction graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "HCI 290 HCI Seminar",
+        "description": "Weekly speakers on human-computer interaction topics. Course can be taken for Satisfactory/Unsatisfactory credit only.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "HCI 290 HCI Seminar\nWeekly speakers on human-computer interaction topics. Course can be taken for Satisfactory/Unsatisfactory credit only.\nCredits 2\nInstructor The Staff\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]

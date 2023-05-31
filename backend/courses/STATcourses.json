@@ -1,0 +1,482 @@
+[
+    {
+        "coursename": "STAT 5 Statistics",
+        "description": "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences. Students cannot receive credit for this course if they have already received credit for STAT 7. (Formerly AMS 5.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Herbert Lee, Athanasios Kottas, Bruno Sanso, Bruno Mendes, Yonatan Katznelson, David Draper, Marcela Alfaro",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "STAT 5 Statistics\nIntroduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences. Students cannot receive credit for this course if they have already received credit for STAT 7. (Formerly AMS 5.)\nCredits 5\nInstructor Herbert Lee, Athanasios Kottas, Bruno Sanso, Bruno Mendes, Yonatan Katznelson, David Draper, Marcela Alfaro\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "STAT 7 Statistical Methods for the Biological, Environmental, and Health Sciences",
+        "description": "Case-study-based introduction to statistical methods as practiced in the biological, environmental, and health sciences. Descriptive methods, experimental design, probability, interval estimation, hypothesis testing, one- and two-sample problems, power and sample size calculations, simple correlation and simple linear regression, one-way analysis of variance, categorical data analysis. (Formerly AMS 7.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Yonatan Katznelson, Herbert Lee, Raquel Prado, Bruno Mendes, David Draper, Claudia Wehrhahn-Cortes, Ju Hee Lee, Zehang \"Richard\" Li",
+        "extrarequirements": "Requirements Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), or AM 3 or AM 6 or AM 11A or AM 15A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 7L is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "STAT 7 Statistical Methods for the Biological, Environmental, and Health Sciences\nCase-study-based introduction to statistical methods as practiced in the biological, environmental, and health sciences. Descriptive methods, experimental design, probability, interval estimation, hypothesis testing, one- and two-sample problems, power and sample size calculations, simple correlation and simple linear regression, one-way analysis of variance, categorical data analysis. (Formerly AMS 7.)\nCredits 5\nInstructor Yonatan Katznelson, Herbert Lee, Raquel Prado, Bruno Mendes, David Draper, Claudia Wehrhahn-Cortes, Ju Hee Lee, Zehang \"Richard\" Li\nRequirements Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), or AM 3 or AM 6 or AM 11A or AM 15A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 7L is required.\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "STAT 7L Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory",
+        "description": "Computer-based laboratory course in which students gain hands-on experience in analysis of data sets arising from statistical problem-solving in the biological, environmental, and health sciences. Descriptive methods, interval estimation, hypothesis testing, one-and two-sample problems, correlation and regression, one-way analysis of variance, categorical data analysis. (Formerly AMS 7L.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Yonatan Katznelson, Herbert Lee, Raquel Prado, David Draper, Claudia Wehrhahn-Cortes, Ju Hee Lee, Zehang \"Richard\" Li, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6 or AM 11A or AM 15A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 7 is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "STAT 7L Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory\nComputer-based laboratory course in which students gain hands-on experience in analysis of data sets arising from statistical problem-solving in the biological, environmental, and health sciences. Descriptive methods, interval estimation, hypothesis testing, one-and two-sample problems, correlation and regression, one-way analysis of variance, categorical data analysis. (Formerly AMS 7L.)\nCredits 2\nInstructor Yonatan Katznelson, Herbert Lee, Raquel Prado, David Draper, Claudia Wehrhahn-Cortes, Ju Hee Lee, Zehang \"Richard\" Li, The Staff\nRequirements Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6 or AM 11A or AM 15A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 7 is required.\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "STAT 17 Statistical Methods for Business and Economics",
+        "description": "Introduction to statistical methods as practiced in business and economics. Topics include descriptive methods, probability, random variables, expected values, sampling, estimation, confidence intervals, hypothesis testing, one- and two-sample problems, power and sample size calculations, correlation, and simple linear regression. Prerequisite(s): concurrent enrollment in STAT 17L; and score of 300 or higher on the mathematics placement examination (MPE), or AM 3 or AM 11A or MATH 3 or MATH 11A. Completion of MATH 19A is strongly recommended.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor David Draper, Athanasios Kottas, Marcela Alfaro C\u00f3rdoba",
+        "extrarequirements": "Requirements Prerequisite(s): A score of 300 or higher on the mathematics placement examination (MPE), or completion of AM 3 or AM 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17L is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "STAT 17 Statistical Methods for Business and Economics\nIntroduction to statistical methods as practiced in business and economics. Topics include descriptive methods, probability, random variables, expected values, sampling, estimation, confidence intervals, hypothesis testing, one- and two-sample problems, power and sample size calculations, correlation, and simple linear regression. Prerequisite(s): concurrent enrollment in STAT 17L; and score of 300 or higher on the mathematics placement examination (MPE), or AM 3 or AM 11A or MATH 3 or MATH 11A. Completion of MATH 19A is strongly recommended.\nCredits 5\nInstructor David Draper, Athanasios Kottas, Marcela Alfaro C\u00f3rdoba\nRequirements Prerequisite(s): A score of 300 or higher on the mathematics placement examination (MPE), or completion of AM 3 or AM 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17L is required.\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "STAT 17L Statistical Methods for Business and Economics Laboratory",
+        "description": "Overview and basic training in statistical programs used in the economics major.  Introduces students to basic data analysis workflow. A workflow of data analysis is a process for managing all aspects of data analysis. Planning, documenting, and organizing work; cleaning the data; creating, renaming, and verifying variables; creating summary statistics; and archiving what has been done are all integral parts of students' data analysis. This is an online asynchronous lab, with synchronous office hours/question and answer sessions. Prerequisites: concurrent enrollment in STAT 17; and score of 300 or higher on (MPE), or AM 3 or AM 11A. MATH 3 or MATH 11A strongly recommended. See Economics Department to petition for exceptions to concurrent enrollment restriction.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Marcela Alfaro C\u00f3rdoba, The Staff",
+        "extrarequirements": "Requirements Prerequisites: A score of 300 or higher on (MPE), or completion of AM 3 or AM 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17 is required. Declared and proposed majors in one of the economics programs who are transferring in a course equivalent to STAT 17, should contact the Economics Department to petition for an exception to the concurrent enrollment requirement.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "STAT 17L Statistical Methods for Business and Economics Laboratory\nOverview and basic training in statistical programs used in the economics major.  Introduces students to basic data analysis workflow. A workflow of data analysis is a process for managing all aspects of data analysis. Planning, documenting, and organizing work; cleaning the data; creating, renaming, and verifying variables; creating summary statistics; and archiving what has been done are all integral parts of students' data analysis. This is an online asynchronous lab, with synchronous office hours/question and answer sessions. Prerequisites: concurrent enrollment in STAT 17; and score of 300 or higher on (MPE), or AM 3 or AM 11A. MATH 3 or MATH 11A strongly recommended. See Economics Department to petition for exceptions to concurrent enrollment restriction.\nCredits 2\nInstructor Marcela Alfaro C\u00f3rdoba, The Staff\nRequirements Prerequisites: A score of 300 or higher on (MPE), or completion of AM 3 or AM 11A or MATH 3 or MATH 11A or MATH 19A. Concurrent enrollment in STAT 17 is required. Declared and proposed majors in one of the economics programs who are transferring in a course equivalent to STAT 17, should contact the Economics Department to petition for an exception to the concurrent enrollment requirement.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "STAT 80A Gambling and Gaming",
+        "description": "Games of chance and strategy motivated early developments in probability, statistics, and decision theory. Course uses popular games to introduce students to these concepts, which underpin recent scientific developments in economics, genetics, ecology, and physics. (Formerly AMS 80A.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Herbert Lee, Athanasios Kottas, Bruno Mendes, Marcela Alfaro-C\u00f3rdoba, Paul Parker, The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "STAT 80A Gambling and Gaming\nGames of chance and strategy motivated early developments in probability, statistics, and decision theory. Course uses popular games to introduce students to these concepts, which underpin recent scientific developments in economics, genetics, ecology, and physics. (Formerly AMS 80A.)\nCredits 5\nInstructor Herbert Lee, Athanasios Kottas, Bruno Mendes, Marcela Alfaro-C\u00f3rdoba, Paul Parker, The Staff\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "STAT 80B Data Visualization",
+        "description": "Introduces the use of complex-data graphical representations to extract information from data. Topics include: summary statistics, boxplots, histograms, dotplots, scatterplots, bubble plots, and map-creation, as well as visualization of trees and hierarchies, networks and graphs, and text. (Formerly AMS 80B.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "STAT 80B Data Visualization\nIntroduces the use of complex-data graphical representations to extract information from data. Topics include: summary statistics, boxplots, histograms, dotplots, scatterplots, bubble plots, and map-creation, as well as visualization of trees and hierarchies, networks and graphs, and text. (Formerly AMS 80B.)\nCredits 5\nInstructor The Staff\nGeneral Education Code SR\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "STAT 108 Linear Regression",
+        "description": "Covers simple linear regression, multiple regression, and analysis of variance models. Students learn to use the software package R to perform the analysis, and to construct a clear technical report on their analysis, readable by either scientists or nontechnical audiences. (Formerly AMS 156.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Herbert Lee, Marcela Alfaro-C\u00f3rdoba",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 132 and satisfaction of the Entry Level Writing and Composition requirements.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "STAT 108 Linear Regression\nCovers simple linear regression, multiple regression, and analysis of variance models. Students learn to use the software package R to perform the analysis, and to construct a clear technical report on their analysis, readable by either scientists or nontechnical audiences. (Formerly AMS 156.)\nCredits 5\nInstructor Herbert Lee, Marcela Alfaro-C\u00f3rdoba\nRequirements Prerequisite(s): STAT 132 and satisfaction of the Entry Level Writing and Composition requirements.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "STAT 131 Introduction to Probability Theory",
+        "description": "Introduction to probability theory and its applications. Combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains. Students cannot receive credit for this course and STAT 203 and CMPE 107. (Formerly AMS 131.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor \"Richard\" Li Zehang, Raquel Prado, Athanasios Kottas, Bruno Sanso, Jiang Sheng, David Draper, Ju Hee Lee, Marcela Alfaro-C\u00f3rdoba",
+        "extrarequirements": "Requirements Prerequisite(s): AM 11B or ECON 11B or MATH 11B or MATH 19B or MATH 20B.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "STAT 131 Introduction to Probability Theory\nIntroduction to probability theory and its applications. Combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains. Students cannot receive credit for this course and STAT 203 and CMPE 107. (Formerly AMS 131.)\nCredits 5\nInstructor \"Richard\" Li Zehang, Raquel Prado, Athanasios Kottas, Bruno Sanso, Jiang Sheng, David Draper, Ju Hee Lee, Marcela Alfaro-C\u00f3rdoba\nRequirements Prerequisite(s): AM 11B or ECON 11B or MATH 11B or MATH 19B or MATH 20B.\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "STAT 132 Classical and Bayesian Inference",
+        "description": "Introduction to statistical inference at a calculus-based level: maximum likelihood estimation, sufficient statistics, distributions of estimators, confidence intervals, hypothesis testing, and Bayesian inference. (Formerly AMS 132.)",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Raquel Prado, Athanasios Kottas, David Draper, Ju Hee Lee",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 131 or CSE 107.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "STAT 132 Classical and Bayesian Inference\nIntroduction to statistical inference at a calculus-based level: maximum likelihood estimation, sufficient statistics, distributions of estimators, confidence intervals, hypothesis testing, and Bayesian inference. (Formerly AMS 132.)\nCredits 5\nInstructor The Staff, Raquel Prado, Athanasios Kottas, David Draper, Ju Hee Lee\nRequirements Prerequisite(s): STAT 131 or CSE 107.\nGeneral Education Code SR\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "STAT 198 Independent Study or Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 198 Independent Study or Research\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 198F Independent Study or Research",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 198F Independent Study or Research\nStudents submit petition to sponsoring agency.\nCredits 2\n"
+    },
+    {
+        "coursename": "STAT 200 Research and Teaching in Statistics",
+        "description": "Focuses on basic teaching techniques for teaching assistants, including responsibilities and rights, leading discussion or lab sessions, presentation techniques, maintaining class records, and grading. Examines research and professional training, including use of library, technical writing, giving seminar and conference talks, and ethical issues in science and engineering.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Athanasios Kottas, Ju Hee Lee, The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 200 Research and Teaching in Statistics\nFocuses on basic teaching techniques for teaching assistants, including responsibilities and rights, leading discussion or lab sessions, presentation techniques, maintaining class records, and grading. Examines research and professional training, including use of library, technical writing, giving seminar and conference talks, and ethical issues in science and engineering.\nCredits 3\nInstructor Athanasios Kottas, Ju Hee Lee, The Staff\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 202 Linear Models in SAS",
+        "description": "Case study-based course teaches statistical linear modeling using the SAS software package. Teaches generalized linear models; linear regression; analysis of variance/covariance; analysis of data with random effects and repeated measures. (Formerly AMS 202.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Bruno Mendes",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 108 or STAT 208, or permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 202 Linear Models in SAS\nCase study-based course teaches statistical linear modeling using the SAS software package. Teaches generalized linear models; linear regression; analysis of variance/covariance; analysis of data with random effects and repeated measures. (Formerly AMS 202.)\nCredits 5\nInstructor The Staff, Bruno Mendes\nRequirements Prerequisite(s): STAT 108 or STAT 208, or permission of instructor. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "STAT 203 Introduction to Probability Theory",
+        "description": "Introduces probability theory and its applications. Requires a multivariate calculus background, but has no measure theoretic content. Topics include: combinatorial analysis; axioms of probability; random variables (discrete and continuous); joint probability distributions; expectation and higher moments; central limit theorem; law of large numbers; and Markov chains. Students cannot receive credit for this course and STAT 131 or CMPE 107. (Formerly AMS 203.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Raquel Prado, Athanasios Kottas, Bruno Sanso, Ju Hee Lee",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students, or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 203 Introduction to Probability Theory\nIntroduces probability theory and its applications. Requires a multivariate calculus background, but has no measure theoretic content. Topics include: combinatorial analysis; axioms of probability; random variables (discrete and continuous); joint probability distributions; expectation and higher moments; central limit theorem; law of large numbers; and Markov chains. Students cannot receive credit for this course and STAT 131 or CMPE 107. (Formerly AMS 203.)\nCredits 5\nInstructor The Staff, Raquel Prado, Athanasios Kottas, Bruno Sanso, Ju Hee Lee\nRequirements Enrollment is restricted to graduate students, or by permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 204 Introduction to Statistical Data Analysis",
+        "description": "Presents tools for exploratory data analysis (EDA) and statistical modeling in R. Topics include numerical and graphical tools for EDA, linear and logistic regression, ANOVA, PCA, and tools for acquiring and storing large data. No R knowledge is required. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 204.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raquel Prado, Paul Parker, The Staff",
+        "extrarequirements": "Requirements Enrollment restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 204 Introduction to Statistical Data Analysis\nPresents tools for exploratory data analysis (EDA) and statistical modeling in R. Topics include numerical and graphical tools for EDA, linear and logistic regression, ANOVA, PCA, and tools for acquiring and storing large data. No R knowledge is required. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 204.)\nCredits 5\nInstructor Raquel Prado, Paul Parker, The Staff\nRequirements Enrollment restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 205 Introduction to Classical Statistical Learning",
+        "description": "Introduction to classical statistical inference. Topic include: random variables and distributions; types of convergence; central limit theorems; maximum likelihood estimation; Newton-Raphson, Fisher scoring, Expectation-Maximization, and stochastic gradient algorithms; confidence intervals; hypothesis testing; ridge regression, lasso, and elastic net.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor \"Richard\" Li Zehang",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 203. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "STAT 205 Introduction to Classical Statistical Learning\nIntroduction to classical statistical inference. Topic include: random variables and distributions; types of convergence; central limit theorems; maximum likelihood estimation; Newton-Raphson, Fisher scoring, Expectation-Maximization, and stochastic gradient algorithms; confidence intervals; hypothesis testing; ridge regression, lasso, and elastic net.\nCredits 5\nInstructor \"Richard\" Li Zehang\nRequirements Prerequisite(s): STAT 203. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "STAT 205B Intermediate Classical Inference",
+        "description": "Statistical inference from a frequentist point of view. Properties of random samples; convergence concepts applied to point estimators; principles of statistical inference; obtaining and evaluating point estimators with particular attention to maximum likelihood estimates and their properties; obtaining and evaluating interval estimators; and hypothesis testing methods and their properties. (Formerly AMS 205B.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Bruno Sanso, David Draper, Paul Parker",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 203 or equivalent. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "STAT 205B Intermediate Classical Inference\nStatistical inference from a frequentist point of view. Properties of random samples; convergence concepts applied to point estimators; principles of statistical inference; obtaining and evaluating point estimators with particular attention to maximum likelihood estimates and their properties; obtaining and evaluating interval estimators; and hypothesis testing methods and their properties. (Formerly AMS 205B.)\nCredits 5\nInstructor The Staff, Bruno Sanso, David Draper, Paul Parker\nRequirements Prerequisite(s): STAT 203 or equivalent. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "STAT 206 Applied Bayesian Statistics",
+        "description": "Introduces Bayesian statistical modeling from a practitioner's perspective. Covers basic concepts (e.g., prior-posterior updating, Bayes factors, conjugacy, hierarchical modeling, shrinkage, etc.), computational tools (Markov chain Monte Carlo, Laplace approximations), and Bayesian inference for some specific models widely used in the literature (linear and generalized linear mixed models). (Formerly AMS 206.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raquel Prado, Athanasios Kottas, David Draper",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 131 or STAT 203, or by permission of the instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "STAT 206 Applied Bayesian Statistics\nIntroduces Bayesian statistical modeling from a practitioner's perspective. Covers basic concepts (e.g., prior-posterior updating, Bayes factors, conjugacy, hierarchical modeling, shrinkage, etc.), computational tools (Markov chain Monte Carlo, Laplace approximations), and Bayesian inference for some specific models widely used in the literature (linear and generalized linear mixed models). (Formerly AMS 206.)\nCredits 5\nInstructor Raquel Prado, Athanasios Kottas, David Draper\nRequirements Prerequisite(s): STAT 131 or STAT 203, or by permission of the instructor. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "STAT 206B Intermediate Bayesian Inference",
+        "description": "Bayesian statistical methods for inference and prediction including: estimation; model selection and prediction; exchangeability; prior, likelihood, posterior, and predictive distributions; coherence and calibration; conjugate analysis; Markov Chain Monte Carlo methods for simulation-based computation; hierarchical modeling; Bayesian model diagnostics, model selection, and sensitivity analysis. (Formerly AMS 206B.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Raquel Prado, Ju Hee Lee",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 203. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "STAT 206B Intermediate Bayesian Inference\nBayesian statistical methods for inference and prediction including: estimation; model selection and prediction; exchangeability; prior, likelihood, posterior, and predictive distributions; coherence and calibration; conjugate analysis; Markov Chain Monte Carlo methods for simulation-based computation; hierarchical modeling; Bayesian model diagnostics, model selection, and sensitivity analysis. (Formerly AMS 206B.)\nCredits 5\nInstructor The Staff, Raquel Prado, Ju Hee Lee\nRequirements Prerequisite(s): STAT 203. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "STAT 207 Intermediate Bayesian Statistical Modeling",
+        "description": "Hierarchical modeling, linear models (regression and analysis of variance) from the Bayesian point of view, intermediate Markov chain Monte Carlo methods, generalized linear models, multivariate models, mixture models, hidden Markov models. (Formerly AMS 207.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Raquel Prado, Bruno Sanso, David Draper, Zehang \"Richard\" Li",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 206 or STAT 206B; enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "STAT 207 Intermediate Bayesian Statistical Modeling\nHierarchical modeling, linear models (regression and analysis of variance) from the Bayesian point of view, intermediate Markov chain Monte Carlo methods, generalized linear models, multivariate models, mixture models, hidden Markov models. (Formerly AMS 207.)\nCredits 5\nInstructor The Staff, Raquel Prado, Bruno Sanso, David Draper, Zehang \"Richard\" Li\nRequirements Prerequisite(s): STAT 206 or STAT 206B; enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "STAT 208 Linear Statistical Models",
+        "description": "Theory, methods, and applications of linear statistical models. Review of simple correlation and simple linear regression. Multiple and partial correlation and multiple linear regression. Analysis of variance and covariance. Linear model diagnostics and model selection. Case studies drawn from natural, social, and medical sciences. STAT 205 strongly recommended as a prerequisite. Undergraduates are encouraged to take this class with permission of instructor. (Formerly AMS 256.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Raquel Prado, Bruno Sanso, Robert Lund, Ju Hee Lee, Paul Parker",
+        "extrarequirements": "Requirements Prerequisite(s): course STAT 205B or permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "STAT 208 Linear Statistical Models\nTheory, methods, and applications of linear statistical models. Review of simple correlation and simple linear regression. Multiple and partial correlation and multiple linear regression. Analysis of variance and covariance. Linear model diagnostics and model selection. Case studies drawn from natural, social, and medical sciences. STAT 205 strongly recommended as a prerequisite. Undergraduates are encouraged to take this class with permission of instructor. (Formerly AMS 256.)\nCredits 5\nInstructor The Staff, Raquel Prado, Bruno Sanso, Robert Lund, Ju Hee Lee, Paul Parker\nRequirements Prerequisite(s): course STAT 205B or permission of instructor. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "STAT 209 Generalized Linear Models",
+        "description": "Theory, methods, and applications of generalized linear statistical models; review of linear models; binomial models for binary responses (including logistical regression and probit models); log-linear models for categorical data analysis; and Poisson models for count data. Case studies drawn from social, engineering, and life sciences. (Formerly AMS 274.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Athanasios Kottas",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 205B or STAT 208. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 209 Generalized Linear Models\nTheory, methods, and applications of generalized linear statistical models; review of linear models; binomial models for binary responses (including logistical regression and probit models); log-linear models for categorical data analysis; and Poisson models for count data. Case studies drawn from social, engineering, and life sciences. (Formerly AMS 274.)\nCredits 5\nInstructor The Staff, Athanasios Kottas\nRequirements Prerequisite(s): STAT 205B or STAT 208. Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 222 Bayesian Nonparametric Methods",
+        "description": "Theory, methods, and applications of Bayesian nonparametric modeling. Prior probability models for spaces of functions. Dirichlet processes. Polya trees. Nonparametric mixtures. Models for regression, survival analysis, categorical data analysis, and spatial statistics. Examples drawn from social, engineering, and life sciences. (Formerly AMS 241.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Athanasios Kottas",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 207. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "STAT 222 Bayesian Nonparametric Methods\nTheory, methods, and applications of Bayesian nonparametric modeling. Prior probability models for spaces of functions. Dirichlet processes. Polya trees. Nonparametric mixtures. Models for regression, survival analysis, categorical data analysis, and spatial statistics. Examples drawn from social, engineering, and life sciences. (Formerly AMS 241.)\nCredits 5\nInstructor Athanasios Kottas\nRequirements Prerequisite(s): STAT 207. Enrollment is restricted to graduate students.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "STAT 223 Time Series Analysis",
+        "description": "Graduate level introductory course on time series data and models in the time and frequency domains: descriptive time series methods; the periodogram; basic theory of stationary processes; linear filters; spectral analysis; time series analysis for repeated measurements; ARIMA models; introduction to Bayesian spectral analysis; Bayesian learning, forecasting, and smoothing; introduction to Bayesian Dynamic Linear Models (DLMs); DLM mathematical structure; DLMs for trends and seasonal patterns; and autoregression and time series regression models. (Formerly AMS 223.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Raquel Prado, Robert Lund",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 206B, or by permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "STAT 223 Time Series Analysis\nGraduate level introductory course on time series data and models in the time and frequency domains: descriptive time series methods; the periodogram; basic theory of stationary processes; linear filters; spectral analysis; time series analysis for repeated measurements; ARIMA models; introduction to Bayesian spectral analysis; Bayesian learning, forecasting, and smoothing; introduction to Bayesian Dynamic Linear Models (DLMs); DLM mathematical structure; DLMs for trends and seasonal patterns; and autoregression and time series regression models. (Formerly AMS 223.)\nCredits 5\nInstructor Raquel Prado, Robert Lund\nRequirements Prerequisite(s): STAT 206B, or by permission of instructor. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "STAT 224 Bayesian Survival Analysis and Clinical Design",
+        "description": "Introduction to Bayesian statistical methods for survival analysis and clinical trial design: parametric and semiparametric models for survival data, frailty models, cure rate models, the design of clinical studies in phase I/II/III. (Formerly AMS 276.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Ju Hee Lee",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 207 or by permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 224 Bayesian Survival Analysis and Clinical Design\nIntroduction to Bayesian statistical methods for survival analysis and clinical trial design: parametric and semiparametric models for survival data, frailty models, cure rate models, the design of clinical studies in phase I/II/III. (Formerly AMS 276.)\nCredits 5\nInstructor Ju Hee Lee\nRequirements Prerequisite(s): STAT 207 or by permission of instructor. Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 225 Multivariate Statistical Methods",
+        "description": "Introduction to statistical methods for analyzing data sets in which two or more variables play the role of outcome or response. Descriptive methods for multivariate data. Matrix algebra and random vectors. The multivariate normal distribution. Likelihood and Bayesian inferences about multivariate mean vectors. Analysis of covariance structure: principle components, factor analysis. Discriminant, classification and cluster analysis. (Formerly AMS 225.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, David Draper, Ju Hee Lee",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 206 or STAT 206B, or by permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 225 Multivariate Statistical Methods\nIntroduction to statistical methods for analyzing data sets in which two or more variables play the role of outcome or response. Descriptive methods for multivariate data. Matrix algebra and random vectors. The multivariate normal distribution. Likelihood and Bayesian inferences about multivariate mean vectors. Analysis of covariance structure: principle components, factor analysis. Discriminant, classification and cluster analysis. (Formerly AMS 225.)\nCredits 5\nInstructor The Staff, David Draper, Ju Hee Lee\nRequirements Prerequisite(s): STAT 206 or STAT 206B, or by permission of instructor. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "STAT 226 Spatial Statistics",
+        "description": "Introduction to the analysis of spatial data: theory of correlation structures and variograms; kriging and Gaussian processes; Markov random fields; fitting models to data; computational techniques; frequentist and Bayesian approaches. (Formerly AMS 245.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Herbert Lee, Bruno Sanso",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 207. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "STAT 226 Spatial Statistics\nIntroduction to the analysis of spatial data: theory of correlation structures and variograms; kriging and Gaussian processes; Markov random fields; fitting models to data; computational techniques; frequentist and Bayesian approaches. (Formerly AMS 245.)\nCredits 5\nInstructor Herbert Lee, Bruno Sanso\nRequirements Prerequisite(s): STAT 207. Enrollment is restricted to graduate students.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "STAT 227 Statistical Learning and High Dimensional Data Analysis",
+        "description": "Introductions to statistical learning, modeling, and inference with complex, large, and high-dimensional data. Topics include supervised and unsupervised learning, model selection, dimension reduction, matrix factorization, latent variable models, graphical models, interpretability and causality. Applications in health, social sciences, and engineering.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Zehang Richard Li",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 207. STAT 205 is recommended. Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 227 Statistical Learning and High Dimensional Data Analysis\nIntroductions to statistical learning, modeling, and inference with complex, large, and high-dimensional data. Topics include supervised and unsupervised learning, model selection, dimension reduction, matrix factorization, latent variable models, graphical models, interpretability and causality. Applications in health, social sciences, and engineering.\nCredits 5\nInstructor Zehang Richard Li\nRequirements Prerequisite(s): STAT 207. STAT 205 is recommended. Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 229 Advanced Bayesian Computation",
+        "description": "Teaches some advanced techniques in Bayesian Computation. Topics include Hamiltonian Monte Carlo; slice sampling; sequential Monte Carlo; assumed density filtering; expectation propagation; stochastic gradient descent; approximate Markov chain Monte Carlo; variational inference; and stochastic variational inference. (Formerly AMS 268.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 207, or by permission of the instructor. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 229 Advanced Bayesian Computation\nTeaches some advanced techniques in Bayesian Computation. Topics include Hamiltonian Monte Carlo; slice sampling; sequential Monte Carlo; assumed density filtering; expectation propagation; stochastic gradient descent; approximate Markov chain Monte Carlo; variational inference; and stochastic variational inference. (Formerly AMS 268.)\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): STAT 207, or by permission of the instructor. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.\n"
+    },
+    {
+        "coursename": "STAT 243 Stochastic Processes",
+        "description": "Includes probabilistic and statistical analysis of random processes, continuous-time Markov chains, hidden Markov models, point processes, Markov random fields, spatial and spatio-temporal processes, and statistical modeling and inference in stochastic processes. Applications to a variety of fields. (Formerly AMS 263.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Robert Lund, Athanasios Kottas, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 205B or STAT 246, or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "STAT 243 Stochastic Processes\nIncludes probabilistic and statistical analysis of random processes, continuous-time Markov chains, hidden Markov models, point processes, Markov random fields, spatial and spatio-temporal processes, and statistical modeling and inference in stochastic processes. Applications to a variety of fields. (Formerly AMS 263.)\nCredits 5\nInstructor Robert Lund, Athanasios Kottas, The Staff\nRequirements Prerequisite(s): STAT 205B or STAT 246, or by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "STAT 244 Bayesian Decision Theory",
+        "description": "Explores conceptual and theoretical bases of statistical decision making under uncertainty. Focuses on axiomatic foundations of expected utility, elicitation of subjective probabilities and utilities, and the value of information and modern computational methods for decision problems. (Formerly AMS 221.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Bruno Sanso, David Draper",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 206. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 244 Bayesian Decision Theory\nExplores conceptual and theoretical bases of statistical decision making under uncertainty. Focuses on axiomatic foundations of expected utility, elicitation of subjective probabilities and utilities, and the value of information and modern computational methods for decision problems. (Formerly AMS 221.)\nCredits 5\nInstructor Bruno Sanso, David Draper\nRequirements Prerequisite(s): STAT 206. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "STAT 246 Probability Theory with Markov Chains",
+        "description": "Introduction to probability theory: probability spaces, expectation as Lebesgue integral, characteristic functions, modes of convergence, conditional probability and expectation, discrete-state Markov chains, stationary distributions, limit theorems, ergodic theorem, continuous-state Markov chains, applications to Markov chain Monte Carlo methods. (Formerly AMS 261.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Athanasios Kottas, Robert Lund",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 205B or by permission of instructor. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 246 Probability Theory with Markov Chains\nIntroduction to probability theory: probability spaces, expectation as Lebesgue integral, characteristic functions, modes of convergence, conditional probability and expectation, discrete-state Markov chains, stationary distributions, limit theorems, ergodic theorem, continuous-state Markov chains, applications to Markov chain Monte Carlo methods. (Formerly AMS 261.)\nCredits 5\nInstructor Athanasios Kottas, Robert Lund\nRequirements Prerequisite(s): STAT 205B or by permission of instructor. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "STAT 266A Data Visualization and Statistical Programming in R",
+        "description": "Introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression. Enrollment is by permission of the instructor. (Formerly Applied Math and Statistics 266A and Computer Science 266A.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor The Staff, Suresh Lodha",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "STAT 266A Data Visualization and Statistical Programming in R\nIntroduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression. Enrollment is by permission of the instructor. (Formerly Applied Math and Statistics 266A and Computer Science 266A.)\nCredits 3\nCross Listed Courses CSE 266A\nInstructor The Staff, Suresh Lodha\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "STAT 266B Advanced Statistical Programming in R",
+        "description": "Teaches students already familiar with the R language advanced tools such as interactive graphics, interfacing with low-level languages, package construction, debugging, profiling, and parallel computation. (Formerly Applied Math and Statistics 266B and Computer Science 266B.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Suresh Lodha",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 266B Advanced Statistical Programming in R\nTeaches students already familiar with the R language advanced tools such as interactive graphics, interfacing with low-level languages, package construction, debugging, profiling, and parallel computation. (Formerly Applied Math and Statistics 266B and Computer Science 266B.)\nCredits 3\nCross Listed Courses CSE 266B\nInstructor Suresh Lodha\nRequirements Prerequisite(s): STAT 266A or CSE 266A.\n"
+    },
+    {
+        "coursename": "STAT 266C Introduction to Data Wrangling",
+        "description": "Introduces students to concepts and tools associated with data collection, curation, manipulation, and cleaning including an introduction to relational databases and SQL, regular expressions, API usage, and web scraping using Python. (Formerly Applied Math and Statistics 266C and Computer Science 266C.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Suresh Lodha",
+        "extrarequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "STAT 266C Introduction to Data Wrangling\nIntroduces students to concepts and tools associated with data collection, curation, manipulation, and cleaning including an introduction to relational databases and SQL, regular expressions, API usage, and web scraping using Python. (Formerly Applied Math and Statistics 266C and Computer Science 266C.)\nCredits 3\nCross Listed Courses CSE 266C\nInstructor Suresh Lodha\nRequirements Prerequisite(s): STAT 266A or CSE 266A.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "STAT 280B Seminars in Statistics",
+        "description": "Weekly seminar series covering topics of current research in statistics.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ju Hee Lee, \"Richard\" Li Zehang, The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "STAT 280B Seminars in Statistics\nWeekly seminar series covering topics of current research in statistics.\nCredits 2\nInstructor Ju Hee Lee, \"Richard\" Li Zehang, The Staff\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "STAT 280D Seminar in Bayesian Statistical Methodology",
+        "description": "Weekly seminar/discussion group on Bayesian statistical methods, covering both analytical and computational approaches. Participants present research progress and finding in semiformal discussions. Students must present their own research on a regular basis. (Formerly AMS 280D.)",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 280D Seminar in Bayesian Statistical Methodology\nWeekly seminar/discussion group on Bayesian statistical methods, covering both analytical and computational approaches. Participants present research progress and finding in semiformal discussions. Students must present their own research on a regular basis. (Formerly AMS 280D.)\nCredits 2\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 285 Seminar in Career Skills",
+        "description": "Seminar in career skills for applied mathematicians and statisticians. Learn about professional activities such as the publication process, grant proposals, and the job market.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Herbert Lee",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students, typically within two years of their expected Ph.D. completion date.",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 285 Seminar in Career Skills\nSeminar in career skills for applied mathematicians and statisticians. Learn about professional activities such as the publication process, grant proposals, and the job market.\nCredits 2\nInstructor Herbert Lee\nRequirements Enrollment is restricted to graduate students, typically within two years of their expected Ph.D. completion date.\n"
+    },
+    {
+        "coursename": "STAT 291 Advanced Topics in Bayesian Statistics",
+        "description": "Advanced study of research topics in the theory, methods, or applications of Bayesian statistics. The specific subject depends on the instructor. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 291.)",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "STAT 291 Advanced Topics in Bayesian Statistics\nAdvanced study of research topics in the theory, methods, or applications of Bayesian statistics. The specific subject depends on the instructor. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 291.)\nCredits 3\nInstructor The Staff\nRepeatable For Credit Yes\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "STAT 296 Masters Project",
+        "description": "Independent completion of a masters project under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 296 Masters Project\nIndependent completion of a masters project under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 2\n"
+    },
+    {
+        "coursename": "STAT 297A Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "STAT 297A Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "STAT 297B Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 297B Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 297C Independent Study or Research",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 297C Independent Study or Research\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 15\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 297F Independent Study",
+        "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 297F Independent Study\nIndependent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.\nCredits 2\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 299A Thesis Research",
+        "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 299A Thesis Research\nThesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 299B Thesis Research",
+        "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 299B Thesis Research\nThesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "STAT 299C Thesis Research",
+        "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "STAT 299C Thesis Research\nThesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.\nCredits 15\nRepeatable For Credit Yes\n"
+    }
+]

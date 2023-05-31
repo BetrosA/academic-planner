@@ -1,0 +1,992 @@
+[
+    {
+        "coursename": "PHYS 1A Physics for Everyone",
+        "description": "Explores some of the great topics in classical and modern physics, including relativity, and the connections to a broad range of inquiry, from daily life to cosmology. Math, mainly algebra, is used in a way that is completely accessible to everyone. No previous knowledge of physics is necessary.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Steven Ritz",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 1A Physics for Everyone\nExplores some of the great topics in classical and modern physics, including relativity, and the connections to a broad range of inquiry, from daily life to cosmology. Math, mainly algebra, is used in a way that is completely accessible to everyone. No previous knowledge of physics is necessary.\nCredits 5\nInstructor Steven Ritz\nGeneral Education Code SI\n"
+    },
+    {
+        "coursename": "PHYS 1B Physics for Everyone",
+        "description": "Explores some of the great topics in classical and modern physics, including thermal physics, quantum mechanics, and the constituents of matter, and their connections to a broad range of inquiry, from daily life to particle physics and cosmology. Probabilistic evidence, backgrounds, statistical fluctuations and systematic uncertainties, discovery significance, what we infer, and what can go wrong, are illustrated in some depth. Math is used in a way that is completely accessible to everyone. No previous knowledge of physics or statistics is necessary.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Steven Ritz",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 1B Physics for Everyone\nExplores some of the great topics in classical and modern physics, including thermal physics, quantum mechanics, and the constituents of matter, and their connections to a broad range of inquiry, from daily life to particle physics and cosmology. Probabilistic evidence, backgrounds, statistical fluctuations and systematic uncertainties, discovery significance, what we infer, and what can go wrong, are illustrated in some depth. Math is used in a way that is completely accessible to everyone. No previous knowledge of physics or statistics is necessary.\nCredits 5\nInstructor Steven Ritz\nGeneral Education Code SR\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 2 The Physicist's Toolbox",
+        "description": "Prepares students for success in subsequent classes in physics and astrophysics, course is designed for students majoring or considering majoring in physics, applied physics, or astrophysics, but is open to all. Course includes overview of physics and astrophysics, and their major tools: experiment, theory, observation, and computation. Provides conceptual overview of the top-level theoretical approaches includes classical mechanics, quantum mechanics, and statistical mechanics. Also reviews problem-solving skills for work in subsequent classes, including the physicist's approach to calculus, working intuitively with graphs, solving simultaneous equations, and understanding equations conceptually. Examines the educational path to different physics careers and physics as a collaborative discipline and effective methods for group work as well as individual study.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor David Smith",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 2 The Physicist's Toolbox\nPrepares students for success in subsequent classes in physics and astrophysics, course is designed for students majoring or considering majoring in physics, applied physics, or astrophysics, but is open to all. Course includes overview of physics and astrophysics, and their major tools: experiment, theory, observation, and computation. Provides conceptual overview of the top-level theoretical approaches includes classical mechanics, quantum mechanics, and statistical mechanics. Also reviews problem-solving skills for work in subsequent classes, including the physicist's approach to calculus, working intuitively with graphs, solving simultaneous equations, and understanding equations conceptually. Examines the educational path to different physics careers and physics as a collaborative discipline and effective methods for group work as well as individual study.\nCredits 2\nInstructor David Smith\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 5A Introduction to Physics I",
+        "description": "Elementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Barun Dhar, Robert Johnson",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 19A or MATH 20A; concurrent enrollment in PHYS 5L is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 5A Introduction to Physics I\nElementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.\nCredits 5\nInstructor Barun Dhar, Robert Johnson\nRequirements Prerequisite(s): MATH 19A or MATH 20A; concurrent enrollment in PHYS 5L is required.\nGeneral Education Code MF\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 5B Introduction to Physics II",
+        "description": "A continuation of PHYS 5A. Wave motion in matter, including sound waves. Geometrical optics, interference and polarization, statics and dynamics of fluids.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Barun Dhar",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L and MATH 19A or MATH 20A; concurrent enrollment in PHYS 5M is required. Corequisite: MATH 19B or MATH 20B.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 5B Introduction to Physics II\nA continuation of PHYS 5A. Wave motion in matter, including sound waves. Geometrical optics, interference and polarization, statics and dynamics of fluids.\nCredits 5\nInstructor Barun Dhar\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L and MATH 19A or MATH 20A; concurrent enrollment in PHYS 5M is required. Corequisite: MATH 19B or MATH 20B.\nGeneral Education Code SI\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 5C Introduction to Physics III",
+        "description": "Introduction to electricity and magnetism. Electromagnetic radiation, Maxwell's equations.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Barun Dhar, Sergey Syzranov",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L and MATH 19B or MATH 20B. Concurrent enrollment in PHYS 5N is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 5C Introduction to Physics III\nIntroduction to electricity and magnetism. Electromagnetic radiation, Maxwell's equations.\nCredits 5\nInstructor Barun Dhar, Sergey Syzranov\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L and MATH 19B or MATH 20B. Concurrent enrollment in PHYS 5N is required.\nGeneral Education Code SI\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 5D Introduction to Physics IV",
+        "description": "Introduces temperature, heat, thermal conductivity, diffusion, ideal gases, laws of thermodynamics, heat engines, and kinetic theory. Introduces the special theory of relativity and the equivalence principle. Includes the photoelectric effect, the Compton effect, matter waves, atomic spectra, and the Bohr model.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Stefano Profumo",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L, or PHYS 6A and PHYS 6L; and PHYS 5B or PHYS 6B; and MATH 19B or MATH 20B.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 5D Introduction to Physics IV\nIntroduces temperature, heat, thermal conductivity, diffusion, ideal gases, laws of thermodynamics, heat engines, and kinetic theory. Introduces the special theory of relativity and the equivalence principle. Includes the photoelectric effect, the Compton effect, matter waves, atomic spectra, and the Bohr model.\nCredits 5\nInstructor Stefano Profumo\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L, or PHYS 6A and PHYS 6L; and PHYS 5B or PHYS 6B; and MATH 19B or MATH 20B.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 5L Introduction to Physics I Laboratory",
+        "description": "  Laboratory sequence illustrating topics covered in PHYS 5A. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): concurrent enrollment in PHYS 5A is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 5L Introduction to Physics I Laboratory\n  Laboratory sequence illustrating topics covered in PHYS 5A. One three-hour laboratory session per week.\nCredits 1\nRequirements Prerequisite(s): concurrent enrollment in PHYS 5A is required.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 5M Introduction to Physics II Laboratory",
+        "description": "  Laboratory sequence illustrating topics covered in PHYS 5B. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L; concurrent enrollment in PHYS 5B is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 5M Introduction to Physics II Laboratory\n  Laboratory sequence illustrating topics covered in PHYS 5B. One three-hour laboratory session per week.\nCredits 1\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L; concurrent enrollment in PHYS 5B is required.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 5N Introduction to Physics Laboratory III",
+        "description": "Laboratory sequence illustrating topics covered in PHYS 5C. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L. Concurrent enrollment in PHYS 5C is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 5N Introduction to Physics Laboratory III\nLaboratory sequence illustrating topics covered in PHYS 5C. One three-hour laboratory session per week.\nCredits 1\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L. Concurrent enrollment in PHYS 5C is required.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 6A Introductory Physics I",
+        "description": "Elementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff , David Lederman, Aiming Yan, Art",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A. Concurrent enrollment in PHYS 6L is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "PHYS 6A Introductory Physics I\nElementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.\nCredits 5\nInstructor The Staff , David Lederman, Aiming Yan, Art\nRequirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A. Concurrent enrollment in PHYS 6L is required.\nGeneral Education Code MF\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "PHYS 6B Introductory Physics II",
+        "description": "A continuation of PHYS 6A. Geometric optics; statics and dynamics of fluids; introduction to thermodynamics, including temperature, heat, thermal conductivity, and molecular motion; wave motion in matter, including sound waves.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Barun Dhar, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L; and MATH 11B or MATH 19B or MATH 20B or AM 15B.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "PHYS 6B Introductory Physics II\nA continuation of PHYS 6A. Geometric optics; statics and dynamics of fluids; introduction to thermodynamics, including temperature, heat, thermal conductivity, and molecular motion; wave motion in matter, including sound waves.\nCredits 5\nInstructor Barun Dhar, The Staff\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L; and MATH 11B or MATH 19B or MATH 20B or AM 15B.\nGeneral Education Code SI\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 6C Introductory Physics III",
+        "description": "Introduction to electricity and magnetism. Elementary circuits; Maxwell's equations; electromagnetic radiation; interference and polarization of light.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L, and MATH 11B or MATH 19B or MATH 20B or AM 15B.",
+        "quarteroffered": "Quarter Offered Fall, Spring",
+        "fulldesc": "PHYS 6C Introductory Physics III\nIntroduction to electricity and magnetism. Elementary circuits; Maxwell's equations; electromagnetic radiation; interference and polarization of light.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L, and MATH 11B or MATH 19B or MATH 20B or AM 15B.\nGeneral Education Code SI\nQuarter Offered Fall, Spring\n"
+    },
+    {
+        "coursename": "PHYS 6L Introductory Physics I Laboratory",
+        "description": "  Laboratory sequence illustrating topics covered in PHYS 6A. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in PHYS 6A or PHYS 7A is required.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 6L Introductory Physics I Laboratory\n  Laboratory sequence illustrating topics covered in PHYS 6A. One three-hour laboratory session per week.\nCredits 1\nRequirements Prerequisite(s): Previous or concurrent enrollment in PHYS 6A or PHYS 7A is required.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 6M Introductory Physics II Laboratory",
+        "description": "  Laboratory sequence illustrating topics covered in PHYS 6B. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A, PHYS 6A, or PHYS 7A; and PHYS 5L, PHYS 6L or PHYS 7L; and previous or concurrent enrollment in PHYS 6B.",
+        "quarteroffered": "Quarter Offered Winter, Spring, Summer",
+        "fulldesc": "PHYS 6M Introductory Physics II Laboratory\n  Laboratory sequence illustrating topics covered in PHYS 6B. One three-hour laboratory session per week.\nCredits 1\nRequirements Prerequisite(s): PHYS 5A, PHYS 6A, or PHYS 7A; and PHYS 5L, PHYS 6L or PHYS 7L; and previous or concurrent enrollment in PHYS 6B.\nQuarter Offered Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "PHYS 6N Introductory Physics III Laboratory",
+        "description": "Laboratory sequence illustrating topics covered in PHYS 6C. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 6A and PHYS 6L or PHYS 5A and PHYS 5L; previous or concurrent enrollment in PHYS 6C; PHYS 6B and PHYS 6M are recommended.",
+        "quarteroffered": "Quarter Offered Fall, Spring, Summer",
+        "fulldesc": "PHYS 6N Introductory Physics III Laboratory\nLaboratory sequence illustrating topics covered in PHYS 6C. One three-hour laboratory session per week.\nCredits 1\nRequirements Prerequisite(s): PHYS 6A and PHYS 6L or PHYS 5A and PHYS 5L; previous or concurrent enrollment in PHYS 6C; PHYS 6B and PHYS 6M are recommended.\nQuarter Offered Fall, Spring, Summer\n"
+    },
+    {
+        "coursename": "PHYS 7A Elementary Physics I",
+        "description": "Examines elementary mechanics, including vectors, kinematics, Newton's laws, work and energy, conservation of momentum and energy, fluid motion, and temperature and heat.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A. Concurrent enrollment in PHYS 6L or PHYS 7L is required.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 7A Elementary Physics I\nExamines elementary mechanics, including vectors, kinematics, Newton's laws, work and energy, conservation of momentum and energy, fluid motion, and temperature and heat.\nCredits 5\nRequirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A. Concurrent enrollment in PHYS 6L or PHYS 7L is required.\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "PHYS 7B Elementary Physics II",
+        "description": "Examines elementary wave motion, light polarization, reflection and refraction; elementary electricity, including electric charge, Coulomb's Law,and electric field and potential; electrostatic energy, currents, conductors, resistance, and Ohm's Law; and magnetic fields, inductors, and circuits.",
+        "genEd": "General Education Code SI",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 7A, and MATH 11B, or MATH 19B, or MATH 20B, or AM 15B.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 7B Elementary Physics II\nExamines elementary wave motion, light polarization, reflection and refraction; elementary electricity, including electric charge, Coulomb's Law,and electric field and potential; electrostatic energy, currents, conductors, resistance, and Ohm's Law; and magnetic fields, inductors, and circuits.\nCredits 5\nRequirements Prerequisite(s): PHYS 7A, and MATH 11B, or MATH 19B, or MATH 20B, or AM 15B.\nGeneral Education Code SI\n"
+    },
+    {
+        "coursename": "PHYS 7L Elementary Physics Laboratory",
+        "description": "Laboratory sequence illustrating topics covered in PHYS 7A. One three-hour laboratory session per week.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "Instructor George Brown",
+        "extrarequirements": "Requirements Prerequisite(s): Concurrent enrollment in PHYS 7A is required.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 7L Elementary Physics Laboratory\nLaboratory sequence illustrating topics covered in PHYS 7A. One three-hour laboratory session per week.\nCredits 1\nInstructor George Brown\nRequirements Prerequisite(s): Concurrent enrollment in PHYS 7A is required.\n"
+    },
+    {
+        "coursename": "PHYS 11 The Physicist in Industry",
+        "description": "One two-hour meeting per week. Subjects include roles of the physicist in industry, the business environment in a technical company, economic considerations, job hunting, and discussions with physicists with industrial experience. Enrollment by permission of instructor. Priority given to applied physics upper-division students; other majors if space available.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 11 The Physicist in Industry\nOne two-hour meeting per week. Subjects include roles of the physicist in industry, the business environment in a technical company, economic considerations, job hunting, and discussions with physicists with industrial experience. Enrollment by permission of instructor. Priority given to applied physics upper-division students; other majors if space available.\nCredits 2\nInstructor The Staff\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 80A Elementary Physics of Energy",
+        "description": "The physics of energy developed in a course accessible to non-science majors as well as science majors. Fundamental principles and elementary calculations, at the level of basic algebra, developed and applied to the understanding of the physics of energy. Topics include fossil fuels, renewable energy, solar cells and waste energy, waste-energy recovery, nuclear power, and global greenhouse effects. (Formerly offered as PHYS 2.)",
+        "genEd": "General Education Code PE-E",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 80A Elementary Physics of Energy\nThe physics of energy developed in a course accessible to non-science majors as well as science majors. Fundamental principles and elementary calculations, at the level of basic algebra, developed and applied to the understanding of the physics of energy. Topics include fossil fuels, renewable energy, solar cells and waste energy, waste-energy recovery, nuclear power, and global greenhouse effects. (Formerly offered as PHYS 2.)\nCredits 5\nGeneral Education Code PE-E\n"
+    },
+    {
+        "coursename": "PHYS 80U Physics and Psychophysics of Music",
+        "description": "Fundamental theory of vibration, sound waves, sound propagation, diffraction, and interference. Free, coupled, and driven oscillations. Resonance phenomena and modes of oscillation. Fourier's theorem. Anatomy and psychophysics of the ear. Musical scales and intervals. Nature of plucked and bowed strings; guitar, violin, piano. Woodwind and brass instruments. Architectural acoustics. High school algebra and basic knowledge of musical notation recommended.",
+        "genEd": "General Education Code MF",
+        "credithours": "Credits 5",
+        "instructor": "Instructor C Martin Gaskell",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 80U Physics and Psychophysics of Music\nFundamental theory of vibration, sound waves, sound propagation, diffraction, and interference. Free, coupled, and driven oscillations. Resonance phenomena and modes of oscillation. Fourier's theorem. Anatomy and psychophysics of the ear. Musical scales and intervals. Nature of plucked and bowed strings; guitar, violin, piano. Woodwind and brass instruments. Architectural acoustics. High school algebra and basic knowledge of musical notation recommended.\nCredits 5\nCross Listed Courses MUSC 80U\nInstructor C Martin Gaskell\nGeneral Education Code MF\n"
+    },
+    {
+        "coursename": "PHYS 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 102 Modern Physics",
+        "description": "Topics in quantum physics including the Schrodinger equation; angular momentum and spin; the Pauli exclusion principle; and quantum statistics. Applications in multi-electron atoms and molecules, and in solid-state, nuclear, and particle physics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Stefania Gori, Barun Dhar",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A, PHYS 5L, PHYS 5B, PHYS 5M, PHYS 5C, PHYS 5N and PHYS 5D; or PHYS 6A, PHYS 6L, PHYS 6B, PHYS 6M, PHYS 6C, PHYS 6N, and PHYS 5D; or equivalent.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 102 Modern Physics\nTopics in quantum physics including the Schrodinger equation; angular momentum and spin; the Pauli exclusion principle; and quantum statistics. Applications in multi-electron atoms and molecules, and in solid-state, nuclear, and particle physics.\nCredits 5\nInstructor Stefania Gori, Barun Dhar\nRequirements Prerequisite(s): PHYS 5A, PHYS 5L, PHYS 5B, PHYS 5M, PHYS 5C, PHYS 5N and PHYS 5D; or PHYS 6A, PHYS 6L, PHYS 6B, PHYS 6M, PHYS 6C, PHYS 6N, and PHYS 5D; or equivalent.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 105 Mechanics",
+        "description": "Particle dynamics in one, two, and three dimensions. Conservation laws. Small oscillations, Fourier series and Fourier integral solutions. Phase diagrams and nonlinear motions, Lagrange's equations, and Hamiltonian dynamics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L; and PHYS 116A or MATH 21 plus MATH 24 or AM 10 plus AM 20; and ASTR 119 or CSE 20. Concurrent enrollment in PHYS 116C or MATH 107 is required.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 105 Mechanics\nParticle dynamics in one, two, and three dimensions. Conservation laws. Small oscillations, Fourier series and Fourier integral solutions. Phase diagrams and nonlinear motions, Lagrange's equations, and Hamiltonian dynamics.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PHYS 5A and PHYS 5L; and PHYS 116A or MATH 21 plus MATH 24 or AM 10 plus AM 20; and ASTR 119 or CSE 20. Concurrent enrollment in PHYS 116C or MATH 107 is required.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 110A Electricity, Magnetism, and Optics",
+        "description": "Examines electrostatics, including the electric field, potential, solutions to Laplace's and Poisson's equations, and work and energy; electricity in matter (conductors, dielectrics); magnetostatics, including the magnetic field and vector potential, Ampere's and Faraday's laws; magnetism in matter; and Maxwell's equations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Michael Hance",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5C; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 110A Electricity, Magnetism, and Optics\nExamines electrostatics, including the electric field, potential, solutions to Laplace's and Poisson's equations, and work and energy; electricity in matter (conductors, dielectrics); magnetostatics, including the magnetic field and vector potential, Ampere's and Faraday's laws; magnetism in matter; and Maxwell's equations.\nCredits 5\nInstructor Michael Hance\nRequirements Prerequisite(s): PHYS 5C; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 110B Electricity, Magnetism, and Optics",
+        "description": "Examines electromagnetic waves, including absorption and dispersion, reflection and transmission, and wave guides; conservation laws and gauge invariance; time-dependent vector and scalar potentials and application to radiation of charges and antennae; and electrodynamics and relativity.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Onuttom Narayan",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 110A; and PHYS 116C or MATH 107.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 110B Electricity, Magnetism, and Optics\nExamines electromagnetic waves, including absorption and dispersion, reflection and transmission, and wave guides; conservation laws and gauge invariance; time-dependent vector and scalar potentials and application to radiation of charges and antennae; and electrodynamics and relativity.\nCredits 5\nInstructor Onuttom Narayan\nRequirements Prerequisite(s): PHYS 110A; and PHYS 116C or MATH 107.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 112 Thermodynamics and Statistical Mechanics",
+        "description": "Consequences of the first and second laws of thermodynamics, elementary statistical mechanics, thermodynamics of irreversible processes.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sasha Sher",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5D and MATH 23B. Concurrent enrollment in PHYS 102 is required.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 112 Thermodynamics and Statistical Mechanics\nConsequences of the first and second laws of thermodynamics, elementary statistical mechanics, thermodynamics of irreversible processes.\nCredits 5\nInstructor Sasha Sher\nRequirements Prerequisite(s): PHYS 5D and MATH 23B. Concurrent enrollment in PHYS 102 is required.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 115 Computational Physics",
+        "description": "This course applies efficient numerical methods to the solutions of problems in the physical sciences which are otherwise intractable. Examples will be drawn from classical mechanics, quantum mechanics, statistical mechanics, and electrodynamics. Students apply a high-level programming language, such as Python, to the solution of physical problems and develop appropriate error and stability estimates.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jason Nielsen",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 102 and PHYS 105; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107, or equivalent. Basic programming experience in Python or similar language.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 115 Computational Physics\nThis course applies efficient numerical methods to the solutions of problems in the physical sciences which are otherwise intractable. Examples will be drawn from classical mechanics, quantum mechanics, statistical mechanics, and electrodynamics. Students apply a high-level programming language, such as Python, to the solution of physical problems and develop appropriate error and stability estimates.\nCredits 5\nInstructor Jason Nielsen\nRequirements Prerequisite(s): PHYS 102 and PHYS 105; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107, or equivalent. Basic programming experience in Python or similar language.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 116A Mathematical Methods in Physics",
+        "description": "Infinite series, topics in linear algebra including vector spaces, matrices and determinants, systems of linear equations, eigenvalue problems and matrix diagonalization, tensor algebra, and ordinary differential equations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): MATH 23A.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 116A Mathematical Methods in Physics\nInfinite series, topics in linear algebra including vector spaces, matrices and determinants, systems of linear equations, eigenvalue problems and matrix diagonalization, tensor algebra, and ordinary differential equations.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): MATH 23A.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 116C Mathematical Methods in Physics",
+        "description": "Fourier series and transforms, Dirac-delta function, Green's functions, series solutions of ordinary equations, Legendre polynomials, Bessel functions, sets of orthogonal functions, and partial differential equations.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Onuttom Narayan, Bruce Schumm",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and MATH 23A and MATH 23B.",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "PHYS 116C Mathematical Methods in Physics\nFourier series and transforms, Dirac-delta function, Green's functions, series solutions of ordinary equations, Legendre polynomials, Bessel functions, sets of orthogonal functions, and partial differential equations.\nCredits 5\nInstructor Onuttom Narayan, Bruce Schumm\nRequirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and MATH 23A and MATH 23B.\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 116D Mathematical Methods in Physics",
+        "description": "Complex functions, complex analysis, asymptotic series and expansions, special functions defined by integrals, and probability and statistics. (Formerly offered as PHYS 116B.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor George Brown",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and PHYS 116C.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 116D Mathematical Methods in Physics\nComplex functions, complex analysis, asymptotic series and expansions, special functions defined by integrals, and probability and statistics. (Formerly offered as PHYS 116B.)\nCredits 5\nInstructor George Brown\nRequirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24; and PHYS 116C.\n"
+    },
+    {
+        "coursename": "PHYS 120 Polymer Physics",
+        "description": "Statistical properties polymers; scaling behavior, fractal dimensions; random walks, self avoidance; single chains and concentrated solutions; dynamics and topological effects in melts; polymer networks; sol-gel transitions; polymer blends; application to biological systems; computer simulations will demonstrate much of the above. Students cannot receive credit for this course and PHYS 240.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joshua Deutsch",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 112.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 120 Polymer Physics\nStatistical properties polymers; scaling behavior, fractal dimensions; random walks, self avoidance; single chains and concentrated solutions; dynamics and topological effects in melts; polymer networks; sol-gel transitions; polymer blends; application to biological systems; computer simulations will demonstrate much of the above. Students cannot receive credit for this course and PHYS 240.\nCredits 5\nInstructor Joshua Deutsch\nRequirements Prerequisite(s): PHYS 112.\n"
+    },
+    {
+        "coursename": "PHYS 129 Particle Physics and Astrophysics",
+        "description": "The standard model of particle physics; physics beyond the standard model; neutrino physics; the early universe; dark matter and dark energy; selected topics in general relativistic cosmology and high-energy astrophysics. (Formerly Nuclear and Particle Astrophysics.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mike Hance",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5D, PHYS 102, and MATH 23B; and PHYS 116A or MATH 21. Students with equivalent coursework may contact instructor for permission to enroll.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 129 Particle Physics and Astrophysics\nThe standard model of particle physics; physics beyond the standard model; neutrino physics; the early universe; dark matter and dark energy; selected topics in general relativistic cosmology and high-energy astrophysics. (Formerly Nuclear and Particle Astrophysics.)\nCredits 5\nInstructor Mike Hance\nRequirements Prerequisite(s): PHYS 5D, PHYS 102, and MATH 23B; and PHYS 116A or MATH 21. Students with equivalent coursework may contact instructor for permission to enroll.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 133 Intermediate Laboratory",
+        "description": "Demonstration of phenomena of classical and modern physics. Development of a familiarity with experimental methods. Special experimental projects may be undertaken by students in this laboratory.",
+        "genEd": "General Education Code SR",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Art Ramirez, Aiming Yan, Jairo Velasco",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5D and one from CSE 5J, or CSE 14, or CSE 20, or ASTR 119, or by permission of the instructor. Enrollment is restricted to physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring, Summer",
+        "fulldesc": "PHYS 133 Intermediate Laboratory\nDemonstration of phenomena of classical and modern physics. Development of a familiarity with experimental methods. Special experimental projects may be undertaken by students in this laboratory.\nCredits 5\nInstructor Art Ramirez, Aiming Yan, Jairo Velasco\nRequirements Prerequisite(s): PHYS 5C and PHYS 5D and one from CSE 5J, or CSE 14, or CSE 20, or ASTR 119, or by permission of the instructor. Enrollment is restricted to physics, applied physics, physics (astrophysics), and science education majors and physics minors.\nGeneral Education Code SR\nQuarter Offered Fall, Winter, Spring, Summer\n"
+    },
+    {
+        "coursename": "PHYS 134 Physics Advanced Laboratory",
+        "description": "Individual experimental investigations of basic phenomena in atomic, nuclear, and solid state physics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sasha Sher, Art Ramirez",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Winter, Spring",
+        "fulldesc": "PHYS 134 Physics Advanced Laboratory\nIndividual experimental investigations of basic phenomena in atomic, nuclear, and solid state physics.\nCredits 5\nInstructor Sasha Sher, Art Ramirez\nRequirements Prerequisite(s): PHYS 133 and PHYS 102.\nRepeatable For Credit Yes\nQuarter Offered Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 135 Astrophysics Advanced Laboratory",
+        "description": "Introduction to the techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Offered in some academic years as a multiple-term course: PHYS 135A in fall and PHYS 135B in winter, depending on astronomical conditions.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Steve Ritz, David Smith",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
+        "quarteroffered": "Quarter Offered Fall, Winter",
+        "fulldesc": "PHYS 135 Astrophysics Advanced Laboratory\nIntroduction to the techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Offered in some academic years as a multiple-term course: PHYS 135A in fall and PHYS 135B in winter, depending on astronomical conditions.\nCredits 5\nCross Listed Courses ASTR 135\nInstructor Steve Ritz, David Smith\nRequirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.\nQuarter Offered Fall, Winter\n"
+    },
+    {
+        "coursename": "PHYS 135A Astrophysics Advanced Laboratory",
+        "description": "Introduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term course PHYS 135 in fall, depending on astronomical conditions.",
+        "genEd": "none",
+        "credithours": "Credits 3",
+        "instructor": "Instructor Tesla Jeltema",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 135A Astrophysics Advanced Laboratory\nIntroduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term course PHYS 135 in fall, depending on astronomical conditions.\nCredits 3\nCross Listed Courses ASTR 135A\nInstructor Tesla Jeltema\nRequirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors.\n"
+    },
+    {
+        "coursename": "PHYS 135B Astrophysics Advanced Laboratory",
+        "description": "Introduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term PHYS 135 in fall, depending on astronomical conditions.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor George Brown",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 135A. Enrollment is restricted to physics (astrophysics) majors.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 135B Astrophysics Advanced Laboratory\nIntroduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term PHYS 135 in fall, depending on astronomical conditions.\nCredits 2\nCross Listed Courses ASTR 135B\nInstructor George Brown\nRequirements Prerequisite(s): PHYS 135A. Enrollment is restricted to physics (astrophysics) majors.\n"
+    },
+    {
+        "coursename": "PHYS 137 Advanced Optics Laboratory",
+        "description": "Application of advanced optical techniques to the study of problems in astrophysics, physics, chemistry, biology, and engineering. Techniques include interferometry, Fourier optics, adaptive optics, optical tweezers, photon correlation spectroscopy, optical pumping, laser spectroscopy, and more.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sasha Sher",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 102 or ECE 102; and PHYS 133 or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 137 Advanced Optics Laboratory\nApplication of advanced optical techniques to the study of problems in astrophysics, physics, chemistry, biology, and engineering. Techniques include interferometry, Fourier optics, adaptive optics, optical tweezers, photon correlation spectroscopy, optical pumping, laser spectroscopy, and more.\nCredits 5\nInstructor Sasha Sher\nRequirements Prerequisite(s): PHYS 102 or ECE 102; and PHYS 133 or by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 139A Quantum Mechanics I",
+        "description": "Basic principles and mathematical techniques of nonrelativistic quantum mechanics: Schrodinger equation and Dirac notation; one-dimensional systems, including the free particle and harmonic oscillator; three-dimensional problems with spherical symmetry; angular momentum; hydrogen atom; spin; identical particles and degenerate gases.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Aris Alexandradinata",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 102; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 139A Quantum Mechanics I\nBasic principles and mathematical techniques of nonrelativistic quantum mechanics: Schrodinger equation and Dirac notation; one-dimensional systems, including the free particle and harmonic oscillator; three-dimensional problems with spherical symmetry; angular momentum; hydrogen atom; spin; identical particles and degenerate gases.\nCredits 5\nInstructor Aris Alexandradinata\nRequirements Prerequisite(s): PHYS 102; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 139B Quantum Mechanics II",
+        "description": "Approximation methods in nonrelativistic quantum mechanics: time-independent perturbation theory (non-degenerate and degenerate) and addition of angular momenta; variational methods; the WKB approximation; time-dependent perturbation theory and radiation theory; scattering theory.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sriram Shastry",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 102; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107; and PHYS 139A.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 139B Quantum Mechanics II\nApproximation methods in nonrelativistic quantum mechanics: time-independent perturbation theory (non-degenerate and degenerate) and addition of angular momenta; variational methods; the WKB approximation; time-dependent perturbation theory and radiation theory; scattering theory.\nCredits 5\nInstructor Sriram Shastry\nRequirements Prerequisite(s): PHYS 102; and PHYS 116A or MATH 21 and MATH 24; and PHYS 116C or MATH 107; and PHYS 139A.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 150 Quantum Computing",
+        "description": "Review of linear algebra. Includes basic concepts in quantum mechanics including quantum states, measurements, operators, entanglement, entanglement entropy, \"no cloning\" theorem, and density matrices; classical gates, reversible computing, and quantum gates; several quantum algorithms including Deutsch's algorithm, Simon's algorithm, Shor's algorithm, and the Grover algorithm; quantum error correction; and quantum key distribution and teleportation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Peter Young",
+        "extrarequirements": "Requirements PHYS 116A or MATH 21 or AM 10. Enrollment is restricted to juniors and seniors.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 150 Quantum Computing\nReview of linear algebra. Includes basic concepts in quantum mechanics including quantum states, measurements, operators, entanglement, entanglement entropy, \"no cloning\" theorem, and density matrices; classical gates, reversible computing, and quantum gates; several quantum algorithms including Deutsch's algorithm, Simon's algorithm, Shor's algorithm, and the Grover algorithm; quantum error correction; and quantum key distribution and teleportation.\nCredits 5\nCross Listed Courses CSE 109\nInstructor Peter Young\nRequirements PHYS 116A or MATH 21 or AM 10. Enrollment is restricted to juniors and seniors.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 152 Physics and Machine Learning",
+        "description": "Review of select topics in statistical physics including information theory, entropy, coupled systems, phase transitions, and symmetry breaking. Introduction to multivariate algorithms, with an emphasis on their foundations in statistical physics and classical mechanics. Notebooks, data preparation, cross-validation, supervised and unsupervised learning. Practical considerations for training and optimizing neural networks and related tools. (Formerly offered as Neural Networks, Statistical Physics and Computing.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Mike Hance",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 105 and PHYS 112; and CSE 20 or ASTR 119 or PHYS 115 or prior programming experience with permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 152 Physics and Machine Learning\nReview of select topics in statistical physics including information theory, entropy, coupled systems, phase transitions, and symmetry breaking. Introduction to multivariate algorithms, with an emphasis on their foundations in statistical physics and classical mechanics. Notebooks, data preparation, cross-validation, supervised and unsupervised learning. Practical considerations for training and optimizing neural networks and related tools. (Formerly offered as Neural Networks, Statistical Physics and Computing.)\nCredits 5\nInstructor Mike Hance\nRequirements Prerequisite(s): PHYS 105 and PHYS 112; and CSE 20 or ASTR 119 or PHYS 115 or prior programming experience with permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 156 Applications of Quantum Materials",
+        "description": "Quantum mechanics in solid-state materials plays a fundamental role in the development of quantum computation and sustainable technologies, as well as the search for fundamental physics beyond the Standard Model. This course introduces the quantum physics of semiconductors and low-dimensional materials (such as graphene), with emphasis on applications to transistors for logic operations, p-n junctions for photovoltaic cells and particle detection, as well as quantum dots for qubits. (Formerly Applications of Solid State Physics.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Aris Alexandradinata",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 102 or CHEM 163A.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 156 Applications of Quantum Materials\nQuantum mechanics in solid-state materials plays a fundamental role in the development of quantum computation and sustainable technologies, as well as the search for fundamental physics beyond the Standard Model. This course introduces the quantum physics of semiconductors and low-dimensional materials (such as graphene), with emphasis on applications to transistors for logic operations, p-n junctions for photovoltaic cells and particle detection, as well as quantum dots for qubits. (Formerly Applications of Solid State Physics.)\nCredits 5\nInstructor Aris Alexandradinata\nRequirements Prerequisite(s): PHYS 102 or CHEM 163A.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 157 Frontier of Quantum Materials",
+        "description": "The fundamentals of quantum materials are revamped by incorporating the geometric Berry phase and the topology of quantum wave functions. The traditional solid-state phenomena of superconductivity and magnetism are taught from a cutting-edge topological perspective, to understand phenomena such as the quantum Hall effect and emergent Majorana fermions. Applications of topological quantum materials range from spintronics to quantum information and computation. (Formerly offered as PHYS 155, Solid State Physics.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jairo Velasco",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 112 and PHYS 139A; students with equivalent coursework may contact instructor for permission to enroll.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 157 Frontier of Quantum Materials\nThe fundamentals of quantum materials are revamped by incorporating the geometric Berry phase and the topology of quantum wave functions. The traditional solid-state phenomena of superconductivity and magnetism are taught from a cutting-edge topological perspective, to understand phenomena such as the quantum Hall effect and emergent Majorana fermions. Applications of topological quantum materials range from spintronics to quantum information and computation. (Formerly offered as PHYS 155, Solid State Physics.)\nCredits 5\nInstructor Jairo Velasco\nRequirements Prerequisite(s): PHYS 112 and PHYS 139A; students with equivalent coursework may contact instructor for permission to enroll.\n"
+    },
+    {
+        "coursename": "PHYS 160 Practical Electronics",
+        "description": "Provides a practical knowledge of analog electronics that experimentalists generally need in research, including basic circuits with bipolar and field-effect transistors, op-amps, comparators, oscillators, and voltage regulators. It assumes no previous knowledge of electronics but includes twice-weekly lectures with some homework assignments, including small circuit simulations done using PSpice. However, with the aid of the instructor and teaching assistant, the students are expected to learn mainly through the construction, debugging, and analysis of small electronics projects.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Robert Johnson",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 160 Practical Electronics\nProvides a practical knowledge of analog electronics that experimentalists generally need in research, including basic circuits with bipolar and field-effect transistors, op-amps, comparators, oscillators, and voltage regulators. It assumes no previous knowledge of electronics but includes twice-weekly lectures with some homework assignments, including small circuit simulations done using PSpice. However, with the aid of the instructor and teaching assistant, the students are expected to learn mainly through the construction, debugging, and analysis of small electronics projects.\nCredits 5\nInstructor Robert Johnson\nRequirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N.\n"
+    },
+    {
+        "coursename": "PHYS 171 General Relativity, Black Holes, and Cosmology",
+        "description": "Special relativity is reviewed. Curved space-time, including the metric and geodesics, are illustrated with simple examples. The Einstein equations are solved for cases of high symmetry. Black-hole physics and cosmology are discussed, including recent developments.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Edgar Shaghoulian",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 105, PHYS 110A, and PHYS 110B; and PHYS 116A or MATH 21 and MATH 24.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 171 General Relativity, Black Holes, and Cosmology\nSpecial relativity is reviewed. Curved space-time, including the metric and geodesics, are illustrated with simple examples. The Einstein equations are solved for cases of high symmetry. Black-hole physics and cosmology are discussed, including recent developments.\nCredits 5\nCross Listed Courses ASTR 171\nInstructor Edgar Shaghoulian\nRequirements Prerequisite(s): PHYS 105, PHYS 110A, and PHYS 110B; and PHYS 116A or MATH 21 and MATH 24.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 180 Biophysics",
+        "description": "Physical principles and techniques used in biology: X-ray diffraction; nuclear magnetic resonance; statistics, kinetics, and thermodynamics of macromolecules; viscosity and diffusion; DNA/RNA pairing; electrophoresis; physics of enzymes; biological energy conversion; optical tweezers.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joshua Deutsch",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 112; students who have a biochemistry background may contact instructor for permission. Restricted to juniors and seniors.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 180 Biophysics\nPhysical principles and techniques used in biology: X-ray diffraction; nuclear magnetic resonance; statistics, kinetics, and thermodynamics of macromolecules; viscosity and diffusion; DNA/RNA pairing; electrophoresis; physics of enzymes; biological energy conversion; optical tweezers.\nCredits 5\nInstructor Joshua Deutsch\nRequirements Prerequisite(s): PHYS 112; students who have a biochemistry background may contact instructor for permission. Restricted to juniors and seniors.\nGeneral Education Code PR-E\n"
+    },
+    {
+        "coursename": "PHYS 182 Scientific Communication for Physicists",
+        "description": "Develops the writing skills necessary to prepare professional publications: how to structure a physics article; write for a specific audience with clarity, precision, and concision; and deliver a short informal presentation. Additionally, students become familiar with the peer review process and the ethics of the publication process.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Aiming Yan, The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 133 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors in physics, astrophysics, applied physics, or physics education.",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 182 Scientific Communication for Physicists\nDevelops the writing skills necessary to prepare professional publications: how to structure a physics article; write for a specific audience with clarity, precision, and concision; and deliver a short informal presentation. Additionally, students become familiar with the peer review process and the ethics of the publication process.\nCredits 5\nInstructor Aiming Yan, The Staff\nRequirements Prerequisite(s): PHYS 133 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors in physics, astrophysics, applied physics, or physics education.\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 191 Teaching Practicum",
+        "description": "Designed to provide upper-division undergraduates with an opportunity to work with students in lower division courses, leading discussions, reading and marking submissions, and assisting in the planning and teaching of a course. Prerequisite(s): excellent performance in major courses; instructor approval required; enrollment restricted to senior physics majors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 191 Teaching Practicum\nDesigned to provide upper-division undergraduates with an opportunity to work with students in lower division courses, leading discussions, reading and marking submissions, and assisting in the planning and teaching of a course. Prerequisite(s): excellent performance in major courses; instructor approval required; enrollment restricted to senior physics majors.\nCredits 5\n"
+    },
+    {
+        "coursename": "PHYS 192 Directed Student Teaching",
+        "description": "Teaching of a lower-division seminar under faculty supervision. (See PHYS 42.) Prerequisite(s): upper-division standing; submission of a proposal supported by a faculty member willing to supervise.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 192 Directed Student Teaching\nTeaching of a lower-division seminar under faculty supervision. (See PHYS 42.) Prerequisite(s): upper-division standing; submission of a proposal supported by a faculty member willing to supervise.\nCredits 5\n"
+    },
+    {
+        "coursename": "PHYS 195A Senior Thesis I",
+        "description": "Independent research for seniors conducted under the supervision of a faculty mentor. Students develop a written research proposal, thesis outline, and introductory material. Prerequisite(s): Entry Level Writing and Composition requirements. Enrollment is restricted to senior applied physics, physics, and physics (astrophysics) majors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 195A Senior Thesis I\nIndependent research for seniors conducted under the supervision of a faculty mentor. Students develop a written research proposal, thesis outline, and introductory material. Prerequisite(s): Entry Level Writing and Composition requirements. Enrollment is restricted to senior applied physics, physics, and physics (astrophysics) majors.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 195B Senior Thesis II",
+        "description": "Independent research for seniors conducted under the supervision of a faculty mentor. Students prepare an oral presentation of their results, and they submit a written senior thesis on their research topic. Prerequisite(s): Entry Level Writing and Composition requirements. Enrollment is restricted to senior applied physics, physics, and physics (astrophysics) majors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 195B Senior Thesis II\nIndependent research for seniors conducted under the supervision of a faculty mentor. Students prepare an oral presentation of their results, and they submit a written senior thesis on their research topic. Prerequisite(s): Entry Level Writing and Composition requirements. Enrollment is restricted to senior applied physics, physics, and physics (astrophysics) majors.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 199F Tutorial",
+        "description": "Tutorial",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 199F Tutorial\nTutorial\nCredits 2\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 202 Introduction to Teaching in Physics",
+        "description": "A practical introduction to working as a teaching assistant for undergraduate classes in physics, including both teaching laboratories and running discussion sections. The training includes topics in classroom climate and inclusivity, active learning, motivating students, office hours, information technology, grading, communication with the instructor, and handling difficult situations. Students engaged in teaching in the same quarter are encouraged to apply the lessons in their classes and return with feedback to be discussed. Required course for first year graduate students.",
+        "genEd": "none",
+        "credithours": "Credits 1",
+        "instructor": "Instructor Jordan Schamhorf",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 202 Introduction to Teaching in Physics\nA practical introduction to working as a teaching assistant for undergraduate classes in physics, including both teaching laboratories and running discussion sections. The training includes topics in classroom climate and inclusivity, active learning, motivating students, office hours, information technology, grading, communication with the instructor, and handling difficult situations. Students engaged in teaching in the same quarter are encouraged to apply the lessons in their classes and return with feedback to be discussed. Required course for first year graduate students.\nCredits 1\nInstructor Jordan Schamhorf\nRequirements Enrollment is restricted to graduate students.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 205 Introduction to Research in Physics",
+        "description": "Introduction to current research opportunities at UCSC for graduate students. Topics include: elementary particle physics, condensed matter and solid state physics, high energy astrophysics, biophysics, and cosmology. Selected topics related to career development may also be included.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 205 Introduction to Research in Physics\nIntroduction to current research opportunities at UCSC for graduate students. Topics include: elementary particle physics, condensed matter and solid state physics, high energy astrophysics, biophysics, and cosmology. Selected topics related to career development may also be included.\nCredits 2\nInstructor The Staff\nRequirements Enrollment is restricted to graduate students or by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 210 Classical Mechanics and Thermal Physics",
+        "description": "Generalized coordinates, Lagrange and Hamiltonian mechanics, Poisson Brackets, Classical field theory, other advanced topics in classical dynamics. Introduction to thermodynamics, thermodynamic potentials and Legendre transforms, entropy, distribution functions. (Formerly Classical Mechanics.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sergey Syzranov",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 210 Classical Mechanics and Thermal Physics\nGeneralized coordinates, Lagrange and Hamiltonian mechanics, Poisson Brackets, Classical field theory, other advanced topics in classical dynamics. Introduction to thermodynamics, thermodynamic potentials and Legendre transforms, entropy, distribution functions. (Formerly Classical Mechanics.)\nCredits 5\nInstructor Sergey Syzranov\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 212 Electromagnetism I",
+        "description": "Examines electrostatics and magnetostatics, boundary value problems, multipole expansion, dielectric and magnetic materials, time-varying electromagnetic fields, Maxwell's equations, conservation laws, and plane electromagnetic waves and wave propagation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Onuttom Narayan",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 212 Electromagnetism I\nExamines electrostatics and magnetostatics, boundary value problems, multipole expansion, dielectric and magnetic materials, time-varying electromagnetic fields, Maxwell's equations, conservation laws, and plane electromagnetic waves and wave propagation.\nCredits 5\nInstructor Onuttom Narayan\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 214 Electromagnetism II",
+        "description": "Electromagnetic waves; waves in dispersive media; waveguides and cavities; complete development of special relativity with applications; Lorentz covariant formulation of Maxwell's equations; radiating systems; scattering and diffraction; advanced topics in radiation theory and optics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 212. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 214 Electromagnetism II\nElectromagnetic waves; waves in dispersive media; waveguides and cavities; complete development of special relativity with applications; Lorentz covariant formulation of Maxwell's equations; radiating systems; scattering and diffraction; advanced topics in radiation theory and optics.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PHYS 212. Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 215 Introduction to Non-Relativistic Quantum Mechanics",
+        "description": "Mathematic introduction; fundamental postulates; time evolution operator, including the Heisenberg and Schrodinger pictures; simple harmonic oscillator and coherent states; one-dimensional scattering theory, including S-matrix resonant phenomena; two-state systems, including magnetic resonance; symmetries, including rotation group, spin, and the Wigner-Eckart theorem; rotationally invariant problems, including the hydrogen atom; gauge invariance, including Landau levels; introduction to path integral.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Tesla Jeltema",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 215 Introduction to Non-Relativistic Quantum Mechanics\nMathematic introduction; fundamental postulates; time evolution operator, including the Heisenberg and Schrodinger pictures; simple harmonic oscillator and coherent states; one-dimensional scattering theory, including S-matrix resonant phenomena; two-state systems, including magnetic resonance; symmetries, including rotation group, spin, and the Wigner-Eckart theorem; rotationally invariant problems, including the hydrogen atom; gauge invariance, including Landau levels; introduction to path integral.\nCredits 5\nInstructor Tesla Jeltema\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 216 Advanced Topics in Non-Relativistic Quantum Mechanics",
+        "description": "Approximate methods: time-independent perturbation theory, variational principle, time-dependent perturbation theory; three-dimensional scattering theory; identical particles; permutation symmetry and exchange degeneracy, anti-symmetric and symmetric states; many-body systems and self-consistent fields: variational calculations; second quantized formalism, including Fock spaces/number representation, field operators and Green functions; applications: electron gas; quantization of the electromagnetic field and interaction of radiation with matter: absorption, emission, scattering, photoelectric effect, and lifetimes.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Aris Alexandradinata",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 215. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 216 Advanced Topics in Non-Relativistic Quantum Mechanics\nApproximate methods: time-independent perturbation theory, variational principle, time-dependent perturbation theory; three-dimensional scattering theory; identical particles; permutation symmetry and exchange degeneracy, anti-symmetric and symmetric states; many-body systems and self-consistent fields: variational calculations; second quantized formalism, including Fock spaces/number representation, field operators and Green functions; applications: electron gas; quantization of the electromagnetic field and interaction of radiation with matter: absorption, emission, scattering, photoelectric effect, and lifetimes.\nCredits 5\nInstructor Aris Alexandradinata\nRequirements Prerequisite(s): PHYS 215. Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 217 Quantum Field Theory I",
+        "description": "Lorentz invariance in quantum theory, Dirac and Klein-Gordon equations, the relativistic hydrogen atom, Green functions and canonical approach to field theory, quantum electrodynamics, Feynman diagrams for scattering processes, symmetries and Ward identities. Students learn to perform calculations of scattering and decay of particles in field theory.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Stephania Gori",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 216 or exception by permission of the instructor. Enrollment is restricted to graduate students or by permission of the instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 217 Quantum Field Theory I\nLorentz invariance in quantum theory, Dirac and Klein-Gordon equations, the relativistic hydrogen atom, Green functions and canonical approach to field theory, quantum electrodynamics, Feynman diagrams for scattering processes, symmetries and Ward identities. Students learn to perform calculations of scattering and decay of particles in field theory.\nCredits 5\nInstructor Stephania Gori\nRequirements Prerequisite(s): PHYS 216 or exception by permission of the instructor. Enrollment is restricted to graduate students or by permission of the instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 218 Quantum Field Theory II",
+        "description": "Path integral approach to quantum field theory. Theory of renormalization and the renormalization group, introduction to gauge theories and spontaneously broken field theories. Applications to the standard model of strong, weak, and electromagnetic interactions.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Stefania Gori",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 217. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 218 Quantum Field Theory II\nPath integral approach to quantum field theory. Theory of renormalization and the renormalization group, introduction to gauge theories and spontaneously broken field theories. Applications to the standard model of strong, weak, and electromagnetic interactions.\nCredits 5\nInstructor Stefania Gori\nRequirements Prerequisite(s): PHYS 217. Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 219 Statistical Physics",
+        "description": "The basic laws of thermodynamics, entropy, thermodynamic potentials, kinetic theory of gases, quantum and classical statistical mechanics, virial expansion, linear response theory. Applications in condensed matter physics.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sergey Syzranov",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 219 Statistical Physics\nThe basic laws of thermodynamics, entropy, thermodynamic potentials, kinetic theory of gases, quantum and classical statistical mechanics, virial expansion, linear response theory. Applications in condensed matter physics.\nCredits 5\nInstructor Sergey Syzranov\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 220 Theory of Many-Body Physics",
+        "description": "Finite temperature Green functions, Feynman diagrams, Dyson equation, linked cluster theorem, Kubo formula for electrical conductivity, electron gas, random phase approximation, Fermi surfaces, Landau fermi liquid theory, electron phonon coupling, Migdal's theorem, superconductivity.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Shastry Sriram",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 216 and PHYS 219. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 220 Theory of Many-Body Physics\nFinite temperature Green functions, Feynman diagrams, Dyson equation, linked cluster theorem, Kubo formula for electrical conductivity, electron gas, random phase approximation, Fermi surfaces, Landau fermi liquid theory, electron phonon coupling, Migdal's theorem, superconductivity.\nCredits 5\nInstructor Shastry Sriram\nRequirements Prerequisite(s): PHYS 216 and PHYS 219. Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 221A Introduction to Particle Physics I",
+        "description": "First quarter of a two-quarter graduate level introduction to particle physics, including the following topics: discrete symmetries, quark model, particle classification, masses and magnetic moments, passage of radiation through matter, detector technology, accelerator physics, Feynman calculus, and electron-positron annihilation.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Bruce Shumm",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 221A Introduction to Particle Physics I\nFirst quarter of a two-quarter graduate level introduction to particle physics, including the following topics: discrete symmetries, quark model, particle classification, masses and magnetic moments, passage of radiation through matter, detector technology, accelerator physics, Feynman calculus, and electron-positron annihilation.\nCredits 5\nInstructor Bruce Shumm\nRequirements Prerequisite(s): PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 221B Introduction to Particle Physics II",
+        "description": "Second quarter of a two-quarter graduate level introduction to particle physics, including the following topics: nucleon structure, weak interactions and the Standard Model, neutrino oscillation, quantum chromodynamics, CP violation, and a tour of the Stanford Linear Accelerator Center.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Wolfgang Altmannschofer",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 221A; PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PHYS 221B Introduction to Particle Physics II\nSecond quarter of a two-quarter graduate level introduction to particle physics, including the following topics: nucleon structure, weak interactions and the Standard Model, neutrino oscillation, quantum chromodynamics, CP violation, and a tour of the Stanford Linear Accelerator Center.\nCredits 5\nInstructor Wolfgang Altmannschofer\nRequirements Prerequisite(s): PHYS 221A; PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PHYS 222 Quantum Field Theory III",
+        "description": "Focuses on the theoretical underpinnings of the standard model, including the spontaneous symmetry breaking, the renormalization group, the operator product expansion, and precision tests of the Standard Model.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Wolfgang Altmannshofer",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 218 and PHYS 221B. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 222 Quantum Field Theory III\nFocuses on the theoretical underpinnings of the standard model, including the spontaneous symmetry breaking, the renormalization group, the operator product expansion, and precision tests of the Standard Model.\nCredits 5\nInstructor Wolfgang Altmannshofer\nRequirements Prerequisite(s): PHYS 218 and PHYS 221B. Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 224 Particle Astrophysics and Cosmology",
+        "description": "Particle physics and cosmology of the very early universe: thermodynamics and thermal history; out-of-equilibrium phenomena (e.g., WIMPs freeze-out, neutrino cosmology, Big Bang nucleosynthesis, recombination); baryogenesis; inflation; topological defects. High-energy astrophysical processes: overview of cosmic ray and gamma ray astrophysics; radiative and inelastic processes; astroparticle acceleration mechanisms; magnetic fields and cosmic ray transport; radiation-energy density of the universe; ultrahigh-energy cosmic rays; dark-matter models; and detection techniques.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Anthony Aguirre",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 224 Particle Astrophysics and Cosmology\nParticle physics and cosmology of the very early universe: thermodynamics and thermal history; out-of-equilibrium phenomena (e.g., WIMPs freeze-out, neutrino cosmology, Big Bang nucleosynthesis, recombination); baryogenesis; inflation; topological defects. High-energy astrophysical processes: overview of cosmic ray and gamma ray astrophysics; radiative and inelastic processes; astroparticle acceleration mechanisms; magnetic fields and cosmic ray transport; radiation-energy density of the universe; ultrahigh-energy cosmic rays; dark-matter models; and detection techniques.\nCredits 5\nCross Listed Courses ASTR 224\nInstructor Anthony Aguirre\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 226 General Relativity",
+        "description": "Develops the formalism of Einstein's general relativity, including solar system tests, gravitational waves, cosmology, and black holes.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Anthony Aguirre",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 226 General Relativity\nDevelops the formalism of Einstein's general relativity, including solar system tests, gravitational waves, cosmology, and black holes.\nCredits 5\nCross Listed Courses ASTR 226\nInstructor Anthony Aguirre\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 231 Introduction to Condensed Matter Physics",
+        "description": "Crystal structures, reciprocal lattice, crystal bonding, phonons (including specific heat), band theory of electrons, free electron model, electron-electron and electron-phonon interactions, transport theory.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Josh Deutsch",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 216 or equivalent course or by permission of the instructor. Enrollment is restricted to graduate students only, or by permission of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PHYS 231 Introduction to Condensed Matter Physics\nCrystal structures, reciprocal lattice, crystal bonding, phonons (including specific heat), band theory of electrons, free electron model, electron-electron and electron-phonon interactions, transport theory.\nCredits 5\nInstructor Josh Deutsch\nRequirements Prerequisite(s): PHYS 216 or equivalent course or by permission of the instructor. Enrollment is restricted to graduate students only, or by permission of instructor.\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PHYS 232 Condensed Matter Physics",
+        "description": "Magnetism (para, ferro, anti-ferro, ferri), spin waves, superconductivity, introduction to semiconductors.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Art Ramirez",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 231. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PHYS 232 Condensed Matter Physics\nMagnetism (para, ferro, anti-ferro, ferri), spin waves, superconductivity, introduction to semiconductors.\nCredits 5\nInstructor Art Ramirez\nRequirements Prerequisite(s): PHYS 231. Enrollment is restricted to graduate students only, except by permission of instructor.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PHYS 233 Advanced Condensed Matter Physics",
+        "description": "A special topics course which includes areas of current interest in condensed matter physics. Possible topics include superconductivity, phase transitions, renormalization group, disordered systems, surface phenomena, magnetic resonance, and spectroscopy.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Sriram Shastry",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 231. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 233 Advanced Condensed Matter Physics\nA special topics course which includes areas of current interest in condensed matter physics. Possible topics include superconductivity, phase transitions, renormalization group, disordered systems, surface phenomena, magnetic resonance, and spectroscopy.\nCredits 5\nInstructor Sriram Shastry\nRequirements Prerequisite(s): PHYS 231. Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 234 Soft Condensed Matter Physics",
+        "description": "A selection of topics from: liquid crystals, biological systems, renormalization group and critical phenomena, stochastic processes, Langevin and Fokker Planck equations, hydrodynamic theories, granular materials, glasses, quasicrystals.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Requirements Prerequisite(s): PHYS 219 and PHYS 232. Enrollment is restricted to graduate students.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 234 Soft Condensed Matter Physics\nA selection of topics from: liquid crystals, biological systems, renormalization group and critical phenomena, stochastic processes, Langevin and Fokker Planck equations, hydrodynamic theories, granular materials, glasses, quasicrystals.\nCredits 5\nRequirements Prerequisite(s): PHYS 219 and PHYS 232. Enrollment is restricted to graduate students.\n"
+    },
+    {
+        "coursename": "PHYS 240 Polymer Physics",
+        "description": "Statistical properties polymers. Scaling behavior, fractal dimensions. Random walks, self avoidance. Single chains and concentrated solutions. Dynamics and topological effects in melts. Polymer networks. Sol-gel transitions. Polymer blends. Application to biological systems. Computer simulations demonstrating much of the above. Students cannot receive credit for this course and PHYS 120.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Joshua Deutsch",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 240 Polymer Physics\nStatistical properties polymers. Scaling behavior, fractal dimensions. Random walks, self avoidance. Single chains and concentrated solutions. Dynamics and topological effects in melts. Polymer networks. Sol-gel transitions. Polymer blends. Application to biological systems. Computer simulations demonstrating much of the above. Students cannot receive credit for this course and PHYS 120.\nCredits 5\nInstructor Joshua Deutsch\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 242 Computational Physics",
+        "description": "This course will apply efficient numerical methods to the solution of problems in the physical sciences which are otherwise intractable. Examples will be drawn from classical mechanics, quantum mechanics, statistical mechanics, and electrodynamics. Students will apply a high-level programming language such as Mathematica to the solution of physical problems and will develop appropriate error and stability estimates.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Jason Nielsen",
+        "extrarequirements": "Requirements Prerequisite(s): basic programming experience in C or Fortran. No previous experience with Mathematica is required. Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 242 Computational Physics\nThis course will apply efficient numerical methods to the solution of problems in the physical sciences which are otherwise intractable. Examples will be drawn from classical mechanics, quantum mechanics, statistical mechanics, and electrodynamics. Students will apply a high-level programming language such as Mathematica to the solution of physical problems and will develop appropriate error and stability estimates.\nCredits 5\nInstructor Jason Nielsen\nRequirements Prerequisite(s): basic programming experience in C or Fortran. No previous experience with Mathematica is required. Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 251 Group Theory and Modern Physics",
+        "description": "Finite and continuous groups, group representation theory, the symmetric group and Young tableaux, Lie groups and Lie algebras, irreducible representations of Lie algebras by tensor methods, unitary groups in particle physics, Dynkin diagrams, Lorentz and Poincar\u00e9 groups.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor Howard Haber",
+        "extrarequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 251 Group Theory and Modern Physics\nFinite and continuous groups, group representation theory, the symmetric group and Young tableaux, Lie groups and Lie algebras, irreducible representations of Lie algebras by tensor methods, unitary groups in particle physics, Dynkin diagrams, Lorentz and Poincar\u00e9 groups.\nCredits 5\nInstructor Howard Haber\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\n"
+    },
+    {
+        "coursename": "PHYS 290 Special Topics",
+        "description": "A series of lectures on various topics of current interest in physics at UC Santa Cruz.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 290 Special Topics\nA series of lectures on various topics of current interest in physics at UC Santa Cruz.\nCredits 5\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 291A Cosmology",
+        "description": "Intensive research seminar on cosmology and related topics in astrophysics: nature of dark matter; origin of cosmological inhomogeneities and other initial conditions of the big bang; origin and evolution of galaxies and large scale structure in the universe.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Joel Primack",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 291A Cosmology\nIntensive research seminar on cosmology and related topics in astrophysics: nature of dark matter; origin of cosmological inhomogeneities and other initial conditions of the big bang; origin and evolution of galaxies and large scale structure in the universe.\nCredits 2\nInstructor Joel Primack\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 291B X-rays and Magnetism",
+        "description": "Research seminar on x-ray studies of the properties and behavior of magnetic materials. Topics include: the underlying physical interactions, experimental techniques, and selected examples from current research. This course includes a visit to the Advanced Light Source in Berkeley.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Peter Fischer",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 291B X-rays and Magnetism\nResearch seminar on x-ray studies of the properties and behavior of magnetic materials. Topics include: the underlying physical interactions, experimental techniques, and selected examples from current research. This course includes a visit to the Advanced Light Source in Berkeley.\nCredits 2\nInstructor Peter Fischer\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 291C Developments in Theoretical Particle Physics",
+        "description": "Seminar on the current literature of elementary particle physics, ranging from strong and weak interaction phenomenology to Higgs physics, supersymmetry, and superstring theory. Students may present their own research results.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Howard Haber, Michael Dine, Stefania Gori, Wolfgang Altmannshofer",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 291C Developments in Theoretical Particle Physics\nSeminar on the current literature of elementary particle physics, ranging from strong and weak interaction phenomenology to Higgs physics, supersymmetry, and superstring theory. Students may present their own research results.\nCredits 2\nInstructor Howard Haber, Michael Dine, Stefania Gori, Wolfgang Altmannshofer\nRequirements Prerequisite(s): PHYS 218. Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 291D Experimental High-Energy Collider Physics",
+        "description": "Seminar on current results in experimental high-energy particle physics. Topics follow recently published results, including design of experiments, development of particle detector technology, and experimental results from new particle searches, quantum chromodynamics, and properties of heavy flavor quarks.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Jason Nielsen",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 291D Experimental High-Energy Collider Physics\nSeminar on current results in experimental high-energy particle physics. Topics follow recently published results, including design of experiments, development of particle detector technology, and experimental results from new particle searches, quantum chromodynamics, and properties of heavy flavor quarks.\nCredits 2\nInstructor Jason Nielsen\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 291E Applied Physics",
+        "description": "Intensive research seminar on applied physics and related topics in materials science, including semiconductor devices, optoelectronics, molecular electronics, magnetic materials, nanotechnology, biosensors, and medical physics. Students may present their own research results.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Sue Carter",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 291E Applied Physics\nIntensive research seminar on applied physics and related topics in materials science, including semiconductor devices, optoelectronics, molecular electronics, magnetic materials, nanotechnology, biosensors, and medical physics. Students may present their own research results.\nCredits 2\nInstructor Sue Carter\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 291F Experimental High-Energy and Particle Astrophysics Seminar",
+        "description": "Survey of current research in experimental high-energy and particle astrophysics. Recent observations and development in instrumentation for x-rays, gamma rays, and neutrinos, and evidence for dark matter and other new particles. Students lead discussion of recent papers.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor David Smith, David Williams",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 291F Experimental High-Energy and Particle Astrophysics Seminar\nSurvey of current research in experimental high-energy and particle astrophysics. Recent observations and development in instrumentation for x-rays, gamma rays, and neutrinos, and evidence for dark matter and other new particles. Students lead discussion of recent papers.\nCredits 2\nInstructor David Smith, David Williams\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 291G Condensed Matter Physics Research Seminar",
+        "description": "Weekly seminar series covering topics of current interest in condensed matter physics. Local and external speakers discuss their work.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor David Lederman",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 291G Condensed Matter Physics Research Seminar\nWeekly seminar series covering topics of current interest in condensed matter physics. Local and external speakers discuss their work.\nCredits 2\nInstructor David Lederman\nRequirements Enrollment is restricted to graduate students.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 292 Seminar",
+        "description": "Weekly seminar attended by faculty and graduate students. Directed at all physics graduate students who have not taken and passed the qualifying examination for the Ph.D. program.",
+        "genEd": "none",
+        "credithours": "Credits 0",
+        "instructor": "Instructor Bruce Schumm",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 292 Seminar\nWeekly seminar attended by faculty and graduate students. Directed at all physics graduate students who have not taken and passed the qualifying examination for the Ph.D. program.\nCredits 0\nInstructor Bruce Schumm\nRequirements Enrollment is restricted to graduate students only, except by permission of instructor.\nRepeatable For Credit Yes\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 292F Seminar",
+        "description": "Seminar",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 292F Seminar\nSeminar\nCredits 2\n"
+    },
+    {
+        "coursename": "PHYS 297A Independent Study",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 297A Independent Study\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 297B Independent Study",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 297B Independent Study\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 297C Independent Study",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 297C Independent Study\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 15\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 298 Theoretical and Experimental Research Project",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PHYS 298 Theoretical and Experimental Research Project\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 5\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PHYS 299A Thesis Research",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 299A Thesis Research\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 5\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 299B Thesis Research",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 10",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 299B Thesis Research\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 10\nRepeatable For Credit Yes\n"
+    },
+    {
+        "coursename": "PHYS 299C Thesis Research",
+        "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+        "genEd": "none",
+        "credithours": "Credits 15",
+        "instructor": "none",
+        "extrarequirements": "Repeatable For Credit Yes",
+        "quarteroffered": "none",
+        "fulldesc": "PHYS 299C Thesis Research\nEnrollment restricted to graduate students only, except by permission of instructor.\nCredits 15\nRepeatable For Credit Yes\nCross-listed Courses\n"
+    },
+    {
+        "coursename": "AM 107 Introduction to Fluid Dynamics",
+        "description": "Covers fundamental topics in fluid dynamics: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 217. (AM 107 formerly AMS 107.)",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Nicholas Brummell",
+        "extrarequirements": "Requirements Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "AM 107 Introduction to Fluid Dynamics\nCovers fundamental topics in fluid dynamics: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 217. (AM 107 formerly AMS 107.)\nCredits 5\nCross Listed Courses PHYS 107\nInstructor The Staff, Nicholas Brummell\nRequirements Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "ASTR 9A Introduction to Research in Physics and Astrophysics",
+        "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Enrollment is restricted to first-year proposed astrophysics and physics majors and by permission of the instructor.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor Ruth Murray-Clay, Jonathan Fortney",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 9A Introduction to Research in Physics and Astrophysics\nIntroduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Enrollment is restricted to first-year proposed astrophysics and physics majors and by permission of the instructor.\nCredits 2\nCross Listed Courses PHYS 9A\nInstructor Ruth Murray-Clay, Jonathan Fortney\n"
+    },
+    {
+        "coursename": "ASTR 9B Introduction to Research in Physics and Astrophysics",
+        "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Prerequisite(s): ASTR 9A. Enrollment is restricted to first-year proposed applied physics, physics, and physics (astrophysics) majors and by permission of the instructor.",
+        "genEd": "General Education Code PR-E",
+        "credithours": "Credits 3",
+        "instructor": "none",
+        "extrarequirements": "none",
+        "quarteroffered": "none",
+        "fulldesc": "ASTR 9B Introduction to Research in Physics and Astrophysics\nIntroduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Prerequisite(s): ASTR 9A. Enrollment is restricted to first-year proposed applied physics, physics, and physics (astrophysics) majors and by permission of the instructor.\nCredits 3\nCross Listed Courses PHYS 9B\nGeneral Education Code PR-E\n"
+    }
+]

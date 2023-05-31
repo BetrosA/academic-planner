@@ -1,0 +1,102 @@
+[
+    {
+        "coursename": "PORT 1 First-Year Portuguese",
+        "description": "Introduces first-year Portuguese language instruction and requires no previous study of Portuguese. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PORT 1 First-Year Portuguese\nIntroduces first-year Portuguese language instruction and requires no previous study of Portuguese. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PORT 2 First-Year Portuguese",
+        "description": "Introduces first-year Portuguese language instruction. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PORT 1 or by placement exam.",
+        "quarteroffered": "Quarter Offered Winter",
+        "fulldesc": "PORT 2 First-Year Portuguese\nIntroduces first-year Portuguese language instruction. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PORT 1 or by placement exam.\nQuarter Offered Winter\n"
+    },
+    {
+        "coursename": "PORT 3 First-Year Portuguese",
+        "description": "Course completes first-year Portuguese language instruction. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PORT 2 or by placement exam.",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PORT 3 First-Year Portuguese\nCourse completes first-year Portuguese language instruction. Classes emphasize all language skills: listening, speaking, reading, and writing, including cultural competence.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PORT 2 or by placement exam.\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PORT 65A Accelerated Intermediate Portuguese",
+        "description": "A systematic grammar review is combined with literacy and cultural readings, while communicative exercises focus on improving students' ability to understand and hold sustained conversations. Students expand their vocabulary and knowledge of Brazil and other Portuguese-speaking cultures through films, popular music, and other culturally authentic materials.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PORT 3 or by consent of instructor.",
+        "quarteroffered": "Quarter Offered Fall",
+        "fulldesc": "PORT 65A Accelerated Intermediate Portuguese\nA systematic grammar review is combined with literacy and cultural readings, while communicative exercises focus on improving students' ability to understand and hold sustained conversations. Students expand their vocabulary and knowledge of Brazil and other Portuguese-speaking cultures through films, popular music, and other culturally authentic materials.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PORT 3 or by consent of instructor.\nGeneral Education Code CC\nQuarter Offered Fall\n"
+    },
+    {
+        "coursename": "PORT 65B Accelerated Intermediate Portuguese",
+        "description": "Sequential to PORT 65A, completes second-year accelerated instruction. A systematic grammar review is combined with literacy and cultural readings, while communicative exercises focus on improving students' ability to understand and hold sustained conversations. Students expand their vocabulary and knowledge of Brazil and other Portuguese-speaking cultures through films, popular music, and other culturally authentic materials.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "Requirements Prerequisite(s): PORT 65A, or by consent of instructor.",
+        "quarteroffered": "none",
+        "fulldesc": "PORT 65B Accelerated Intermediate Portuguese\nSequential to PORT 65A, completes second-year accelerated instruction. A systematic grammar review is combined with literacy and cultural readings, while communicative exercises focus on improving students' ability to understand and hold sustained conversations. Students expand their vocabulary and knowledge of Brazil and other Portuguese-speaking cultures through films, popular music, and other culturally authentic materials.\nCredits 5\nInstructor The Staff\nRequirements Prerequisite(s): PORT 65A, or by consent of instructor.\nGeneral Education Code CC\n"
+    },
+    {
+        "coursename": "PORT 80 Voices from the Portuguese-Speaking World: Portugal, Brazil and Africa",
+        "description": "Examines key literary texts and films of the Portuguese-speaking world (Brazil, Portugal, and Africa), and the strategies they use to portray notions of national identity, which were transformed and enriched by transnational contact. Taught in English.",
+        "genEd": "General Education Code CC",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff, Ana Seara",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Spring",
+        "fulldesc": "PORT 80 Voices from the Portuguese-Speaking World: Portugal, Brazil and Africa\nExamines key literary texts and films of the Portuguese-speaking world (Brazil, Portugal, and Africa), and the strategies they use to portray notions of national identity, which were transformed and enriched by transnational contact. Taught in English.\nCredits 5\nInstructor The Staff, Ana Seara\nGeneral Education Code CC\nQuarter Offered Spring\n"
+    },
+    {
+        "coursename": "PORT 99 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PORT 99 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PORT 99F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PORT 99F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PORT 199 Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 5",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PORT 199 Tutorial\nStudents submit petition to sponsoring agency.\nCredits 5\nInstructor The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    },
+    {
+        "coursename": "PORT 199F Tutorial",
+        "description": "Students submit petition to sponsoring agency.",
+        "genEd": "none",
+        "credithours": "Credits 2",
+        "instructor": "Instructor The Staff",
+        "extrarequirements": "none",
+        "quarteroffered": "Quarter Offered Fall, Winter, Spring",
+        "fulldesc": "PORT 199F Tutorial\nStudents submit petition to sponsoring agency.\nCredits 2\nInstructor The Staff\nQuarter Offered Fall, Winter, Spring\n"
+    }
+]
