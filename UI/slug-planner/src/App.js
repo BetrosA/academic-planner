@@ -179,15 +179,17 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   )
 }
 
-function Sidebar({ courses}) {
+function Sidebar({courses}) {
   const [searchQuery, setSearchQuery] = useState("");
   
   const handleSearch = (event) => {
     setSearchQuery(event.target.value);
   };
 
-  const handleDragStart = (event, courseName, originalIndex) => {
+  const handleDragStart = (event, courseName, credits, genEd, originalIndex) => {
     event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("credits", credits);
+    event.dataTransfer.setData("genEd", genEd);
     event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
 
@@ -215,7 +217,6 @@ function Sidebar({ courses}) {
 
   const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
   
-
   return (
     <div className="sidebar">
       <h2 className="sidebar-title">Available Courses</h2>
@@ -232,7 +233,7 @@ function Sidebar({ courses}) {
             key={index}
             className="draggable-course"
             draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, index)}
+            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, index)}
           >
             {course.coursename}
           </div>
@@ -241,15 +242,17 @@ function Sidebar({ courses}) {
   );
 }
 
-function BottomSidebar({ courses}) {
+function BottomSidebar({courses}) {
   const [searchQuery, setSearchQuery] = useState("");
   
   const handleSearch = (event) => {
     setSearchQuery(event.target.value);
   };
 
-  const handleDragStart = (event, courseName, originalIndex) => {
+  const handleDragStart = (event, courseName, credits, genEd, originalIndex) => {
     event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("credits", credits);
+    event.dataTransfer.setData("genEd", genEd);
     event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
 
@@ -294,7 +297,7 @@ function BottomSidebar({ courses}) {
             key={index}
             className="draggable-course"
             draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, index)}
+            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, index)}
           >
             {course.coursename}
           </div>
@@ -303,14 +306,31 @@ function BottomSidebar({ courses}) {
   );
 }
 
-function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses}) {
+function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
 
   const handleDrop = (event) => {
     event.preventDefault();
     const courseName = event.dataTransfer.getData("courseName");
+    const courseCredits = event.dataTransfer.getData("credits");
+    const genEd = event.dataTransfer.getData("genEd");
     const originalIndex = parseInt(event.dataTransfer.getData("originalIndex"));
-    const course = { coursename: courseName };
+
+    console.log("HandleDrop");
+    console.log("Name:", courseName);
+    console.log("Credits:", courseCredits);
+    console.log("GE:", genEd);
+
+    const course = {
+      coursename: courseName,
+      credits: courseCredits,
+      genEdCode: genEd
+    };
+
+    
+
+    const credits = parseInt(courseCredits.split(" ")[1]);
+    const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
 
     const isDuplicate = allDroppedCourses.some(
       (droppedCourse) => droppedCourse.coursename === courseName
@@ -319,6 +339,17 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     if (!isDuplicate && courseName.trim() !== "") {
       setDroppedCourses((prevCourses) => [...prevCourses, course]);
       setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+      setGE_Check((prevState) => ({
+        ...prevState,
+        Credits: prevState.Credits + credits,
+      }));
+      
+      if (genEdCode in GE_Check) {
+        setGE_Check((prevGE_Check) => ({
+          ...prevGE_Check,
+          [genEdCode]: prevGE_Check[genEdCode] + 1,
+        }));
+      }
 
       // Remove the dropped course from the sidebar
       setCourses((prevCourses) =>
@@ -331,16 +362,36 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     event.preventDefault();
   };
 
-  const handleRemoveCourse = (courseName, originalIndex) => {
+  const handleRemoveCourse = (courseName, courseCredits, genEd, originalIndex) => {
+    console.log("RemoveCourse:");
+    console.log("Name:", courseName);
+    console.log("Credits:", courseCredits);
+    console.log("GenED:", genEd);
+
+    const credits = parseInt(courseCredits.split(" ")[1]);
+    const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
+
     setDroppedCourses((prevCourses) =>
       prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
     );
     setAllDroppedCourses((prevCourses) =>
       prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
     );
+
+    setGE_Check((prevState) => ({
+      ...prevState,
+      Credits: prevState.Credits - credits,
+    }));
+
+    if (genEdCode in GE_Check) {
+      setGE_Check((prevGE_Check) => ({
+        ...prevGE_Check,
+        [genEdCode]: prevGE_Check[genEdCode] - 1,
+      }));
+    }
   
     // Add the removed course back to the sidebar at its original index
-    const removedCourse = { coursename: courseName };
+    const removedCourse = { coursename: courseName, credithours: courseCredits, genEd: genEd };
     setCourses((prevCourses) => {
       const updatedCourses = [...prevCourses];
       updatedCourses.splice(originalIndex, 0, removedCourse);
@@ -396,7 +447,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
         >
           <button
             className="remove-course-button"
-            onClick={() => handleRemoveCourse(course.coursename)}
+            onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEdCode)}
           >
             x
           </button>
@@ -416,8 +467,24 @@ function App() {
   const [isGenerated, setIsGenerated] = useState(false);
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
   const [planner, setPlanner] = useState([]);
-  //Default 4 year Planner
   const [totalYears, setTotalYears] = useState(4);
+  const [GE_Check, setGE_Check] = useState({
+    CC: 0,
+    ER: 0,
+    IM: 0,
+    MF: 0,
+    SI: 0,
+    SR: 0,
+    TA: 0,
+    'PE-E': 0,
+    'PE-H': 0,
+    'PE-T': 0,
+    'PR-E': 0,
+    'PR-C': 0,
+    'PR-S': 0,
+    C: 0,
+    'Credits': 0,
+  });
 
   const addYear = () => {
     setTotalYears(totalYears + 1);
@@ -436,7 +503,6 @@ function App() {
     generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
-  //console.log(courses)
   return (
     <div>
       {/* Logo*/}
@@ -460,10 +526,24 @@ function App() {
     
       {isGenerated && (
         <div className="content">
-        
-        <Sidebar courses={courses}/>
-        
-        <BottomSidebar courses={courses} />
+          <div className="sidebar-container">
+            <div className="top-half">
+              <Sidebar courses={courses} />
+              <BottomSidebar courses={courses} />
+            </div>
+            <div className="bottom-half">
+              <div>
+                <h2>Graduation requirements</h2>
+                <div className="requirements-container">
+                  {Object.entries(GE_Check).map(([key, value]) => (
+                    <span key={key} className="requirement-item">
+                      {key}: {value}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
         <div className="quarterbox-container-wrapper">
           <div className="quarterbox-container">
             {[...Array(totalYears)].map((_, rowIndex) => (
@@ -478,6 +558,8 @@ function App() {
                     setAllDroppedCourses={setAllDroppedCourses}
                     courses={courses}
                     setCourses={setCourses}
+                    GE_Check={GE_Check}
+                    setGE_Check={setGE_Check}
                   />
                 ))}
               </div>
