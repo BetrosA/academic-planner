@@ -124,11 +124,27 @@
 /* Sidebar styles */
 .sidebar {
   width: 350px;
-  max-height: calc(100vh - 150px);
+  max-height: calc(55vh - 150px);
   background: #f8f9fa;
   font-family: "Montserrant", sans-serif;
   padding-left: 20px;
   overflow-y: auto;
+}
+
+/* Sidebar styles */
+.bottom-sidebar {
+  width: 350px;
+  max-height: calc(55vh - 150px);
+  background: #f8f9fa;
+  font-family: "Montserrant", sans-serif;
+  padding-left: 20px;
+  overflow-y: auto;
+  margin-left: 10px;
+}
+
+.sidebar-title {
+  margin-top: 10px; /* Adjust the margin as per your preference */
+  
 }
 
 .draggable-course {
@@ -161,7 +177,7 @@
   padding: 10px;
   margin-bottom: 10px;
   height: 400px;
-  background: linear-gradient(to bottom, lightblue, #fff);
+  background: linear-gradient(to bottom, rgb(231, 192, 108), #fff);
   width: 300px;
   border-radius: 10px;
 }

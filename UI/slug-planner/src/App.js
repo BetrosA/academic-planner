@@ -215,30 +215,72 @@ function Sidebar({ courses}) {
 
   const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
   
-  /*const filterCoursesByMajor = (course) => {
-    if (selectedMajor === "Robotics Engineering: B.S.") {
-      return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE");
-    } else if (selectedMajor === "Electrical Engineering: B.S.") {
-      return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") || course.coursename.startsWith("STAT 131");
-    } else if (selectedMajor === "Computer Engineering B.S.") {
-      return course.coursename.startsWith("CSE") || course.coursename.startsWith("ECE") ;
-    } else if (selectedMajor === "Computer Science: B.S.") {
-      return course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") ;
-    } else if (selectedMajor === "Computer Science: B.A.") {
-      return course.coursename.startsWith("CSE") || course.coursename.startsWith("MATH") ;
-    } else if (selectedMajor === "Art Studio BA") {
-      return course.coursename.startsWith("ART");
-    }
-
-    // Add more conditions for other majors if needed
-    return true; // Return true by default if no major is selected or condition matches
-  };*/
-
-  //const filteredCourses = courses.filter(filterCoursesByMajor).filter(filterCoursesBySearch);
 
   return (
     <div className="sidebar">
-      <h2>Available Classes</h2>
+      <h2 className="sidebar-title">Available Courses</h2>
+      <input
+        type="text"
+        placeholder="Search courses..."
+        value={searchQuery}
+        onChange={handleSearch}
+        className="search-bar"
+      />
+      {
+        sortedCourses.map((course, index) => (
+          <div
+            key={index}
+            className="draggable-course"
+            draggable
+            onDragStart={(event) => handleDragStart(event, course.coursename, index)}
+          >
+            {course.coursename}
+          </div>
+        ))}
+    </div>
+  );
+}
+
+function BottomSidebar({ courses}) {
+  const [searchQuery, setSearchQuery] = useState("");
+  
+  const handleSearch = (event) => {
+    setSearchQuery(event.target.value);
+  };
+
+  const handleDragStart = (event, courseName, originalIndex) => {
+    event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("originalIndex", originalIndex.toString());
+  };
+
+  const sortCourses = (courses) => {
+    return courses.sort((a, b) => {
+      const [prefixA, codeA] = a.coursename.split(" ");
+      const [prefixB, codeB] = b.coursename.split(" ");
+
+      if (prefixA !== prefixB) {
+        return prefixA.localeCompare(prefixB);
+      } else {
+        return parseInt(codeA) - parseInt(codeB);
+      }
+    });
+  };
+
+  const filterCoursesBySearch = (course) => {
+    // Filter courses based on the search query
+    if (searchQuery.trim() === "") {
+      return true; // Return true if no search query is entered
+    }
+    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
+    return regex.test(course.coursename);
+  };
+
+  const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
+  
+
+  return (
+    <div className="bottom-sidebar">
+      <h2 className="sidebar-title">Other Courses</h2>
       <input
         type="text"
         placeholder="Search courses..."
@@ -418,7 +460,10 @@ function App() {
     
       {isGenerated && (
         <div className="content">
+        
         <Sidebar courses={courses}/>
+        
+        <BottomSidebar courses={courses} />
         <div className="quarterbox-container-wrapper">
           <div className="quarterbox-container">
             {[...Array(totalYears)].map((_, rowIndex) => (
@@ -439,8 +484,11 @@ function App() {
             ))}
             <button onClick={removeYear}>Remove Year</button>
             <button onClick={addYear}>Add Year</button>
+            
           </div>
+          
         </div>
+        
       </div>
       )}
     </div>
