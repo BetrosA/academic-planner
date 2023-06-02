@@ -32,11 +32,3 @@ export const fetchCourses = (setCourses) => {
     setCourses(filteredCourses);
   });
 };
-
-export const fetchQuartersOffered = (setQuartersOffered) => {
-  const quartersOfferedRef = ref(db, 'quarteroffered/');
-  onValue(quartersOfferedRef, (snapshot) => {
-    const quartersOffered = snapshot.val();
-    setQuartersOffered(quartersOffered);
-  });
-};

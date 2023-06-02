@@ -123,11 +123,11 @@
 
 /* Sidebar styles */
 .sidebar {
-  width: 400px;
-  height: calc(100vh - 60px);
+  width: 350px;
+  max-height: calc(100vh - 150px);
   background: #f8f9fa;
   font-family: "Montserrant", sans-serif;
-  padding: 20px;
+  padding-left: 20px;
   overflow-y: auto;
 }
 
@@ -216,6 +216,7 @@
   font-size: 14px;
   outline: none;
 }
+
 
 .search-bar:focus {
   border-color: #888;

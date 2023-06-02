@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
-import { fetchDepartments, fetchCourses, fetchQuartersOffered } from "./firebase";
+import { fetchDepartments, fetchCourses} from "./firebase";
 
 const generatePlanner = (major, setPlanner) => {
   fetch('http://localhost:5000/planner/'+ encodeURI(major), {
@@ -25,7 +25,6 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   const [prevSelectedDepartment, setPrevSelectedDepartment] = useState(null);
   const [prevSelectedMajor, setPrevSelectedMajor] = useState(null);
   const [prevSelectedStartingYear, setPrevSelectedStartingYear] = useState(null);
-
   const [ChooseYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
 
   const toggleMajor = () => {
@@ -39,6 +38,7 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   const toggleStartingYear = () => {
     setShowStartingYear(!showStartingYear);
   };
+
   const handleDepartmentClick = (name) => {
     setShowDepartment(false);
   
@@ -179,8 +179,7 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   )
 }
 
-function Sidebar({ courses, selectedMajor }) {
-
+function Sidebar({ courses}) {
   const [searchQuery, setSearchQuery] = useState("");
   
   const handleSearch = (event) => {
@@ -191,8 +190,32 @@ function Sidebar({ courses, selectedMajor }) {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
+
+  const sortCourses = (courses) => {
+    return courses.sort((a, b) => {
+      const [prefixA, codeA] = a.coursename.split(" ");
+      const [prefixB, codeB] = b.coursename.split(" ");
+
+      if (prefixA !== prefixB) {
+        return prefixA.localeCompare(prefixB);
+      } else {
+        return parseInt(codeA) - parseInt(codeB);
+      }
+    });
+  };
+
+  const filterCoursesBySearch = (course) => {
+    // Filter courses based on the search query
+    if (searchQuery.trim() === "") {
+      return true; // Return true if no search query is entered
+    }
+    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
+    return regex.test(course.coursename);
+  };
+
+  const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
   
-  const filterCoursesByMajor = (course) => {
+  /*const filterCoursesByMajor = (course) => {
     if (selectedMajor === "Robotics Engineering: B.S.") {
       return course.coursename.startsWith("ECE") || course.coursename.startsWith("CSE");
     } else if (selectedMajor === "Electrical Engineering: B.S.") {
@@ -209,18 +232,9 @@ function Sidebar({ courses, selectedMajor }) {
 
     // Add more conditions for other majors if needed
     return true; // Return true by default if no major is selected or condition matches
-  };
+  };*/
 
-  const filterCoursesBySearch = (course) => {
-    // Filter courses based on the search query
-    if (searchQuery.trim() === "") {
-      return true; // Return true if no search query is entered
-    }
-    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
-    return regex.test(course.coursename);
-  };
-
-  const filteredCourses = courses.filter(filterCoursesByMajor).filter(filterCoursesBySearch);
+  //const filteredCourses = courses.filter(filterCoursesByMajor).filter(filterCoursesBySearch);
 
   return (
     <div className="sidebar">
@@ -233,7 +247,7 @@ function Sidebar({ courses, selectedMajor }) {
         className="search-bar"
       />
       {
-        filteredCourses.map((course, index) => (
+        sortedCourses.map((course, index) => (
           <div
             key={index}
             className="draggable-course"
@@ -247,15 +261,7 @@ function Sidebar({ courses, selectedMajor }) {
   );
 }
 
-function QuarterBox({
-  row,
-  column,
-  selectedStartingYear,
-  allDroppedCourses,
-  setAllDroppedCourses,
-  courses,
-  setCourses,
-}) {
+function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
 
   const handleDrop = (event) => {
@@ -362,21 +368,33 @@ function QuarterBox({
 function App() {
   const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
-  const [quartersOffered, setQuartersOffered] = useState([]);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
   const [isGenerated, setIsGenerated] = useState(false);
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
   const [planner, setPlanner] = useState([]);
+  //Default 4 year Planner
+  const [totalYears, setTotalYears] = useState(4);
+
+  const addYear = () => {
+    setTotalYears(totalYears + 1);
+  };
+
+  //Minimum should be 2 year planner 
+  const removeYear = () => {
+    if (totalYears > 2) {
+      setTotalYears(totalYears - 1);
+    }
+  };
 
   useEffect(() => {
     fetchDepartments(setDepartments);
     fetchCourses(setCourses);
-    fetchQuartersOffered(setQuartersOffered);
     generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
+  //console.log(courses)
   return (
     <div>
       {/* Logo*/}
@@ -397,28 +415,30 @@ function App() {
       setIsGenerated={setIsGenerated}
       departments={departments}
       />
-      
-    {isGenerated && (
-      <div className="content">
-      <Sidebar courses={courses} selectedMajor={selectedMajor} />
-      <div className="quarterbox-container-wrapper">
-        <div className="quarterbox-container">
-          {[...Array(4)].map((_, rowIndex) => (
-            <div className="quarterbox-row" key={rowIndex}>
-              {[...Array(4)].map((_, colIndex) => (
-                <QuarterBox
-                  key={colIndex}
-                  row={rowIndex + 1}
-                  column={colIndex + 1}
-                  selectedStartingYear={selectedStartingYear}
-                  allDroppedCourses={allDroppedCourses}
-                  setAllDroppedCourses={setAllDroppedCourses}
-                  courses={courses}
-                  setCourses={setCourses}
+    
+      {isGenerated && (
+        <div className="content">
+        <Sidebar courses={courses}/>
+        <div className="quarterbox-container-wrapper">
+          <div className="quarterbox-container">
+            {[...Array(totalYears)].map((_, rowIndex) => (
+              <div className="quarterbox-row" key={rowIndex}>
+                {[...Array(4)].map((_, colIndex) => (
+                  <QuarterBox
+                    key={colIndex}
+                    row={rowIndex + 1}
+                    column={colIndex + 1}
+                    selectedStartingYear={selectedStartingYear}
+                    allDroppedCourses={allDroppedCourses}
+                    setAllDroppedCourses={setAllDroppedCourses}
+                    courses={courses}
+                    setCourses={setCourses}
                   />
                 ))}
               </div>
             ))}
+            <button onClick={removeYear}>Remove Year</button>
+            <button onClick={addYear}>Add Year</button>
           </div>
         </div>
       </div>
