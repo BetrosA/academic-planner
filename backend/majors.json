@@ -177,14 +177,10 @@
             "(ANTH 195A and ANTH 195B and ANTH 195C) or ANTH 195S"
         ],
         "comprehensiverequirement":[
-            "ANTH 195S",
-            "ANTH 195A",
-            "ANTH 195B",
-            "ANTH 195C"
+            "(ANTH 195A and ANTH 195B and ANTH 195C) or ANTH 195S"
 
         ],
         "otherrequirements":[
-
         ]
     },
     {
@@ -241,7 +237,6 @@
             "PHYS 134"
         ],
         "otherrequirements":[
-
         ]
     },
     {
@@ -262,7 +257,7 @@
             "LING 100 or LING 101",
             "LING 111 or LING 112"
         ],
-        "advancedlanguageproficiencycount":"two in target language",
+        "advancedlanguageproficiencycount":2,
         "advancedlanguageproficiency":[
             "CHIN 103",
             "CHIN 104",
@@ -343,7 +338,6 @@
             "APLX 190"
         ],
         "otherrequirements":[
-
         ]
     },
     {
@@ -445,7 +439,6 @@
             "AM 170B"
         ],
         "otherrequirements":[
-
         ]
     },
     {
@@ -511,148 +504,2060 @@
     },
     {
         "majorname": "Art and Design: Games and Playable Media B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Biochemistry and Molecular Biology B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Biology B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Biology B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Biotechnology B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Biomolecular Engineering and Bioinformatics B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Business Management Economics B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Chemistry B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Chemistry B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Classical Studies B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Cognitive Science B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Community Studies B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Computer Engineering B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Computer Science B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "Computer Science B.S.",
-        "requiredcourses":[
-            "CSE 12",
-            "CSE 16",
-            "CSE 20",
-            "CSE 30",
-            "CSE 13S",
-            "(MATH 19A and MATH 19B) or (MATH 20A and MATH 20B)",
-            "AM 10 or MATH 21",
-            "AM 30 or MATH 23A",
-            "ECE 30",
-            "CSE 101",
-            "CSE 102",
-            "CSE 103",
-            "CSE 120",
-            "CSE 130",
-            "CSE 112 or 114A",
-            "STAT 131 or CSE 107"
+        "requiredcourses": [
+            "ARTG 80G",
+            "ARTG 80I",
+            "FILM 80V",
+            "ARTG 120",
+            "ARTG 170",
+            "ARTG 171",
+            "ARTG 172"
         ],
+        "lowerdivelectivecount":1,
+        "lowerdivelective": [
+            "ART 10D",
+            "ART 10E",
+            "ART 10F",
+            "ART 20L",
+            "ART 80T",
+            "ARTG 91",
+            "MUSC 1C",
+            "MUSC 2",
+            "MUSC 3",
+            "MUSC 5A",
+            "MUSC 5B",
+            "MUSC 5C",
+            "MUSC 6",
+            "MUSC 8A",
+            "MUSC 8B",
+            "MUSC 9",
+            "MUSC 10",
+            "MUSC 80L",
+            "THEA 10",
+            "THEA 14",
+            "THEA 15",
+            "THEA 17",
+            "THEA 18C",
+            "THEA 19",
+            "THEA 20",
+            "THEA 21",
+            "THEA 22",
+            "THEA 30",
+            "THEA 31C",
+            "THEA 33C",
+            "THEA 36",
+            "THEA 37",
+            "THEA 40",
+            "THEA 50",
+            "THEA 80Z"
+        ],
+        "electivecount":6,
         "electives":[
-            "Four courses must be completed from the list below . At least one course must be a computer science and engineering course. At most two courses can be from applied mathematics, statistics or mathematics, of which at most one may be substituted with two physics classes, chosen from the following list of class pairs: PHYS 6A and PHYS 6C, PHYS 6A and PHYS 6B, PHYS 5A and PHYS 5C, PHYS 5A and PHYS 5B. Any laboratories required or recommended by the Physics Department associated with these classes are not part of the computer science B.S. major requirements.",
-            "Any CSE course with a number below 170, or between 180 and 189, except for the DC courses CSE 115A and CSE 185E/CSE 185S.",
-            [
-                "AM 114",
-                "AM 147",
-                "CMPM 120",
-                "CMPM 131",
-                "CMPM 146",
-                "CMPM 163",
-                "CMPM 164",
-                "CMPM 164L",
-                "CMPM 171",
-                "CMPM 172",
-                "CSE 195",
-                "MATH 110",
-                "MATH 115",
-                "MATH 116",
-                "MATH 117",
-                "MATH 118",
-                "MATH 134",
-                "MATH 145",
-                "MATH 145L",
-                "MATH 148",
-                "MATH 160",
-                "MATH 161",
-                "STAT 132"
-            ]
+            "ART 101",
+            "ART 104",
+            "ART 106A",
+            "ART 106E",
+            "ART 106O",
+            "ART 108",
+            "ARTG 118",
+            "ARTG 129",
+            "ARTG 129A",
+            "ARTG 131",
+            "ARTG 132",
+            "ARTG 134",
+            "ARTG 136",
+            "ARTG 137",
+            "ARTG 138/FMST",
+            "ARTG 140",
+            "ARTG 141",
+            "ARTG 142/CRES",
+            "ARTG 143/THEA",
+            "ARTG 145",
+            "CMPM 25",
+            "CMPM 26",
+            "CMPM 131",
+            "CMPM 146",
+            "CMPM 147",
+            "CMPM 148",
+            "CMPM 150",
+            "CMPM 151",
+            "CMPM 163",
+            "CMPM 176",
+            "CMPM 177",
+            "CMPM 178",
+            "CMPM 179/ARTG",
+            "CSE 118",
+            "CSE 183",
+            "DANM 140/ART",
+            "DANM 219",
+            "DANM 220",
+            "FILM 170A",
+            "FILM 171D",
+            "FILM 173",
+            "FILM 177",
+            "FILM 179A",
+            "FILM 179B",
+            "FILM 189",
+            "MUSC 123",
+            "MUSC 124",
+            "MUSC 125",
+            "MUSC 167",
+            "THEA 104",
+            "THEA 114",
+            "THEA 117/ART",
+            "THEA 124",
+            "THEA 139",
+            "THEA 157",
+            "THEA 159"
         ],
-        "otherrequirement":[
-            "CSE 115A",
-            "CSE 185S",
-            "CSE 195"
+        "dcrequirement": [
+            "ARTG 170"
+        ],
+        "comprehensiverequirement":[
+            "ARTG 170",
+            "ARTG 171",
+            "ARTG 172"
+        ],
+        "otherrequirements":[
         ]
     },
     {
+        "majorname": "Biochemistry and Molecular Biology B.S.",
+        "requiredcourses": [
+            "CHEM 8A",
+            "CHEM 8L",
+            "CHEM 8B",
+            "CHEM 8M",
+            "BIOC 100A",
+            "BIOC 100B",
+            "BIOC 100C",
+            "BIOL 101L or BIOL 102L or BIOL 107L or CHEM 160K",
+            "BIOL 105",
+            "BIOL 110",
+            "BIOL 115",
+            "BIOC 163A",
+            "BIOC 163B",
+            {
+                "name": "chemistry",
+                "optionone":[
+                    "CHEM 1A",
+                    "CHEM 1B",
+                    "CHEM 1C",
+                    "CHEM 1M",
+                    "CHEM 1N"
+                ],
+                "optiontwo":[
+                    "CHEM 4A",
+                    "CHEM 1M",
+                    "CHEM 4B",
+                    "CHEM 1N"
+                ]
+            },
+            {
+                "name": "calculus",
+                "optionone":[
+                    "MATH 11A",
+                    "MATH 11B"
+                ],
+                "optiontwo":[
+                    "MATH 19A",
+                    "MATH 19B"
+                ]
+            },
+            {
+                "name": "statistics",
+                "optionone":[
+                    "STAT 5"
+                ],
+                "optiontwo":[
+                    "STAT 7",
+                    "STAT 7L"
+                ]
+            },
+            {
+                "name": "biology",
+                "optionone":[
+                    "BIOL 20A",
+                    "BIOE 20B"
+                ],
+                "optiontwo":[
+                    "BIOL 20L",
+                    "BIOL 102J",
+                    "BIOL 107J"
+                ]
+            },
+            {
+                "name": "physics",
+                "optionone":[
+                    "PHYS 5A", 
+                    "PHYS 5L", 
+                    "PHYS 5B", 
+                    "PHYS 5M", 
+                    "PHYS 5C", 
+                    "PHYS 5N"
+                ],
+                "optiontwo":[
+                    "PHYS 6A", 
+                    "PHYS 6L", 
+                    "PHYS 6B", 
+                    "PHYS 6M", 
+                    "PHYS 6C", 
+                    "PHYS 6N"
+                ]
+            }
+        ],
+        "electivecount":1,
+        "electives":[
+            "BIOC 110L",
+            "BIOL 100L",
+            "BIOL 103L",
+            "BIOL 105L",
+            "BIOL 106L",
+            "BIOL 108L",
+            "BIOL 109L",
+            "BIOL 115L",
+            "BIOL 121L",
+            "BIOL 186L",
+            "CHEM 160L",
+            "METX 119L"
+        ],
+        "dcrequirement": [
+        ],
+        "comprehensiverequirement":[
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Biology B.A.",
+        "requiredcourses": [
+            "BIOL 20A",
+            "BIOE 20B",
+            "BIOE 20C",
+            "CHEM 1A",
+            "CHEM 1B",
+            "STAT 5 or (STAT 7 and STAT 7L)",
+            "PHYS 1A or PHYS 6A or PHYS 7A",
+            "BIOL 105",
+            "BIOE 107",
+            "BIOE 109"
+        ],
+        "anatomycount": 1,
+        "anatomy":[
+            "BIOE 131",
+            "BIOE 131L",
+            "BIOE 133",
+            "BIOE 133L",
+            "BIOE 134",
+            "BIOE 134L",
+            "BIOE 135",
+            "BIOE 135L",
+            "BIOE 136",
+            "BIOL 130",
+            "BIOL 130L",
+            "METX 135",
+            "METX 135L"
+        ],
+        "electivecount":4,
+        "electives":[
+            "BIOE courses numbered 100-179",
+            "BIOL 100",
+            "BIOL 101",
+            "BIOL 110",
+            "BIOL 115",
+            "BIOL 120",
+            "BIOL 125",
+            "METX 100",
+            "METX 115",
+            "METX 119L"
+        ],
+        "dccount": 2,
+        "dcrequirement": [
+            "BIOE 108",
+            "BIOE 114",
+            "BIOE 114L",
+            "BIOE 117",
+            "BIOE 120",
+            "BIOE 120L",
+            "BIOE 122",
+            "BIOE 122L",
+            "BIOE 127",
+            "BIOE 127L",
+            "BIOE 128L",
+            "BIOE 129",
+            "BIOE 129L",
+            "BIOE 137",
+            "BIOE 141L",
+            "BIOE 145",
+            "BIOE 145L",
+            "BIOE 150L",
+            "BIOE 151B/ENVS",
+            "BIOE 153C",
+            "BIOE 158L",
+            "BIOE 159A",
+            "BIOE 161L",
+            "BIOE 171",
+            "BIOE 172"
+        ],
+        "comprehensiverequirementcount": 1,
+        "comprehensiverequirement":[
+            "BIOE 112L",     
+            "BIOE 114L",     
+            "BIOE 117L",     
+            "BIOE 120L",     
+            "BIOE 122L",     
+            "BIOE 124L",     
+            "BIOE 127L",     
+            "BIOE 128L",     
+            "BIOE 129L",     
+            "BIOE 131L",     
+            "BIOE 133L",     
+            "BIOE 134L",     
+            "BIOE 135L",     
+            "BIOE 137L",     
+            "BIOE 141L",     
+            "BIOE 142L",     
+            "BIOE 145L",     
+            "BIOE 150L",     
+            "BIOE 151A/ENVS",
+            "BIOE 151B/ENVS",
+            "BIOE 151C/ENVS",
+            "BIOE 151D/ENVS",
+            "BIOE 153A",     
+            "BIOE 153B",     
+            "BIOE 153C",     
+            "BIOE 155L",     
+            "BIOE 158L",     
+            "BIOE 159A",     
+            "BIOE 159B",     
+            "BIOE 159C",     
+            "BIOE 159D",     
+            "BIOE 161L",     
+            "BIOE 163L",     
+            "BIOE 183W",     
+            "BIOL 100L",     
+            "BIOL 101L",     
+            "BIOL 105L",     
+            "BIOL 109L",     
+            "BIOL 115L",     
+            "BIOL 120L",     
+            "BIOL 121L",
+            "BIOL 130L",
+            "BIOL 186L",
+            "BIOL 186R",
+            "BIOL 189",
+            "BIOC 110L",
+            "METX 119L",
+            "METX 135L"
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Biology B.S.",
+        "requiredcourses": [
+            "BIOL 20L or BIOL 102J or BIOL 107J",
+            "BIOL 20A",
+            "BIOE 20B",
+            "BIOE 20C",
+            "CHEM 1A", 
+            "CHEM 1B", 
+            "CHEM 1C", 
+            "CHEM 1N", 
+            "CHEM 8A", 
+            "CHEM 8L", 
+            "CHEM 8B",
+            "(MATH 11A and MATH 11B) or (MATH 19A and MATH 19B)",
+            "STAT 5 or (STAT 7 and STAT 7L)",
+            "(PHYS 6A and PHYS 6L and PHYS 6B) or (PHYS 6A and PHYS 6L and PHYS 6C) or (PHYS 7A and PHYS 7B and PHYS 6L)",
+            "(BIOL 100 and BIOL 101) or (BIOC 100A and BIOC 100B and BIOC 100C)",
+            "BIOL 105",
+            "BIOL 110",
+            "BIOE 107",
+            "BIOE 109",
+            "BIOL 101L or BIOL 102L or BIOL 107L"
+        ],
+        "electivecount":3,
+        "electives":[
+            "BIOL 111A",
+            "BIOL 114",
+            "BIOL 115",
+            "BIOL 118",
+            "BIOL 125",
+            "BIOL 120",
+            "BIOL 130",
+            "BIOL 140",
+            "BIOC 100C",
+            "BIOE 108",
+            "BIOE 112",
+            "BIOE 112L",
+            "BIOE 114",
+            "BIOE 114L",
+            "BIOE 117",
+            "BIOE 117L",
+            "BIOE 120",
+            "BIOE 120L",
+            "BIOE 122",
+            "BIOE 122L",
+            "BIOE 124",
+            "BIOE 124L",
+            "BIOE 127",
+            "BIOE 127L",
+            "BIOE 129",
+            "BIOE 129L",
+            "BIOE 131",
+            "BIOE 133",
+            "BIOE 134",
+            "BIOE 133L",
+            "BIOE 134L",
+            "BIOE 135",
+            "BIOE 135L",
+            "BIOE 137",
+            "BIOE 137L",
+            "BIOE 139",
+            "BIOE 140",
+            "BIOE 145",
+            "BIOE 147",
+            "BIOE 149",
+            "BIOE 155",
+            "BIOE 161",
+            "BIOE 163",
+            "BIOE 163L",
+            "BIOE 165",
+            "BIOE 172",
+            "METX 100",
+            "METX 135",
+            "METX 135L",
+            "METX 140"
+        ],
+        "dcrequirementone": [
+            {
+                "name": "optionone",
+                "count": 1,
+                "classes":[
+                    "BIOL 103L",
+                    "BIOL 105L",
+                    "BIOL 106L",
+                    "BIOL 108L",
+                    "BIOL 109L",
+                    "BIOL 115L",
+                    "BIOL 120L",
+                    "BIOL 121L",
+                    "BIOL 186L"
+                ]
+            },
+            {
+                "name": "optiontwo",
+                "count": 2,
+                "classes":[
+                    "BIOE 108", 
+                    "BIOE 114", 
+                    "BIOE 114L",
+                    "BIOE 117", 
+                    "BIOE 120", 
+                    "BIOE 120L",
+                    "BIOE 122", 
+                    "BIOE 122L",
+                    "BIOE 127", 
+                    "BIOE 127L",
+                    "BIOE 128L",
+                    "BIOE 129", 
+                    "BIOE 129L",
+                    "BIOE 137", 
+                    "BIOE 141L",
+                    "BIOE 145",
+                    "BIOE 145L",
+                    "BIOE 150L",
+                    "BIOE 151B/ENVS",
+                    "BIOE 153C",
+                    "BIOE 158L",
+                    "BIOE 159A",
+                    "BIOE 161L",
+                    "BIOE 171",
+                    "BIOE 172"
+                ]
+            }
+        ],
+        "comprehensiverequirement":[
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Biotechnology B.A.",
+        "requiredcourses": [
+            "CHEM 1A", 
+            "BIOL 20A",
+            "BME 5",   
+            "CSE 20",
+            "(STAT 7 and STAT 7L) or STAT 5",
+            "(BME 18 or BME 80G) and (BME 80H or ECE 80B)",
+            "BME 105",
+            "BME 110",
+            "BME 160"
+        ],
+        "electivecount":3,
+        "electives":[
+            "BME 122H",
+            "BME 128", 
+            "BME 130", 
+            "BME 132", 
+            "BME 140",
+            "BME 177",
+            "BME 178",
+            "ECE 104",
+            "FMST 124",
+            "FMST 133",
+            "METX 100",
+            "SOCY 121",
+            "SOCY 123",
+            "SOCY 127P"
+        ],
+        "dcrequirement": [
+            "BME 185"
+        ],
+        "comprehensiverequirement":[
+            "BME 175"
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Biomolecular Engineering and Bioinformatics B.S.",
+        "requiredcourses": [
+            "BIOL 20A",
+            "BME 80G",
+            "CHEM 1A",
+            "CHEM 1B",
+            "CHEM 1M",
+            "CHEM 1C",
+            "CHEM 1N",
+            "CHEM 8A",
+            "CHEM 8B",
+            "BME 21L",
+            "BME 22L",
+            "BME 23L",
+            "(MATH 19A and MATH 19B) or (MATH 20A and MATH 20B)",
+            "AM 10",
+            "AM 20",
+            "PHYS 5A",
+            "PHYS 5L",
+            "PHYS 5B",
+            "PHYS 5M",
+            "STAT 131 and (STAT 132 or STAT 206)",
+            "BIOC 100A",
+            "BIOC 100B",
+            "BME 105 or BIOL 105",
+            "BME 110",
+            "BME 160",
+            "BME 163",
+            "(BME 128 and BME 128L) or (BME 177 and BME 128L) or AM 115",
+            "BME 185 or CSE 185E"
+        ],
+        "electivecount":1,
+        "electives":[
+            "AM 147",
+            "METX 140",
+            "BIOC 100C",
+            "BIOL 115",
+            "BME 122H",
+            "BME 128",
+            "BME 128L",
+            "BME 130",
+            "BME 132",
+            "BME 140",
+            "BME 175",
+            "BME 177",
+            "BME 178",
+            "ECE 104",
+            "any 5-credit biomolecular engineering graduate course"
+        ],
+        "dcrequirement": [
+            "BME 185 or CSE 185E"
+        ],
+        "comprehensiverequirementcount": 1,
+        "comprehensiverequirement":[
+            "BME 129A or BME 129B or BME 129C",
+            "BME 180 or BME 188A or BME 188B or BME 188C",
+            "BME 205 or BME 230A",
+            "BME 193 or BME 123T",
+            "BME 195 or BME 123T",
+            "BME 198 or BME 123T"
+        ],
+        "otherrequirements":[
+            "Students are required to submit a portfolio, exit survey, and attend an exit interview."
+        ]
+    },
+    {
+        "majorname": "Business Management Economics B.A.",
+        "requiredcourses": [
+            "ECON 1",
+            "ECON 2",
+            "ECON 10A",
+            "ECON 10B",
+            "(AM 11A and AM 11B) or (MATH 11A and MATH 11B and MATH 22) or (MATH 19A and MATH 19B and MATH 23A) or (MATH 11A and AM 11B) or (MATH 19A and AM 11B)",
+            "STAT 17",
+            "STAT 17L",
+            "ECON 100A or ECON 100M",
+            "ECON 100B or ECON 100N",
+            "ECON 113",
+            "ECON 104 or ECON 197"
+
+        ],
+        "computerliteracycount": 2,
+        "computerliteracy":[
+            "CSE 5J", 
+            "CSE 10", 
+            "CSE 12", 
+            "CSE 13S",
+            "CSE 20", 
+            "CSE 30", 
+            "CSE 50", 
+            "CSE 58", 
+            "CSE 80N",
+            "ECE 13"
+        ],
+        "businessmanagementelectivecount": 4,
+        "businessmanagementelective":[
+            "Students must choose four business management courses from the following list; at least one of the four must be ECON 101, ECON 133, or ECON 135. ECON 130, ECON 159, ECON 160A, ECON 160B: Students can use only one of these courses as either a business management elective or an economics elective, but the course cannot be counted twice.",
+            "ECON 101",
+            "ECON 110",
+            "ECON 111A",
+            "ECON 111B",
+            "ECON 111C",
+            "ECON 112",
+            "ECON 115",
+            "ECON 117A",
+            "ECON 117B",
+            "ECON 119",
+            "ECON 124",
+            "ECON 130",
+            "ECON 131",
+            "ECON 133",
+            "ECON 135",
+            "ECON 136",
+            "ECON 138",
+            "ECON 139A",
+            "ECON 139B",
+            "ECON 159",
+            "ECON 160A/LGST",
+            "ECON 160B",
+            "ECON 161A",
+            "ECON 161B",
+            "ECON 164",
+            "ECON 188",
+            "ECON 194"
+        ],
+        "electivecount":1,
+        "electives":[
+            "ECON 105",
+            "ECON 114",
+            "ECON 114L",
+            "ECON 120",
+            "ECON 121",
+            "ECON 125",
+            "ECON 126",
+            "ECON 128/LGST",
+            "ECON 130",
+            "ECON 140",
+            "ECON 141",
+            "ECON 142",
+            "ECON 143",
+            "ECON 148",
+            "ECON 149",
+            "ECON 150",
+            "ECON 156",
+            "ECON 159",
+            "ECON 160A/LGST",
+            "ECON 160B",
+            "ECON 165",
+            "ECON 166A/CSE",
+            "ECON 166B/CSE",
+            "ECON 169/LGST",
+            "ECON 170",
+            "ECON 171",
+            "ECON 175",
+            "ECON 180",
+            "ECON 183/LGST",
+            "ECON 190"
+        ],
+        "dcrequirement": [
+            "ECON 104 or ECON 197"
+        ],
+        "comprehensiverequirement":[
+            "ECON 100A or ECON 100M",
+            "ECON 100B or ECON 100N",
+            "ECON 113"
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Chemistry B.A.",
+        "requiredcourses": [
+            "CHEM 8A",
+            "CHEM 8L",
+            "CHEM 8B",
+            "CHEM 8M",
+            "CHEM 110",
+            "CHEM 110L",
+            "CHEM 151A",
+            "CHEM 151L",
+            "CHEM 163A",
+            "CHEM 163B",
+            "CHEM 164",             
+            {
+                "name": "chemistry",
+                "optionone":[
+                    "CHEM 1A",
+                    "CHEM 1B",
+                    "CHEM 1C",
+                    "CHEM 1M",
+                    "CHEM 1N"
+                ],
+                "optiontwo":[
+                    "CHEM 4A",
+                    "CHEM 1M",
+                    "CHEM 4B",
+                    "CHEM 1N"
+                ]
+            },
+            {
+                "name": "calculus",
+                "optionone":[
+                    "MATH 11A",
+                    "MATH 11B"
+                ],
+                "optiontwo":[
+                    "MATH 19A",
+                    "MATH 19B"
+                ]
+            },
+            {
+                "name": "multivariatecalculus",
+                "optionone":[
+                    "MATH 22"
+                ],
+                "optiontwo":[
+                    "MATH 23A",
+                    "MATH 23B"
+                ],
+                "optionthree":[
+                    "AM 30"
+                ]
+            },
+            {
+                "name": "physics",
+                "optionone":[
+                    "PHYS 5A",
+                    "PHYS 5L",
+                    "PHYS 5B",
+                    "PHYS 5M",
+                    "PHYS 5C",
+                    "PHYS 5N"
+                ],
+                "optiontwo":[
+                    "PHYS 6A",
+                    "PHYS 6L",
+                    "PHYS 6B",
+                    "PHYS 6M",
+                    "PHYS 6C",
+                    "PHYS 6N"
+                ]
+            }
+        ],
+        "labcoursescount": 1,
+        "labcourses":[
+            "CHEM 146A",
+            "CHEM 146B",
+            "CHEM 146C",
+            "CHEM 160L"
+        ],
+        "electivecount":2,
+        "electives":[
+            "BIOC 100A",
+            "CHEM 103",
+            "CHEM 124",
+            "CHEM 143",
+            "CHEM 144",
+            "CHEM 151B",
+            "CHEM 156C",
+            "CHEM 163C",
+            "CHEM 169",
+            "CHEM 194",
+            "METX 101",
+            "METX 102",
+            "OCEA 120",
+            "OCEA 121",
+            "PHYS 156",
+            "PHYS 180"
+        ],
+        "dcrequirementcount": 1,
+        "dcrequirement": [
+            "CHEM 146A",
+            "CHEM 146B",
+            "CHEM 146C",
+            "CHEM 160L"
+        ],
+        "comprehensiverequirementcount": 1,
+        "comprehensiverequirement":[
+            "CHEM 146A",
+            "CHEM 146B",
+            "CHEM 146C",
+            "CHEM 160L"
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Chemistry B.S.",
+        "requiredcourses": [      
+            "CHEM 8A",
+            "CHEM 8L",
+            "CHEM 8B",
+            "CHEM 8M",
+            "CHEM 110",
+            "CHEM 110L",
+            "CHEM 151A",
+            "CHEM 151L",
+            "CHEM 103",
+            "CHEM 163A",
+            "CHEM 163B",
+            "CHEM 163C",
+            "CHEM 164",
+            {
+                "name": "chemistry",
+                "optionone":[
+                    "CHEM 1A",
+                    "CHEM 1B",
+                    "CHEM 1C",
+                    "CHEM 1M",
+                    "CHEM 1N"
+                ],
+                "optiontwo":[
+                    "CHEM 4A",
+                    "CHEM 1M",
+                    "CHEM 4B",
+                    "CHEM 1N"
+                ]
+            },
+            {
+                "name": "calculus",
+                "optionone":[
+                    "MATH 11A",
+                    "MATH 11B"
+                ],
+                "optiontwo":[
+                    "MATH 19A",
+                    "MATH 19B"
+                ]
+            },
+            {
+                "name": "multivariatecalculus",
+                "optionone":[
+                    "MATH 22"
+                ],
+                "optiontwo":[
+                    "MATH 23A",
+                    "MATH 23B"
+                ],
+                "optionthree":[
+                    "AM 30"
+                ]
+            },
+            {
+                "name": "advancedmath",
+                "optionone":[
+                    "AM 10"
+                ],
+                "optiontwo":[
+                    "MATH 21"
+                ],
+                "optionthree":[
+                    "MATH 24"
+                ]
+            },
+            {
+                "name": "physics",
+                "optionone":[
+                    "PHYS 5A",
+                    "PHYS 5L",
+                    "PHYS 5B",
+                    "PHYS 5M",
+                    "PHYS 5C",
+                    "PHYS 5N"
+                ],
+                "optiontwo":[
+                    "PHYS 6A",
+                    "PHYS 6L",
+                    "PHYS 6B",
+                    "PHYS 6M",
+                    "PHYS 6C",
+                    "PHYS 6N"
+                ]
+            }
+        ],
+        "labcoursescount": 1,
+        "labcourses":[
+            "CHEM 146A",
+            "CHEM 146B",
+            "CHEM 146C",
+            "CHEM 160L"
+        ],
+        "electivecount":2,
+        "electives":[
+            "BIOC 100A",
+            "CHEM 103",
+            "CHEM 124",
+            "CHEM 143",
+            "CHEM 144",
+            "CHEM 151B",
+            "CHEM 156C",
+            "CHEM 163C",
+            "CHEM 169",
+            "CHEM 194",
+            "METX 101",
+            "METX 102",
+            "OCEA 120",
+            "OCEA 121",
+            "PHYS 156",
+            "PHYS 180"
+        ],
+        "dcrequirementcount": 1,
+        "dcrequirement": [
+            "CHEM 146A",
+            "CHEM 146B",
+            "CHEM 146C",
+            "CHEM 160L"
+        ],
+        "comprehensiverequirementcount": 1,
+        "comprehensiverequirement":[
+            "CHEM 146A",
+            "CHEM 146B",
+            "CHEM 146C",
+            "CHEM 160L"
+        ],
+        "otherrequirements":[
+        ]
+    },
+    {
+        "majorname": "Classical Studies B.A.",
+        "requiredcourses":{
+            "lowerdiv":[
+                {
+                    "name": "General Courses",
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "GREE 1",
+                                "GREE 2"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "LATN 1",
+                                "LATN 2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Classical Studies Survey",
+                    "choose": 1,
+                    "courses":[
+                        "HIS 50",
+                        "HIS 59",
+                        "HIS 60",
+                        "HIS 61",
+                        "HIS 62A",
+                        "HIS 62B",
+                        "HAVC 50",
+                        "HAVC 51",
+                        "HAVC 55",
+                        "LIT 61M",
+                        "LIT 61S",
+                        "LIT 61X",
+                        "LIT 80W",
+                        "LIT 81A",
+                        "LIT 81D",
+                        "THEA 61A"
+                    ]
+
+                }
+            ],
+            "upperdiv":[
+                {
+                    "name": "General Courses",
+                    "choose": 3,
+                    "courses":[
+                        "LIT 184A",
+                        "LIT 184B",
+                        "LIT 184C",
+                        "LIT 184D",
+                        "LIT 184E",
+                        "LIT 186A",
+                        "LIT 186B",
+                        "LIT 186C",
+                        "LIT 186D"
+                    ]
+
+                }
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Elective",
+                    "choose": 6,
+                    "courses":[
+                        "CLST 199",
+                        "HIS 159A",
+                        "HIS 159B",
+                        "HIS 159C",
+                        "HIS 159D",
+                        "HIS 160A",
+                        "HIS 160C",
+                        "HIS 161B",
+                        "HIS 163B",
+                        "HIS 194S",
+                        "HIS 196S",
+                        "HAVC 135F",
+                        "HAVC 151",
+                        "HAVC 152",
+                        "HAVC 154",
+                        "HAVC 155",
+                        "HAVC 190C",
+                        "LIT 117A",
+                        "LIT 118A",
+                        "LIT 125A",
+                        "LIT 130A",
+                        "LIT 184A",
+                        "LIT 184B",
+                        "LIT 184C",
+                        "LIT 184D",
+                        "LIT 184E",
+                        "LIT 186A",
+                        "LIT 186B",
+                        "LIT 186C",
+                        "LIT 186D",
+                        "LIT 181A",
+                        "LIT 181B",
+                        "LIT 181D",
+                        "LIT 181E",
+                        "LIT 181F",
+                        "PHIL 100A",
+                        "PHIL 118",
+                        "POLI 105A/LGST"
+                    ]
+
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "Latin and Greek Literature",
+                    "choose": 3,
+                    "courses":[
+                        "LIT 184B",
+                        "LIT 184C",
+                        "LIT 184D",
+                        "LIT 184E",
+                        "LIT 186B",
+                        "LIT 186C",
+                        "LIT 186D"
+                    ]
+
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                "CLST 197F"
+            ]
+        }
+    },
+    {
+        "majorname": "Cognitive Science B.S.",
+        "requiredcourses":{
+            "lowerdiv":[
+                "PSYC 20",
+                {
+                    "name": "Statistics",
+                    "choose": 1,
+                    "courses":[
+                        "PSYC 2",
+                        "STAT 5",
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "STAT 7",
+                                "STAT 7L"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Calculus",
+                    "choose": 1,
+                    "courses":[
+                        "AM 11A",
+                        "MATH 11A",
+                        "MATH 19A",
+                        "MATH 20A"
+                    ]
+                },
+                {
+                    "name": "Computer Programming",
+                    "choose": 1,
+                    "courses":[
+                        "CSE 13S",
+                        "CSE 20",
+                        "CSE 30",
+                        "ECE 13"
+                    ]
+                }
+
+            ],
+            "upperdiv":[
+                "PSYC 100",
+                {
+                    "name": "Core Courses",
+                    "choose": 3,
+                    "courses":[
+                        {
+                            "choose": 1,
+                            "courses":[
+                                "PSYC 120",
+                                "PSYC 121"
+                            ]
+                        },
+                        "PSYC 123",
+                        "PSYC 125",
+                        "PSYC 129"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Senior Seminar",
+                    "choose": 1,
+                    "courses":[
+                        "PSYC 119A",
+                        "PSYC 119D",
+                        "PSYC 119E",
+                        "PSYC 119F",
+                        "PSYC 119H",
+                        "PSYC 119I",
+                        "PSYC 119K",
+                        "PSYC 119L",
+                        "PSYC 119M",
+                        "PSYC 119P",
+                        "PSYC 119Q",
+                        "PSYC 119S",
+                        "PSYC 119T",
+                        "PSYC 139B",
+                        "PSYC 139D",
+                        "PSYC 139G",
+                        "PSYC 139H",
+                        "PSYC 139J",
+                        "PSYC 139K",
+                        "PSYC 139L",
+                        "PSYC 139N",
+                        "PSYC 139P",
+                        "PSYC 139Q",
+                        "PSYC 139R",
+                        "PSYC 139T",
+                        "PSYC 159A",
+                        "PSYC 159D",
+                        "PSYC 159E",
+                        "PSYC 159H",
+                        "PSYC 159I",
+                        "PSYC 159J",
+                        "PSYC 159N",
+                        "PSYC 159P",
+                        "PSYC 159R",
+                        "PSYC 159S",
+                        "PSYC 159X",
+                        "PSYC 179A",
+                        "PSYC 179D",
+                        "PSYC 179E",
+                        "PSYC 179F"
+                    ]
+                },
+                {
+                    "name": "General",
+                    "choose": 2,
+                    "courses":[
+                        "PSYC 103",
+                        "PSYC 104",
+                        "PSYC 105",
+                        "PSYC 112",
+                        "PSYC 116",
+                        "PSYC 120",
+                        "PSYC 120D",
+                        "PSYC 121",
+                        "PSYC 122",
+                        "PSYC 123",
+                        "PSYC 124",
+                        "PSYC 125",
+                        "PSYC 126",
+                        "PSYC 129",
+                        "PSYC 130",
+                        "PSYC 133",
+                        "PSYC 138",
+                        "PSYC 138M",
+                        "PSYC 140F",
+                        "PSYC 147A/LGST",
+                        "PSYC 181",
+                        "PSYC 193",
+                        "PSYC 194B",
+                        "PSYC 195A"
+                    ]
+                },
+                {
+                    "name": "Interdisciplinary Electives",
+                    "specialrequirement": "Students must complete four interdisciplinary electives from lists of courses pre-approved by the Psychology Department, at least one of which must be upper-division. The electives fall into four groups: Evolution; Artificial Intelligence and Human-Computer Interaction; Linguistics; Philosophy. Three of the four electives must be selected from the same group. Students are responsible for planning their course of study to complete any necessary prerequisites for electives they wish to take. Possible sequences of interdisciplinary courses, including prerequisites, are given below.",
+                    "choose": 4,
+                    "courses":[
+                        "ANTH 1",
+                        "ANTH 100",
+                        "ANTH 101",
+                        "ANTH 104",
+                        "ANTH 105",
+                        "ANTH 106",
+                        "ANTH 109",
+                        "ANTH 112",
+                        "ANTH 139",
+                        "ANTH 173",
+                        "ANTH 174",
+                        "ANTH 184",
+                        "ANTH 184L",
+                        "ANTH 194B",
+                        "ANTH 194H",
+                        "BIOE 20C",
+                        "BIOE 109",
+                        "BIOE 124",
+                        "BIOE 124L",
+                        "BIOE 129",
+                        "BIOE 129L",
+                        "BIOE 140",
+                        "BIOE 141L",
+                        "BIOE 147",
+                        "BIOE 172",
+                        "BIOL 105",
+                        "BIOL 120",
+                        "BIOL 125",
+                        "PHIL 127",
+                        "PHIL 190",
+                        "ARTG 80G",
+                        "ARTG 80H",
+                        "CMPM 25",
+                        "CMPM 26",
+                        "CMPM 35",
+                        "CMPM 80A",
+                        "CMPM 80K",
+                        "CMPM 121",
+                        "CMPM 131",
+                        "CMPM 146",
+                        "CMPM 148",
+                        "CMPM 177",
+                        "CMPM 178",
+                        "CSE 80A",
+                        "CSE 107",
+                        "ECE 8",
+                        "ECE 9",
+                        "ECE 167",
+                        "MUSC 80L",
+                        "STAT 131",
+                        "ANTH 139",
+                        "LING 50",
+                        "LING 53",
+                        "LING 80C",
+                        "LING 80D",
+                        "LING 80K",
+                        "LING 101",
+                        "LING 102",
+                        "LING 105",
+                        "LING 111",
+                        "LING 112",
+                        "LING 113",
+                        "LING 116",
+                        "LING 117",
+                        "LING 124",
+                        "LING 125",
+                        "LING 140",
+                        "LING 151",
+                        "LING 152",
+                        "LING 155",
+                        "LING 171",
+                        "LING 172",
+                        "PHIL 7",
+                        "PHIL 9",
+                        "PHIL 11",
+                        "PHIL 23",
+                        "PHIL 80S",
+                        "PHIL 100B",
+                        "PHIL 100C",
+                        "PHIL 121",
+                        "PHIL 123",
+                        "PHIL 125",
+                        "PHIL 127",
+                        "PHIL 133",
+                        "PHIL 135",
+                        "PHIL 190"
+                    ]
+                }
+            ]
+        },      
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
+    },
+    {
+        "majorname": "Community Studies B.A.",
+        "requiredcourses":{
+            "lowerdiv":[
+                "CMMU 10"
+            ],
+            "upperdiv":[
+                "CMMU 101",
+                "CMMU 102",
+                "CMMU 105A",
+                "CMMU 105B",
+                "CMMU 105C"
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Topical Courses",
+                    "choose": 3,
+                    "courses":[
+                        "CMMU 130",
+                        "CMMU 132",
+                        "CMMU 133",
+                        "CMMU 134",
+                        "CMMU 137",
+                        "CMMU 141",
+                        "CMMU 143",
+                        "CMMU 145",
+                        "CMMU 148",
+                        "CMMU 149",
+                        "CMMU 151",
+                        "CMMU 156",
+                        "CMMU 157",
+                        "CMMU 160",
+                        "CMMU 161",
+                        "CMMU 162",
+                        "CMMU 163",
+                        "CMMU 164",
+                        "CMMU 165",
+                        "CMMU 167",
+                        "CMMU 186",
+                        "ANTH 134",
+                        "ANTH 136",
+                        "ANTH 153",
+                        "ANTH 194P",
+                        "EDUC 135",
+                        "EDUC 173",
+                        "EDUC 181",
+                        "ENVS 130B",
+                        "ENVS 158",
+                        "HAVC 141K",
+                        "HAVC 141O",
+                        "HAVC 142",
+                        "HIS 123",
+                        "LALS 175",
+                        "OAKS 153",
+                        "POLI 120C",
+                        "POLI 122",
+                        "POLI 124",
+                        "POLI 186",
+                        "PSYC 147A",
+                        "PSYC 147B",
+                        "PSYC 149",
+                        "PSYC 153",
+                        "PSYC 155",
+                        "PSYC 159H",
+                        "SOCY 122",
+                        "SOCY 127",
+                        "SOCY 131",
+                        "SOCY 176A",
+                        "SOCY 177",
+                        "SOCY 177E",
+                        "SOCY 177G"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                "CMMU 102",
+                "CMMU 107"
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                "CMMU 107"
+            ]
+        }
+    },
+    {
+        "majorname": "Computer Engineering B.S.",
+        "requiredcourses":{
+            "lowerdiv":[
+                "MATH 19A",
+                "MATH 19B",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 30",
+                        "MATH 23A"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 10",
+                        "MATH 21"
+                    ]
+                },
+                "AM 20",
+                "CSE 12",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "CSE13S",
+                        "ECE 13"
+                    ]
+                },
+                "CSE 16", 
+                "CSE 20", 
+                "CSE 30", 
+                "PHYS 5A",
+                "PHYS 5L",
+                "PHYS 5C",
+                "PHYS 5N",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 5B",
+                                "PHYS 5M"
+                            ]
+                        },
+                        "ECE 9"
+                    ]
+                }
+            ],
+            "upperdiv":[
+                "CSE 100",
+                "CSE 100L",
+                "CSE 101",
+                "CSE 107",
+                "CSE 120",
+                "CSE 121",
+                "CSE 185E/CSE",
+                "ECE 101",
+                "ECE 101L",
+                "ECE 103",
+                "ECE 103L"
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Concentration Requirements",
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "name": "Digital Hardware Concentration",
+                            "choose": "all",
+                            "courses":[
+                                "CSE 125",
+                                {
+                                    "choose": 1,
+                                    "courses":[
+                                        {
+                                            "choose": "all",
+                                            "courses":[
+                                                "ECE 171",
+                                                "ECE 171L"
+                                            ]
+                                        },
+                                        "CSE 122"
+                                    ]
+                                },
+                                {
+                                    "choose": 1,
+                                    "courses":[
+                                        "CSE 122",
+                                        "CSE 220",
+                                        "ECE 171",
+                                        "ECE 171L",
+                                        "ECE 173"
+                                    ]
+                                },
+                                "One Upper Division Elective"
+                            ]
+                        },
+                        {
+                            "name": "System Programming Concentration",
+                            "choose": "all",
+                            "courses":[
+                                "CSE 130",
+                                {
+                                    "choose": 1,
+                                    "courses":[
+                                        "CSE 111",
+                                        "CSE 115A",
+                                        "CSE 134"
+                                    ]
+                                },
+                                "CSE 150",
+                                "CSE 151",
+                                "CSE 151L",
+                                {
+                                    "choose": 1,
+                                    "courses":[
+                                        "CSE 113",
+                                        "CSE 156",
+                                        "CSE 156L",
+                                        "CSE 110A"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Networks Concentration",
+                            "choose": "all",
+                            "courses":[
+                                "CSE 150",
+                                "CSE 156",
+                                "CSE 156L",
+                                "CSE 130",
+                                "CSE 151",
+                                "CSE 151L"
+                            ]
+                        },
+                        {
+                            "name": "Computer Systems Concentration",
+                            "choose": "all",
+                            "courses":[
+                                {
+                                    "choose": 1,
+                                    "courses":[
+                                        "CSE 125",
+                                        "CSE 122"
+                                    ]
+                                },
+                                "CSE 130",
+                                {
+                                    "choose": 1,
+                                    "courses":[
+                                        "CSE 111",
+                                        "CSE 115A",
+                                        "CSE 134"
+                                    ]
+                                },
+                                "One Upper Division Elective"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "CSE 185E",
+                        "CSE 195"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Capstone Requirement",
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "CSE 123A",
+                                "CSE 123B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "CSE 129A",
+                                "CSE 129B",
+                                "CSE 129C"
+                            ]
+                        },
+                        "CSE 195",
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "CSE 115A",
+                                "CSE 115B",
+                                "CSE 115C"
+                            ]
+                        },
+                        "CSE 118",
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "CSE 115A",
+                                "CSE 115D"
+                            ]
+                        },
+                        "CSE 157"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "majorname": "Computer Science B.A.",
+        "requiredcourses":{
+            "lowerdiv":[
+                "CSE 13S",
+                "CSE 12",
+                "CSE 16",
+                "CSE 20",
+                "CSE 30",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 20A",
+                                "MATH 20B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 10",
+                        "MATH 21"
+                    ]
+                }
+
+            ],
+            "upperdiv":[
+                "CSE 101",
+                {
+                    "choose": 3,
+                    "courses":[
+                        "CSE 102",
+                        "CSE 103",
+                        "CSE 110A",
+                        "CSE 112",
+                        "CSE 114A",
+                        "CSE 120",
+                        "CSE 130",
+                        "CSE 132",
+                        "CSE 138",
+                        "CSE 140",
+                        "CSE 142",
+                        "CSE 143",
+                        "CSE 144",
+                        "CSE 160",
+                        "CSE 180"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Elective",
+                    "choose": 3,
+                    "courses":[
+                        "Any 5-credit upper-division course offered by the Baskin School of Engineering, except for the DC courses CSE 115A and CSE 185E/CSE 185S.",
+                        "ARTG 118",
+                        "EART 124",
+                        "EART 125",
+                        "EART 172",
+                        "ECON 100M",
+                        "ECON 100N",
+                        "ECON 101",
+                        "ENVS 115A",
+                        "ENVS 115L",
+                        "FILM 170A",
+                        "LING 112",
+                        "LING 113",
+                        "LING 118",
+                        "LING 125",
+                        "MATH 110",
+                        "MATH 115",
+                        "MATH 116",
+                        "MATH 117",
+                        "MATH 118",
+                        "MATH 134",
+                        "MATH 145",
+                        "MATH 145L",
+                        "MATH 148",
+                        "MATH 160",
+                        "MATH 161",
+                        "MUSC 123",
+                        "MUSC 124",
+                        "MUSC 125",
+                        "PHYS 115",
+                        "PHYS 150"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "CSE 115A",
+                        "CSE 185S",
+                        "CSE 195"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Capstone",
+                    "choose": 1,
+                    "courses":[
+                        "CSE 110B",
+                        "CSE 115C",
+                        "CSE 115D",
+                        "CSE 134",
+                        "CSE 138",
+                        "CSE 140",
+                        "CSE 143",
+                        "CSE 144",
+                        "CSE 145",
+                        "CSE 156L",
+                        "CSE 156",
+                        "CSE 157",
+                        "CSE 160",
+                        "CSE 161",
+                        "CSE 161L",
+                        "CSE 162",
+                        "CSE 162L",
+                        "CSE 163",
+                        "CSE 168",
+                        "CSE 181",
+                        "CSE 183",
+                        "CSE 184",
+                        "CMPM 172",
+                        "CSE 195"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "majorname": "Computer Science B.S.",
+        "requiredcourses":{
+            "lowerdiv":[
+                "CSE 12",
+                "CSE 16",
+                "CSE 20",
+                "CSE 30",
+                "CSE 13S",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 20A",
+                                "MATH 20B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 10",
+                        "MATH 21"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 30",
+                        "MATH 23A"
+                    ]
+                },
+                "ECE 30"
+            ],
+            "upperdiv":[
+                "CSE 101",
+                "CSE 102",
+                "CSE 103",
+                "CSE 120",
+                "CSE 130",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "CSE 112",
+                        "CSE 114A"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "STAT 131",
+                        "CSE 107"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "specialrequirement": "Four courses must be completed from the list below . At least one course must be a computer science and engineering course. At most two courses can be from applied mathematics, statistics or mathematics, of which at most one may be substituted with two physics classes, chosen from the following list of class pairs: PHYS 6A and PHYS 6C, PHYS 6A and PHYS 6B, PHYS 5A and PHYS 5C, PHYS 5A and PHYS 5B. Any laboratories required or recommended by the Physics Department associated with these classes are not part of the computer science B.S. major requirements.",
+            "classes":[
+                {
+                    "name": "Elective",
+                    "choose": 4,
+                    "courses":[
+                        "Any CSE course with a number below 170, or between 180 and 189, except for the DC courses CSE 115A and CSE 185E/CSE 185S.",
+                        "AM 114",
+                        "AM 147",
+                        "CMPM 120",
+                        "CMPM 131",
+                        "CMPM 146",
+                        "CMPM 163",
+                        "CMPM 164",
+                        "CMPM 164L",
+                        "CMPM 171",
+                        "CMPM 172",
+                        "CSE 195",
+                        "MATH 110",
+                        "MATH 115",
+                        "MATH 116",
+                        "MATH 117",
+                        "MATH 118",
+                        "MATH 134",
+                        "MATH 145",
+                        "MATH 145L",
+                        "MATH 148",
+                        "MATH 160",
+                        "MATH 161",
+                        "STAT 132"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "CSE 115A",
+                        "CSE 185S",
+                        "CSE 195"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Capstone",
+                    "choose": 1,
+                    "courses":[
+                        "CSE 110B",
+                        "CSE 115C",
+                        "CSE 115D",
+                        "CSE 134",
+                        "CSE 138",
+                        "CSE 140",
+                        "CSE 143",
+                        "CSE 144",
+                        "CSE 145",
+                        "CSE 156L",
+                        "CSE 156",
+                        "CSE 157",
+                        "CSE 160",
+                        "CSE 161",
+                        "CSE 161L",
+                        "CSE 162",
+                        "CSE 162L",
+                        "CSE 163",
+                        "CSE 168",
+                        "CSE 181",
+                        "CSE 183",
+                        "CSE 184",
+                        "CMPM 172",
+                        "CSE 195"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "majorname": "Computer Science: Computer Game Design B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 20A",
+                                "MATH 20B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 10",
+                        "MATH 21"
+                    ]
+                },
+                "CSE 16",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECE 13",
+                        "CSE 13S"
+                    ]
+                },
+                "CSE 20",
+                "CSE 12",
+                "CSE 30",
+                "ARTG 80G",
+                "FILM 80V",
+                "CMPM 80K"
+            ],
+            "upperdiv":[
+                "CSE 101",
+                "CSE 111",
+                "ARTG 120",
+                "CMPM 120",
+                "CMPM 170",
+                "CMPM 171",
+                "CMPM 172",
+                "CMPM 176"
+            ]
+        },
+        "electives":{
+            "specialrequirement": "No more than two of the five can be from CMPM 131, CMPM 132, CMPM 150, CMPM 177, CSE 103, CSE 104 or ECON 166A. (These seven courses focus on other skills useful in computer game development, such as design, production, and mathematical analysis.)",
+            "classes":[
+                {
+                    "name": "Elective",
+                    "choose": 5,
+                    "courses":[
+                        "CMPM 121",
+                        "CMPM 131",
+                        "CMPM 132",
+                        "CMPM 146",
+                        "CMPM 147",
+                        "CMPM 148",
+                        "CMPM 150",
+                        "CMPM 151",
+                        "CMPM 152",
+                        "CMPM 163",
+                        "CMPM 164",
+                        "CMPM 169",
+                        "CMPM 177",
+                        "CMPM 178",
+                        "CMPM 179",
+                        "CSE 102",
+                        "CSE 103",
+                        "CSE 104",
+                        "CSE 110A",
+                        "CSE 110B",
+                        "CSE 113",
+                        "CSE 112",
+                        "CSE 115A",
+                        "CSE 115B",
+                        "CSE 115C",
+                        "CSE 118",
+                        "CSE 119",
+                        "CSE 120",
+                        "CSE 132",
+                        "CSE 138",
+                        "CSE 140",
+                        "CSE 142",
+                        "CSE 150",
+                        "CSE 160",
+                        "CSE 161",
+                        "CSE 162",
+                        "CSE 163",
+                        "CSE 180",
+                        "CSE 181",
+                        "CSE 183",
+                        "CSE 184",
+                        "ECON 166A",
+                        "ECE 118"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                "CMPM 170"
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                "CMPM 170",
+                "CMPM 171",
+                "CMPM 172"
+            ]
+        }
+
     },
     {
         "majorname": "Critical Race and Ethnic Studies B.A.",
@@ -896,12 +2801,6 @@
     },
     {
         "majorname": "Theater Arts B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
-    },
-    {
-        "majorname": "",
         "requiredcourses": "none",
         "electives": "none",
         "otherrequirements": "none"
