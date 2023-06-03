@@ -220,13 +220,15 @@ function Sidebar({courses}) {
   return (
     <div className="sidebar">
       <h2 className="sidebar-title">Available Courses</h2>
-      <input
-        type="text"
-        placeholder="Search courses..."
-        value={searchQuery}
-        onChange={handleSearch}
-        className="search-bar"
-      />
+      <div className="search-container">
+        <input
+          type="text"
+          placeholder="Search courses..."
+          value={searchQuery}
+          onChange={handleSearch}
+          className="search-bar"
+        />
+      </div>
       {
         sortedCourses.map((course, index) => (
           <div
@@ -284,13 +286,15 @@ function BottomSidebar({courses}) {
   return (
     <div className="bottom-sidebar">
       <h2 className="sidebar-title">Other Courses</h2>
-      <input
-        type="text"
-        placeholder="Search courses..."
-        value={searchQuery}
-        onChange={handleSearch}
-        className="search-bar"
-      />
+      <div className="search-container">
+        <input
+          type="text"
+          placeholder="Search courses..."
+          value={searchQuery}
+          onChange={handleSearch}
+          className="search-bar"
+        />
+      </div>
       {
         sortedCourses.map((course, index) => (
           <div
@@ -399,11 +403,17 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     });
   };
 
-  const handleCourseDragStart = (event, courseName, originalIndex) => {
+  const handleCourseDragStart = (event, courseName, courseCredits, genEd, originalIndex) => {
+    console.log("DragCourse:");
+    console.log("Name:", courseName);
+    console.log("Credits:", courseCredits);
+    console.log("GenED:", genEd);
     event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("credits", courseCredits);
+    event.dataTransfer.setData("genEd", genEd);
     event.dataTransfer.setData("originalIndex", originalIndex.toString());
     setTimeout(() => {
-      handleRemoveCourse(courseName, originalIndex);
+      handleRemoveCourse(courseName, courseCredits, genEd, originalIndex);
     }, 0);
   };
 
@@ -443,7 +453,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
           key={index}
           className="draggable-course"
           draggable
-          onDragStart={(event) => handleCourseDragStart(event, course.coursename, index)}
+          onDragStart={(event) => handleCourseDragStart(event, course.coursename, course.credits, course.genEdCode, index)}
         >
           <button
             className="remove-course-button"
@@ -503,6 +513,12 @@ function App() {
     generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
+  const handleCheckboxChange = (key) => {
+    const updatedGE_Check = { ...GE_Check };
+    updatedGE_Check[key] = updatedGE_Check[key] > 0 ? 0 : 1; // Toggle the value between 0 and 1
+    setGE_Check(updatedGE_Check);
+  };
+
   return (
     <div>
       {/* Logo*/}
@@ -536,10 +552,25 @@ function App() {
                 <h2>Graduation requirements</h2>
                 <div className="requirements-container">
                   {Object.entries(GE_Check).map(([key, value]) => (
-                    <span key={key} className="requirement-item">
-                      {key}: {value}
-                    </span>
-                  ))}
+                      <div key={key} className="checkbox-container">
+                        {key === "Credits" ? ( // Check if the option is "Credits"
+                          <span key={key} className="requirement-item">
+                            {key}: {value}/180
+                          </span>
+                        ) : (
+                          <div>
+                            <input
+                              type="checkbox"
+                              id={key}
+                              checked={value > 0}
+                              onChange={() => handleCheckboxChange(key)}
+                              disabled
+                            />
+                            <label htmlFor={key}>{key}</label>
+                          </div>
+                        )}
+                      </div>
+                    ))}
                 </div>
               </div>
             </div>

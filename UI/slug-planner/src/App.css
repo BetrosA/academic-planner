@@ -1,6 +1,22 @@
 /* App.css */
 
 /* General layout */
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-container input[type="checkbox"] {
+  transform: scale(1.5); /* Increase the size of the checkbox */
+
+}
+
+.checkbox-container label {
+  font-size: 1.2rem; /* Set the font size */
+  color: black; /* Set the color to red */
+}
+
 .content {
   display: flex;
 }
@@ -130,6 +146,7 @@
   display: flex;
   flex-direction: column;
   overflow-y: auto;
+  position: relative;
 }
 
 /* Sidebar styles */
@@ -143,6 +160,15 @@
   display: flex;
   flex-direction: column;
   overflow-y: auto;
+  position: relative;
+}
+
+.search-container {
+  position: sticky; /* Set position to sticky */
+  top: 0; /* Stick to the top of the sidebar */
+  background-color: white; /* Adjust background color as needed */
+  padding: 8px; /* Add padding for spacing */
+  z-index: 1; /* Ensure the search bar is above the course list */
 }
 
 .sidebar-container {
