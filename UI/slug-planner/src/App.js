@@ -186,25 +186,36 @@ function Sidebar({courses}) {
     setSearchQuery(event.target.value);
   };
 
-  const handleDragStart = (event, courseName, credits, genEd, originalIndex) => {
+  const handleDragStart = (event, courseName, credits, genEd) => {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", credits);
     event.dataTransfer.setData("genEd", genEd);
-    event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
 
   const sortCourses = (courses) => {
     return courses.sort((a, b) => {
       const [prefixA, codeA] = a.coursename.split(" ");
       const [prefixB, codeB] = b.coursename.split(" ");
-
+  
       if (prefixA !== prefixB) {
         return prefixA.localeCompare(prefixB);
       } else {
-        return parseInt(codeA) - parseInt(codeB);
+        // Extract the numeric part of the course code
+        const numericCodeA = parseInt(codeA);
+        const numericCodeB = parseInt(codeB);
+  
+        // Check if the course codes are equal (e.g., "11A" and "11B")
+        if (numericCodeA === numericCodeB) {
+          // Compare the alphabetic part to sort "A" before "B"
+          return codeA.localeCompare(codeB);
+        } else {
+          // Sort numerically based on the course codes
+          return numericCodeA - numericCodeB;
+        }
       }
     });
   };
+  
 
   const filterCoursesBySearch = (course) => {
     // Filter courses based on the search query
@@ -230,12 +241,12 @@ function Sidebar({courses}) {
         />
       </div>
       {
-        sortedCourses.map((course, index) => (
+        sortedCourses.map((course) => (
           <div
-            key={index}
+            key={course.id}
             className="draggable-course"
             draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, index)}
+            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
           >
             {course.coursename}
           </div>
@@ -251,25 +262,36 @@ function BottomSidebar({courses}) {
     setSearchQuery(event.target.value);
   };
 
-  const handleDragStart = (event, courseName, credits, genEd, originalIndex) => {
+  const handleDragStart = (event, courseName, credits, genEd) => {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", credits);
     event.dataTransfer.setData("genEd", genEd);
-    event.dataTransfer.setData("originalIndex", originalIndex.toString());
   };
 
   const sortCourses = (courses) => {
     return courses.sort((a, b) => {
       const [prefixA, codeA] = a.coursename.split(" ");
       const [prefixB, codeB] = b.coursename.split(" ");
-
+  
       if (prefixA !== prefixB) {
         return prefixA.localeCompare(prefixB);
       } else {
-        return parseInt(codeA) - parseInt(codeB);
+        // Extract the numeric part of the course code
+        const numericCodeA = parseInt(codeA);
+        const numericCodeB = parseInt(codeB);
+  
+        // Check if the course codes are equal (e.g., "11A" and "11B")
+        if (numericCodeA === numericCodeB) {
+          // Compare the alphabetic part to sort "A" before "B"
+          return codeA.localeCompare(codeB);
+        } else {
+          // Sort numerically based on the course codes
+          return numericCodeA - numericCodeB;
+        }
       }
     });
   };
+  
 
   const filterCoursesBySearch = (course) => {
     // Filter courses based on the search query
@@ -296,12 +318,12 @@ function BottomSidebar({courses}) {
         />
       </div>
       {
-        sortedCourses.map((course, index) => (
+        sortedCourses.map((course) => (
           <div
-            key={index}
+            key={course.id}
             className="draggable-course"
             draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, index)}
+            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
           >
             {course.coursename}
           </div>
@@ -312,13 +334,13 @@ function BottomSidebar({courses}) {
 
 function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
+  const [quarterCredits, setQuarterCredits] = useState(0);
 
   const handleDrop = (event) => {
     event.preventDefault();
     const courseName = event.dataTransfer.getData("courseName");
     const courseCredits = event.dataTransfer.getData("credits");
     const genEd = event.dataTransfer.getData("genEd");
-    const originalIndex = parseInt(event.dataTransfer.getData("originalIndex"));
 
     console.log("HandleDrop");
     console.log("Name:", courseName);
@@ -330,8 +352,6 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
       credits: courseCredits,
       genEdCode: genEd
     };
-
-    
 
     const credits = parseInt(courseCredits.split(" ")[1]);
     const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
@@ -347,6 +367,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
         ...prevState,
         Credits: prevState.Credits + credits,
       }));
+      setQuarterCredits(quarterCredits + credits);
       
       if (genEdCode in GE_Check) {
         setGE_Check((prevGE_Check) => ({
@@ -357,7 +378,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
 
       // Remove the dropped course from the sidebar
       setCourses((prevCourses) =>
-        prevCourses.filter((_, index) => index !== originalIndex)
+        prevCourses.filter((course) => course.coursename !== courseName)
       );
     }
   };
@@ -366,7 +387,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     event.preventDefault();
   };
 
-  const handleRemoveCourse = (courseName, courseCredits, genEd, originalIndex) => {
+  const handleRemoveCourse = (courseName, courseCredits, genEd) => {
     console.log("RemoveCourse:");
     console.log("Name:", courseName);
     console.log("Credits:", courseCredits);
@@ -386,6 +407,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
       ...prevState,
       Credits: prevState.Credits - credits,
     }));
+    setQuarterCredits(quarterCredits - credits);
 
     if (genEdCode in GE_Check) {
       setGE_Check((prevGE_Check) => ({
@@ -394,16 +416,16 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
       }));
     }
   
-    // Add the removed course back to the sidebar at its original index
+    // Add the removed course back to the sidebar
     const removedCourse = { coursename: courseName, credithours: courseCredits, genEd: genEd };
     setCourses((prevCourses) => {
       const updatedCourses = [...prevCourses];
-      updatedCourses.splice(originalIndex, 0, removedCourse);
+      updatedCourses.push(removedCourse);
       return updatedCourses.sort(); // Sort the updated courses array
     });
   };
 
-  const handleCourseDragStart = (event, courseName, courseCredits, genEd, originalIndex) => {
+  const handleCourseDragStart = (event, courseName, courseCredits, genEd) => {
     console.log("DragCourse:");
     console.log("Name:", courseName);
     console.log("Credits:", courseCredits);
@@ -411,9 +433,8 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", courseCredits);
     event.dataTransfer.setData("genEd", genEd);
-    event.dataTransfer.setData("originalIndex", originalIndex.toString());
     setTimeout(() => {
-      handleRemoveCourse(courseName, courseCredits, genEd, originalIndex);
+      handleRemoveCourse(courseName, courseCredits, genEd);
     }, 0);
   };
 
@@ -421,14 +442,26 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     return courses.sort((a, b) => {
       const [prefixA, codeA] = a.coursename.split(" ");
       const [prefixB, codeB] = b.coursename.split(" ");
-
+  
       if (prefixA !== prefixB) {
         return prefixA.localeCompare(prefixB);
       } else {
-        return parseInt(codeA) - parseInt(codeB);
+        // Extract the numeric part of the course code
+        const numericCodeA = parseInt(codeA);
+        const numericCodeB = parseInt(codeB);
+  
+        // Check if the course codes are equal (e.g., "11A" and "11B")
+        if (numericCodeA === numericCodeB) {
+          // Compare the alphabetic part to sort "A" before "B"
+          return codeA.localeCompare(codeB);
+        } else {
+          // Sort numerically based on the course codes
+          return numericCodeA - numericCodeB;
+        }
       }
     });
   };
+  
 
   const sortedDroppedCourses = sortDroppedCourses(droppedCourses);
 
@@ -448,22 +481,35 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
   return (
     <div className="quarter-box" onDrop={handleDrop} onDragOver={handleDragOver}>
       <h2 className="quarter-title">{getBoxTitle()}</h2>
-      {sortedDroppedCourses.map((course, index) => (
-        <div
-          key={index}
-          className="draggable-course"
-          draggable
-          onDragStart={(event) => handleCourseDragStart(event, course.coursename, course.credits, course.genEdCode, index)}
-        >
-          <button
-            className="remove-course-button"
-            onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEdCode)}
-          >
-            x
-          </button>
-          <span>{course.coursename}</span>
+      <div className="course-list-container">
+        <div className="course-list">
+          {sortedDroppedCourses.map((course) => (
+            <div
+              key={course.id}
+              className="quarterbox-draggable-course"
+              draggable
+              onDragStart={(event) =>
+                handleCourseDragStart(event, course.coursename, course.credits, course.genEdCode)
+              }
+            >
+              <button
+                className="remove-course-button"
+                onClick={() =>
+                  handleRemoveCourse(course.coursename, course.credits, course.genEdCode)
+                }
+              >
+                x
+              </button>
+              <span>{course.coursename}</span>
+            </div>
+          ))}
         </div>
-      ))}
+      </div>
+      <div className="quarter-credits-container">
+        <div className="quarter-credits-box">
+          <p>Quarter Credits: {quarterCredits}</p>
+        </div>
+      </div>
     </div>
   );
 }
@@ -549,7 +595,7 @@ function App() {
             </div>
             <div className="bottom-half">
               <div>
-                <h2>Graduation requirements</h2>
+                <h2>GE requirements</h2>
                 <div className="requirements-container">
                   {Object.entries(GE_Check).map(([key, value]) => (
                       <div key={key} className="checkbox-container">
@@ -575,34 +621,31 @@ function App() {
               </div>
             </div>
           </div>
-        <div className="quarterbox-container-wrapper">
-          <div className="quarterbox-container">
-            {[...Array(totalYears)].map((_, rowIndex) => (
-              <div className="quarterbox-row" key={rowIndex}>
-                {[...Array(4)].map((_, colIndex) => (
-                  <QuarterBox
-                    key={colIndex}
-                    row={rowIndex + 1}
-                    column={colIndex + 1}
-                    selectedStartingYear={selectedStartingYear}
-                    allDroppedCourses={allDroppedCourses}
-                    setAllDroppedCourses={setAllDroppedCourses}
-                    courses={courses}
-                    setCourses={setCourses}
-                    GE_Check={GE_Check}
-                    setGE_Check={setGE_Check}
-                  />
-                ))}
-              </div>
-            ))}
-            <button onClick={removeYear}>Remove Year</button>
-            <button onClick={addYear}>Add Year</button>
-            
+          <div className="quarterbox-container-wrapper">
+            <div className="quarterbox-container">
+              {[...Array(totalYears)].map((_, rowIndex) => (
+                <div className="quarterbox-row" key={rowIndex}>
+                  {[...Array(4)].map((_, colIndex) => (
+                    <QuarterBox
+                      key={colIndex}
+                      row={rowIndex + 1}
+                      column={colIndex + 1}
+                      selectedStartingYear={selectedStartingYear}
+                      allDroppedCourses={allDroppedCourses}
+                      setAllDroppedCourses={setAllDroppedCourses}
+                      courses={courses}
+                      setCourses={setCourses}
+                      GE_Check={GE_Check}
+                      setGE_Check={setGE_Check}
+                    />
+                  ))}
+                </div>
+              ))}
+              <button onClick={removeYear}>Remove Year</button>
+              <button onClick={addYear}>Add Year</button>
+            </div>
           </div>
-          
         </div>
-        
-      </div>
       )}
     </div>
   )
