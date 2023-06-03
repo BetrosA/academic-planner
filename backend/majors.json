@@ -1,1444 +1,276 @@
 [
     {
         "majorname": "Agroecology B.A.",
-        "requiredcourses": [
-            "ENVS 23 or CHEM1A",
-            "ENVS 24 or BIOE 20C",
-            "STAT 7",
-            "STAT 7L",
-            "ENVS 25",
-            "ENVS 80F",
-            "AM 3 or AM 6 or MATH 3",
-            "ANTH 2 or BME 80G or PHIL 22 or PHIL 24 or PHIL 28 or SOCY 1 or SOCY 10 or SOCY 15",
-            "ENVS 100",
-            "ENVS 100L",
-            "ENVS 130A",
-            "ENVS 130L",
-            "ENVS 130B",
-            "ENVS 130C or ENVS 133 or ENVS 135"
-        ],
-        "electivecount": 4,
-        "electives": [
-            "ENVS 108/L",
-            "ENVS 130C",
-            "ENVS 131",
-            "ENVS 133 or 133B",
-            "ENVS 135",
-            "ENVS 142",
-            "ENVS 143",
-            "ENVS 160",
-            "ENVS 161",
-            "ENVS 162/L",
-            "ENVS 163/L",
-            "ENVS 164",
-            "ENVS 165",
-            "ENVS 166",
-            "ENVS 168",
-            "ENVS 169",
-            "ENVS 170",
-            "BIOE 118",
-            "CMMU 149",
-            "CMMU 186"
-        ],
-        "dcrequirement": [
-            "ENVS 100",
-            "ENVS 100L",
-            "ENVS 183B or ENVS 190 or ENVS 195B or ENVS 196"
-        ],
-        "comprehensiverequirement":[
-            "ENVS 183A and ENVS 183B",
-            "ENVS 190",
-            "ENVS 195A and ENVS 195B",
-            "ENVS 196"
-        ],
-        "otherrequirements": [
-            "ENVS 83 or ENVS 184 or ENVS 199F"
-        ]
-    },
-    {
-        "majorname": "Anthropology B.A.",
-        "requiredcourses": [
-            "ANTH 1",
-            "ANTH 2",
-            "ANTH 3",
-            "one course in anthropological theory",
-            "one course in sociocultural anthropology",
-            "one course in regional specialization",
-            "one course in archaeology",
-            "one course in biological, medical or environmental anthropology"
-        ],
-        "anthropoligcaltheory":[
-            "ANTH 100",
-            "ANTH 150",
-            "ANTH 152",
-            "ANTH 170"
-        ],
-        "socioculturalanthropology":[
-            "ANTH 119",
-            "ANTH 125",
-            "ANTH 126",
-            "ANTH 129",
-            "ANTH 131",
-            "ANTH 134",
-            "ANTH 135A",
-            "ANTH 136",
-            "ANTH 137",
-            "ANTH 138",
-            "ANTH 139",
-            "ANTH 140",
-            "ANTH 142",
-            "ANTH 143",
-            "ANTH 144",
-            "ANTH 145X",
-            "ANTH 146",
-            "ANTH 147",
-            "ANTH 148",
-            "ANTH 149",
-            "ANTH 151",
-            "ANTH 157",
-            "ANTH 158",
-            "ANTH 159",
-            "ANTH 160",
-            "ANTH 161",
-            "ANTH 161S",
-            "ANTH 163"
-        ],
-        "regional specialization":[
-            "ANTH 130A",
-            "ANTH 130C",
-            "ANTH 130E",
-            "ANTH 130F",
-            "ANTH 130H",
-            "ANTH 130I",
-            "ANTH 130L",
-            "ANTH 130M",
-            "ANTH 130O",
-            "ANTH 130P",
-            "ANTH 130S",
-            "ANTH 130T",
-            "ANTH 130U",
-            "ANTH 130V",
-            "ANTH 130W",
-            "ANTH 130X",
-            "ANTH 175", 
-            "ANTH 176A",
-            "ANTH 176B",
-            "ANTH 176C",
-            "ANTH 176D",
-            "ANTH 176E",
-            "ANTH 176F"
-        ],
-        "archaeology":[
-            "ANTH 171",
-            "ANTH 172",
-            "ANTH 173",
-            "ANTH 174",
-            "ANTH 175",
-            "ANTH 176A",
-            "ANTH 176B",
-            "ANTH 176C",
-            "ANTH 176D",
-            "ANTH 176E",
-            "ANTH 176F",
-            "ANTH 177",
-            "ANTH 178",
-            "HIS 158C",
-            "ANTH 180",
-            "ANTH 180L",
-            "ANTH 181X",
-            "ANTH 182A",
-            "ANTH 184",
-            "ANTH 185",
-            "ANTH 187",
-            "ANTH 187B",
-            "ANTH 189"
-        ],
-        "biological, medical or environmental anthropology":[
-            "ANTH 100",
-            "ANTH 101",
-            "ANTH 104",
-            "ANTH 105",
-            "ANTH 106",
-            "ANTH 111",
-            "ANTH 190X",
-            "ANTH 134",
-            "ANTH 136",
-            "ANTH 140",
-            "ANTH 140",
-            "ANTH 146",
-            "ANTH 147",
-            "ANTH 177"
-        ],
-        "electivecount": 4,
-        "electives": [
-            "Four anthropology electives (any additional upper-division anthropology courses)"
-        ],
-        "dcrequirement": [
-            "(ANTH 195A and ANTH 195B and ANTH 195C) or ANTH 195S"
-        ],
-        "comprehensiverequirement":[
-            "(ANTH 195A and ANTH 195B and ANTH 195C) or ANTH 195S"
-
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Applied Physics B.S.",
-        "requiredcourses": [
-            "MATH 19A or MATH 20A",
-            "MATH 19B or MATH 20B",
-            "MATH 23A",
-            "MATH 23B",
-            "PHYS 5A",
-            "PHYS 5L",
-            "PHYS 5B",
-            "PHYS 5M",
-            "PHYS 5C",
-            "PHYS 5N",
-            "PHYS 5D",
-            "CHEM 1A or CHEM 1B",
-            "ASTR 119 or CSE20",
-            "PHYS 102",
-            "PHYS 116A",
-            "PHYS 116C",
-            "PHYS 105",
-            "PHYS 110A",
-            "PHYS 110B",
-            "PHYS 112",
-            "PHYS 133",
-            "PHYS 134"
-        ],
-        "electivecount":3,
-        "electives": [
-            "PHYS 115",
-            "PHYS 120",
-            "PHYS 137",
-            "PHYS 139A",
-            "PHYS 139B",
-            "PHYS 157",
-            "PHYS 150",
-            "PHYS 152",
-            "PHYS 156",
-            "PHYS 160",
-            "PHYS 180",
-            "AM 107",
-            "CHEM 163B",
-            "EART 121",
-            "EART 172",
-            "ECE 101",
-            "ECE 130",
-            "ECE 136"
-        ],
-        "dcrequirement": [
-            "PHYS 182 or (PHYS 195A and PHYS 195B)"
-        ],
-        "comprehensiverequirement":[
-            "PHYS 134"
-        ],
-        "otherrequirements":[
-        ]
-    },
-    {
-        "majorname": "Applied Linguistics and Multilingualism B.A.",
-        "requiredcourses": [
-            "APLX 80",
-            "LING 50",
-            "ARBC 6",
-            "CHIN 6",
-            "FREN 6",
-            "GERM 6",
-            "ITAL 6",
-            "JAPN 6",
-            "PORT 65B",
-            "SPAN 6",
-            "SPHS 6",
-            "APLX 101",
-            "LING 100 or LING 101",
-            "LING 111 or LING 112"
-        ],
-        "advancedlanguageproficiencycount":2,
-        "advancedlanguageproficiency":[
-            "CHIN 103",
-            "CHIN 104",
-            "CHIN 105",
-            "CHIN 107",
-            "CHIN 108",
-            "FREN 108",
-            "FREN 111",
-            "FREN 114",
-            "FREN 120",
-            "FREN 121",
-            "FREN 125A",
-            "FREN 125B",
-            "FREN 130",
-            "FREN 136",
-            "FREN 131",
-            "GERM 119",
-            "GERM 120",
-            "ITAL 100",
-            "JAPN 103",
-            "JAPN 104",
-            "JAPN 105",
-            "JAPN 109",
-            "LALS 171",
-            "SPAN 114",
-            "SPAN 140",
-            "SPAN 141",
-            "SPAN 150",
-            "SPAN 151",
-            "SPAN 152",
-            "SPAN 153",
-            "SPAN 154",
-            "SPAN 156A",
-            "SPAN 156E",
-            "SPAN 156F",
-            "SPAN 156J",
-            "SPAN 156K",
-            "SPHS 115"
-        ],
-        "electivecount": 4,
-        "electives": [
-            "ANTH 139",
-            "ANTH 143",
-            "APLX 102",
-            "APLX 103",
-            "APLX 105",
-            "APLX 112",
-            "APLX 113",
-            "APLX 116",
-            "APLX 115",
-            "APLX 122",
-            "APLX 124",
-            "APLX 135",
-            "APLX 136",
-            "APLX 138",
-            "EDUC 141",
-            "LING 117",
-            "LING 154",
-            "LING 155",
-            "LING 157",
-            "LING 181",
-            "LING 183",
-            "LIT 101",
-            "LIT 102",
-            "SOCY 142",
-            "SPAN 140",
-            "SPAN 156K",
-            "SPAN 150",
-            "SPAN 151",
-            "SPAN 152",
-            "SPAN 153",
-            "SPAN 154"
-        ],
-        "dcrequirement": [
-            "APLX 190"
-        ],
-        "comprehensiverequirement":[
-            "APLX 190"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Applied Mathematics B.S.",
-        "requiredcourses": [
-            "(MATH 19A and MATH 19B) or (MATH 20A and MATH 20B)",
-            "AM 10 or MATH 21",
-            "AM 20 or MATH 24",
-            "AM 30 or (MATH 23A and MATH 23B)",
-            "CSE16",
-            "CSE20 or CSE13S or ECE13",
-            "AM 100",
-            "AM 129",
-            "AM 147",
-            "AM 112 or AM 212A",
-            "AM 114 or AM 214",
-            "STAT 131 or CSE 107"
-
-        ],
-        "lowerdivelectivecount":2,
-        "lowerdivelective": [
-            "PHYS 5A",
-            "PHYS 5B",
-            "PHYS 5C",
-            "PHYS 6A",
-            "PHYS 6B",
-            "PHYS 6C",
-            "CSE 30",
-            "ECE 9",
-            "ECON 1",
-            "ECON 2",
-            "STAT 5",
-            "BIOL 20A",
-            "BIOE 20C"
-        ],
-        "electivecount":3,
-        "electives":[
-            "CSE 101",
-            "CSE 102",
-            "CSE 106",
-            "CSE 140",
-            "CSE 142",
-            "CSE 144",
-            "CSE 160",
-            "CSE 161",
-            "CSE 161L",
-            "CSE 162",
-            "CSE 162L",
-            "EART 124",
-            "EART 160",
-            "EART 162",
-            "EART 125",
-            "EART 225",
-            "EART 172/OCEA",
-            "EART 272/OCEA",
-            "ECE 101",
-            "ECE 101L",
-            "ECE 103",
-            "ECE 115",
-            "ECE 135",
-            "ECE 135L",
-            "ECE 141",
-            "ECE 153",
-            "ECON 100M",
-            "ECON 100N",
-            "ECON 113",
-            "ECON 166A/CSE",
-            "MATH 105A",
-            "MATH 110",
-            "MATH 111A",
-            "MATH 111T",
-            "MATH 115",
-            "MATH 116",
-            "MATH 117",
-            "MATH 118",
-            "MATH 120",
-            "MATH 134",
-            "MATH 160",
-            "OCEA 260/EART",
-            "OCEA 286",
-            "OCEA 100",
-            "OCEA 200",
-            "OCEA 111",
-            "OCEA 211",
-            "PHYS 105",
-            "PHYS 110A",
-            "PHYS 110B",
-            "PHYS 139A",
-            "PHYS 139B",
-            "PHYS 150/CSE",
-            "PHYS 171/ASTR",
-            "STAT 132"
-        ],
-        "dcrequirement": [
-            "AM 170A"
-        ],
-        "comprehensiverequirement":[
-            "AM 170A",
-            "AM 170B"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Art B.A.",
-        "requiredcourses": [
-            "ART 10D",
-            "ART 10E",
-            "ART 10F",
-            "ART 80T"
-        ],
-        "introductionartpracticecount": 3,
-        "introductionartpractice":[
-            "ART 20G",
-            "ART 20H",
-            "ART 20I",
-            "ART 20J",
-            "ART 20K",
-            "ART 20L"
-        ],
-        "westernartcount": 1,
-        "westernart":[
-            "HAVC 30-HAVC 46",
-            "HAVC 48",
-            "HAVC 85",
-            "HAVC 133A-HAVC 143B",
-            "HAVC 143D-HAVC 143G",
-            "HAVC 157B-HAVC 157D",
-            "HAVC 186",
-            "HAVC 190O-HAVC 190S",
-            "HAVC 191B-HAVC 191N",
-            "HAVC 191P-HAVC 191S"
-        ],
-        "nonwesternartcount": 1,
-        "nonwesternart":[
-            "HAVC 10-HAVC 27",
-            "HAVC 50-HAVC 80",
-            "HAVC 110-HAVC 127F",
-            "HAVC 143C",
-            "HAVC 151-HAVC 155",
-            "HAVC 160A-HAVC 179",
-            "HAVC 190A-HAVC 190N",
-            "HAVC 190T-HAVC 191A",
-            "HAVC 191O"
-        ],
-        "electivecount": 7,
-        "electives": [
-            "ART 101—ART 189",
-            "ART 190B",
-            "ART 194",
-            "ART 196",
-            "ART 198 and ART 199",
-            "ART 190B"
-        ],
-        "dcrequirement": [
-            "190A"
-        ],
-        "comprehensiverequirement":[
-            "190A"
-        ],
-        "otherrequirements": [
-            "190B"
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Art and Design: Games and Playable Media B.A.",
-        "requiredcourses": [
-            "ARTG 80G",
-            "ARTG 80I",
-            "FILM 80V",
-            "ARTG 120",
-            "ARTG 170",
-            "ARTG 171",
-            "ARTG 172"
-        ],
-        "lowerdivelectivecount":1,
-        "lowerdivelective": [
-            "ART 10D",
-            "ART 10E",
-            "ART 10F",
-            "ART 20L",
-            "ART 80T",
-            "ARTG 91",
-            "MUSC 1C",
-            "MUSC 2",
-            "MUSC 3",
-            "MUSC 5A",
-            "MUSC 5B",
-            "MUSC 5C",
-            "MUSC 6",
-            "MUSC 8A",
-            "MUSC 8B",
-            "MUSC 9",
-            "MUSC 10",
-            "MUSC 80L",
-            "THEA 10",
-            "THEA 14",
-            "THEA 15",
-            "THEA 17",
-            "THEA 18C",
-            "THEA 19",
-            "THEA 20",
-            "THEA 21",
-            "THEA 22",
-            "THEA 30",
-            "THEA 31C",
-            "THEA 33C",
-            "THEA 36",
-            "THEA 37",
-            "THEA 40",
-            "THEA 50",
-            "THEA 80Z"
-        ],
-        "electivecount":6,
-        "electives":[
-            "ART 101",
-            "ART 104",
-            "ART 106A",
-            "ART 106E",
-            "ART 106O",
-            "ART 108",
-            "ARTG 118",
-            "ARTG 129",
-            "ARTG 129A",
-            "ARTG 131",
-            "ARTG 132",
-            "ARTG 134",
-            "ARTG 136",
-            "ARTG 137",
-            "ARTG 138/FMST",
-            "ARTG 140",
-            "ARTG 141",
-            "ARTG 142/CRES",
-            "ARTG 143/THEA",
-            "ARTG 145",
-            "CMPM 25",
-            "CMPM 26",
-            "CMPM 131",
-            "CMPM 146",
-            "CMPM 147",
-            "CMPM 148",
-            "CMPM 150",
-            "CMPM 151",
-            "CMPM 163",
-            "CMPM 176",
-            "CMPM 177",
-            "CMPM 178",
-            "CMPM 179/ARTG",
-            "CSE 118",
-            "CSE 183",
-            "DANM 140/ART",
-            "DANM 219",
-            "DANM 220",
-            "FILM 170A",
-            "FILM 171D",
-            "FILM 173",
-            "FILM 177",
-            "FILM 179A",
-            "FILM 179B",
-            "FILM 189",
-            "MUSC 123",
-            "MUSC 124",
-            "MUSC 125",
-            "MUSC 167",
-            "THEA 104",
-            "THEA 114",
-            "THEA 117/ART",
-            "THEA 124",
-            "THEA 139",
-            "THEA 157",
-            "THEA 159"
-        ],
-        "dcrequirement": [
-            "ARTG 170"
-        ],
-        "comprehensiverequirement":[
-            "ARTG 170",
-            "ARTG 171",
-            "ARTG 172"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Biochemistry and Molecular Biology B.S.",
-        "requiredcourses": [
-            "CHEM 8A",
-            "CHEM 8L",
-            "CHEM 8B",
-            "CHEM 8M",
-            "BIOC 100A",
-            "BIOC 100B",
-            "BIOC 100C",
-            "BIOL 101L or BIOL 102L or BIOL 107L or CHEM 160K",
-            "BIOL 105",
-            "BIOL 110",
-            "BIOL 115",
-            "BIOC 163A",
-            "BIOC 163B",
-            {
-                "name": "chemistry",
-                "optionone":[
-                    "CHEM 1A",
-                    "CHEM 1B",
-                    "CHEM 1C",
-                    "CHEM 1M",
-                    "CHEM 1N"
-                ],
-                "optiontwo":[
-                    "CHEM 4A",
-                    "CHEM 1M",
-                    "CHEM 4B",
-                    "CHEM 1N"
-                ]
-            },
-            {
-                "name": "calculus",
-                "optionone":[
-                    "MATH 11A",
-                    "MATH 11B"
-                ],
-                "optiontwo":[
-                    "MATH 19A",
-                    "MATH 19B"
-                ]
-            },
-            {
-                "name": "statistics",
-                "optionone":[
-                    "STAT 5"
-                ],
-                "optiontwo":[
-                    "STAT 7",
-                    "STAT 7L"
-                ]
-            },
-            {
-                "name": "biology",
-                "optionone":[
-                    "BIOL 20A",
-                    "BIOE 20B"
-                ],
-                "optiontwo":[
-                    "BIOL 20L",
-                    "BIOL 102J",
-                    "BIOL 107J"
-                ]
-            },
-            {
-                "name": "physics",
-                "optionone":[
-                    "PHYS 5A", 
-                    "PHYS 5L", 
-                    "PHYS 5B", 
-                    "PHYS 5M", 
-                    "PHYS 5C", 
-                    "PHYS 5N"
-                ],
-                "optiontwo":[
-                    "PHYS 6A", 
-                    "PHYS 6L", 
-                    "PHYS 6B", 
-                    "PHYS 6M", 
-                    "PHYS 6C", 
-                    "PHYS 6N"
-                ]
-            }
-        ],
-        "electivecount":1,
-        "electives":[
-            "BIOC 110L",
-            "BIOL 100L",
-            "BIOL 103L",
-            "BIOL 105L",
-            "BIOL 106L",
-            "BIOL 108L",
-            "BIOL 109L",
-            "BIOL 115L",
-            "BIOL 121L",
-            "BIOL 186L",
-            "CHEM 160L",
-            "METX 119L"
-        ],
-        "dcrequirement": [
-        ],
-        "comprehensiverequirement":[
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Biology B.A.",
-        "requiredcourses": [
-            "BIOL 20A",
-            "BIOE 20B",
-            "BIOE 20C",
-            "CHEM 1A",
-            "CHEM 1B",
-            "STAT 5 or (STAT 7 and STAT 7L)",
-            "PHYS 1A or PHYS 6A or PHYS 7A",
-            "BIOL 105",
-            "BIOE 107",
-            "BIOE 109"
-        ],
-        "anatomycount": 1,
-        "anatomy":[
-            "BIOE 131",
-            "BIOE 131L",
-            "BIOE 133",
-            "BIOE 133L",
-            "BIOE 134",
-            "BIOE 134L",
-            "BIOE 135",
-            "BIOE 135L",
-            "BIOE 136",
-            "BIOL 130",
-            "BIOL 130L",
-            "METX 135",
-            "METX 135L"
-        ],
-        "electivecount":4,
-        "electives":[
-            "BIOE courses numbered 100-179",
-            "BIOL 100",
-            "BIOL 101",
-            "BIOL 110",
-            "BIOL 115",
-            "BIOL 120",
-            "BIOL 125",
-            "METX 100",
-            "METX 115",
-            "METX 119L"
-        ],
-        "dccount": 2,
-        "dcrequirement": [
-            "BIOE 108",
-            "BIOE 114",
-            "BIOE 114L",
-            "BIOE 117",
-            "BIOE 120",
-            "BIOE 120L",
-            "BIOE 122",
-            "BIOE 122L",
-            "BIOE 127",
-            "BIOE 127L",
-            "BIOE 128L",
-            "BIOE 129",
-            "BIOE 129L",
-            "BIOE 137",
-            "BIOE 141L",
-            "BIOE 145",
-            "BIOE 145L",
-            "BIOE 150L",
-            "BIOE 151B/ENVS",
-            "BIOE 153C",
-            "BIOE 158L",
-            "BIOE 159A",
-            "BIOE 161L",
-            "BIOE 171",
-            "BIOE 172"
-        ],
-        "comprehensiverequirementcount": 1,
-        "comprehensiverequirement":[
-            "BIOE 112L",     
-            "BIOE 114L",     
-            "BIOE 117L",     
-            "BIOE 120L",     
-            "BIOE 122L",     
-            "BIOE 124L",     
-            "BIOE 127L",     
-            "BIOE 128L",     
-            "BIOE 129L",     
-            "BIOE 131L",     
-            "BIOE 133L",     
-            "BIOE 134L",     
-            "BIOE 135L",     
-            "BIOE 137L",     
-            "BIOE 141L",     
-            "BIOE 142L",     
-            "BIOE 145L",     
-            "BIOE 150L",     
-            "BIOE 151A/ENVS",
-            "BIOE 151B/ENVS",
-            "BIOE 151C/ENVS",
-            "BIOE 151D/ENVS",
-            "BIOE 153A",     
-            "BIOE 153B",     
-            "BIOE 153C",     
-            "BIOE 155L",     
-            "BIOE 158L",     
-            "BIOE 159A",     
-            "BIOE 159B",     
-            "BIOE 159C",     
-            "BIOE 159D",     
-            "BIOE 161L",     
-            "BIOE 163L",     
-            "BIOE 183W",     
-            "BIOL 100L",     
-            "BIOL 101L",     
-            "BIOL 105L",     
-            "BIOL 109L",     
-            "BIOL 115L",     
-            "BIOL 120L",     
-            "BIOL 121L",
-            "BIOL 130L",
-            "BIOL 186L",
-            "BIOL 186R",
-            "BIOL 189",
-            "BIOC 110L",
-            "METX 119L",
-            "METX 135L"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Biology B.S.",
-        "requiredcourses": [
-            "BIOL 20L or BIOL 102J or BIOL 107J",
-            "BIOL 20A",
-            "BIOE 20B",
-            "BIOE 20C",
-            "CHEM 1A", 
-            "CHEM 1B", 
-            "CHEM 1C", 
-            "CHEM 1N", 
-            "CHEM 8A", 
-            "CHEM 8L", 
-            "CHEM 8B",
-            "(MATH 11A and MATH 11B) or (MATH 19A and MATH 19B)",
-            "STAT 5 or (STAT 7 and STAT 7L)",
-            "(PHYS 6A and PHYS 6L and PHYS 6B) or (PHYS 6A and PHYS 6L and PHYS 6C) or (PHYS 7A and PHYS 7B and PHYS 6L)",
-            "(BIOL 100 and BIOL 101) or (BIOC 100A and BIOC 100B and BIOC 100C)",
-            "BIOL 105",
-            "BIOL 110",
-            "BIOE 107",
-            "BIOE 109",
-            "BIOL 101L or BIOL 102L or BIOL 107L"
-        ],
-        "electivecount":3,
-        "electives":[
-            "BIOL 111A",
-            "BIOL 114",
-            "BIOL 115",
-            "BIOL 118",
-            "BIOL 125",
-            "BIOL 120",
-            "BIOL 130",
-            "BIOL 140",
-            "BIOC 100C",
-            "BIOE 108",
-            "BIOE 112",
-            "BIOE 112L",
-            "BIOE 114",
-            "BIOE 114L",
-            "BIOE 117",
-            "BIOE 117L",
-            "BIOE 120",
-            "BIOE 120L",
-            "BIOE 122",
-            "BIOE 122L",
-            "BIOE 124",
-            "BIOE 124L",
-            "BIOE 127",
-            "BIOE 127L",
-            "BIOE 129",
-            "BIOE 129L",
-            "BIOE 131",
-            "BIOE 133",
-            "BIOE 134",
-            "BIOE 133L",
-            "BIOE 134L",
-            "BIOE 135",
-            "BIOE 135L",
-            "BIOE 137",
-            "BIOE 137L",
-            "BIOE 139",
-            "BIOE 140",
-            "BIOE 145",
-            "BIOE 147",
-            "BIOE 149",
-            "BIOE 155",
-            "BIOE 161",
-            "BIOE 163",
-            "BIOE 163L",
-            "BIOE 165",
-            "BIOE 172",
-            "METX 100",
-            "METX 135",
-            "METX 135L",
-            "METX 140"
-        ],
-        "dcrequirementone": [
-            {
-                "name": "optionone",
-                "count": 1,
-                "classes":[
-                    "BIOL 103L",
-                    "BIOL 105L",
-                    "BIOL 106L",
-                    "BIOL 108L",
-                    "BIOL 109L",
-                    "BIOL 115L",
-                    "BIOL 120L",
-                    "BIOL 121L",
-                    "BIOL 186L"
-                ]
-            },
-            {
-                "name": "optiontwo",
-                "count": 2,
-                "classes":[
-                    "BIOE 108", 
-                    "BIOE 114", 
-                    "BIOE 114L",
-                    "BIOE 117", 
-                    "BIOE 120", 
-                    "BIOE 120L",
-                    "BIOE 122", 
-                    "BIOE 122L",
-                    "BIOE 127", 
-                    "BIOE 127L",
-                    "BIOE 128L",
-                    "BIOE 129", 
-                    "BIOE 129L",
-                    "BIOE 137", 
-                    "BIOE 141L",
-                    "BIOE 145",
-                    "BIOE 145L",
-                    "BIOE 150L",
-                    "BIOE 151B/ENVS",
-                    "BIOE 153C",
-                    "BIOE 158L",
-                    "BIOE 159A",
-                    "BIOE 161L",
-                    "BIOE 171",
-                    "BIOE 172"
-                ]
-            }
-        ],
-        "comprehensiverequirement":[
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Biotechnology B.A.",
-        "requiredcourses": [
-            "CHEM 1A", 
-            "BIOL 20A",
-            "BME 5",   
-            "CSE 20",
-            "(STAT 7 and STAT 7L) or STAT 5",
-            "(BME 18 or BME 80G) and (BME 80H or ECE 80B)",
-            "BME 105",
-            "BME 110",
-            "BME 160"
-        ],
-        "electivecount":3,
-        "electives":[
-            "BME 122H",
-            "BME 128", 
-            "BME 130", 
-            "BME 132", 
-            "BME 140",
-            "BME 177",
-            "BME 178",
-            "ECE 104",
-            "FMST 124",
-            "FMST 133",
-            "METX 100",
-            "SOCY 121",
-            "SOCY 123",
-            "SOCY 127P"
-        ],
-        "dcrequirement": [
-            "BME 185"
-        ],
-        "comprehensiverequirement":[
-            "BME 175"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Biomolecular Engineering and Bioinformatics B.S.",
-        "requiredcourses": [
-            "BIOL 20A",
-            "BME 80G",
-            "CHEM 1A",
-            "CHEM 1B",
-            "CHEM 1M",
-            "CHEM 1C",
-            "CHEM 1N",
-            "CHEM 8A",
-            "CHEM 8B",
-            "BME 21L",
-            "BME 22L",
-            "BME 23L",
-            "(MATH 19A and MATH 19B) or (MATH 20A and MATH 20B)",
-            "AM 10",
-            "AM 20",
-            "PHYS 5A",
-            "PHYS 5L",
-            "PHYS 5B",
-            "PHYS 5M",
-            "STAT 131 and (STAT 132 or STAT 206)",
-            "BIOC 100A",
-            "BIOC 100B",
-            "BME 105 or BIOL 105",
-            "BME 110",
-            "BME 160",
-            "BME 163",
-            "(BME 128 and BME 128L) or (BME 177 and BME 128L) or AM 115",
-            "BME 185 or CSE 185E"
-        ],
-        "electivecount":1,
-        "electives":[
-            "AM 147",
-            "METX 140",
-            "BIOC 100C",
-            "BIOL 115",
-            "BME 122H",
-            "BME 128",
-            "BME 128L",
-            "BME 130",
-            "BME 132",
-            "BME 140",
-            "BME 175",
-            "BME 177",
-            "BME 178",
-            "ECE 104",
-            "any 5-credit biomolecular engineering graduate course"
-        ],
-        "dcrequirement": [
-            "BME 185 or CSE 185E"
-        ],
-        "comprehensiverequirementcount": 1,
-        "comprehensiverequirement":[
-            "BME 129A or BME 129B or BME 129C",
-            "BME 180 or BME 188A or BME 188B or BME 188C",
-            "BME 205 or BME 230A",
-            "BME 193 or BME 123T",
-            "BME 195 or BME 123T",
-            "BME 198 or BME 123T"
-        ],
-        "otherrequirements":[
-            "Students are required to submit a portfolio, exit survey, and attend an exit interview."
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Business Management Economics B.A.",
-        "requiredcourses": [
-            "ECON 1",
-            "ECON 2",
-            "ECON 10A",
-            "ECON 10B",
-            "(AM 11A and AM 11B) or (MATH 11A and MATH 11B and MATH 22) or (MATH 19A and MATH 19B and MATH 23A) or (MATH 11A and AM 11B) or (MATH 19A and AM 11B)",
-            "STAT 17",
-            "STAT 17L",
-            "ECON 100A or ECON 100M",
-            "ECON 100B or ECON 100N",
-            "ECON 113",
-            "ECON 104 or ECON 197"
-
-        ],
-        "computerliteracycount": 2,
-        "computerliteracy":[
-            "CSE 5J", 
-            "CSE 10", 
-            "CSE 12", 
-            "CSE 13S",
-            "CSE 20", 
-            "CSE 30", 
-            "CSE 50", 
-            "CSE 58", 
-            "CSE 80N",
-            "ECE 13"
-        ],
-        "businessmanagementelectivecount": 4,
-        "businessmanagementelective":[
-            "Students must choose four business management courses from the following list; at least one of the four must be ECON 101, ECON 133, or ECON 135. ECON 130, ECON 159, ECON 160A, ECON 160B: Students can use only one of these courses as either a business management elective or an economics elective, but the course cannot be counted twice.",
-            "ECON 101",
-            "ECON 110",
-            "ECON 111A",
-            "ECON 111B",
-            "ECON 111C",
-            "ECON 112",
-            "ECON 115",
-            "ECON 117A",
-            "ECON 117B",
-            "ECON 119",
-            "ECON 124",
-            "ECON 130",
-            "ECON 131",
-            "ECON 133",
-            "ECON 135",
-            "ECON 136",
-            "ECON 138",
-            "ECON 139A",
-            "ECON 139B",
-            "ECON 159",
-            "ECON 160A/LGST",
-            "ECON 160B",
-            "ECON 161A",
-            "ECON 161B",
-            "ECON 164",
-            "ECON 188",
-            "ECON 194"
-        ],
-        "electivecount":1,
-        "electives":[
-            "ECON 105",
-            "ECON 114",
-            "ECON 114L",
-            "ECON 120",
-            "ECON 121",
-            "ECON 125",
-            "ECON 126",
-            "ECON 128/LGST",
-            "ECON 130",
-            "ECON 140",
-            "ECON 141",
-            "ECON 142",
-            "ECON 143",
-            "ECON 148",
-            "ECON 149",
-            "ECON 150",
-            "ECON 156",
-            "ECON 159",
-            "ECON 160A/LGST",
-            "ECON 160B",
-            "ECON 165",
-            "ECON 166A/CSE",
-            "ECON 166B/CSE",
-            "ECON 169/LGST",
-            "ECON 170",
-            "ECON 171",
-            "ECON 175",
-            "ECON 180",
-            "ECON 183/LGST",
-            "ECON 190"
-        ],
-        "dcrequirement": [
-            "ECON 104 or ECON 197"
-        ],
-        "comprehensiverequirement":[
-            "ECON 100A or ECON 100M",
-            "ECON 100B or ECON 100N",
-            "ECON 113"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Chemistry B.A.",
-        "requiredcourses": [
-            "CHEM 8A",
-            "CHEM 8L",
-            "CHEM 8B",
-            "CHEM 8M",
-            "CHEM 110",
-            "CHEM 110L",
-            "CHEM 151A",
-            "CHEM 151L",
-            "CHEM 163A",
-            "CHEM 163B",
-            "CHEM 164",             
-            {
-                "name": "chemistry",
-                "optionone":[
-                    "CHEM 1A",
-                    "CHEM 1B",
-                    "CHEM 1C",
-                    "CHEM 1M",
-                    "CHEM 1N"
-                ],
-                "optiontwo":[
-                    "CHEM 4A",
-                    "CHEM 1M",
-                    "CHEM 4B",
-                    "CHEM 1N"
-                ]
-            },
-            {
-                "name": "calculus",
-                "optionone":[
-                    "MATH 11A",
-                    "MATH 11B"
-                ],
-                "optiontwo":[
-                    "MATH 19A",
-                    "MATH 19B"
-                ]
-            },
-            {
-                "name": "multivariatecalculus",
-                "optionone":[
-                    "MATH 22"
-                ],
-                "optiontwo":[
-                    "MATH 23A",
-                    "MATH 23B"
-                ],
-                "optionthree":[
-                    "AM 30"
-                ]
-            },
-            {
-                "name": "physics",
-                "optionone":[
-                    "PHYS 5A",
-                    "PHYS 5L",
-                    "PHYS 5B",
-                    "PHYS 5M",
-                    "PHYS 5C",
-                    "PHYS 5N"
-                ],
-                "optiontwo":[
-                    "PHYS 6A",
-                    "PHYS 6L",
-                    "PHYS 6B",
-                    "PHYS 6M",
-                    "PHYS 6C",
-                    "PHYS 6N"
-                ]
-            }
-        ],
-        "labcoursescount": 1,
-        "labcourses":[
-            "CHEM 146A",
-            "CHEM 146B",
-            "CHEM 146C",
-            "CHEM 160L"
-        ],
-        "electivecount":2,
-        "electives":[
-            "BIOC 100A",
-            "CHEM 103",
-            "CHEM 124",
-            "CHEM 143",
-            "CHEM 144",
-            "CHEM 151B",
-            "CHEM 156C",
-            "CHEM 163C",
-            "CHEM 169",
-            "CHEM 194",
-            "METX 101",
-            "METX 102",
-            "OCEA 120",
-            "OCEA 121",
-            "PHYS 156",
-            "PHYS 180"
-        ],
-        "dcrequirementcount": 1,
-        "dcrequirement": [
-            "CHEM 146A",
-            "CHEM 146B",
-            "CHEM 146C",
-            "CHEM 160L"
-        ],
-        "comprehensiverequirementcount": 1,
-        "comprehensiverequirement":[
-            "CHEM 146A",
-            "CHEM 146B",
-            "CHEM 146C",
-            "CHEM 160L"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Chemistry B.S.",
-        "requiredcourses": [      
-            "CHEM 8A",
-            "CHEM 8L",
-            "CHEM 8B",
-            "CHEM 8M",
-            "CHEM 110",
-            "CHEM 110L",
-            "CHEM 151A",
-            "CHEM 151L",
-            "CHEM 103",
-            "CHEM 163A",
-            "CHEM 163B",
-            "CHEM 163C",
-            "CHEM 164",
-            {
-                "name": "chemistry",
-                "optionone":[
-                    "CHEM 1A",
-                    "CHEM 1B",
-                    "CHEM 1C",
-                    "CHEM 1M",
-                    "CHEM 1N"
-                ],
-                "optiontwo":[
-                    "CHEM 4A",
-                    "CHEM 1M",
-                    "CHEM 4B",
-                    "CHEM 1N"
-                ]
-            },
-            {
-                "name": "calculus",
-                "optionone":[
-                    "MATH 11A",
-                    "MATH 11B"
-                ],
-                "optiontwo":[
-                    "MATH 19A",
-                    "MATH 19B"
-                ]
-            },
-            {
-                "name": "multivariatecalculus",
-                "optionone":[
-                    "MATH 22"
-                ],
-                "optiontwo":[
-                    "MATH 23A",
-                    "MATH 23B"
-                ],
-                "optionthree":[
-                    "AM 30"
-                ]
-            },
-            {
-                "name": "advancedmath",
-                "optionone":[
-                    "AM 10"
-                ],
-                "optiontwo":[
-                    "MATH 21"
-                ],
-                "optionthree":[
-                    "MATH 24"
-                ]
-            },
-            {
-                "name": "physics",
-                "optionone":[
-                    "PHYS 5A",
-                    "PHYS 5L",
-                    "PHYS 5B",
-                    "PHYS 5M",
-                    "PHYS 5C",
-                    "PHYS 5N"
-                ],
-                "optiontwo":[
-                    "PHYS 6A",
-                    "PHYS 6L",
-                    "PHYS 6B",
-                    "PHYS 6M",
-                    "PHYS 6C",
-                    "PHYS 6N"
-                ]
-            }
-        ],
-        "labcoursescount": 1,
-        "labcourses":[
-            "CHEM 146A",
-            "CHEM 146B",
-            "CHEM 146C",
-            "CHEM 160L"
-        ],
-        "electivecount":2,
-        "electives":[
-            "BIOC 100A",
-            "CHEM 103",
-            "CHEM 124",
-            "CHEM 143",
-            "CHEM 144",
-            "CHEM 151B",
-            "CHEM 156C",
-            "CHEM 163C",
-            "CHEM 169",
-            "CHEM 194",
-            "METX 101",
-            "METX 102",
-            "OCEA 120",
-            "OCEA 121",
-            "PHYS 156",
-            "PHYS 180"
-        ],
-        "dcrequirementcount": 1,
-        "dcrequirement": [
-            "CHEM 146A",
-            "CHEM 146B",
-            "CHEM 146C",
-            "CHEM 160L"
-        ],
-        "comprehensiverequirementcount": 1,
-        "comprehensiverequirement":[
-            "CHEM 146A",
-            "CHEM 146B",
-            "CHEM 146C",
-            "CHEM 160L"
-        ],
-        "otherrequirements":[
-        ]
+        "requiredcourses":{
+            "lowerdiv":[
+            ],
+            "upperdiv":[
+            ]
+        },
+        "electives":{
+            "classes":[
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+            ]
+        }
     },
     {
         "majorname": "Classical Studies B.A.",
@@ -2557,79 +1389,2333 @@
                 "CMPM 172"
             ]
         }
-
     },
     {
         "majorname": "Critical Race and Ethnic Studies B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "CRES 10"
+            ],
+            "upperdiv":[
+                "CRES 100"
+            ]
+        },
+        "electives":{
+            "specialrequirement":"At least five must be upper-division, and up to one lower-division course is allowed. At least two electives must be from the list of designated courses focusing on phenomena outside of the U.S. or on transnational or hemispheric subjects. At least one elective must be from the list of designated courses focusing on social movements. At least two academic divisions must be represented in the elective coursework.",
+            "classes":[
+                {
+                    "name": "Elective",
+                    "choose": 6,
+                    "courses":[
+                        "ARTG 142",
+                        "FILM 165B",
+                        "FILM 165D",
+                        "FILM 165E",
+                        "HAVC 140A",
+                        "HAVC 140B",
+                        "HAVC 140C",
+                        "HAVC 140D",
+                        "HAVC 141B",
+                        "HAVC 141F",
+                        "HAVC 141K",
+                        "HAVC 142",
+                        "HAVC 190J",
+                        "HAVC 191B",
+                        "HAVC 191C",
+                        "HAVC 191E",
+                        "HAVC 191K",
+                        "MUSC 80O",
+                        "MUSC 81A",
+                        "MUSC 81M",
+                        "THEA 151A",
+                        "CRES 15",
+                        "CRES 60E",
+                        "CRES 68",
+                        "CRES 111",
+                        "CRES 114",
+                        "CRES 118",
+                        "CRES 121",
+                        "CRES 131",
+                        "CRES 150",
+                        "CRES 181",
+                        "CRES 185A",
+                        "CRES 188B",
+                        "CRES 188T",
+                        "CRES 188X",
+                        "FMST 117",
+                        "FMST 123",
+                        "FMST 124",
+                        "FMST 125",
+                        "FMST 126",
+                        "FMST 131",
+                        "FMST 136",
+                        "FMST 139",
+                        "FMST 145",
+                        "HIS 104C",
+                        "HIS 104D",
+                        "HIS 106B",
+                        "HIS 109A",
+                        "HIS 110D",
+                        "HIS 110H",
+                        "HIS 111",
+                        "HIS 116A",
+                        "HIS 120",
+                        "HIS 121A",
+                        "HIS 121B",
+                        "HIS 122A",
+                        "HIS 122B",
+                        "HIS 123",
+                        "HIS 128",
+                        "HIS 151A",
+                        "HIS 158A",
+                        "HIS 190D",
+                        "HIS 190Y",
+                        "HIS 194I",
+                        "LING 135",
+                        "LIT 102",
+                        "LIT 121L",
+                        "LIT 121N",
+                        "LIT 125H",
+                        "LIT 133H",
+                        "LIT 134A",
+                        "LIT 135F",
+                        "LIT 135G",
+                        "LIT 138B",
+                        "LIT 145A",
+                        "LIT 146D",
+                        "LIT 147A",
+                        "LIT 149E",
+                        "LIT 149B",
+                        "LIT 154C",
+                        "LIT 160E",
+                        "LIT 160K",
+                        "LIT 161A",
+                        "LIT 161B",
+                        "LIT 162A",
+                        "LIT 163A",
+                        "LIT 164A",
+                        "LIT 164D",
+                        "LIT 164J",
+                        "LIT 165B",
+                        "LIT 169A",
+                        "LIT 182I",
+                        "LIT 183P",
+                        "LIT 189F",
+                        "LIT 189U",
+                        "LIT 189V",
+                        "LIT 190Y",
+                        "ANTH 110Q",
+                        "ANTH 130O",
+                        "ANTH 131",
+                        "ANTH 140",
+                        "ANTH 149",
+                        "ANTH 158",
+                        "ANTH 187",
+                        "ANTH 196J",
+                        "CMMU 101",
+                        "CMMU 163",
+                        "ECON 128",
+                        "EDUC 102",
+                        "EDUC 104",
+                        "EDUC 125",
+                        "EDUC 128",
+                        "EDUC 135",
+                        "EDUC 140",
+                        "EDUC 141",
+                        "EDUC 160",
+                        "EDUC 164",
+                        "EDUC 173",
+                        "EDUC 174",
+                        "EDUC 177",
+                        "EDUC 181",
+                        "LALS 112",
+                        "LALS 128",
+                        "LALS 131",
+                        "LALS 143",
+                        "LALS 144",
+                        "LGST 111B",
+                        "LGST 135",
+                        "POLI 110",
+                        "PSYC 153",
+                        "PSYC 155",
+                        "PSYC 159H",
+                        "PSYC 159I",
+                        "SOCY 120",
+                        "SOCY 121",
+                        "SOCY 126",
+                        "SOCY 127P",
+                        "SOCY 128C",
+                        "SOCY 128I",
+                        "SOCY 132",
+                        "SOCY 133",
+                        "SOCY 139T",
+                        "SOCY 145",
+                        "SOCY 148",
+                        "SOCY 152",
+                        "SOCY 156",
+                        "SOCY 168",
+                        "SOCY 169",
+                        "SOCY 170",
+                        "SOCY 170P",
+                        "SOCY 171",
+                        "SOCY 172",
+                        "SOCY 173X",
+                        "JRLC 135",
+                        "JRLC 136",
+                        "HAVC 110",
+                        "HAVC 111",
+                        "HAVC 115",
+                        "HAVC 116",
+                        "HAVC 117",
+                        "HAVC 118",
+                        "HAVC 119",
+                        "HAVC 123A",
+                        "HAVC 124B",
+                        "HAVC 162A",
+                        "HAVC 163",
+                        "HAVC 170",
+                        "HAVC 172",
+                        "HAVC 179",
+                        "HAVC 190O",
+                        "HAVC 190W",
+                        "HAVC 190X",
+                        "THEA 167",
+                        "CRES 45",
+                        "CRES 70U",
+                        "CRES 112",
+                        "CRES 116",
+                        "CRES 188A",
+                        "FMST 112",
+                        "FMST 115",
+                        "HISC 117",
+                        "HIS 101C",
+                        "HIS 106A",
+                        "HIS 110A",
+                        "HIS 116",
+                        "HIS 130",
+                        "HIS 131",
+                        "HIS 134A",
+                        "HIS 134B",
+                        "HIS 137A",
+                        "HIS 137B",
+                        "HIS 137C",
+                        "HIS 140D",
+                        "HIS 150C",
+                        "HIS 150E",
+                        "HIS 154",
+                        "HIS 155",
+                        "HIS 156",
+                        "HIS 157",
+                        "HIS 158C",
+                        "HIS 166",
+                        "HIS 170C",
+                        "HIS 177A",
+                        "HIS 178E",
+                        "HIS 181B",
+                        "HIS 184B",
+                        "HIS 185I",
+                        "HIS 185J",
+                        "HIS 190A",
+                        "HIS 190B",
+                        "HIS 190N",
+                        "HIS 190X",
+                        "HIS 194T",
+                        "HIS 194U",
+                        "HIS 196N",
+                        "LIT 131C",
+                        "LIT 133F",
+                        "LIT 133G",
+                        "LIT 133I",
+                        "LIT 135A",
+                        "LIT 137A",
+                        "LIT 138A",
+                        "LIT 149F",
+                        "LIT 155A",
+                        "LIT 155E",
+                        "LIT 160I",
+                        "LIT 160J",
+                        "LIT 162B",
+                        "LIT 164C",
+                        "LIT 164G",
+                        "LIT 164H",
+                        "LIT 165A",
+                        "LIT 165C",
+                        "LIT 168A",
+                        "LIT 189A",
+                        "LIT 189E",
+                        "LIT 189H",
+                        "LIT 189L",
+                        "LIT 189M",
+                        "LIT 189N",
+                        "LIT 189O",
+                        "LIT 189P",
+                        "LIT 189Q",
+                        "LIT 189S",
+                        "LIT 189T",
+                        "LIT 190O",
+                        "ANTH 110O",
+                        "ANTH 110P",
+                        "ANTH 129",
+                        "ANTH 130A",
+                        "ANTH 130C",
+                        "ANTH 130F",
+                        "ANTH 130I",
+                        "ANTH 130L",
+                        "ANTH 130T",
+                        "ANTH 159",
+                        "ANTH 194X",
+                        "CMMU 145",
+                        "LALS 100",
+                        "LALS 115",
+                        "LALS 127",
+                        "LALS 145",
+                        "LALS 150",
+                        "LALS 152",
+                        "LALS 165",
+                        "LALS 170",
+                        "LALS 171",
+                        "LALS 172",
+                        "LALS 175",
+                        "LALS 178",
+                        "LALS 180",
+                        "LALS 194H",
+                        "POLI 140C",
+                        "POLI 187",
+                        "SOCY 128",
+                        "SOCY 128M",
+                        "HAVC 141K",
+                        "MUSC 80O",
+                        "CRES 131",
+                        "FMST 20",
+                        "FMST 139",
+                        "HIS 121B",
+                        "HIS 130",
+                        "HIS 150C",
+                        "HIS 154",
+                        "HIS 156",
+                        "HIS 184B",
+                        "ANTH 130F",
+                        "ANTH 149",
+                        "ANTH 194X",
+                        "CMMU 101",
+                        "LALS 145",
+                        "LALS 170",
+                        "LALS 178",
+                        "SOCY 168",
+                        "SOCY 172"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                "CRES 101"
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "CRES 190A",
+                        "CRES 190B",
+                        "CRES 190D",
+                        "CRES 190P",
+                        "CRES 190S",
+                        "CRES 190T",
+                        "CRES 190X",
+                        "FMST 194K",
+                        "FMST 194L",
+                        "FMST 194M",
+                        "FMST 194O",
+                        "FMST 194Q",
+                        "FMST 194U",
+                        "FMST 194V",
+                        "ANTH 196G"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Earth Sciences B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "CHEM 1A",
+                "CHEM 1B",
+                "CHEM 1M",
+                "CHEM 1C",
+                "CHEM 1N",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "MATH 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "MATH 22",
+                        "MATH 23A",
+                        "EART 111",
+                        "EART 125",
+                        "EART 119A"
+                    ]
+                },
+                "PHYS 6A",
+                "PHYS 6L",
+                "PHYS 6B",
+                "PHYS 6M",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 5",
+                                "EART 5L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 10",
+                                "EART 10L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 20",
+                                "EART 20L"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "upperdiv":[
+                "EART 110A",
+                "EART 110B",
+                "EART 110M",
+                "EART 110C",
+                "EART 110N",
+                {
+                    "choose": 2,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 109",
+                                "EART 109L"
+                            ]
+                        },
+                        "EART 116",
+                        "EART 119A",
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 120",
+                                "EART 120L"
+                            ]
+                        },
+                        "EART 125",
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 130",
+                                "EART 130L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 140",
+                                "EART 140L"
+                            ]
+                        },
+                        "EART 142",
+                        "EART 146",
+                        "EART 148",
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 150",
+                                "EART 150L"
+                            ]
+                        },
+                        "EART 189A",
+                        "EART 189B",
+                        "EART 191C",
+                        "EART 191D"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "elective",
+                    "choose": 4,
+                    "courses":[
+                        "At least four additional upper-division elective courses from Earth sciences or ocean sciences offerings must be completed"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 2,
+                    "courses":[
+                        "EART 100",
+                        "EART 101",
+                        "EART 102",
+                        "EART 104",
+                        "EART 109",
+                        "EART 120",
+                        "EART 140",
+                        "EART 146",
+                        "EART 148",
+                        "EART 150",
+                        "EART 160",
+                        "EART 189B",
+                        "EART 191",
+                        "EART 191C",
+                        "EART 191D",
+                        "EART 195"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "EART 189A",
+                        "EART 189B"
+                    ]
+                },
+                "EART 195",
+                {
+                    "choose": 4,
+                    "courses":[
+                        "EART 191",
+                        "EART 191B",
+                        "EART 191C",
+                        "EART 191D"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Ecology and evolution B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "BIOL 20A",
+                "BIOE 20B",
+                "BIOE 20C",
+                "CHEM 1A",
+                "CHEM 1B",
+                "CHEM 1C",
+                "CHEM 1N",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "MATH 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        }
+                    ]
+                },
+                "STAT 7",
+                "STAT 7L",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 7A",
+                                "PHYS 6L",
+                                "PHYS 7B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 6A",
+                                "PHYS 6L",
+                                "PHYS 6B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 6A",
+                                "PHYS 6L",
+                                "PHYS 6C"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "upperdiv":[
+                "BIOL 105",
+                "BIOE 107",
+                "BIOE 109",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 131",
+                                "BIOE 131L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 133",
+                                "BIOE 133L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 134",
+                                "BIOE 134L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 135",
+                                "BIOE 135L"
+                            ]
+                        },
+                        "BIOE 136"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 112",
+                                "BIOE 112L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 114",
+                                "BIOE 114L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 117",
+                                "BIOE 117L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 120",
+                                "BIOE 120L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 122",
+                                "BIOE 122L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 124",
+                                "BIOE 124L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 127",
+                                "BIOE 127L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOE 129",
+                                "BIOE 129L"
+                            ]
+                        },
+                        "METX 100",
+                        "METX 119L"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Topical Electives",
+                    "choose": 3,
+                    "courses":[
+                        "BIOE 108",
+                        "BIOE 112",
+                        "BIOE 112L",
+                        "BIOE 114",
+                        "BIOE 114L",
+                        "BIOE 117",
+                        "BIOE 117L",
+                        "BIOE 118",
+                        "BIOE 120",
+                        "BIOE 120L",
+                        "BIOE 122",
+                        "BIOE 122L",
+                        "BIOE 124",
+                        "BIOE 124L",
+                        "BIOE 125",
+                        "BIOE 126",
+                        "BIOE 127",
+                        "BIOE 127L",
+                        "BIOE 128L",
+                        "BIOE 129",
+                        "BIOE 129L",
+                        "BIOE 131",
+                        "BIOE 131L",
+                        "BIOE 133",
+                        "BIOE 133L",
+                        "BIOE 134",
+                        "BIOE 134L",
+                        "BIOE 135",
+                        "BIOE 135L",
+                        "BIOE 136",
+                        "BIOE 137",
+                        "BIOE 137L",
+                        "BIOE 138",
+                        "BIOE 139",
+                        "BIOE 140",
+                        "BIOE 141L",
+                        "BIOE 142L",
+                        "BIOE 145",
+                        "BIOE 145L",
+                        "BIOE 147",
+                        "BIOE 149",
+                        "BIOE 150",
+                        "BIOE 150L",
+                        "BIOE 151A",
+                        "BIOE 151B",
+                        "BIOE 151C",
+                        "BIOE 151D",
+                        "BIOE 153A",
+                        "BIOE 153B",
+                        "BIOE 153C",
+                        "BIOE 155",
+                        "BIOE 155L",
+                        "BIOE 158L",
+                        "BIOE 159A",
+                        "BIOE 159B",
+                        "BIOE 159C",
+                        "BIOE 159D",
+                        "BIOE 159F",
+                        "BIOE 161",
+                        "BIOE 161L",
+                        "BIOE 163",
+                        "BIOE 163L",
+                        "BIOE 165",
+                        "BIOE 172",
+                        "BIOL 100",
+                        "BIOL 101",
+                        "BIOL 110",
+                        "BIOL 115",
+                        "BIOL 120",
+                        "OCEA 118",
+                        "METX 119L"
+                    ]
+                },
+                {
+                    "name": "General Electives",
+                    "choose": 3,
+                    "courses":[
+                        "BIOL 100",
+                        "BIOL 101",
+                        "BIOL 110",
+                        "BIOL 115",
+                        "BIOL 120",
+                        "EART 100",
+                        "EART 100L",
+                        "EART 101",
+                        "EART 101L",
+                        "EART 102",
+                        "EART 105",
+                        "ECON 166A",
+                        "ECON 166B",
+                        "ENVS 104A",
+                        "ENVS 104L",
+                        "ENVS 107A",
+                        "ENVS 107B",
+                        "ENVS 107C",
+                        "ENVS 108",
+                        "ENVS 115A",
+                        "ENVS 115L",
+                        "ENVS 120",
+                        "ENVS 122",
+                        "ENVS 123",
+                        "ENVS 129",
+                        "ENVS 130A",
+                        "ENVS 130L",
+                        "ENVS 130B",
+                        "ENVS 131",
+                        "ENVS 160",
+                        "ENVS 161A",
+                        "ENVS 162",
+                        "ENVS 163",
+                        "ENVS 167",
+                        "ENVS 168",
+                        "METX 100",
+                        "METX 115",
+                        "METX 119L",
+                        "OCEA 118",
+                        "OCEA 122",
+                        "OCEA 130",
+                        "PSYC 123",
+                        "BIOE 183W",
+                        "BIOE 183L",
+                        "BIOE 193",
+                        "BIOE 193F",
+                        "BIOE 195",
+                        "ENVS 183"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 2,
+                    "courses":[
+                        "BIOE 108",
+                        "BIOE 114",
+                        "BIOE 114L",
+                        "BIOE 117",
+                        "BIOE 120",
+                        "BIOE 120L",
+                        "BIOE 122",
+                        "BIOE 122L",
+                        "BIOE 127",
+                        "BIOE 127L",
+                        "BIOE 128L",
+                        "BIOE 129",
+                        "BIOE 129L",
+                        "BIOE 137",
+                        "BIOE 141L",
+                        "BIOE 145",
+                        "BIOE 145L",
+                        "BIOE 150L",
+                        "BIOE 151B/ENVS",
+                        "BIOE 153C",
+                        "BIOE 158L",
+                        "BIOE 159A",
+                        "BIOE 161L",
+                        "BIOE 171",
+                        "BIOE 172"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "BIOE 112L",
+                        "BIOE 114L",
+                        "BIOE 117L",
+                        "BIOE 120L",
+                        "BIOE 122L",
+                        "BIOE 124L",
+                        "BIOE 127L",
+                        "BIOE 128L",
+                        "BIOE 129L",
+                        "BIOE 131L",
+                        "BIOE 133L",
+                        "BIOE 134L",
+                        "BIOE 135L",
+                        "BIOE 137L",
+                        "BIOE 141L",
+                        "BIOE 145L",
+                        "BIOE 150L",
+                        "BIOE 151A/ENVS",
+                        "BIOE 151B/ENVS",
+                        "BIOE 151C/ENVS",
+                        "BIOE 151D/ENVS",
+                        "BIOE 153A",
+                        "BIOE 153B",
+                        "BIOE 153C",
+                        "BIOE 155L",
+                        "BIOE 158L",
+                        "BIOE 159A",
+                        "BIOE 159B",
+                        "BIOE 159C",
+                        "BIOE 159D",
+                        "BIOE 161L",
+                        "BIOE 163L",
+                        "BIOE 183W",
+                        "BIOL 100L",
+                        "BIOL 105L",
+                        "BIOL 109L",
+                        "BIOL 115L",
+                        "BIOL 120L",
+                        "BIOL 121L",
+                        "BIOL 186L",
+                        "BIOL 186R",
+                        "BIOL 189",
+                        "BIOC 110L",
+                        "METX 119L",
+                        "CRSN 152"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Economics B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "ECON 1",
+                "ECON 2",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "AM 11A",
+                                "AM 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "MATH 11B",
+                                "MATH 22"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B",
+                                "MATH 23A"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "AM 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "AM 11B"
+                            ]
+                        }
+                    ]
+                },
+                "STAT 17",
+                "STAT 17L"
+            ],
+            "upperdiv":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 100A",
+                        "ECON 100M"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 100B",
+                        "ECON 100N"
+                    ]
+                },
+                "ECON 113",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 104",
+                        "ECON 197"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "specialrequirement": "Three to five from economic, up to two from business management, up to one from business management two",
+            "classes":[
+                {
+                    "name": "Economic",
+                    "choose": 3,
+                    "courses":[
+                        "ECON 105",
+                        "ECON 114",
+                        "ECON 114L",
+                        "ECON 121",
+                        "ECON 125",
+                        "ECON 120",
+                        "ECON 124",
+                        "ECON 126",
+                        "ECON 128",
+                        "ECON 130",
+                        "ECON 140",
+                        "ECON 141",
+                        "ECON 142",
+                        "ECON 143",
+                        "ECON 148",
+                        "ECON 149",
+                        "ECON 150",
+                        "ECON 156",
+                        "ECON 159",
+                        "ECON 160A",
+                        "ECON 160B",
+                        "ECON 165",
+                        "ECON 166A",
+                        "ECON 166B",
+                        "ECON 169",
+                        "ECON 170",
+                        "ECON 171",
+                        "ECON 175",
+                        "ECON 180",
+                        "ECON 183",
+                        "ECON 190"
+                    ]
+                },
+                {
+                    "name": "Business Management",
+                    "choose": 1,
+                    "courses":[
+                        "ECON 131",
+                        "ECON 133",
+                        "ECON 135"
+                    ]
+                },
+                {
+                    "name": "Business Management 2",
+                    "choose": 1,
+                    "courses":[
+                        "ECON 101",
+                        "ECON 110",
+                        "ECON 111A",
+                        "ECON 111B",
+                        "ECON 111C",
+                        "ECON 112",
+                        "ECON 115",
+                        "ECON 117A",
+                        "ECON 117B",
+                        "ECON 119",
+                        "ECON 136",
+                        "ECON 138",
+                        "ECON 139A",
+                        "ECON 139B",
+                        "ECON 161A",
+                        "ECON 161B",
+                        "ECON 164",
+                        "ECON 188",
+                        "ECON 194"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "ECON 104",
+                        "ECON 197"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "ECON 104",
+                        "ECON 197"
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "ECON 104",
+                        "ECON 197"
+                    ]
+                },
+                "ECON 113"
+            ]
+        }
     },
     {
         "majorname": "Education, Democracy, and Justice B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "EDUC 10",
+                "EDUC 60"
+            ],
+            "upperdiv":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "EDUC 110",
+                        "EDUC 180"
+                    ]
+                },
+                "EDUC 190"
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "General Courses",
+                    "choose": 6,
+                    "courses":[
+                        "5-credit electives from EDUC 102–EDUC 187.",
+                        "EDUC 194",
+                        "ENVS 177",
+                        "PSYC 108",
+                        "SOCY 148",
+                        "EDUC 102",
+                        "EDUC 128",
+                        "EDUC 135",
+                        "EDUC 141",
+                        "EDUC 164",
+                        "EDUC 166",
+                        "EDUC 160",
+                        "EDUC 173",
+                        "EDUC 174",
+                        "EDUC 178",
+                        "EDUC 181",
+                        "CRES 121",
+                        "EDUC 104",
+                        "EDUC 115",
+                        "EDUC 120",
+                        "EDUC 125",
+                        "EDUC 126",
+                        "EDUC 140",
+                        "EDUC 177",
+                        "EDUC 187",
+                        "EDUC 183",
+                        "EDUC 182",
+                        "EDUC 166",
+                        "EDUC 173",
+                        "EDUC 141",
+                        "EDUC 185B",
+                        "EDUC 185C",
+                        "EDUC 178",
+                        "CRES 121"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "EDUC 110",
+                        "EDUC 180"
+                    ]
+                },
+                "EDUC 190"
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                "EDUC 190"
+            ]
+        }
     },
     {
         "majorname": "Electrical Engineering B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "ECE 80T",
+                "CSE 12",
+                "ECE 13",
+                "MATH 19A",
+                "MATH 19B",
+                "MATH 23A",
+                "MATH 23B",
+                "MATH 19A",
+                "MATH 19B",
+                "MATH 23A",
+                "MATH 23B",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 10",
+                        "MATH 21"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 20",
+                        "MATH 24"
+                    ]
+                },
+                "PHYS 5A",
+                "PHYS 5L",
+                "PHYS 5B",
+                "PHYS 5M",
+                "PHYS 5C",
+                "PHYS 5N",
+                "PHYS 5D"
+            ],
+            "upperdiv":[
+                "ECE 101",
+                "ECE 101L",
+                "ECE 102",
+                "ECE 102L",
+                "ECE 103",
+                "ECE 103L",
+                "ECE 135",
+                "ECE 135L",
+                "ECE 151",
+                "ECE 171",
+                "ECE 171L",
+                "CSE 100",
+                "CSE 100L",
+                "STAT 131"
+            ]
+        },
+        "electives":{
+            "specialrequirement":"In addition to completing the courses required for both concentrations, electrical engineering majors must complete four elective courses chosen from the lists below. Students pursuing the Electronics/Optics concentration must choose at least three courses from the Electronics/Optics courses listed below. Students pursuing the Communications,  Signals and Systems concentration must choose at least three courses from the Communication and Signals courses listed below. Design Elective: One of the four concentration courses chosen must include at least one of the following design electives ECE 118, ECE 157 & ECE 157L, ECE 121, and ECE 173. This course must be taken before the first capstone course ECE 129A.",
+            "classes":[
+                {
+                    "name": "electives",
+                    "choose": 4,
+                    "courses":[
+                        {
+                            "name": "Electronics/Optics",
+                            "choose": "all",
+                            "courses":[
+                                "ECE 104",
+                                "ECE 115",
+                                "ECE 118",
+                                "ECE 121",
+                                "ECE 130",
+                                "ECE 130L",
+                                "ECE 230",
+                                "ECE 136",
+                                "ECE 141",
+                                "ECE 241",
+                                "ECE 157",
+                                "ECE 157L",
+                                "ECE 167",
+                                "ECE 172",
+                                "ECE 221",
+                                "ECE 173",
+                                "ECE 175",
+                                "ECE 175L",
+                                "ECE 176",
+                                "ECE 176L",
+                                "ECE 177",
+                                "ECE 177L",
+                                "ECE 178",
+                                "ECE 180J",
+                                "ECE 201",
+                                "ECE 203",
+                                "ECE 231"
+                            ]
+                        },
+                        {
+                            "name": "Communications, Signals, Systems",
+                            "choose": "all",
+                            "courses":[
+                                "ECE 118",
+                                "ECE 130",
+                                "ECE 130L",
+                                "ECE 230",
+                                "ECE 136",
+                                "ECE 141",
+                                "ECE 241",
+                                "ECE 152",
+                                "ECE 252",
+                                "ECE 153",
+                                "ECE 250",
+                                "ECE 237",
+                                "ECE 251",
+                                "ECE 253/CSE",
+                                "ECE 255",
+                                "ECE 256"
+                            ]
+                        },
+                        "CSE 150"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "ECE 129A",
+                                "ECE 129B",
+                                "ECE 129C"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "ECE 129A",
+                                "ECE 195"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Capstone",
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "ECE 129A",
+                                "ECE 129B",
+                                "ECE 129C"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "ECE 129A",
+                                "ECE 195"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+
     },
     {
         "majorname": "Environmental Sciences B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "CHEM 1A",
+                "CHEM 1C",
+                "CHEM 1N",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "MATH 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 5",
+                                "EART 5L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 10",
+                                "EART 10L"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "EART 20",
+                                "EART 20L"
+                            ]
+                        }
+                    ]
+                },
+                "ENVS 25",
+                "ESCI 30",
+                "PHYS 6A",
+                "PHYS 6L",
+                "PHYS 6B",
+                "PHYS 6M"
+            ],
+            "upperdiv":[
+                "ESCI 100A",
+                "ESCI 100B",
+                "ESCI 160"
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "choose": 5,
+                    "courses":[
+                        "At least five elective courses from upper-division Earth sciences, environmental sciences or ocean sciences offerings must be completed."
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "ESCI 191",
+                        "ESCI 195"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "ESCI 191",
+                        "ESCI 195"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Environmental Studies B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ENVS 23",
+                        "CHEM 1A"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ENVS 24",
+                        "BIOE 20C"
+                    ]
+                },
+                "ENVS 25",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "AM 3",
+                        "AM 11A/ECON",
+                        "AM 11B/ECON",
+                        "MATH 3",
+                        "MATH 11A",
+                        "MATH 11B",
+                        "MATH 19A",
+                        "MATH 19B",
+                        "MATH 22",
+                        "MATH 23A"
+                    ]
+                },
+                "STAT 7",
+                "STAT 7L",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ANTH 2",
+                        "BME 80G",
+                        "PHIL 22",
+                        "PHIL 24",
+                        "PHIL 28",
+                        "SOCY 1",
+                        "SOCY 10",
+                        "SOCY 15"
+                    ]
+                }
+            ],
+            "upperdiv":[
+                "ENVS 100",
+                "ENVS 100L"
+            ]
+        },
+        "electives":{
+            "specialrequirement": "A total of seven upper-division electives (environmental studies courses numbered ENVS 101 through ENVS 179) must be completed. One course must be from the list below of upper-division courses based on natural sciences, and one course must be from the list below of upper-division courses based on the social sciences.",
+            "classes":[
+                {
+                    "name": "Natural ciences",
+                    "choose": 1,
+                    "courses":[
+                        "ENVS 104A",
+                        "ENVS 104L",
+                        "ENVS 106A",
+                        "ENVS 107A",
+                        "ENVS 107B",
+                        "ENVS 107C",
+                        "ENVS 108",
+                        "ENVS 108L",
+                        "BIOE 151A",
+                        "BIOE 151B",
+                        "BIOE 151C",
+                        "BIOE 151D",
+                        "ENVS 120",
+                        "ENVS 121",
+                        "ENVS 122",
+                        "ENVS 123",
+                        "BIOE 125",
+                        "ENVS 129",
+                        "ENVS 129L",
+                        "ENVS 130A",
+                        "ENVS 130L",
+                        "ENVS 130C",
+                        "ENVS 131",
+                        "ENVS 133",
+                        "ENVS 138",
+                        "ENVS 160",
+                        "ENVS 161A",
+                        "ENVS 162",
+                        "ENVS 162L",
+                        "ENVS 163",
+                        "ENVS 163L",
+                        "ENVS 164",
+                        "ENVS 166",
+                        "ENVS 167",
+                        "ENVS 167L",
+                        "ENVS 168",
+                        "ENVS 169",
+                        "ENVS 170"
+                    ]
+                },
+                {
+                    "name": "Social Sciences",
+                    "choose": 1,
+                    "courses":[
+                        "ENVS 110",
+                        "ENVS 130B",
+                        "ENVS 140",
+                        "ENVS 141",
+                        "ENVS 143",
+                        "ENVS 144",
+                        "ENVS 145",
+                        "ENVS 146",
+                        "ENVS 147",
+                        "ENVS 149",
+                        "ENVS 150",
+                        "ENVS 151",
+                        "ENVS 152",
+                        "ENVS 153",
+                        "ENVS 154",
+                        "ENVS 158",
+                        "ENVS 165",
+                        "ENVS 172",
+                        "ENVS 173",
+                        "ENVS 176"
+                    ]
+                },
+                {
+                    "name": "General Electives",
+                    "choose": 5,
+                    "courses":[
+                        "ENVS 104A",
+                        "ENVS 104L",
+                        "ENVS 106A",
+                        "ENVS 107A",
+                        "ENVS 107B",
+                        "ENVS 107C",
+                        "ENVS 108",
+                        "ENVS 108L",
+                        "BIOE 151A",
+                        "BIOE 151B",
+                        "BIOE 151C",
+                        "BIOE 151D",
+                        "ENVS 120",
+                        "ENVS 121",
+                        "ENVS 122",
+                        "ENVS 123",
+                        "BIOE 125",
+                        "ENVS 129",
+                        "ENVS 129L",
+                        "ENVS 130A",
+                        "ENVS 130L",
+                        "ENVS 130C",
+                        "ENVS 131",
+                        "ENVS 133",
+                        "ENVS 138",
+                        "ENVS 160",
+                        "ENVS 161A",
+                        "ENVS 162",
+                        "ENVS 162L",
+                        "ENVS 163",
+                        "ENVS 163L",
+                        "ENVS 164",
+                        "ENVS 166",
+                        "ENVS 167",
+                        "ENVS 167L",
+                        "ENVS 168",
+                        "ENVS 169",
+                        "ENVS 170",
+                        "ENVS 110",
+                        "ENVS 130B",
+                        "ENVS 140",
+                        "ENVS 141",
+                        "ENVS 143",
+                        "ENVS 144",
+                        "ENVS 145",
+                        "ENVS 146",
+                        "ENVS 147",
+                        "ENVS 149",
+                        "ENVS 150",
+                        "ENVS 151",
+                        "ENVS 152",
+                        "ENVS 153",
+                        "ENVS 154",
+                        "ENVS 158",
+                        "ENVS 165",
+                        "ENVS 172",
+                        "ENVS 173",
+                        "ENVS 176"
+                    ]
+                }
+            ]
+
+        },
+        "dcrequirement": {
+            "classes":[
+                "ENVS 100",
+                "ENVS 100L",
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "BIOE 151B",
+                        "ENVS 183B",
+                        "ENVS 190",
+                        "ENVS 195B",
+                        "ENVS 196"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "BIOE 151B",
+                        {
+                            "choose": 1,
+                            "courses":[
+                                "ENVS 183A",
+                                "ENVS 183B"
+                            ]
+                        },
+                        "ENVS 190",
+                        {
+                            "choose": 1,
+                            "courses":[
+                                "ENVS 195A",
+                                "ENVS 195B"
+                            ]
+                        },
+                        "ENVS 196"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Feminist Studies B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "FMST 1",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "FMST 10",
+                        "FMST 13",
+                        "FMST 14",
+                        "FMST 15",
+                        "FMST 16",
+                        "FMST 18",
+                        "FMST 19",
+                        "FMST 20",
+                        "FMST 21",
+                        "FMST 30",
+                        "FMST 31",
+                        "FMST 40",
+                        "FMST 41"
+                    ]
+                }
+            ],
+            "upperdiv":[
+                "FMST 100"
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "choose": 7,
+                    "courses":[
+                        "FMST 102",
+                        "FMST 105",
+                        "FMST 112",
+                        "FMST 115",
+                        "FMST 117",
+                        "FMST 119",
+                        "FMST 120",
+                        "FMST 123",
+                        "FMST 124",
+                        "FMST 125",
+                        "FMST 126",
+                        "FMST 131",
+                        "FMST 132",
+                        "FMST 133",
+                        "FMST 135",
+                        "FMST 139",
+                        "FMST 145",
+                        "FMST 150",
+                        "FMST 175",
+                        "FMST 188",
+                        "FMST 189",
+                        "FMST 193",
+                        "FMST 198",
+                        "FMST 199",
+                        "APLX 112",
+                        "CRES 100",
+                        "CRES 101",
+                        "HIS 106B",
+                        "HIS 109A",
+                        "HIS 110A",
+                        "HIS 112",
+                        "HIS 113C",
+                        "HIS 121B",
+                        "HIS 128",
+                        "HIS 131",
+                        "HIS 140C",
+                        "HIS 140D",
+                        "HIS 140E",
+                        "HIS 150F",
+                        "HIS 151A",
+                        "HIS 159B",
+                        "HIS 196H",
+                        "HISC 113",
+                        "HISC 125",
+                        "LIT 112P",
+                        "LIT 121M",
+                        "LIT 121O",
+                        "LIT 146G",
+                        "LIT 156A",
+                        "LIT 161B",
+                        "LIT 162C",
+                        "LIT 166A",
+                        "LIT 166E",
+                        "LIT 167E",
+                        "PHIL 147",
+                        "ANTH 110G",
+                        "ANTH 110Q",
+                        "ANTH 110T",
+                        "ANTH 130E",
+                        "ANTH 130F",
+                        "ANTH 130L",
+                        "ANTH 130O",
+                        "ANTH 131",
+                        "ANTH 134",
+                        "ANTH 140",
+                        "ANTH 148",
+                        "ANTH 158",
+                        "ANTH 160",
+                        "ANTH 194M",
+                        "ANTH 194X",
+                        "CMMU 151",
+                        "CMMU 161",
+                        "EDUC 135",
+                        "ECON 183",
+                        "LALS 144",
+                        "LALS 172",
+                        "LALS 175",
+                        "LGST 111B",
+                        "POLI 103",
+                        "POLI 105B",
+                        "PSYC 107",
+                        "PSYC 140G",
+                        "PSYC 140H",
+                        "PSYC 140L",
+                        "PSYC 140Q",
+                        "PSYC 140T",
+                        "PSYC 149",
+                        "PSYC 153",
+                        "PSYC 159A",
+                        "PSYC 159D",
+                        "SOCY 111",
+                        "SOCY 120",
+                        "SOCY 121",
+                        "SOCY 126",
+                        "SOCY 132",
+                        "SOCY 145",
+                        "SOCY 149",
+                        "SOCY 150",
+                        "SOCY 152",
+                        "SOCY 157",
+                        "SOCY 156",
+                        "SOCY 158",
+                        "SOCY 172",
+                        "SOCY 176",
+                        "SOCY 187",
+                        "FILM 130",
+                        "FILM 165A",
+                        "FILM 165B",
+                        "FILM 165C",
+                        "FILM 165D",
+                        "FILM 165E",
+                        "FILM 165G",
+                        "FILM 194E",
+                        "HAVC 115",
+                        "HAVC 140C",
+                        "HAVC 141F",
+                        "HAVC 170",
+                        "HAVC 172",
+                        "HAVC 186",
+                        "HAVC 186Q",
+                        "THEA 161M",
+                        "THEA 161T",
+                        "JRLC 135",
+                        "OAKS 150"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "FMST 194",
+                        "FMST 195"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "FMST 194A",
+                        "FMST 194B",
+                        "FMST 194C",
+                        "FMST 194D",
+                        "FMST 194F",
+                        "FMST 194G",
+                        "FMST 194H",
+                        "FMST 194I",
+                        "FMST 194K",
+                        "FMST 194L",
+                        "FMST 194M",
+                        "FMST 194O",
+                        "FMST 194Q",
+                        "FMST 194T",
+                        "FMST 194U",
+                        "FMST 194V",
+                        "FMST 194W",
+                        "FMST 195",
+                        "CRES 190A",
+                        "HIS 194N"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Film and Digital Media B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "FILM 20A",
+                {
+                    "choose": 2,
+                    "courses":[
+                        "FILM 20B",
+                        "FILM 20C",
+                        "FILM 20P"
+                    ]
+                }
+            ],
+            "upperdiv":[
+                "FILM 120",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "FILM 130",
+                        "FILM 132A",
+                        "FILM 132B"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "FILM 134A",
+                        "FILM 134B"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "FILM 136A",
+                        "FILM 136B",
+                        "FILM 136C",
+                        "FILM 136D"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "FILM 194A",
+                        "FILM 194B",
+                        "FILM 194C",
+                        "FILM 194D",
+                        "FILM 194E",
+                        "FILM 194F",
+                        "FILM 194G",
+                        "FILM 194H",
+                        "FILM 194S",
+                        "FILM 196A",
+                        "FILM 196B",
+                        "FILM 196C",
+                        "FILM 197"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "specialrequirement": "up to five additional upper-division critical studies courses in film and digital media, up to two upper-division courses in film and digital media production, at least one course must meet the diversity requirement",
+            "classes":[
+                "upper-division critical studies courses in film and digital media",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ANTH 110P",
+                        "FILM 132A",
+                        "FILM 132B",
+                        "FILM 165A",
+                        "FILM 165B",
+                        "FILM 165C",
+                        "FILM 165D",
+                        "FILM 165E",
+                        "FILM 165G",
+                        "FILM 168A",
+                        "HAVC 141O",
+                        "LALS 122",
+                        "LALS 124"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "FILM 130",
+                        "FILM 132A",
+                        "FILM 132B",
+                        "FILM 134A",
+                        "FILM 134B"
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "choose": 1,
+                    "courses":[
+                        "FILM 194A",
+                        "FILM 194B",
+                        "FILM 194C",
+                        "FILM 194D",
+                        "FILM 194E",
+                        "FILM 194F",
+                        "FILM 194G",
+                        "FILM 194H",
+                        "FILM 194S",
+                        "FILM 196A",
+                        "FILM 196B",
+                        "FILM 196C",
+                        "FILM 197"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "name": "Comprehensive",
+                    "choose": 1,
+                    "courses":[
+                        "FILM 194A",
+                        "FILM 194B",
+                        "FILM 194C",
+                        "FILM 194D",
+                        "FILM 194E",
+                        "FILM 194F",
+                        "FILM 194G",
+                        "FILM 194H",
+                        "FILM 194S",
+                        "FILM 196A",
+                        "FILM 196B",
+                        "FILM 196C",
+                        "FILM 197"
+                    ]
+                }
+            ]
+        }
     },
     {
         "majorname": "Global Economics B.A.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "ECON 1",
+                "ECON 2",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "AM 11A",
+                                "AM 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "MATH 11B",
+                                "MATH 22"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B",
+                                "MATH 23A"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "AM 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "AM 11B"
+                            ]
+                        }
+                    ]
+                },
+                "STAT 17",
+                "STAT 17L"
+            ],
+            "upperdiv":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 100A",
+                        "ECON 100M"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 100B",
+                        "ECON 100N"
+                    ]
+                },
+                "ECON 113",
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 104",
+                        "ECON 197"
+                    ]
+                }
+            ]
+        },
+        "electives":{
+            "specialrequirement": "At least one of the four courses must be selected from List 1 below. In addition, two more courses must be taken from List 2 below.",
+            "classes":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 120",
+                        "ECON 140",
+                        "ECON 141",
+                    ]
+                },
+                {
+                    "choose": 3,
+                    "courses":[
+                        "ECON 120",
+                        "ECON 121",
+                        "ECON 126",
+                        "ECON 131",
+                        "ECON 140",
+                        "ECON 141",
+                        "ECON 142",
+                        "ECON 143",
+                        "ECON 148",
+                        "ECON 149",
+                        "ECON 188",
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 104",
+                        "ECON 197"
+                    ]
+                }
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 100A",
+                        "ECON 100M"
+                    ]
+                },
+                {
+                    "choose": 1,
+                    "courses":[
+                        "ECON 100B",
+                        "ECON 100N"
+                    ]
+                },
+                "ECON 113"
+            ]
+        }
     },
     {
         "majorname": "Human Biology B.S.",
-        "requiredcourses": "none",
-        "electives": "none",
-        "otherrequirements": "none"
+        "requiredcourses":{
+            "lowerdiv":[
+                "BIOL 20A",
+                "BIOE 20B",
+                "BIOE 20C",
+                "CHEM 1A",
+                "CHEM 1B",
+                "CHEM 1C",
+                "CHEM 1N",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 11A",
+                                "MATH 11B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "MATH 19A",
+                                "MATH 19B"
+                            ]
+                        }
+                    ]
+                },
+                "STAT 7",
+                "STAT 7L",
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 7A",
+                                "PHYS 6L",
+                                "PHYS 7B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 6A",
+                                "PHYS 6L",
+                                "PHYS 6B"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "PHYS 6A",
+                                "PHYS 6L",
+                                "PHYS 6C"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "upperdiv":[
+                {
+                    "choose": 1,
+                    "courses":[
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOL 100",
+                                "BIOL 101"
+                            ]
+                        },
+                        {
+                            "choose": "all",
+                            "courses":[
+                                "BIOC 100A",
+                                "BIOC 100B",
+                                "BIOC 100C"
+                            ]
+                        }
+                    ]
+                },
+                "BIOL 105",
+                "BIOL 110",
+                "BIOL 130",
+                "BIOL 130L",
+                "BIOL 189",
+                "BIOL 189W"
+            ]
+        },
+        "electives":{
+            "classes":[
+                {
+                    "name": "Elective",
+                    "choose": 2,
+                    "courses":[
+                        "BIOC 100C",
+                        "BIOE 133",
+                        "BIOE 133L",
+                        "BIOL 111A",
+                        "BIOL 111B",
+                        "BIOL 112",
+                        "BIOL 114",
+                        "BIOL 115",
+                        "BIOL 116",
+                        "BIOL 117",
+                        "BIOL 118",
+                        "BIOL 120",
+                        "BIOL 125",
+                        "BIOL 127",
+                        "BIOL 140",
+                        "BIOL 188",
+                        "BME 130",
+                        "BME 178",
+                        "CMMU 163",
+                        "METX 100",
+                        "METX 119",
+                        "METX 135",
+                        "METX 135L",
+                        "METX 140",
+                        "PHYS 180"
+                    ]
+                }
+            ]
+        },
+        "dcrequirement": {
+            "classes":[
+                "BIOL 130L",
+                "BIOL 189W"
+            ]
+        },
+        "comprehensiverequirement":{
+            "classes":[
+                "BIOL 189"
+            ]
+        }
+
     },
     {
         "majorname": "History B.A.",
