@@ -332,7 +332,7 @@ function BottomSidebar({courses}) {
   );
 }
 
-function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check}) {
+function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
   const [quarterCredits, setQuarterCredits] = useState(0);
 
@@ -479,30 +479,30 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
   };
 
   return (
-    <div className="quarter-box" onDrop={handleDrop} onDragOver={handleDragOver}>
+    <div className={`quarter-box ${collapseState ? 'collapsed' : ''}`} onDrop={handleDrop} onDragOver={handleDragOver}>
       <h2 className="quarter-title">{getBoxTitle()}</h2>
-      <div className="course-list-container">
-        <div className="course-list">
-          {sortedDroppedCourses.map((course) => (
-            <div
-              key={course.id}
-              className="quarterbox-draggable-course"
-              draggable
-              onDragStart={(event) =>
-                handleCourseDragStart(event, course.coursename, course.credits, course.genEdCode)
-              }
-            >
-              <button
-                className="remove-course-button"
-                onClick={() =>
-                  handleRemoveCourse(course.coursename, course.credits, course.genEdCode)
+      <div className={`course-list-container ${collapseState ? 'collapsed' : ''}`}>
+        <div className="course-list-wrapper">
+          <div className="course-list">
+            {sortedDroppedCourses.map((course) => (
+              <div
+                key={course.id}
+                className="quarterbox-draggable-course"
+                draggable
+                onDragStart={(event) =>
+                  handleCourseDragStart(event, course.coursename, course.credits, course.genEdCode)
                 }
               >
-                x
-              </button>
-              <span>{course.coursename}</span>
-            </div>
-          ))}
+                <button
+                  className="remove-course-button"
+                  onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEdCode)}
+                >
+                  x
+                </button>
+                <span>{course.coursename}</span>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
       <div className="quarter-credits-container">
@@ -512,7 +512,8 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
       </div>
     </div>
   );
-}
+              }
+  
 
 function App() {
   const [departments, setDepartments] = useState([]);
@@ -542,15 +543,33 @@ function App() {
     'Credits': 0,
   });
 
+  const [collapseStates, setCollapseStates] = useState({
+    0: false,
+    1: false,
+    2: false,
+    3: false,
+  });
+  
   const addYear = () => {
     setTotalYears(totalYears + 1);
+    setCollapseStates((prevState) => ({ ...prevState, [totalYears]: false }));
   };
-
-  //Minimum should be 2 year planner 
+  
   const removeYear = () => {
     if (totalYears > 2) {
       setTotalYears(totalYears - 1);
+      setCollapseStates((prevState) => {
+        const { [totalYears - 1]: removedItem, ...rest } = prevState;
+        return rest;
+      });
     }
+  }
+
+  const handleCollapse = (row) => {
+    setCollapseStates((prevState) => ({
+      ...prevState,
+      [row]: !prevState[row],
+    }));
   };
 
   useEffect(() => {
@@ -624,7 +643,14 @@ function App() {
           <div className="quarterbox-container-wrapper">
             <div className="quarterbox-container">
               {[...Array(totalYears)].map((_, rowIndex) => (
-                <div className="quarterbox-row" key={rowIndex}>
+                <div className={`quarterbox-row ${collapseStates[rowIndex] ? 'collapsed' : ''}`} key={rowIndex}>
+                  <button
+                    className="collapse-button"
+                    onClick={() => handleCollapse(rowIndex)}
+                  >
+                    {collapseStates[rowIndex] ? "Expand Row" : "Collapse Row"}
+                  </button>
+
                   {[...Array(4)].map((_, colIndex) => (
                     <QuarterBox
                       key={colIndex}
@@ -637,6 +663,7 @@ function App() {
                       setCourses={setCourses}
                       GE_Check={GE_Check}
                       setGE_Check={setGE_Check}
+                      collapseStates = {collapseStates[rowIndex]}
                     />
                   ))}
                 </div>
