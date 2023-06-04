@@ -1,10 +1,15 @@
 yo = """
 
+ART 10D	2D Foundation	5
+ART 10E	3D Foundation	5
+ART 10F	4D Foundation	5
 
-
-
-BIOL 130L	Human Physiology Laboratory	2
-BIOL 189W	Disciplinary Communication: Human Biology	3
+ART 20G	Introduction to Print Media and Drawing	5
+ART 20H	Introduction to Sculpture and Public Art	5
+ART 20I	Introduction to Photography	5
+ART 20J	Introduction to Drawing and Painting	5
+ART 20K	Introduction to New Media and Digital Artmaking	5
+ART 20L	Introduction to Drawing	5
 
 """
 

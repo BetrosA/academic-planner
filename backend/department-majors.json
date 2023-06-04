@@ -1,0 +1,297 @@
+[
+    {
+        "Department": "Arts Division",
+        "subdepartment":[
+            {
+                "name": "Art",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Digital Arts and New Media",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Film and Digital Media",
+                "majors":[
+                ]
+            },
+            {
+                "name": "History of Art and Visual Culture",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Music",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Performance, Play, and Design",
+                "majors":[
+                ]
+            }
+        ]
+    },
+    {
+        "Department": "Humanities Division",
+        "subdepartment":[
+            {
+                "name": "Critical Race and Ethnic Studies",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Feminist Studies",
+                "majors":[
+                ]
+            },
+            {
+                "name": "History",
+                "majors":[
+                ]
+            },
+            {
+                "name": "History of Consciousness",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Languages and Applied Linguistics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Linguistics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Literature",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Philosophy",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Writing Program",
+                "majors":[
+                ]
+            }
+        ]
+    },
+    {
+        "Department": "Physical and Biological Sciences Division",
+        "subdepartment":[
+            {
+                "name": "Astronomy and Astrophysics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Chemistry and Biochemistry",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Coastal Science and Policy",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Earth and Planetary Sciences",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Ecology and Evolutionary Biology",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Mathematics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Microbiology and Environmental Toxicology",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Molecular, Cell, and Developmental Biology",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Ocean Sciences",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Physics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Science Communication",
+                "majors":[
+                ]
+            }
+        ]
+    },
+    {
+        "Department": "Baskin Engineering",
+        "subdepartment":[
+            {
+                "name": "Applied Mathematics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Biomolecular Engineering",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Computational Media",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Computer Science and Engineering",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Electrical and Computer Engineering",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Statistics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Technology and Information Management",
+                "majors":[
+                ]
+            }
+        ]
+    },
+    {
+        "Department": "Social Sciences Division",
+        "subdepartment":[
+            {
+                "name": "Anthropology",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Community Studies",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Economics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Education",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Environmental Studies",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Global and Community Health",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Latin American and Latino Studies",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Politics",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Psychology",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Sociology",
+                "majors":[
+                ]
+            }
+        ]
+    },
+    {
+        "Department": "The Colleges",
+        "subdepartment":[
+            {
+                "name": "College Nine",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Cowell College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Crown College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "John R Lewis College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Kresge College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Merrill College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Oakes College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Porter College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Rachel Carson College",
+                "majors":[
+                ]
+            },
+            {
+                "name": "Stevenson College",
+                "majors":[
+                ]
+            }
+        ]
+    }
+]
