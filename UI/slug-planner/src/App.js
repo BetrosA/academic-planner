@@ -6,8 +6,11 @@ import "./App.css";
 
 import { fetchDepartments, fetchCourses} from "./firebase";
 
-/*const generatePlanner = (major, setPlanner) => {
-  fetch('http://localhost:5000/planner/'+ encodeURI(major), {
+const PlannerContext = React.createContext();
+
+const generatePlanner = async (major, setPlanner) => {
+  major = major.replace(':', '')
+  await fetch('http://localhost:5000/planner/'+ encodeURI(major), {
     method: 'get'
   })
     .then((response) => {
@@ -16,7 +19,7 @@ import { fetchDepartments, fetchCourses} from "./firebase";
     .then((json) => {
       setPlanner(json);
     });
-};*/
+};
 
 function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
   const [showMajor, setShowMajor] = useState(false);
@@ -26,7 +29,7 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   const [prevSelectedMajor, setPrevSelectedMajor] = useState(null);
   const [prevSelectedStartingYear, setPrevSelectedStartingYear] = useState(null);
   const [ChooseYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
-
+  const {setPlanner} = React.useContext(PlannerContext)
   const toggleMajor = () => {
     setShowMajor(!showMajor);
   };
@@ -78,6 +81,7 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
   
   const handleGenerateClick = () => {
     setSelectedMajor(selectedMajor);
+    generatePlanner(selectedMajor, setPlanner)
     setIsGenerated(true);
   };
 
@@ -330,7 +334,80 @@ function BottomSidebar({courses}) {
   );
 }
 
-function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
+function RequirementSidebar() {
+  const [searchQuery, setSearchQuery] = useState("");
+  const {planner} = React.useContext(PlannerContext)
+  const quarters = ['Fall', 'Winter', 'Spring']
+  const handleSearch = (event) => {
+    setSearchQuery(event.target.value);
+  };
+
+  const handleDragStart = (event, courseName, credits, genEd) => {
+    event.dataTransfer.setData("courseName", courseName);
+    event.dataTransfer.setData("credits", credits);
+    event.dataTransfer.setData("genEd", genEd);
+  };
+
+  const filterCoursesBySearch = (course) => {
+    // Filter courses based on the search query
+    if (searchQuery.trim() === "") {
+      return true; // Return true if no search query is entered
+    }
+    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
+    return regex.test(course.coursename);
+  };
+
+  return (
+    <div className="bottom-sidebar">
+      <h2 className="sidebar-title">Recommended Planner</h2>
+      <div className="search-container">
+        <input
+          type="text"
+          placeholder="Search courses..."
+          value={searchQuery}
+          onChange={handleSearch}
+          className="search-bar"
+        />
+      </div>
+      {
+        planner?.map((_, year) => (
+          <div key={year}>
+          <div
+            key={`title ${year}`}
+            className="sidebar-title"
+            draggable
+          >
+            {`Year ${year + 1}`}
+          </div>
+          {
+            quarters?.map((name) => (
+            <div key={`title ${name}`}>
+            <div
+              key={`Year ${year} Quarter ${name}`}
+              className="sidebar-title"
+              draggable
+            >
+              {name}
+            </div>
+            {
+              planner[year][name]?.map((course) => (
+              <div
+                key={course.coursename}
+                className="draggable-course"
+                draggable
+                onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
+              >
+                {course.coursename}
+                </div>
+            ))}
+            </div>
+          ))}
+          </div>
+        ))}
+    </div>
+  );
+}
+function QuarterBox({row,  column, courses, selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
   const [quarterCredits, setQuarterCredits] = useState(0);
 
@@ -523,7 +600,7 @@ function App() {
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
   const [isGenerated, setIsGenerated] = useState(false);
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
-  //const [planner, setPlanner] = useState([]);
+  const [planner, setPlanner] = useState(null);
   const [totalYears, setTotalYears] = useState(4);
   const [GE_Check, setGE_Check] = useState({
     CC: 0,
@@ -574,7 +651,6 @@ function App() {
   useEffect(() => {
     fetchDepartments(setDepartments);
     fetchCourses(setCourses);
-    //generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
   const handleCheckboxChange = (key) => {
@@ -584,6 +660,7 @@ function App() {
   };
 
   return (
+    <PlannerContext.Provider value={{planner, setPlanner}} >
     <div>
       {/* Logo*/}
       <header className="header">
@@ -610,6 +687,7 @@ function App() {
             <div className="top-half">
               <Sidebar courses={courses} />
               <BottomSidebar courses={courses} />
+              <RequirementSidebar/>
             </div>
             <div className="bottom-half">
               <div>
@@ -674,6 +752,7 @@ function App() {
         </div>
       )}
     </div>
+    </PlannerContext.Provider>
   )
 }
 
