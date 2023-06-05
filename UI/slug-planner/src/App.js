@@ -6,7 +6,7 @@ import "./App.css";
 
 import { fetchDepartments, fetchCourses} from "./firebase";
 
-const generatePlanner = (major, setPlanner) => {
+/*const generatePlanner = (major, setPlanner) => {
   fetch('http://localhost:5000/planner/'+ encodeURI(major), {
     method: 'get'
   })
@@ -16,7 +16,7 @@ const generatePlanner = (major, setPlanner) => {
     .then((json) => {
       setPlanner(json);
     });
-};
+};*/
 
 function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
   const [showMajor, setShowMajor] = useState(false);
@@ -227,7 +227,7 @@ function Sidebar({courses}) {
   };
 
   const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
-  
+ 
   return (
     <div className="sidebar">
       <h2 className="sidebar-title">Available Courses</h2>
@@ -243,7 +243,7 @@ function Sidebar({courses}) {
       {
         sortedCourses.map((course) => (
           <div
-            key={course.id}
+            key={course.coursename}
             className="draggable-course"
             draggable
             onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
@@ -291,7 +291,6 @@ function BottomSidebar({courses}) {
       }
     });
   };
-  
 
   const filterCoursesBySearch = (course) => {
     // Filter courses based on the search query
@@ -303,7 +302,6 @@ function BottomSidebar({courses}) {
   };
 
   const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
-  
 
   return (
     <div className="bottom-sidebar">
@@ -320,7 +318,7 @@ function BottomSidebar({courses}) {
       {
         sortedCourses.map((course) => (
           <div
-            key={course.id}
+            key={course.coursename}
             className="draggable-course"
             draggable
             onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
@@ -350,7 +348,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     const course = {
       coursename: courseName,
       credits: courseCredits,
-      genEdCode: genEd
+      genEd: genEd
     };
 
     const credits = parseInt(courseCredits.split(" ")[1]);
@@ -363,12 +361,14 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     if (!isDuplicate && courseName.trim() !== "") {
       setDroppedCourses((prevCourses) => [...prevCourses, course]);
       setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+      setQuarterCredits(quarterCredits + credits);
+      
+      //Update GE box 
       setGE_Check((prevState) => ({
         ...prevState,
         Credits: prevState.Credits + credits,
       }));
-      setQuarterCredits(quarterCredits + credits);
-      
+
       if (genEdCode in GE_Check) {
         setGE_Check((prevGE_Check) => ({
           ...prevGE_Check,
@@ -392,7 +392,8 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     console.log("Name:", courseName);
     console.log("Credits:", courseCredits);
     console.log("GenED:", genEd);
-
+    
+    //Isolate int for credits and string for GE's
     const credits = parseInt(courseCredits.split(" ")[1]);
     const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
 
@@ -402,12 +403,12 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     setAllDroppedCourses((prevCourses) =>
       prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
     );
-
+    setQuarterCredits(quarterCredits - credits);
     setGE_Check((prevState) => ({
       ...prevState,
       Credits: prevState.Credits - credits,
     }));
-    setQuarterCredits(quarterCredits - credits);
+    
 
     if (genEdCode in GE_Check) {
       setGE_Check((prevGE_Check) => ({
@@ -462,7 +463,6 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
     });
   };
   
-
   const sortedDroppedCourses = sortDroppedCourses(droppedCourses);
 
   const getBoxTitle = () => {
@@ -486,16 +486,16 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
           <div className="course-list">
             {sortedDroppedCourses.map((course) => (
               <div
-                key={course.id}
+                key={course.coursename}
                 className="quarterbox-draggable-course"
                 draggable
                 onDragStart={(event) =>
-                  handleCourseDragStart(event, course.coursename, course.credits, course.genEdCode)
+                  handleCourseDragStart(event, course.coursename, course.credits, course.genEd)
                 }
               >
                 <button
                   className="remove-course-button"
-                  onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEdCode)}
+                  onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEd)}
                 >
                   x
                 </button>
@@ -512,7 +512,7 @@ function QuarterBox({row,  column,  selectedStartingYear,  allDroppedCourses,  s
       </div>
     </div>
   );
-              }
+}
   
 
 function App() {
@@ -523,7 +523,7 @@ function App() {
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
   const [isGenerated, setIsGenerated] = useState(false);
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
-  const [planner, setPlanner] = useState([]);
+  //const [planner, setPlanner] = useState([]);
   const [totalYears, setTotalYears] = useState(4);
   const [GE_Check, setGE_Check] = useState({
     CC: 0,
@@ -542,7 +542,6 @@ function App() {
     C: 0,
     'Credits': 0,
   });
-
   const [collapseStates, setCollapseStates] = useState({
     0: false,
     1: false,
@@ -575,7 +574,7 @@ function App() {
   useEffect(() => {
     fetchDepartments(setDepartments);
     fetchCourses(setCourses);
-    generatePlanner("Computer Science B.S.",setPlanner)
+    //generatePlanner("Computer Science B.S.",setPlanner)
   }, []);
 
   const handleCheckboxChange = (key) => {

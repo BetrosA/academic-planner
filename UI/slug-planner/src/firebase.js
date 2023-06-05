@@ -25,17 +25,17 @@ export const fetchDepartments = (setDepartments) => {
 };
 
 export const fetchCourses = (setCourses) => {
-  const coursesRef = ref(db, 'courses/');
+  //const coursesRef = ref(db, 'courses/');
   const EcoursesRef = ref(db, 'ECONcourses/');
 
   let combinedData = [];
 
-  onValue(coursesRef, (snapshot) => {
+  /*onValue(coursesRef, (snapshot) => {
     const courses = snapshot.val();
     const filteredCourses = Object.values(courses).filter(course => course.quarteroffered !== "none");
     combinedData = combinedData.concat(filteredCourses);
     setCourses(combinedData);
-  });
+  });*/
   onValue(EcoursesRef, (snapshot) => {
     const courses = snapshot.val();
     const filteredCourses = Object.values(courses).filter(course => course.quarteroffered !== "none");
