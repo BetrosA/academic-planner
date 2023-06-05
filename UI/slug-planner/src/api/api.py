@@ -55,6 +55,7 @@ def planner_get(major):
     ref2 = db.reference('majors')
     req = ref2.get()
 
+    fullCourses = []
     reqIndex = -1
     for i, reqName in enumerate(req):
         if reqName['majorname'] == major:
@@ -68,43 +69,57 @@ def planner_get(major):
         for reqCourse in req[reqIndex]["requiredcourses"]:
             splitReqCourse = reqCourse.split(" ")
 
-            # each course in total courses (fix once courses are categorized by subject)
-            for course in courses:
-                if (course):
-                    # ex: split CSE 30 Programming Abstractions... -> ["CSE", "30", "Programming", "Abstractions"]
-                    splitCourseName = course['coursename'].split(" ")
+            # go through each prerequisite if there are options (ex: CSE 112 or CSE 114A)
+            i = 0
+            while i < len(splitReqCourse):
+                # each course in total courses (fix once courses are categorized by subject)
+                for course in courses:
+                    if (course):
+                        # ex: split CSE 30 Programming Abstractions... -> ["CSE", "30", "Programming", "Abstractions"]
+                        splitCourseName = course['coursename'].split(" ")
 
-                    # major required course matches course listing
-                    # course name matches required course (later add options ex: CSE 112 or 114A)
-                    if splitReqCourse[0] == splitCourseName[0] and splitReqCourse[1] == splitCourseName[1]:
+                        # major required course matches course listing
+                        if splitReqCourse[i] == splitCourseName[0] and splitReqCourse[i+1] == splitCourseName[1]:
+                            joinedCourse = ' '.join([splitReqCourse[i], splitReqCourse[i+1]])
+                            # if required course has not already been added to list
+                            if reqCourse not in simplePlanner and course['quarteroffered'] != 'none' :
 
-                        # if required course has not already been added to list
-                        if reqCourse not in simplePlanner:
+                                # no prereqs for course, just add
+                                if course['extrarequirements'] == "none":
+                                        simplePlanner[joinedCourse] = []
+                                        fullCourses.append(course)
+                                # course contains prereqs
+                                else:
+                                    # splits prereqs into list of courses
+                                    prereqs= re.findall("[A-Z]+ [0-9]+[A-z]?", course['extrarequirements'][30:])
 
-                            # no prereqs for course, just add
-                            if course['extrarequirements'] == "none":
-                                    simplePlanner[reqCourse] = []
-                                    
-                            # course contains prereqs
-                            else:
-                                # splits prereqs into list of courses
-                                prereqs= re.findall("[A-Z]+ [0-9]+[A-z]?", course['extrarequirements'][30:])
+                                    simplePlanner[joinedCourse] = []
+                                    fullCourses.append(course)
+                                    # for each prereq, add if in required courses list (meaning student wont take prereqs that
+                                    # don't count as a required course for major)
 
-                                simplePlanner[reqCourse] = []
-                                # for each prereq, add if in required courses list (meaning student wont take prereqs that
-                                # don't count as a required course for major)
-
-                                for prereq in prereqs:
-                                    if prereq in req[reqIndex]["requiredcourses"]:
-                                        simplePlanner[reqCourse].append(prereq)
+                                    for prereq in prereqs:
+                                        if prereq in req[reqIndex]["requiredcourses"]:
+                                            simplePlanner[joinedCourse].append(prereq)
+                i += 3
                 
         print("Prereqs:")
         print(simplePlanner)
         planner = create_planner(simplePlanner)
         print("4-year Planner:")
         
-        for q in planner:
-            print(q)
+        for i, q in enumerate(planner):
+            for quarter, reqs in q.items():
+                print(quarter + ": ")
+                print("")
+                for j, req in enumerate(reqs):
+                    for fullCourse in fullCourses:
+                        parsedCourse = re.findall("[A-Z]+ [0-9]+[A-z]?", fullCourse['coursename'])
+                        if (len(parsedCourse) == 1 and parsedCourse[0] == req):
+                            planner[i][quarter][j] = fullCourse
+                    print(planner[i][quarter][j]['coursename'])
+                print('-------------')
+
         response = jsonify(planner)  
         response.headers.add('Access-Control-Allow-Origin', '*')  
         return response  
