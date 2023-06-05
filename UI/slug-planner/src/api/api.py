@@ -5,22 +5,17 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 import re
-
+from planner import incrementQuarter, addCourse, create_planner
 # run with: flask --app api run
 
 # Initialize Flask app
 app = Flask(__name__)
 
 # Use a service account
-cred = credentials.Certificate('academicplanner-c85a5-firebase-adminsdk-9k0uz-9f74e1cfe9.json')
+cred = credentials.Certificate('../academicplanner-c85a5-firebase-adminsdk-9k0uz-9f74e1cfe9.json')
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://academicplanner-c85a5-default-rtdb.firebaseio.com'
 })
-
-# remove once added to database
-with open('../../../backend/majors.json', 'r') as f:
-    req = json.loads(f.read())
-f.close()
 
 @app.get('/departments')  
 def departments_get():  
@@ -52,50 +47,13 @@ def course_get(courseNumber):
             return response  
     return "Course not found", 404
 
-def addCourse(course, planner, quarter, year):
-
-    # if current quarter has 2 courses already in, check others
-    if len(planner[year][quarter]) == 2 :
-        while len(planner[year][quarter]) == 2:
-            if quarter == "Spring":
-                if year == 3: break
-                year += 1
-                quarter = "Fall"
-            elif quarter == "Fall":
-                quarter = "Winter"
-            else:
-                quarter = "Spring"
-    planner[year][quarter].append(course)
-    return planner, quarter, year
-
-def create_planner(simplePlanner):
-    
-    planner = [{"Fall": [], "Winter": [], "Spring": []}, {"Fall": [], "Winter": [], "Spring": []},
-                   {"Fall": [], "Winter": [], "Spring": []}, {"Fall": [], "Winter": [], "Spring": []}]
-    year = 0
-    quarter = "Fall"
-
-    # empties simple planner until all prereqs are met and planner is filled
-    while simplePlanner:
-        for course, prereqs in simplePlanner.items():
-
-            # no prereqs, just add to planner
-            if len(prereqs) == 0:
-                planner, quarter, year = addCourse(course, planner, quarter, year)
-                del simplePlanner[course]
-                break
-            
-            # deletes any prereqs that were already added to planner
-            else:
-                for prereq in prereqs:
-                    if not simplePlanner[prereq]:
-                        simplePlanner[course].remove(prereq)
-    return planner
-
 @app.get('/planner/<major>')  
 def planner_get(major):  
     ref = db.reference('courses')
     courses = ref.get()
+
+    ref2 = db.reference('majors')
+    req = ref2.get()
 
     reqIndex = -1
     for i, reqName in enumerate(req):
@@ -135,12 +93,12 @@ def planner_get(major):
                                 simplePlanner[reqCourse] = []
                                 # for each prereq, add if in required courses list (meaning student wont take prereqs that
                                 # don't count as a required course for major)
+
                                 for prereq in prereqs:
-                                    if prereq not in simplePlanner:
-                                        if prereq in req[reqIndex]["requiredcourses"]:
-                                            simplePlanner[reqCourse].append(prereq)
+                                    if prereq in req[reqIndex]["requiredcourses"]:
+                                        simplePlanner[reqCourse].append(prereq)
                 
-        print("Simple planner:")
+        print("Prereqs:")
         print(simplePlanner)
         planner = create_planner(simplePlanner)
         print("4-year Planner:")
