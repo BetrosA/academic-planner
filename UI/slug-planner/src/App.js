@@ -21,26 +21,50 @@ const generatePlanner = async (major, setPlanner) => {
     });
 };
 
-function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  departments}) {
-  const [showMajor, setShowMajor] = useState(false);
+function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  selectedMajor,  selectedStartingYear,  setSelectedDepartment,  setSelectedMajor,  setSelectedStartingYear,  setIsGenerated,  divisions}) {
+  const [showDivision, setShowDivision] = useState(false);
   const [showDepartment, setShowDepartment] = useState(false);
+  const [showMajor, setShowMajor] = useState(false);
   const [showStartingYear, setShowStartingYear] = useState(false);
+
+  const [prevSelectedDivision, setPrevSelectedDivision] = useState(null);
   const [prevSelectedDepartment, setPrevSelectedDepartment] = useState(null);
   const [prevSelectedMajor, setPrevSelectedMajor] = useState(null);
   const [prevSelectedStartingYear, setPrevSelectedStartingYear] = useState(null);
+
   const [ChooseYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
   const {setPlanner} = React.useContext(PlannerContext)
-  const toggleMajor = () => {
-    setShowMajor(!showMajor);
+
+  const toggleDivision = () => {
+    setShowDivision(!showDivision);
   };
 
   const toggleDepartment = () => {
     setShowDepartment(!showDepartment);
   };
 
+  const toggleMajor = () => {
+    setShowMajor(!showMajor);
+  };
+
   const toggleStartingYear = () => {
     setShowStartingYear(!showStartingYear);
   };
+
+  const handleDivisionClick = (name) => {
+    setShowDivision(false);
+  
+    // Check if department selection has changed
+    if (prevSelectedDivision !== name) {
+      setSelectedDivision(name);
+      setSelectedDepartment(null);
+      setSelectedMajor(null); // Reset major when department changes
+      setSelectedStartingYear(null); // Reset starting year when department changes
+      setIsGenerated(false); // Set isGenerated to false if department changes
+      setPrevSelectedDivision(name);
+    }
+  };
+  
 
   const handleDepartmentClick = (name) => {
     setShowDepartment(false);
@@ -94,32 +118,64 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
           </a>
         </li>
 
-        {/* Dept. Dropdown */}
+        {/* Division Dropdown */}
         <li
           className="dropdown"
-          onMouseEnter={toggleDepartment}
-          onMouseLeave={toggleDepartment}
+          onMouseEnter={toggleDivision}
+          onMouseLeave={toggleDivision}
         >
-         <button className="dropdown_hover_button">
-            {selectedDepartment ? selectedDepartment : "Departments"}
+          <button className="dropdown_hover_button">
+            {selectedDivision ? selectedDivision : "Divisions"}
           </button>
-          {showDepartment && (
+          {showDivision && (
             <div className="dropdown-content" style={{ width: "150px" }}>
-              {Object.keys(departments).map((name) => (
-                <button
-                  key={name}
-                  className="dropdown-button"
-                  onClick={() => handleDepartmentClick(name)}
-                >
-                  {name}
-                </button>
-              ))}
+              {divisions
+                .map((division) => division.Department)
+                .sort()
+                .map((divisionName, index) => (
+                  <button
+                    key={index}
+                    className="dropdown-button"
+                    onClick={() => handleDivisionClick(divisionName)}
+                  >
+                    {divisionName}
+                  </button>
+                ))}
             </div>
           )}
         </li>
 
+        {/* Dept. Dropdown */}
+
+          <li
+            className="dropdown"
+            onMouseEnter={toggleDepartment}
+            onMouseLeave={toggleDepartment}
+          >
+            <button className="dropdown_hover_button">
+              {selectedDepartment ? selectedDepartment : "Departments"}
+            </button>
+            {selectedDivision && showDepartment && (
+              <div className="dropdown-content" style={{ width: "150px" }}>
+                {divisions
+                  .find((division) => division.Department === selectedDivision)
+                  ?.subdepartment
+                  .map((subdepartment) => subdepartment.name)
+                  .sort()
+                  .map((departmentName) => (
+                    <button
+                      key={departmentName}
+                      className="dropdown-button"
+                      onClick={() => handleDepartmentClick(departmentName)}
+                    >
+                      {departmentName}
+                    </button>
+                  ))}
+              </div>
+            )}
+          </li>
+
         {/* Major Dropdown */}
-        {selectedDepartment && (
           <li
             className="dropdown"
             onMouseEnter={toggleMajor}
@@ -128,24 +184,28 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
             <button className="dropdown_hover_button">
               {selectedMajor ? selectedMajor : "Major"}
             </button>
-            {showMajor && (
+            {selectedDepartment && showMajor && (
               <div className="dropdown-content">
-                {departments[selectedDepartment].map((name) => (
-                  <button
-                    key={name}
-                    className="dropdown-button"
-                    onClick={() => handleMajorClick(name)}
-                  >
-                    {name}
-                  </button>
-                ))}
+                {divisions
+                  .find((division) => division.Department === selectedDivision)
+                  ?.subdepartment.find((subdepartment) => subdepartment.name === selectedDepartment)
+                  ?.majors
+                  .map((major) => major.majorname)
+                  .sort()
+                  .map((majorName) => (
+                    <button
+                      key={majorName}
+                      className="dropdown-button"
+                      onClick={() => handleMajorClick(majorName)}
+                    >
+                      {majorName}
+                    </button>
+                  ))}
               </div>
             )}
           </li>
-        )}
 
         {/* Year Dropdown */}
-        {selectedMajor && (
           <li
             className="dropdown"
             onMouseEnter={toggleStartingYear}
@@ -154,7 +214,7 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
             <button className="dropdown_hover_button">
               {selectedStartingYear ? selectedStartingYear : "Starting Year"}
             </button>
-            {showStartingYear && (
+            {selectedMajor && showStartingYear && (
               <div className="dropdown-content">
                 {ChooseYears.map((year) => (
                   <button
@@ -168,7 +228,6 @@ function NavBar({selectedDepartment,  selectedMajor,  selectedStartingYear,  set
               </div>
             )}
           </li>
-        )}
 
         {/* Generate Button */}
         {selectedDepartment && selectedMajor && selectedStartingYear && (
@@ -334,7 +393,7 @@ function BottomSidebar({courses}) {
   );
 }
 
-function RequirementSidebar() {
+/*function RequirementSidebar() {
   const [searchQuery, setSearchQuery] = useState("");
   const {planner} = React.useContext(PlannerContext)
   const quarters = ['Fall', 'Winter', 'Spring']
@@ -406,8 +465,9 @@ function RequirementSidebar() {
         ))}
     </div>
   );
-}
-function QuarterBox({row,  column, courses, selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
+}*/
+
+function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
   const [quarterCredits, setQuarterCredits] = useState(0);
 
@@ -591,10 +651,13 @@ function QuarterBox({row,  column, courses, selectedStartingYear,  allDroppedCou
   );
 }
   
-
 function App() {
-  const [departments, setDepartments] = useState([]);
+  const [divisions, setDivisions] = useState([]);
+  //const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
+
+
+  const [selectedDivision, setSelectedDivision] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
@@ -626,6 +689,7 @@ function App() {
     3: false,
   });
   
+  
   const addYear = () => {
     setTotalYears(totalYears + 1);
     setCollapseStates((prevState) => ({ ...prevState, [totalYears]: false }));
@@ -649,7 +713,7 @@ function App() {
   };
 
   useEffect(() => {
-    fetchDepartments(setDepartments);
+    fetchDepartments(setDivisions);
     fetchCourses(setCourses);
   }, []);
 
@@ -658,6 +722,7 @@ function App() {
     updatedGE_Check[key] = updatedGE_Check[key] > 0 ? 0 : 1; // Toggle the value between 0 and 1
     setGE_Check(updatedGE_Check);
   };
+  console.log(divisions)
 
   return (
     <PlannerContext.Provider value={{planner, setPlanner}} >
@@ -671,14 +736,16 @@ function App() {
 
       {/* Nav Bar */}
       <NavBar
+      selectedDivision = {selectedDivision}
       selectedDepartment={selectedDepartment}
       selectedMajor={selectedMajor}
       selectedStartingYear={selectedStartingYear}
+      setSelectedDivision = {setSelectedDivision}
       setSelectedDepartment={setSelectedDepartment}
       setSelectedMajor={setSelectedMajor}
       setSelectedStartingYear={setSelectedStartingYear}
       setIsGenerated={setIsGenerated}
-      departments={departments}
+      divisions={divisions}
       />
     
       {isGenerated && (
@@ -687,7 +754,6 @@ function App() {
             <div className="top-half">
               <Sidebar courses={courses} />
               <BottomSidebar courses={courses} />
-              <RequirementSidebar/>
             </div>
             <div className="bottom-half">
               <div>

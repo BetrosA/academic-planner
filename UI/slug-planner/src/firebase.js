@@ -17,7 +17,7 @@ const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 
 export const fetchDepartments = (setDepartments) => {
-  const departmentsRef = ref(db, 'departments/');
+  const departmentsRef = ref(db, 'department-majors/');
   onValue(departmentsRef, (snapshot) => {
     const departments = snapshot.val();
     setDepartments(departments);
