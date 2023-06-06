@@ -278,7 +278,6 @@ function Sidebar({courses}) {
       }
     });
   };
-  
 
   const filterCoursesBySearch = (course) => {
     // Filter courses based on the search query
@@ -477,10 +476,10 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     const courseCredits = event.dataTransfer.getData("credits");
     const genEd = event.dataTransfer.getData("genEd");
 
-    console.log("HandleDrop");
+    /*console.log("HandleDrop");
     console.log("Name:", courseName);
     console.log("Credits:", courseCredits);
-    console.log("GE:", genEd);
+    console.log("GE:", genEd);*/
 
     const course = {
       coursename: courseName,
@@ -525,10 +524,10 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
   };
 
   const handleRemoveCourse = (courseName, courseCredits, genEd) => {
-    console.log("RemoveCourse:");
+    /*console.log("RemoveCourse:");
     console.log("Name:", courseName);
     console.log("Credits:", courseCredits);
-    console.log("GenED:", genEd);
+    console.log("GenED:", genEd);*/
     
     //Isolate int for credits and string for GE's
     const credits = parseInt(courseCredits.split(" ")[1]);
@@ -564,10 +563,10 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
   };
 
   const handleCourseDragStart = (event, courseName, courseCredits, genEd) => {
-    console.log("DragCourse:");
+    /*console.log("DragCourse:");
     console.log("Name:", courseName);
     console.log("Credits:", courseCredits);
-    console.log("GenED:", genEd);
+    console.log("GenED:", genEd);*/
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", courseCredits);
     event.dataTransfer.setData("genEd", genEd);
@@ -655,8 +654,6 @@ function App() {
   const [divisions, setDivisions] = useState([]);
   //const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
-
-
   const [selectedDivision, setSelectedDivision] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedMajor, setSelectedMajor] = useState(null);
@@ -722,7 +719,7 @@ function App() {
     updatedGE_Check[key] = updatedGE_Check[key] > 0 ? 0 : 1; // Toggle the value between 0 and 1
     setGE_Check(updatedGE_Check);
   };
-  console.log(divisions)
+  console.log(courses)
 
   return (
     <PlannerContext.Provider value={{planner, setPlanner}} >
