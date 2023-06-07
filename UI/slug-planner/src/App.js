@@ -538,7 +538,7 @@ function RequirementSidebar() {
                   Object.keys(requirements[req][subReq]).map((course) => (
                     <div>
                     {
-                    requirements[req][subReq][course]['coursename'] ? 
+                    (requirements[req][subReq][course]['coursename'] && requirements[req][subReq][course]['quarteroffered'] !== 'none') ? 
                       <div
                         key={`title ${course}`}
                         className="draggable-course"
@@ -571,7 +571,7 @@ function RequirementSidebar() {
                                 subCourses === 'courses' ? 
                                 Object.keys(requirements[req][subReq][course][subCourses]).map((subCourse) => (
                                   <div>
-                                    {requirements[req][subReq][course][subCourses][subCourse]['coursename'] ? 
+                                    {(requirements[req][subReq][course][subCourses][subCourse]['coursename'] && requirements[req][subReq][course]['quarteroffered'] !== 'none') ? 
                                     <div
                                       key={`title ${requirements[req][subReq][course][subCourses][subCourse]['coursename']} ${Math.random()}`}
                                       className="draggable-course"
