@@ -1,4 +1,10 @@
 // App.js
+import { useNavigate } from 'react-router-dom';
+import { signInWithGoogle } from './firebase'; // Import signInWithGoogle from firebase.js
+import './Login.css'; // Assuming you have a Login.css file for styling
+import Login from './signIn'; // Adjust the path if your Login.js file is in a different directory
+import { BrowserRouter as Router } from 'react-router-dom';
+
 
 import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
@@ -734,7 +740,7 @@ function App() {
       [row]: !prevState[row],
     }));
   };
-
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
   useEffect(() => {
     fetchDepartments(setDivisions);
     fetchCourses(setCourses);
@@ -748,7 +754,6 @@ function App() {
   console.log(courses)
 
   return (
-    <PlannerContext.Provider value={{planner, setPlanner}} >
     <div>
       {/* Logo*/}
       <header className="header">
@@ -759,89 +764,42 @@ function App() {
 
       {/* Nav Bar */}
       <NavBar
-      selectedDivision = {selectedDivision}
       selectedDepartment={selectedDepartment}
       selectedMajor={selectedMajor}
       selectedStartingYear={selectedStartingYear}
-      setSelectedDivision = {setSelectedDivision}
       setSelectedDepartment={setSelectedDepartment}
       setSelectedMajor={setSelectedMajor}
       setSelectedStartingYear={setSelectedStartingYear}
       setIsGenerated={setIsGenerated}
-      divisions={divisions}
+      departments={departments}
       />
-    
-      {isGenerated && (
-        <div className="content">
-          <div className="sidebar-container">
-            <div className="top-half">
-              <MajorReqSidebar courses={courses} />
-              <AllCoursesSidebar courses={courses} />
-            </div>
-            <div className="bottom-half">
-              <div>
-                <h2>GE requirements</h2>
-                <div className="requirements-container">
-                  {Object.entries(GE_Check).map(([key, value]) => (
-                      <div key={key} className="checkbox-container">
-                        {key === "Credits" ? (
-                          <span key={key} className="requirement-item">
-                            {key}: {value}/180
-                          </span>
-                        ) : (
-                          <div>
-                            <input
-                              type="checkbox"
-                              id={key}
-                              checked={value > 0}
-                              onChange={() => handleCheckboxChange(key)}
-                              disabled
-                            />
-                            <label htmlFor={key}>{key}</label>
-                          </div>
-                        )}
-                      </div>
-                    ))}
-                </div>
+      
+    {isGenerated && (
+      <div className="content">
+      <Sidebar courses={courses} selectedMajor={selectedMajor} />
+      <div className="quarterbox-container-wrapper">
+        <div className="quarterbox-container">
+          {[...Array(4)].map((_, rowIndex) => (
+            <div className="quarterbox-row" key={rowIndex}>
+              {[...Array(4)].map((_, colIndex) => (
+                <QuarterBox
+                  key={colIndex}
+                  row={rowIndex + 1}
+                  column={colIndex + 1}
+                  selectedStartingYear={selectedStartingYear}
+                  allDroppedCourses={allDroppedCourses}
+                  setAllDroppedCourses={setAllDroppedCourses}
+                  courses={courses}
+                  setCourses={setCourses}
+                  />
+                ))}
               </div>
-            </div>
-          </div>
-          <div className="quarterbox-container-wrapper">
-            <div className="quarterbox-container">
-              {[...Array(totalYears)].map((_, rowIndex) => (
-                <div className={`quarterbox-row ${collapseStates[rowIndex] ? 'collapsed' : ''}`} key={rowIndex}>
-                  <button
-                    className="collapse-button"
-                    onClick={() => handleCollapse(rowIndex)}
-                  >
-                    {collapseStates[rowIndex] ? "Expand Row" : "Collapse Row"}
-                  </button>
-
-                  {[...Array(4)].map((_, colIndex) => (
-                    <QuarterBox
-                      key={colIndex}
-                      row={rowIndex + 1}
-                      column={colIndex + 1}
-                      selectedStartingYear={selectedStartingYear}
-                      allDroppedCourses={allDroppedCourses}
-                      setAllDroppedCourses={setAllDroppedCourses}
-                      courses={courses}
-                      setCourses={setCourses}
-                      GE_Check={GE_Check}
-                      setGE_Check={setGE_Check}
-                      collapseStates = {collapseStates[rowIndex]}
-                    />
-                  ))}
-                </div>
-              ))}
-              <button onClick={removeYear}>Remove Year</button>
-              <button onClick={addYear}>Add Year</button>
-            </div>
+            ))}
           </div>
         </div>
+      </div>
       )}
     </div>
-    </PlannerContext.Provider>
   )
 }
 
