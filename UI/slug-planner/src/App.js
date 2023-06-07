@@ -1,4 +1,10 @@
 // App.js
+import { useNavigate } from 'react-router-dom';
+import { signInWithGoogle } from './firebase'; // Import signInWithGoogle from firebase.js
+import './Login.css'; // Assuming you have a Login.css file for styling
+import Login from './signIn'; // Adjust the path if your Login.js file is in a different directory
+import { BrowserRouter as Router } from 'react-router-dom';
+
 
 import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
@@ -360,17 +366,28 @@ function QuarterBox({
   );
 }
 
+// This is the code that runs when the user clicks on the "Generate" button. It
+// displays the planner, which is a grid of QuarterBoxes that contain the
+// selected courses. The planner is generated based on the selected major and
+// starting year. The planner is only generated if the user has selected a major
+// and starting year. Otherwise, an error message is displayed.
+
+
+
 function App() {
   const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
   const [quartersOffered, setQuartersOffered] = useState([]);
-  const [selectedDepartment, setSelectedDepartment] = useState(null);
+  // This code uses the useState hook to create a state variable called selectedDepartment and a function called setSelectedDepartment to update the state variable. The state variable is initialized to null. 
+// The selectedDepartment state variable is used to store the currently selected department.
+
+const [selectedDepartment, setSelectedDepartment] = useState(null);
   const [selectedMajor, setSelectedMajor] = useState(null);
   const [selectedStartingYear, setSelectedStartingYear] = useState(null);
   const [isGenerated, setIsGenerated] = useState(false);
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
   const [planner, setPlanner] = useState([]);
-
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
   useEffect(() => {
     fetchDepartments(setDepartments);
     fetchCourses(setCourses);
@@ -379,53 +396,60 @@ function App() {
   }, []);
 
   return (
-    <div>
-      {/* Logo*/}
-      <header className="header">
-        <a href="/">
-          <img src={SchoolLogo} alt="School Logo" className="logo" />
-        </a>
-      </header>
+    <Router>
+      <div>
+        {/* Logo */}
+        <header className="header">
+          <a href="/">
+            <img src={SchoolLogo} alt="School Logo" className="logo" />
+          </a>
+        </header>
 
-      {/* Nav Bar */}
-      <NavBar
-      selectedDepartment={selectedDepartment}
-      selectedMajor={selectedMajor}
-      selectedStartingYear={selectedStartingYear}
-      setSelectedDepartment={setSelectedDepartment}
-      setSelectedMajor={setSelectedMajor}
-      setSelectedStartingYear={setSelectedStartingYear}
-      setIsGenerated={setIsGenerated}
-      departments={departments}
-      />
-      
-    {isGenerated && (
-      <div className="content">
-      <Sidebar courses={courses} selectedMajor={selectedMajor} />
-      <div className="quarterbox-container-wrapper">
-        <div className="quarterbox-container">
-          {[...Array(4)].map((_, rowIndex) => (
-            <div className="quarterbox-row" key={rowIndex}>
-              {[...Array(4)].map((_, colIndex) => (
-                <QuarterBox
-                  key={colIndex}
-                  row={rowIndex + 1}
-                  column={colIndex + 1}
-                  selectedStartingYear={selectedStartingYear}
-                  allDroppedCourses={allDroppedCourses}
-                  setAllDroppedCourses={setAllDroppedCourses}
-                  courses={courses}
-                  setCourses={setCourses}
-                  />
+        {/* Nav Bar */}
+        {!isLoggedIn ? (
+          // Render Login component if not logged in
+          <Login setIsLoggedIn={setIsLoggedIn} />
+        ) : (
+          <NavBar
+            selectedDepartment={selectedDepartment} // Used to display the selected department in the NavBar
+            selectedMajor={selectedMajor} // Used to display the selected major in the NavBar
+            selectedStartingYear={selectedStartingYear} // Used to display the selected starting year in the NavBar
+            setSelectedDepartment={setSelectedDepartment} // Set to null when the user clicks on the "Home" button
+            setSelectedMajor={setSelectedMajor} // Set to null when the user clicks on the "Home" button
+            setSelectedStartingYear={setSelectedStartingYear} // Set to null when the user clicks on the "Home" button 
+            setIsGenerated={setIsGenerated} // Set to true when the user clicks on the "Generate" button
+            departments={departments} // Used to populate the dropdown menu in the NavBar
+          />
+        )}
+        
+        {isLoggedIn && isGenerated && ( // Only render the planner if the user is logged in and the planner has been generated
+          <div className="content">
+            <Sidebar courses={courses} selectedMajor={selectedMajor} />
+            <div className="quarterbox-container-wrapper">
+              <div className="quarterbox-container">
+                {[...Array(4)].map((_, rowIndex) => (
+                  <div className="quarterbox-row" key={rowIndex}>
+                    {[...Array(4)].map((_, colIndex) => (
+                      <QuarterBox
+                        key={colIndex}
+                        row={rowIndex + 1}
+                        column={colIndex + 1}
+                        selectedStartingYear={selectedStartingYear}
+                        allDroppedCourses={allDroppedCourses}
+                        setAllDroppedCourses={setAllDroppedCourses}
+                        courses={courses}
+                        setCourses={setCourses}
+                      />
+                    ))}
+                  </div>
                 ))}
               </div>
-            ))}
+            </div>
           </div>
-        </div>
+        )}
       </div>
-      )}
-    </div>
-  )
+    </Router>
+  );
 }
 
 export default App;
