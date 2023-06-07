@@ -97,10 +97,12 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
   
     // Check if starting year selection has changed
     if (prevSelectedStartingYear !== year) {
-      setSelectedStartingYear(year);
+      
       setIsGenerated(false);
-      setPrevSelectedStartingYear(year);
+      
     }
+    setSelectedStartingYear(year);
+    setPrevSelectedStartingYear(year);
   };
   
   const handleGenerateClick = () => {
@@ -146,91 +148,90 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
         </li>
 
         {/* Dept. Dropdown */}
-
-          <li
-            className="dropdown"
-            onMouseEnter={toggleDepartment}
-            onMouseLeave={toggleDepartment}
-          >
-            <button className="dropdown_hover_button">
-              {selectedDepartment ? selectedDepartment : "Departments"}
-            </button>
-            {selectedDivision && showDepartment && (
-              <div className="dropdown-content" style={{ width: "150px" }}>
-                {divisions
-                  .find((division) => division.Department === selectedDivision)
-                  ?.subdepartment
-                  .map((subdepartment) => subdepartment.name)
-                  .sort()
-                  .map((departmentName) => (
-                    <button
-                      key={departmentName}
-                      className="dropdown-button"
-                      onClick={() => handleDepartmentClick(departmentName)}
-                    >
-                      {departmentName}
-                    </button>
-                  ))}
-              </div>
-            )}
-          </li>
-
-        {/* Major Dropdown */}
-          <li
-            className="dropdown"
-            onMouseEnter={toggleMajor}
-            onMouseLeave={toggleMajor}
-          >
-            <button className="dropdown_hover_button">
-              {selectedMajor ? selectedMajor : "Major"}
-            </button>
-            {selectedDepartment && showMajor && (
-              <div className="dropdown-content">
-                {divisions
-                  .find((division) => division.Department === selectedDivision)
-                  ?.subdepartment.find((subdepartment) => subdepartment.name === selectedDepartment)
-                  ?.majors
-                  .map((major) => major.majorname)
-                  .sort()
-                  .map((majorName) => (
-                    <button
-                      key={majorName}
-                      className="dropdown-button"
-                      onClick={() => handleMajorClick(majorName)}
-                    >
-                      {majorName}
-                    </button>
-                  ))}
-              </div>
-            )}
-          </li>
-
-        {/* Year Dropdown */}
-          <li
-            className="dropdown"
-            onMouseEnter={toggleStartingYear}
-            onMouseLeave={toggleStartingYear}
-          >
-            <button className="dropdown_hover_button">
-              {selectedStartingYear ? selectedStartingYear : "Starting Year"}
-            </button>
-            {selectedMajor && showStartingYear && (
-              <div className="dropdown-content">
-                {ChooseYears.map((year) => (
+        <li
+          className="dropdown"
+          onMouseEnter={toggleDepartment}
+          onMouseLeave={toggleDepartment}
+        >
+          <button className="dropdown_hover_button">
+            {selectedDepartment ? selectedDepartment : "Departments"}
+          </button>
+          {selectedDivision && showDepartment && (
+            <div className="dropdown-content" style={{ width: "150px" }}>
+              {divisions
+                .find((division) => division.Department === selectedDivision)
+                ?.subdepartment
+                .map((subdepartment) => subdepartment.name)
+                .sort()
+                .map((departmentName) => (
                   <button
-                    key={year}
+                    key={departmentName}
                     className="dropdown-button"
-                    onClick={() => handleStartingYearClick(year)}
+                    onClick={() => handleDepartmentClick(departmentName)}
                   >
-                    {year}
+                    {departmentName}
                   </button>
                 ))}
-              </div>
-            )}
-          </li>
+            </div>
+          )}
+        </li>
+
+        {/* Major Dropdown */}
+        <li
+          className="dropdown"
+          onMouseEnter={toggleMajor}
+          onMouseLeave={toggleMajor}
+        >
+          <button className="dropdown_hover_button">
+            {selectedMajor ? selectedMajor : "Major"}
+          </button>
+          {selectedDepartment && showMajor && (
+            <div className="dropdown-content">
+              {divisions
+                .find((division) => division.Department === selectedDivision)
+                ?.subdepartment.find((subdepartment) => subdepartment.name === selectedDepartment)
+                ?.majors
+                .map((major) => major.majorname)
+                .sort()
+                .map((majorName) => (
+                  <button
+                    key={majorName}
+                    className="dropdown-button"
+                    onClick={() => handleMajorClick(majorName)}
+                  >
+                    {majorName}
+                  </button>
+                ))}
+            </div>
+          )}
+        </li>
+
+        {/* Year Dropdown */}
+        <li
+          className="dropdown"
+          onMouseEnter={toggleStartingYear}
+          onMouseLeave={toggleStartingYear}
+        >
+          <button className="dropdown_hover_button">
+            {selectedStartingYear ? selectedStartingYear : "Starting Year"}
+          </button>
+          {selectedMajor && showStartingYear && (
+            <div className="dropdown-content">
+              {ChooseYears.map((year) => (
+                <button
+                  key={year}
+                  className="dropdown-button"
+                  onClick={() => handleStartingYearClick(year)}
+                >
+                  {year}
+                </button>
+              ))}
+            </div>
+          )}
+        </li>
 
         {/* Generate Button */}
-        {selectedDepartment && selectedMajor && selectedStartingYear && (
+        {selectedDivision && selectedDepartment && selectedMajor && selectedStartingYear && (
           <li>
             <button className="generate-btn" onClick={handleGenerateClick}>
               Generate Schedule
@@ -242,7 +243,7 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
   )
 }
 
-function Sidebar({courses}) {
+function MajorReqSidebar({courses}) {
   const [searchQuery, setSearchQuery] = useState("");
   
   const handleSearch = (event) => {
@@ -323,7 +324,7 @@ function Sidebar({courses}) {
   );
 }
 
-function BottomSidebar({ courses }) {
+function AllCoursesSidebar({ courses }) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedFilter, setSelectedFilter] = useState("All");
 
@@ -485,7 +486,6 @@ function BottomSidebar({ courses }) {
   );
 }
 
-
 function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
   const [quarterCredits, setQuarterCredits] = useState(0);
@@ -495,44 +495,56 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     const courseName = event.dataTransfer.getData("courseName");
     const courseCredits = event.dataTransfer.getData("credits");
     const genEd = event.dataTransfer.getData("genEd");
-    const quarters_offered = event.dataTransfer.getData("quarters");
+    const quarteroffered = event.dataTransfer.getData("quarters");
 
     const course = {
       coursename: courseName,
       credits: courseCredits,
       genEd: genEd,
-      quarteroffered: quarters_offered
+      quarteroffered: quarteroffered
     };
 
     const credits = parseInt(courseCredits.split(" ")[1]);
     const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
+    const quartersOffered = course.quarteroffered.split("Offered")[1].trim();
+    const offeredSeasons = quartersOffered.split(",").map((season) => season.trim());
+
+    const boxTitle = getBoxTitle();
+    const boxSeason = boxTitle.split(" ")[0];
+
+
 
     const isDuplicate = allDroppedCourses.some(
       (droppedCourse) => droppedCourse.coursename === courseName
     );
 
     if (!isDuplicate && courseName.trim() !== "") {
-      setDroppedCourses((prevCourses) => [...prevCourses, course]);
-      setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
-      setQuarterCredits(quarterCredits + credits);
-      
-      //Update GE box 
-      setGE_Check((prevState) => ({
-        ...prevState,
-        Credits: prevState.Credits + credits,
-      }));
-
-      if (genEdCode in GE_Check) {
-        setGE_Check((prevGE_Check) => ({
-          ...prevGE_Check,
-          [genEdCode]: prevGE_Check[genEdCode] + 1,
+      if (offeredSeasons.includes(boxSeason)) {
+        setDroppedCourses((prevCourses) => [...prevCourses, course]);
+        setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+        setQuarterCredits(quarterCredits + credits);
+        
+        //Update GE box 
+        setGE_Check((prevState) => ({
+          ...prevState,
+          Credits: prevState.Credits + credits,
         }));
-      }
 
-      // Remove the dropped course from the sidebar
-      setCourses((prevCourses) =>
-        prevCourses.filter((course) => course.coursename !== courseName)
-      );
+        if (genEdCode in GE_Check) {
+          setGE_Check((prevGE_Check) => ({
+            ...prevGE_Check,
+            [genEdCode]: prevGE_Check[genEdCode] + 1,
+          }));
+        }
+
+        // Remove the dropped course from the sidebar
+        setCourses((prevCourses) =>
+          prevCourses.filter((course) => course.coursename !== courseName)
+        );
+      }
+      else{
+        window.alert(`${courseName} is not available for the ${boxSeason} quarter.`);
+      }  
     }
   };
 
@@ -667,7 +679,6 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
   
 function App() {
   const [divisions, setDivisions] = useState([]);
-  //const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
   const [selectedDivision, setSelectedDivision] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
@@ -764,8 +775,8 @@ function App() {
         <div className="content">
           <div className="sidebar-container">
             <div className="top-half">
-              <Sidebar courses={courses} />
-              <BottomSidebar courses={courses} />
+              <MajorReqSidebar courses={courses} />
+              <AllCoursesSidebar courses={courses} />
             </div>
             <div className="bottom-half">
               <div>
@@ -773,7 +784,7 @@ function App() {
                 <div className="requirements-container">
                   {Object.entries(GE_Check).map(([key, value]) => (
                       <div key={key} className="checkbox-container">
-                        {key === "Credits" ? ( // Check if the option is "Credits"
+                        {key === "Credits" ? (
                           <span key={key} className="requirement-item">
                             {key}: {value}/180
                           </span>
