@@ -379,7 +379,8 @@ function RequirementSidebar() {
                         onDragStart={(event) => handleDragStart(event, 
                         requirements[req][subReq][course]['coursename'],
                         requirements[req][subReq][course]['credithours'], 
-                        requirements[req][subReq][course]['genEd'])}
+                        requirements[req][subReq][course]['genEd'],
+                        requirements[req][subReq][course]['quarteroffered'])}
                       >
                         {
                           requirements[req][subReq][course]['coursename']
@@ -408,7 +409,8 @@ function RequirementSidebar() {
                                       onDragStart={(event) => handleDragStart(event, 
                                         requirements[req][subReq][course][subCourses][subCourse]['coursename'],
                                         requirements[req][subReq][course][subCourses][subCourse]['credithours'], 
-                                        requirements[req][subReq][course][subCourses][subCourse]['genEd'])}
+                                        requirements[req][subReq][course][subCourses][subCourse]['genEd'],
+                                        requirements[req][subReq][course][subCourses][subCourse]['quarteroffered'])}
                                     >
                                     {
                                       requirements[req][subReq][course][subCourses][subCourse]['coursename']
@@ -478,7 +480,7 @@ function RequirementSidebar() {
                   key={course.coursename}
                   className="draggable-course"
                   draggable
-                  onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
+                  onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, course.quarteroffered)}
                 >
                   {course.coursename}
                   </div>
