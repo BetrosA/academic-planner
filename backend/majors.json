@@ -1,0 +1,951 @@
+[
+    {
+        "majorname": "Agroecology B.A.",
+        "requiredcourses": [
+            "ENVS 23 or CHEM1A",
+            "ENVS 24 or BIOE 20C",
+            "STAT 7",
+            "STAT 7L",
+            "ENVS 25",
+            "ENVS 80F",
+            "AM 3 or AM 6 or MATH 3",
+            "ANTH 2 or BME 80G or PHIL 22 or PHIL 24 or PHIL 28 or SOCY 1 or SOCY 10 or SOCY 15",
+            "ENVS 100",
+            "ENVS 100L",
+            "ENVS 130A",
+            "ENVS 130L",
+            "ENVS 130B",
+            "ENVS 130C or ENVS 133 or ENVS 135"
+        ],
+        "electivecount": 4,
+        "electives": [
+            "ENVS 108/L",
+            "ENVS 130C",
+            "ENVS 131",
+            "ENVS 133 or 133B",
+            "ENVS 135",
+            "ENVS 142",
+            "ENVS 143",
+            "ENVS 160",
+            "ENVS 161",
+            "ENVS 162/L",
+            "ENVS 163/L",
+            "ENVS 164",
+            "ENVS 165",
+            "ENVS 166",
+            "ENVS 168",
+            "ENVS 169",
+            "ENVS 170",
+            "BIOE 118",
+            "CMMU 149",
+            "CMMU 186"
+        ],
+        "dcrequirement": [
+            "ENVS 100",
+            "ENVS 100L",
+            "ENVS 183B or ENVS 190 or ENVS 195B or ENVS 196"
+        ],
+        "comprehensiverequirement":[
+            "ENVS 183A and ENVS 183B",
+            "ENVS 190",
+            "ENVS 195A and ENVS 195B",
+            "ENVS 196"
+        ],
+        "otherrequirements": [
+            "ENVS 83 or ENVS 184 or ENVS 199F"
+        ]
+    },
+    {
+        "majorname": "Anthropology B.A.",
+        "requiredcourses": [
+            "ANTH 1",
+            "ANTH 2",
+            "ANTH 3",
+            "one course in anthropological theory",
+            "one course in sociocultural anthropology",
+            "one course in regional specialization",
+            "one course in archaeology",
+            "one course in biological, medical or environmental anthropology"
+        ],
+        "anthropoligcaltheory":[
+            "ANTH 100",
+            "ANTH 150",
+            "ANTH 152",
+            "ANTH 170"
+        ],
+        "socioculturalanthropology":[
+            "ANTH 119",
+            "ANTH 125",
+            "ANTH 126",
+            "ANTH 129",
+            "ANTH 131",
+            "ANTH 134",
+            "ANTH 135A",
+            "ANTH 136",
+            "ANTH 137",
+            "ANTH 138",
+            "ANTH 139",
+            "ANTH 140",
+            "ANTH 142",
+            "ANTH 143",
+            "ANTH 144",
+            "ANTH 145X",
+            "ANTH 146",
+            "ANTH 147",
+            "ANTH 148",
+            "ANTH 149",
+            "ANTH 151",
+            "ANTH 157",
+            "ANTH 158",
+            "ANTH 159",
+            "ANTH 160",
+            "ANTH 161",
+            "ANTH 161S",
+            "ANTH 163"
+        ],
+        "regional specialization":[
+            "ANTH 130A",
+            "ANTH 130C",
+            "ANTH 130E",
+            "ANTH 130F",
+            "ANTH 130H",
+            "ANTH 130I",
+            "ANTH 130L",
+            "ANTH 130M",
+            "ANTH 130O",
+            "ANTH 130P",
+            "ANTH 130S",
+            "ANTH 130T",
+            "ANTH 130U",
+            "ANTH 130V",
+            "ANTH 130W",
+            "ANTH 130X",
+            "ANTH 175", 
+            "ANTH 176A",
+            "ANTH 176B",
+            "ANTH 176C",
+            "ANTH 176D",
+            "ANTH 176E",
+            "ANTH 176F"
+        ],
+        "archaeology":[
+            "ANTH 171",
+            "ANTH 172",
+            "ANTH 173",
+            "ANTH 174",
+            "ANTH 175",
+            "ANTH 176A",
+            "ANTH 176B",
+            "ANTH 176C",
+            "ANTH 176D",
+            "ANTH 176E",
+            "ANTH 176F",
+            "ANTH 177",
+            "ANTH 178",
+            "HIS 158C",
+            "ANTH 180",
+            "ANTH 180L",
+            "ANTH 181X",
+            "ANTH 182A",
+            "ANTH 184",
+            "ANTH 185",
+            "ANTH 187",
+            "ANTH 187B",
+            "ANTH 189"
+        ],
+        "biological, medical or environmental anthropology":[
+            "ANTH 100",
+            "ANTH 101",
+            "ANTH 104",
+            "ANTH 105",
+            "ANTH 106",
+            "ANTH 111",
+            "ANTH 190X",
+            "ANTH 134",
+            "ANTH 136",
+            "ANTH 140",
+            "ANTH 140",
+            "ANTH 146",
+            "ANTH 147",
+            "ANTH 177"
+        ],
+        "electivecount": 4,
+        "electives": [
+            "Four anthropology electives (any additional upper-division anthropology courses)"
+        ],
+        "dcrequirement": [
+            "(ANTH 195A and ANTH 195B and ANTH 195C) or ANTH 195S"
+        ],
+        "comprehensiverequirement":[
+            "ANTH 195S",
+            "ANTH 195A",
+            "ANTH 195B",
+            "ANTH 195C"
+
+        ],
+        "otherrequirements":[
+
+        ]
+    },
+    {
+        "majorname": "Applied Physics B.S.",
+        "requiredcourses": [
+            "MATH 19A or MATH 20A",
+            "MATH 19B or MATH 20B",
+            "MATH 23A",
+            "MATH 23B",
+            "PHYS 5A",
+            "PHYS 5L",
+            "PHYS 5B",
+            "PHYS 5M",
+            "PHYS 5C",
+            "PHYS 5N",
+            "PHYS 5D",
+            "CHEM 1A or CHEM 1B",
+            "ASTR 119 or CSE20",
+            "PHYS 102",
+            "PHYS 116A",
+            "PHYS 116C",
+            "PHYS 105",
+            "PHYS 110A",
+            "PHYS 110B",
+            "PHYS 112",
+            "PHYS 133",
+            "PHYS 134"
+        ],
+        "electivecount":3,
+        "electives": [
+            "PHYS 115",
+            "PHYS 120",
+            "PHYS 137",
+            "PHYS 139A",
+            "PHYS 139B",
+            "PHYS 157",
+            "PHYS 150",
+            "PHYS 152",
+            "PHYS 156",
+            "PHYS 160",
+            "PHYS 180",
+            "AM 107",
+            "CHEM 163B",
+            "EART 121",
+            "EART 172",
+            "ECE 101",
+            "ECE 130",
+            "ECE 136"
+        ],
+        "dcrequirement": [
+            "PHYS 182 or (PHYS 195A and PHYS 195B)"
+        ],
+        "comprehensiverequirement":[
+            "PHYS 134"
+        ],
+        "otherrequirements":[
+
+        ]
+    },
+    {
+        "majorname": "Applied Linguistics and Multilingualism B.A.",
+        "requiredcourses": [
+            "APLX 80",
+            "LING 50",
+            "ARBC 6",
+            "CHIN 6",
+            "FREN 6",
+            "GERM 6",
+            "ITAL 6",
+            "JAPN 6",
+            "PORT 65B",
+            "SPAN 6",
+            "SPHS 6",
+            "APLX 101",
+            "LING 100 or LING 101",
+            "LING 111 or LING 112"
+        ],
+        "advancedlanguageproficiencycount":"two in target language",
+        "advancedlanguageproficiency":[
+            "CHIN 103",
+            "CHIN 104",
+            "CHIN 105",
+            "CHIN 107",
+            "CHIN 108",
+            "FREN 108",
+            "FREN 111",
+            "FREN 114",
+            "FREN 120",
+            "FREN 121",
+            "FREN 125A",
+            "FREN 125B",
+            "FREN 130",
+            "FREN 136",
+            "FREN 131",
+            "GERM 119",
+            "GERM 120",
+            "ITAL 100",
+            "JAPN 103",
+            "JAPN 104",
+            "JAPN 105",
+            "JAPN 109",
+            "LALS 171",
+            "SPAN 114",
+            "SPAN 140",
+            "SPAN 141",
+            "SPAN 150",
+            "SPAN 151",
+            "SPAN 152",
+            "SPAN 153",
+            "SPAN 154",
+            "SPAN 156A",
+            "SPAN 156E",
+            "SPAN 156F",
+            "SPAN 156J",
+            "SPAN 156K",
+            "SPHS 115"
+        ],
+        "electivecount": 4,
+        "electives": [
+            "ANTH 139",
+            "ANTH 143",
+            "APLX 102",
+            "APLX 103",
+            "APLX 105",
+            "APLX 112",
+            "APLX 113",
+            "APLX 116",
+            "APLX 115",
+            "APLX 122",
+            "APLX 124",
+            "APLX 135",
+            "APLX 136",
+            "APLX 138",
+            "EDUC 141",
+            "LING 117",
+            "LING 154",
+            "LING 155",
+            "LING 157",
+            "LING 181",
+            "LING 183",
+            "LIT 101",
+            "LIT 102",
+            "SOCY 142",
+            "SPAN 140",
+            "SPAN 156K",
+            "SPAN 150",
+            "SPAN 151",
+            "SPAN 152",
+            "SPAN 153",
+            "SPAN 154"
+        ],
+        "dcrequirement": [
+            "APLX 190"
+        ],
+        "comprehensiverequirement":[
+            "APLX 190"
+        ],
+        "otherrequirements":[
+
+        ]
+    },
+    {
+        "majorname": "Applied Mathematics B.S.",
+        "requiredcourses": [
+            "(MATH 19A and MATH 19B) or (MATH 20A and MATH 20B)",
+            "AM 10 or MATH 21",
+            "AM 20 or MATH 24",
+            "AM 30 or (MATH 23A and MATH 23B)",
+            "CSE16",
+            "CSE20 or CSE13S or ECE13",
+            "AM 100",
+            "AM 129",
+            "AM 147",
+            "AM 112 or AM 212A",
+            "AM 114 or AM 214",
+            "STAT 131 or CSE 107"
+
+        ],
+        "lowerdivelectivecount":2,
+        "lowerdivelective": [
+            "PHYS 5A",
+            "PHYS 5B",
+            "PHYS 5C",
+            "PHYS 6A",
+            "PHYS 6B",
+            "PHYS 6C",
+            "CSE 30",
+            "ECE 9",
+            "ECON 1",
+            "ECON 2",
+            "STAT 5",
+            "BIOL 20A",
+            "BIOE 20C"
+        ],
+        "electivecount":3,
+        "electives":[
+            "CSE 101",
+            "CSE 102",
+            "CSE 106",
+            "CSE 140",
+            "CSE 142",
+            "CSE 144",
+            "CSE 160",
+            "CSE 161",
+            "CSE 161L",
+            "CSE 162",
+            "CSE 162L",
+            "EART 124",
+            "EART 160",
+            "EART 162",
+            "EART 125",
+            "EART 225",
+            "EART 172/OCEA",
+            "EART 272/OCEA",
+            "ECE 101",
+            "ECE 101L",
+            "ECE 103",
+            "ECE 115",
+            "ECE 135",
+            "ECE 135L",
+            "ECE 141",
+            "ECE 153",
+            "ECON 100M",
+            "ECON 100N",
+            "ECON 113",
+            "ECON 166A/CSE",
+            "MATH 105A",
+            "MATH 110",
+            "MATH 111A",
+            "MATH 111T",
+            "MATH 115",
+            "MATH 116",
+            "MATH 117",
+            "MATH 118",
+            "MATH 120",
+            "MATH 134",
+            "MATH 160",
+            "OCEA 260/EART",
+            "OCEA 286",
+            "OCEA 100",
+            "OCEA 200",
+            "OCEA 111",
+            "OCEA 211",
+            "PHYS 105",
+            "PHYS 110A",
+            "PHYS 110B",
+            "PHYS 139A",
+            "PHYS 139B",
+            "PHYS 150/CSE",
+            "PHYS 171/ASTR",
+            "STAT 132"
+        ],
+        "dcrequirement": [
+            "AM 170A"
+        ],
+        "comprehensiverequirement":[
+            "AM 170A",
+            "AM 170B"
+        ],
+        "otherrequirements":[
+
+        ]
+    },
+    {
+        "majorname": "Art B.A.",
+        "requiredcourses": [
+            "ART 10D",
+            "ART 10E",
+            "ART 10F",
+            "ART 80T"
+        ],
+        "introductionartpracticecount": 3,
+        "introductionartpractice":[
+            "ART 20G",
+            "ART 20H",
+            "ART 20I",
+            "ART 20J",
+            "ART 20K",
+            "ART 20L"
+        ],
+        "westernartcount": 1,
+        "westernart":[
+            "HAVC 30-HAVC 46",
+            "HAVC 48",
+            "HAVC 85",
+            "HAVC 133A-HAVC 143B",
+            "HAVC 143D-HAVC 143G",
+            "HAVC 157B-HAVC 157D",
+            "HAVC 186",
+            "HAVC 190O-HAVC 190S",
+            "HAVC 191B-HAVC 191N",
+            "HAVC 191P-HAVC 191S"
+        ],
+        "nonwesternartcount": 1,
+        "nonwesternart":[
+            "HAVC 10-HAVC 27",
+            "HAVC 50-HAVC 80",
+            "HAVC 110-HAVC 127F",
+            "HAVC 143C",
+            "HAVC 151-HAVC 155",
+            "HAVC 160A-HAVC 179",
+            "HAVC 190A-HAVC 190N",
+            "HAVC 190T-HAVC 191A",
+            "HAVC 191O"
+        ],
+        "electivecount": 7,
+        "electives": [
+            "ART 101—ART 189",
+            "ART 190B",
+            "ART 194",
+            "ART 196",
+            "ART 198 and ART 199",
+            "ART 190B"
+        ],
+        "dcrequirement": [
+            "190A"
+        ],
+        "comprehensiverequirement":[
+            "190A"
+        ],
+        "otherrequirements": [
+            "190B"
+        ]
+    },
+    {
+        "majorname": "Art and Design: Games and Playable Media B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biochemistry and Molecular Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biotechnology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Biomolecular Engineering and Bioinformatics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Business Management Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Chemistry B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Chemistry B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Classical Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Cognitive Science B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Community Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Computer Engineering B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Computer Science B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Computer Science B.S.",
+        "requiredcourses":[
+            "CSE 12",
+            "CSE 16",
+            "CSE 20",
+            "CSE 30",
+            "CSE 13S",
+            "(MATH 19A and MATH 19B) or (MATH 20A and MATH 20B)",
+            "AM 10 or MATH 21",
+            "AM 30 or MATH 23A",
+            "ECE 30",
+            "CSE 101",
+            "CSE 102",
+            "CSE 103",
+            "CSE 120",
+            "CSE 130",
+            "CSE 112 or 114A",
+            "STAT 131 or CSE 107"
+        ],
+        "electives":[
+            "Four courses must be completed from the list below . At least one course must be a computer science and engineering course. At most two courses can be from applied mathematics, statistics or mathematics, of which at most one may be substituted with two physics classes, chosen from the following list of class pairs: PHYS 6A and PHYS 6C, PHYS 6A and PHYS 6B, PHYS 5A and PHYS 5C, PHYS 5A and PHYS 5B. Any laboratories required or recommended by the Physics Department associated with these classes are not part of the computer science B.S. major requirements.",
+            "Any CSE course with a number below 170, or between 180 and 189, except for the DC courses CSE 115A and CSE 185E/CSE 185S.",
+            [
+                "AM 114",
+                "AM 147",
+                "CMPM 120",
+                "CMPM 131",
+                "CMPM 146",
+                "CMPM 163",
+                "CMPM 164",
+                "CMPM 164L",
+                "CMPM 171",
+                "CMPM 172",
+                "CSE 195",
+                "MATH 110",
+                "MATH 115",
+                "MATH 116",
+                "MATH 117",
+                "MATH 118",
+                "MATH 134",
+                "MATH 145",
+                "MATH 145L",
+                "MATH 148",
+                "MATH 160",
+                "MATH 161",
+                "STAT 132"
+            ]
+        ],
+        "otherrequirement":[
+            "CSE 115A",
+            "CSE 185S",
+            "CSE 195"
+        ]
+    },
+    {
+        "majorname": "Computer Science: Computer Game Design B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Critical Race and Ethnic Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Earth Sciences B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Ecology and evolution B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Education, Democracy, and Justice B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Electrical Engineering B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Sciences B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Feminist Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Film and Digital Media B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Global Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Human Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "History B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "History of Art and Visual Culture B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Jewish Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Language Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Latin American and Latino Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Legal Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Linguistics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Literature B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Marine Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Mathematics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Mathematics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Mathematics Education B.A. MTEDBA",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Molecular, Cell, and Developmental Biology B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Music B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Music B.M.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Network and Digital Technology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Neuroscience B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Philosophy B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Physics B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Physics (Astrophysics) B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Plant Sciences B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Politics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Psychology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Robotics Engineering B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Science Education B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Sociology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Spanish Studies B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Technology and Information Management B.S.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Theater Arts B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Earth Sciences/Anthropology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies/Biology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies/Earth Sciences B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Environmental Studies/Economics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Economics/Mathematics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Latin American and Latino Studies/Politics B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    },
+    {
+        "majorname": "Latin American and Latino Studies/Sociology B.A.",
+        "requiredcourses": "none",
+        "electives": "none",
+        "otherrequirements": "none"
+    }
+]

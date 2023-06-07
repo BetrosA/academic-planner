@@ -157,12 +157,8 @@ def main():
                 if course.coursename == line:
                     classListCounter += 1;
                     break;
-                    #print(classListCounter)
-                    #print(line)
             # Assign description of class
             if 0 <= classListCounter < len(classList):
-                #print("inside")
-                #print(classList[classListCounter].coursename)
                 classList[classListCounter].fulldesc += line + "\n";
         
         # Done using webelements and browser
@@ -183,11 +179,9 @@ def main():
                     course.genEd = line;
                 if line in extrastr:
                     course.extrarequirements = line;
+        
 
-
-        # for course in classList:
-        #     print(course.coursename, "+", course.extrarequirements);
-
+        # Format Classes and write to JSON
         classesformatted = []
         for course in classList:
             classesformatted.append({"coursename": course.coursename, "description": course.description, "genEd": course.genEd, "credithours": course.credithours, 
