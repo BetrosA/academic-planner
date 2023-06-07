@@ -55,13 +55,13 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
   const handleDivisionClick = (name) => {
     setShowDivision(false);
   
-    // Check if department selection has changed
+    // Check if division selection has changed
     if (prevSelectedDivision !== name) {
       setSelectedDivision(name);
       setSelectedDepartment(null);
-      setSelectedMajor(null); // Reset major when department changes
-      setSelectedStartingYear(null); // Reset starting year when department changes
-      setIsGenerated(false); // Set isGenerated to false if department changes
+      setSelectedMajor(null);
+      setSelectedStartingYear(null);
+      setIsGenerated(false);
       setPrevSelectedDivision(name);
     }
   };
@@ -73,9 +73,9 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
     // Check if department selection has changed
     if (prevSelectedDepartment !== name) {
       setSelectedDepartment(name);
-      setSelectedMajor(null); // Reset major when department changes
-      setSelectedStartingYear(null); // Reset starting year when department changes
-      setIsGenerated(false); // Set isGenerated to false if department changes
+      setSelectedMajor(null);
+      setSelectedStartingYear(null);
+      setIsGenerated(false);
       setPrevSelectedDepartment(name);
     }
   };
@@ -86,22 +86,24 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
     // Check if major selection has changed
     if (prevSelectedMajor !== major) {
       setSelectedMajor(major);
-      setSelectedStartingYear(null); // Reset starting year when major changes
-      setIsGenerated(false); // Set isGenerated to false if major changes
+      setSelectedStartingYear(null); 
+      setIsGenerated(false);
       setPrevSelectedMajor(major);
     }
   };
   
   const handleStartingYearClick = (year) => {
     
-    setSelectedStartingYear(year);
     setShowStartingYear(false);
   
     // Check if starting year selection has changed
     if (prevSelectedStartingYear !== year) {
-      setIsGenerated(false); // Set isGenerated to false if starting year changes
-      setPrevSelectedStartingYear(year);
+      
+      setIsGenerated(false);
+      
     }
+    setSelectedStartingYear(year);
+    setPrevSelectedStartingYear(year);
   };
   
   const handleGenerateClick = () => {
@@ -149,91 +151,90 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
         </li>
 
         {/* Dept. Dropdown */}
-
-          <li
-            className="dropdown"
-            onMouseEnter={toggleDepartment}
-            onMouseLeave={toggleDepartment}
-          >
-            <button className="dropdown_hover_button">
-              {selectedDepartment ? selectedDepartment : "Departments"}
-            </button>
-            {selectedDivision && showDepartment && (
-              <div className="dropdown-content" style={{ width: "150px" }}>
-                {divisions
-                  .find((division) => division.Department === selectedDivision)
-                  ?.subdepartment
-                  .map((subdepartment) => subdepartment.name)
-                  .sort()
-                  .map((departmentName) => (
-                    <button
-                      key={departmentName}
-                      className="dropdown-button"
-                      onClick={() => handleDepartmentClick(departmentName)}
-                    >
-                      {departmentName}
-                    </button>
-                  ))}
-              </div>
-            )}
-          </li>
-
-        {/* Major Dropdown */}
-          <li
-            className="dropdown"
-            onMouseEnter={toggleMajor}
-            onMouseLeave={toggleMajor}
-          >
-            <button className="dropdown_hover_button">
-              {selectedMajor ? selectedMajor : "Major"}
-            </button>
-            {selectedDepartment && showMajor && (
-              <div className="dropdown-content">
-                {divisions
-                  .find((division) => division.Department === selectedDivision)
-                  ?.subdepartment.find((subdepartment) => subdepartment.name === selectedDepartment)
-                  ?.majors
-                  .map((major) => major.majorname)
-                  .sort()
-                  .map((majorName) => (
-                    <button
-                      key={majorName}
-                      className="dropdown-button"
-                      onClick={() => handleMajorClick(majorName)}
-                    >
-                      {majorName}
-                    </button>
-                  ))}
-              </div>
-            )}
-          </li>
-
-        {/* Year Dropdown */}
-          <li
-            className="dropdown"
-            onMouseEnter={toggleStartingYear}
-            onMouseLeave={toggleStartingYear}
-          >
-            <button className="dropdown_hover_button">
-              {selectedStartingYear ? selectedStartingYear : "Starting Year"}
-            </button>
-            {selectedMajor && showStartingYear && (
-              <div className="dropdown-content">
-                {ChooseYears.map((year) => (
+        <li
+          className="dropdown"
+          onMouseEnter={toggleDepartment}
+          onMouseLeave={toggleDepartment}
+        >
+          <button className="dropdown_hover_button">
+            {selectedDepartment ? selectedDepartment : "Departments"}
+          </button>
+          {selectedDivision && showDepartment && (
+            <div className="dropdown-content" style={{ width: "150px" }}>
+              {divisions
+                .find((division) => division.Department === selectedDivision)
+                ?.subdepartment
+                .map((subdepartment) => subdepartment.name)
+                .sort()
+                .map((departmentName) => (
                   <button
-                    key={year}
+                    key={departmentName}
                     className="dropdown-button"
-                    onClick={() => handleStartingYearClick(year)}
+                    onClick={() => handleDepartmentClick(departmentName)}
                   >
-                    {year}
+                    {departmentName}
                   </button>
                 ))}
-              </div>
-            )}
-          </li>
+            </div>
+          )}
+        </li>
+
+        {/* Major Dropdown */}
+        <li
+          className="dropdown"
+          onMouseEnter={toggleMajor}
+          onMouseLeave={toggleMajor}
+        >
+          <button className="dropdown_hover_button">
+            {selectedMajor ? selectedMajor : "Major"}
+          </button>
+          {selectedDepartment && showMajor && (
+            <div className="dropdown-content">
+              {divisions
+                .find((division) => division.Department === selectedDivision)
+                ?.subdepartment.find((subdepartment) => subdepartment.name === selectedDepartment)
+                ?.majors
+                .map((major) => major.majorname)
+                .sort()
+                .map((majorName) => (
+                  <button
+                    key={majorName}
+                    className="dropdown-button"
+                    onClick={() => handleMajorClick(majorName)}
+                  >
+                    {majorName}
+                  </button>
+                ))}
+            </div>
+          )}
+        </li>
+
+        {/* Year Dropdown */}
+        <li
+          className="dropdown"
+          onMouseEnter={toggleStartingYear}
+          onMouseLeave={toggleStartingYear}
+        >
+          <button className="dropdown_hover_button">
+            {selectedStartingYear ? selectedStartingYear : "Starting Year"}
+          </button>
+          {selectedMajor && showStartingYear && (
+            <div className="dropdown-content">
+              {ChooseYears.map((year) => (
+                <button
+                  key={year}
+                  className="dropdown-button"
+                  onClick={() => handleStartingYearClick(year)}
+                >
+                  {year}
+                </button>
+              ))}
+            </div>
+          )}
+        </li>
 
         {/* Generate Button */}
-        {selectedDepartment && selectedMajor && selectedStartingYear && (
+        {selectedDivision && selectedDepartment && selectedMajor && selectedStartingYear && (
           <li>
             <button className="generate-btn" onClick={handleGenerateClick}>
               Generate Schedule
@@ -252,10 +253,11 @@ function BottomSidebar({courses}) {
     setSearchQuery(event.target.value);
   };
 
-  const handleDragStart = (event, courseName, credits, genEd) => {
+  const handleDragStart = (event, courseName, credits, genEd, quarters) => {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", credits);
     event.dataTransfer.setData("genEd", genEd);
+    event.dataTransfer.setData("quarters", quarters);
   };
 
   const sortCourses = (courses) => {
@@ -311,9 +313,14 @@ function BottomSidebar({courses}) {
             key={course.coursename}
             className="draggable-course"
             draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
+            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, course.quarteroffered)}
           >
-            {course.coursename}
+            <div><strong>{course.coursename}</strong></div>
+            <br />
+            <div>Credits: {course.credithours.replace("Credits ", "")}</div>
+            <div>
+              Quarter(s) Offered: {course.quarteroffered.replace("Quarter Offered ", "")}
+            </div>
           </div>
         ))}
     </div>
@@ -328,10 +335,11 @@ function RequirementSidebar() {
     setSearchQuery(event.target.value);
   };
 
-  const handleDragStart = (event, courseName, credits, genEd) => {
+  const handleDragStart = (event, courseName, credits, genEd, quarters) => {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", credits);
     event.dataTransfer.setData("genEd", genEd);
+    event.dataTransfer.setData("quarters", quarters);
   };
 
   if (requirements) {
@@ -493,47 +501,56 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     const courseName = event.dataTransfer.getData("courseName");
     const courseCredits = event.dataTransfer.getData("credits");
     const genEd = event.dataTransfer.getData("genEd");
-
-    /*console.log("HandleDrop");
-    console.log("Name:", courseName);
-    console.log("Credits:", courseCredits);
-    console.log("GE:", genEd);*/
+    const quarteroffered = event.dataTransfer.getData("quarters");
 
     const course = {
       coursename: courseName,
       credits: courseCredits,
-      genEd: genEd
+      genEd: genEd,
+      quarteroffered: quarteroffered
     };
 
     const credits = parseInt(courseCredits.split(" ")[1]);
     const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
+    const quartersOffered = course.quarteroffered.split("Offered")[1].trim();
+    const offeredSeasons = quartersOffered.split(",").map((season) => season.trim());
+
+    const boxTitle = getBoxTitle();
+    const boxSeason = boxTitle.split(" ")[0];
+
+
 
     const isDuplicate = allDroppedCourses.some(
       (droppedCourse) => droppedCourse.coursename === courseName
     );
 
     if (!isDuplicate && courseName.trim() !== "") {
-      setDroppedCourses((prevCourses) => [...prevCourses, course]);
-      setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
-      setQuarterCredits(quarterCredits + credits);
-      
-      //Update GE box 
-      setGE_Check((prevState) => ({
-        ...prevState,
-        Credits: prevState.Credits + credits,
-      }));
-
-      if (genEdCode in GE_Check) {
-        setGE_Check((prevGE_Check) => ({
-          ...prevGE_Check,
-          [genEdCode]: prevGE_Check[genEdCode] + 1,
+      if (offeredSeasons.includes(boxSeason)) {
+        setDroppedCourses((prevCourses) => [...prevCourses, course]);
+        setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+        setQuarterCredits(quarterCredits + credits);
+        
+        //Update GE box 
+        setGE_Check((prevState) => ({
+          ...prevState,
+          Credits: prevState.Credits + credits,
         }));
-      }
 
-      // Remove the dropped course from the sidebar
-      setCourses((prevCourses) =>
-        prevCourses.filter((course) => course.coursename !== courseName)
-      );
+        if (genEdCode in GE_Check) {
+          setGE_Check((prevGE_Check) => ({
+            ...prevGE_Check,
+            [genEdCode]: prevGE_Check[genEdCode] + 1,
+          }));
+        }
+
+        // Remove the dropped course from the sidebar
+        setCourses((prevCourses) =>
+          prevCourses.filter((course) => course.coursename !== courseName)
+        );
+      }
+      else{
+        window.alert(`${courseName} is not available for the ${boxSeason} quarter.`);
+      }  
     }
   };
 
@@ -541,12 +558,7 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     event.preventDefault();
   };
 
-  const handleRemoveCourse = (courseName, courseCredits, genEd) => {
-    /*console.log("RemoveCourse:");
-    console.log("Name:", courseName);
-    console.log("Credits:", courseCredits);
-    console.log("GenED:", genEd);*/
-    
+  const handleRemoveCourse = (courseName, courseCredits, genEd, quarters) => {  
     //Isolate int for credits and string for GE's
     const credits = parseInt(courseCredits.split(" ")[1]);
     const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
@@ -558,12 +570,13 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
       prevCourses.filter((droppedCourse) => droppedCourse.coursename !== courseName)
     );
     setQuarterCredits(quarterCredits - credits);
+
+    //Update GE box 
     setGE_Check((prevState) => ({
       ...prevState,
       Credits: prevState.Credits - credits,
     }));
-    
-
+  
     if (genEdCode in GE_Check) {
       setGE_Check((prevGE_Check) => ({
         ...prevGE_Check,
@@ -572,7 +585,7 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     }
   
     // Add the removed course back to the sidebar
-    const removedCourse = { coursename: courseName, credithours: courseCredits, genEd: genEd };
+    const removedCourse = { coursename: courseName, credithours: courseCredits, genEd: genEd, quarteroffered: quarters};
     setCourses((prevCourses) => {
       const updatedCourses = [...prevCourses];
       updatedCourses.push(removedCourse);
@@ -580,16 +593,13 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     });
   };
 
-  const handleCourseDragStart = (event, courseName, courseCredits, genEd) => {
-    /*console.log("DragCourse:");
-    console.log("Name:", courseName);
-    console.log("Credits:", courseCredits);
-    console.log("GenED:", genEd);*/
+  const handleCourseDragStart = (event, courseName, courseCredits, genEd, quarters) => {
     event.dataTransfer.setData("courseName", courseName);
     event.dataTransfer.setData("credits", courseCredits);
     event.dataTransfer.setData("genEd", genEd);
+    event.dataTransfer.setData("quarters", quarters);
     setTimeout(() => {
-      handleRemoveCourse(courseName, courseCredits, genEd);
+      handleRemoveCourse(courseName, courseCredits, genEd, quarters);
     }, 0);
   };
 
@@ -644,16 +654,21 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
                 className="quarterbox-draggable-course"
                 draggable
                 onDragStart={(event) =>
-                  handleCourseDragStart(event, course.coursename, course.credits, course.genEd)
+                  handleCourseDragStart(event, course.coursename, course.credits, course.genEd, course.quarteroffered)
                 }
               >
                 <button
                   className="remove-course-button"
-                  onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEd)}
+                  onClick={() => handleRemoveCourse(course.coursename, course.credits, course.genEd, course.quarteroffered)}
                 >
                   x
                 </button>
-                <span>{course.coursename}</span>
+                <div><strong>{course.coursename}</strong></div>
+                <br />
+                <div>Credits: {course.credits.replace("Credits ", "")}</div>
+                <div>
+                  Quarter(s) Offered: {course.quarteroffered.replace("Quarter Offered ", "")}
+                </div>
               </div>
             ))}
           </div>
@@ -670,7 +685,6 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
   
 function App() {
   const [divisions, setDivisions] = useState([]);
-  //const [departments, setDepartments] = useState([]);
   const [courses, setCourses] = useState([]);
   const [selectedDivision, setSelectedDivision] = useState(null);
   const [selectedDepartment, setSelectedDepartment] = useState(null);
@@ -777,7 +791,7 @@ function App() {
                 <div className="requirements-container">
                   {Object.entries(GE_Check).map(([key, value]) => (
                       <div key={key} className="checkbox-container">
-                        {key === "Credits" ? ( // Check if the option is "Credits"
+                        {key === "Credits" ? (
                           <span key={key} className="requirement-item">
                             {key}: {value}/180
                           </span>
