@@ -323,9 +323,10 @@ function Sidebar({courses}) {
   );
 }
 
-function BottomSidebar({courses}) {
+function BottomSidebar({ courses }) {
   const [searchQuery, setSearchQuery] = useState("");
-  
+  const [selectedFilter, setSelectedFilter] = useState("All");
+
   const handleSearch = (event) => {
     setSearchQuery(event.target.value);
   };
@@ -341,20 +342,16 @@ function BottomSidebar({courses}) {
     return courses.sort((a, b) => {
       const [prefixA, codeA] = a.coursename.split(" ");
       const [prefixB, codeB] = b.coursename.split(" ");
-  
+
       if (prefixA !== prefixB) {
         return prefixA.localeCompare(prefixB);
       } else {
-        // Extract the numeric part of the course code
         const numericCodeA = parseInt(codeA);
         const numericCodeB = parseInt(codeB);
-  
-        // Check if the course codes are equal (e.g., "11A" and "11B")
+
         if (numericCodeA === numericCodeB) {
-          // Compare the alphabetic part to sort "A" before "B"
           return codeA.localeCompare(codeB);
         } else {
-          // Sort numerically based on the course codes
           return numericCodeA - numericCodeB;
         }
       }
@@ -362,15 +359,72 @@ function BottomSidebar({courses}) {
   };
 
   const filterCoursesBySearch = (course) => {
-    // Filter courses based on the search query
     if (searchQuery.trim() === "") {
-      return true; // Return true if no search query is entered
+      return true;
     }
-    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
+    const regex = new RegExp(searchQuery, "i");
     return regex.test(course.coursename);
   };
 
-  const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
+  const filterCoursesBySelectedFilter = (course) => {
+    if (selectedFilter === "All") {
+      return true;
+    } else if (selectedFilter === "CC") {
+      return course.genEd.endsWith("CC");
+    } else if (selectedFilter === "ER") {
+      return course.genEd.endsWith("ER");
+    } else if (selectedFilter === "IM") {
+      return course.genEd.endsWith("IM");
+    } else if (selectedFilter === "MF") {
+      return course.genEd.endsWith("MF");
+    } else if (selectedFilter === "SI") {
+      return course.genEd.endsWith("SI");
+    } else if (selectedFilter === "SR") {
+      return course.genEd.endsWith("SR");
+    } else if (selectedFilter === "TA") {
+      return course.genEd.endsWith("TA");
+    } else if (selectedFilter === "PE-E") {
+      return course.genEd.endsWith("PE-E");
+    } else if (selectedFilter === "PE-H") {
+      return course.genEd.endsWith("PE-H");
+    } else if (selectedFilter === "PE-T") {
+      return course.genEd.endsWith("PE-T");
+    } else if (selectedFilter === "PR-E") {
+      return course.genEd.endsWith("PR-E");
+    } else if (selectedFilter === "PE-C") {
+      return course.genEd.endsWith("PE-C");
+    } else if (selectedFilter === "PR-S") {
+      return course.genEd.endsWith("PR-S");
+    } else if (selectedFilter === "C") {
+      return course.genEd.endsWith("C") && !course.genEd.endsWith("CC") && !course.genEd.endsWith("PR-C");
+    }
+  };
+  
+  const sortedCourses = sortCourses(courses)
+    .filter(filterCoursesBySearch)
+    .filter(filterCoursesBySelectedFilter);
+
+  const filterOptions = [
+    { label: "All", value: "All" },
+    { label: "CC", value: "CC" },
+    { label: "ER", value: "ER" },
+    { label: "IM", value: "IM" },
+    { label: "MF", value: "MF" },
+    { label: "SI", value: "SI" },
+    { label: "SR", value: "SR" },
+    { label: "TA", value: "TA" },
+    { label: "PE-E", value: "PE-E" },
+    { label: "PE-H", value: "PE-H" },
+    { label: "PE-T", value: "PE-T" },
+    { label: "PR-E", value: "PR-E" },
+    { label: "PR-C", value: "PE-C" },
+    { label: "PR-S", value: "PR-S" },
+    { label: "C", value: "C" },
+  ];
+
+  const handleFilterChange = (event) => {
+    setSelectedFilter(event.target.value);
+  };
 
   return (
     <div className="bottom-sidebar">
@@ -384,25 +438,53 @@ function BottomSidebar({courses}) {
           className="search-bar"
         />
       </div>
-      {
-        sortedCourses.map((course) => (
-          <div
-            key={course.coursename}
-            className="draggable-course"
-            draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd, course.quarteroffered)}
-          >
-            <div><strong>{course.coursename}</strong></div>
-            <br />
-            <div>Credits: {course.credithours.replace("Credits ", "")}</div>
-            <div>
-              Quarter(s) Offered: {course.quarteroffered.replace("Quarter Offered ", "")}
-            </div>
+      <div className="dropdown-container">
+        <label htmlFor="filter-dropdown" className="dropdown-label">
+          Filter by:
+        </label>
+        <select
+          id="filter-dropdown"
+          value={selectedFilter}
+          onChange={handleFilterChange}
+          className="filter-dropdown"
+        >
+          {filterOptions.map((option) => (
+            <option key={option.value} value={option.value}>
+              {option.label}
+            </option>
+          ))}
+        </select>
+      </div>
+      {sortedCourses.map((course) => (
+        <div
+          key={course.coursename}
+          className="draggable-course"
+          draggable
+          onDragStart={(event) =>
+            handleDragStart(
+              event,
+              course.coursename,
+              course.credithours,
+              course.genEd,
+              course.quarteroffered
+            )
+          }
+        >
+          <div>
+            <strong>{course.coursename}</strong>
           </div>
-        ))}
+          <br />
+          <div>Credits: {course.credithours.replace("Credits ", "")}</div>
+          <div>
+            Quarter(s) Offered:{" "}
+            {course.quarteroffered.replace("Quarter Offered ", "")}
+          </div>
+        </div>
+      ))}
     </div>
   );
 }
+
 
 function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
