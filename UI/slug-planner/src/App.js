@@ -4,12 +4,12 @@ import React, { useState, useEffect } from "react";
 import SchoolLogo from "./assets/Wide_Logo.png";
 import "./App.css";
 
-import { fetchDepartments, fetchCourses} from "./firebase";
+import { fetchDepartments, fetchCourses, fetchRequirements} from "./firebase";
 
 const PlannerContext = React.createContext();
 
-const generatePlanner = async (major, setPlanner) => {
-  major = major.replace(':', '')
+const generatePlanner = async (major, setPlanner, setRequirements) => {
+  //major = major.replace(':', '')
   await fetch('http://localhost:5000/planner/'+ encodeURI(major), {
     method: 'get'
   })
@@ -18,6 +18,7 @@ const generatePlanner = async (major, setPlanner) => {
     })
     .then((json) => {
       setPlanner(json);
+      setRequirements(null)
     });
 };
 
@@ -33,7 +34,7 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
   const [prevSelectedStartingYear, setPrevSelectedStartingYear] = useState(null);
 
   const [ChooseYears] = useState(["2020", "2021", "2022", "2023", "2024"]);
-  const {setPlanner} = React.useContext(PlannerContext)
+  const {setPlanner, setRequirements} = React.useContext(PlannerContext)
 
   const toggleDivision = () => {
     setShowDivision(!showDivision);
@@ -105,7 +106,9 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
   
   const handleGenerateClick = () => {
     setSelectedMajor(selectedMajor);
-    generatePlanner(selectedMajor, setPlanner)
+    console.log(selectedMajor)
+    selectedMajor === 'Computer Science B.S.' ? generatePlanner(selectedMajor, setPlanner, setRequirements) : 
+      fetchRequirements(selectedMajor, selectedDivision, selectedDepartment, setRequirements, setPlanner)
     setIsGenerated(true);
   };
 
@@ -242,81 +245,6 @@ function NavBar({selectedDivision, setSelectedDivision, selectedDepartment,  sel
   )
 }
 
-function Sidebar({courses}) {
-  const [searchQuery, setSearchQuery] = useState("");
-  
-  const handleSearch = (event) => {
-    setSearchQuery(event.target.value);
-  };
-
-  const handleDragStart = (event, courseName, credits, genEd) => {
-    event.dataTransfer.setData("courseName", courseName);
-    event.dataTransfer.setData("credits", credits);
-    event.dataTransfer.setData("genEd", genEd);
-  };
-
-  const sortCourses = (courses) => {
-    return courses.sort((a, b) => {
-      const [prefixA, codeA] = a.coursename.split(" ");
-      const [prefixB, codeB] = b.coursename.split(" ");
-  
-      if (prefixA !== prefixB) {
-        return prefixA.localeCompare(prefixB);
-      } else {
-        // Extract the numeric part of the course code
-        const numericCodeA = parseInt(codeA);
-        const numericCodeB = parseInt(codeB);
-  
-        // Check if the course codes are equal (e.g., "11A" and "11B")
-        if (numericCodeA === numericCodeB) {
-          // Compare the alphabetic part to sort "A" before "B"
-          return codeA.localeCompare(codeB);
-        } else {
-          // Sort numerically based on the course codes
-          return numericCodeA - numericCodeB;
-        }
-      }
-    });
-  };
-
-  const filterCoursesBySearch = (course) => {
-    // Filter courses based on the search query
-    if (searchQuery.trim() === "") {
-      return true; // Return true if no search query is entered
-    }
-    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
-    return regex.test(course.coursename);
-  };
-
-  const sortedCourses = sortCourses(courses).filter(filterCoursesBySearch);
- 
-  return (
-    <div className="sidebar">
-      <h2 className="sidebar-title">Available Courses</h2>
-      <div className="search-container">
-        <input
-          type="text"
-          placeholder="Search courses..."
-          value={searchQuery}
-          onChange={handleSearch}
-          className="search-bar"
-        />
-      </div>
-      {
-        sortedCourses.map((course) => (
-          <div
-            key={course.coursename}
-            className="draggable-course"
-            draggable
-            onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
-          >
-            {course.coursename}
-          </div>
-        ))}
-    </div>
-  );
-}
-
 function BottomSidebar({courses}) {
   const [searchQuery, setSearchQuery] = useState("");
   
@@ -392,9 +320,9 @@ function BottomSidebar({courses}) {
   );
 }
 
-/*function RequirementSidebar() {
+function RequirementSidebar() {
   const [searchQuery, setSearchQuery] = useState("");
-  const {planner} = React.useContext(PlannerContext)
+  const {planner, requirements} = React.useContext(PlannerContext)
   const quarters = ['Fall', 'Winter', 'Spring']
   const handleSearch = (event) => {
     setSearchQuery(event.target.value);
@@ -406,65 +334,155 @@ function BottomSidebar({courses}) {
     event.dataTransfer.setData("genEd", genEd);
   };
 
-  const filterCoursesBySearch = (course) => {
-    // Filter courses based on the search query
-    if (searchQuery.trim() === "") {
-      return true; // Return true if no search query is entered
-    }
-    const regex = new RegExp(searchQuery, "i"); // Case-insensitive search
-    return regex.test(course.coursename);
-  };
-
-  return (
-    <div className="bottom-sidebar">
-      <h2 className="sidebar-title">Recommended Planner</h2>
-      <div className="search-container">
-        <input
-          type="text"
-          placeholder="Search courses..."
-          value={searchQuery}
-          onChange={handleSearch}
-          className="search-bar"
-        />
+  if (requirements) {
+    console.log(requirements)
+    return (
+      <div className="sidebar">
+        <h2 className="sidebar-title">Required Courses</h2>
+        {
+          Object.keys(requirements).map((req) => (
+            <div>
+            <h3
+              key={`title ${req}`}
+              className="sidebar-font"
+            >
+              {req}
+            </h3>
+            {
+              typeof requirements[req] == 'string'? <></> :
+              Object.keys(requirements[req]).map((subReq) => (
+                <div>
+                <h4
+                  key={`title ${subReq}`}
+                  className="sidebarsub-font"
+                >
+                  {subReq}
+                </h4>
+                <div>
+                {
+                  Object.keys(requirements[req][subReq]).map((course) => (
+                    <div>
+                    {
+                    requirements[req][subReq][course]['coursename'] ? 
+                      <div
+                        key={`title ${course}`}
+                        className="draggable-course"
+                        draggable
+                        onDragStart={(event) => handleDragStart(event, 
+                        requirements[req][subReq][course]['coursename'],
+                        requirements[req][subReq][course]['credithours'], 
+                        requirements[req][subReq][course]['genEd'])}
+                      >
+                        {
+                          requirements[req][subReq][course]['coursename']
+                        }
+                      </div>
+                    :
+                     <>
+                     <h4>
+                     {requirements[req][subReq][course]['name']}
+                     </h4>
+                      {
+                        requirements[req][subReq][course]['coursename'] ? requirements[req][subReq][course]['coursename'] : 
+                        Object.keys(requirements[req][subReq][course]).map((subCourses) => ( 
+                          <div>
+                            {subCourses === 'choose' ? `Select ${requirements[req][subReq][course][subCourses]}` :
+                            <div>
+                              {
+                                subCourses === 'courses' ? 
+                                Object.keys(requirements[req][subReq][course][subCourses]).map((subCourse) => (
+                                  <div>
+                                    {requirements[req][subReq][course][subCourses][subCourse]['coursename'] ? 
+                                    <div
+                                      key={`title ${requirements[req][subReq][course][subCourses][subCourse]['coursename']} ${Math.random()}`}
+                                      className="draggable-course"
+                                      draggable
+                                      onDragStart={(event) => handleDragStart(event, 
+                                        requirements[req][subReq][course][subCourses][subCourse]['coursename'],
+                                        requirements[req][subReq][course][subCourses][subCourse]['credithours'], 
+                                        requirements[req][subReq][course][subCourses][subCourse]['genEd'])}
+                                    >
+                                    {
+                                      requirements[req][subReq][course][subCourses][subCourse]['coursename']
+                                    }
+                                    </div>
+                                    : <></>}                
+                                  </div>
+                                ))
+                                : 
+                                <div>{subCourses === 'name' ? subCourses: ''}</div>
+                              }
+                            </div>  
+                            }
+                          </div>
+                        ))
+                        }
+                     </>
+                    }
+                    </div>
+                  ))
+                }
+                </div>
+                </div>
+              ))
+            }
+            </div>
+          ))}
       </div>
-      {
-        planner?.map((_, year) => (
-          <div key={year}>
-          <div
-            key={`title ${year}`}
-            className="sidebar-title"
-            draggable
-          >
-            {`Year ${year + 1}`}
-          </div>
-          {
-            quarters?.map((name) => (
-            <div key={`title ${name}`}>
+    )
+  }
+  else {
+    return (
+      <div className="bottom-sidebar">
+        <h2 className="sidebar-title">Recommended Planner</h2>
+        <div className="search-container">
+          <input
+            type="text"
+            placeholder="Search courses..."
+            value={searchQuery}
+            onChange={handleSearch}
+            className="search-bar"
+          />
+        </div>
+        {
+          planner?.map((_, year) => (
+            <div key={year}>
             <div
-              key={`Year ${year} Quarter ${name}`}
+              key={`title ${year}`}
               className="sidebar-title"
               draggable
             >
-              {name}
+              {`Year ${year + 1}`}
             </div>
             {
-              planner[year][name]?.map((course) => (
+              quarters?.map((name) => (
+              <div key={`title ${name}`}>
               <div
-                key={course.coursename}
-                className="draggable-course"
+                key={`Year ${year} Quarter ${name}`}
+                className="sidebar-title"
                 draggable
-                onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
               >
-                {course.coursename}
-                </div>
+                {name}
+              </div>
+              {
+                planner[year][name]?.map((course) => (
+                <div
+                  key={course.coursename}
+                  className="draggable-course"
+                  draggable
+                  onDragStart={(event) => handleDragStart(event, course.coursename, course.credithours, course.genEd)}
+                >
+                  {course.coursename}
+                  </div>
+              ))}
+              </div>
             ))}
             </div>
           ))}
-          </div>
-        ))}
-    </div>
-  );
-}*/
+      </div>
+    );
+  }
+}
 
 function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  setAllDroppedCourses, setCourses, GE_Check, setGE_Check, collapseState}) {
   const [droppedCourses, setDroppedCourses] = useState([]);
@@ -662,6 +680,7 @@ function App() {
   const [allDroppedCourses, setAllDroppedCourses] = useState([]);
   const [planner, setPlanner] = useState(null);
   const [totalYears, setTotalYears] = useState(4);
+  const [requirements, setRequirements] = useState(null);
   const [GE_Check, setGE_Check] = useState({
     CC: 0,
     ER: 0,
@@ -722,7 +741,7 @@ function App() {
   console.log(courses)
 
   return (
-    <PlannerContext.Provider value={{planner, setPlanner}} >
+    <PlannerContext.Provider value={{planner, setPlanner, setRequirements, requirements}} >
     <div>
       {/* Logo*/}
       <header className="header">
@@ -749,7 +768,7 @@ function App() {
         <div className="content">
           <div className="sidebar-container">
             <div className="top-half">
-              <Sidebar courses={courses} />
+              <RequirementSidebar />
               <BottomSidebar courses={courses} />
             </div>
             <div className="bottom-half">

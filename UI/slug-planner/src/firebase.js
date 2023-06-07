@@ -64,4 +64,98 @@ export const fetchCourses = (setCourses) => {
   });
 };
 
+export const fetchRequirements = (majorName, selectedDivision, selectedDepartment, setRequirements, setPlanner) => {
 
+  const requirementsRef = ref(db, 'department-majors/');
+  let major = null
+  onValue(requirementsRef, (snapshot) => {
+    // find major
+    snapshot.forEach(function(childSnapshot) {
+      let childData = childSnapshot.val();
+      if (childData.Department === selectedDivision) {
+        const foundsubDepartment = childData.subdepartment?.find(element => (element.name === selectedDepartment));
+        major = foundsubDepartment.majors?.find(element => (element.majorname === majorName))
+      }
+    });
+    const courseNumber = /[A-Z]+ [0-9]+[A-z]?/g
+      
+    let prev = null
+    let courseRef = null
+    
+    // for each requirement in major
+    for (let requirement in major) {
+      if (requirement !== 'majorname') {
+        let coursesArray = []
+
+        // each section in major req
+        for (let section in major[requirement]) {
+          
+          // more subsections in major req section
+          if (Array.isArray(major[requirement][section])) {
+            for (let courses in major[requirement][section]) {
+              
+              // if element is string, then replace with course object
+              if (typeof major[requirement][section][courses] === 'string') {
+
+                // do not ref again if prev is same course name
+                if (!prev || prev !== major[requirement][section][courses].split(" ")[0]) {
+                  courseRef = ref(db, `all_Majors/${(major[requirement][section][courses].split(" ")[0])}courses/`);
+                  prev = major[requirement][section][courses].split(" ")
+                }
+                onValue(courseRef, (snapshot) => {
+                  const coursesList = snapshot.val();
+                  const found = coursesList?.find(element => (element['coursename'].match(courseNumber))[0] === major[requirement][section][courses]);
+
+                  // replaces course with course object
+                  if (found)  major[requirement][section][courses] = (found)
+                })
+              }
+              // repeat same thing with next level
+              else { 
+                for (let otherCourses in major[requirement][section][courses]) {
+                  if (otherCourses !== 'name' && otherCourses !== 'count' && otherCourses !== 'choose') {
+                    let crses = major[requirement][section][courses][otherCourses]
+                    for (let course in crses) {
+                      if (typeof crses[course] === 'string') {
+                        if (!prev || prev !== crses[course].split(" ")[0]) {
+                          courseRef = ref(db, `all_Majors/${(crses[course].split(" ")[0])}courses/`);
+                          prev = crses[course].split(" ")
+                        }
+                        onValue(courseRef, (snapshot) => {
+                          const coursesList = snapshot.val();
+                          const found = coursesList?.find(element => (element['coursename'].match(courseNumber))[0] === crses[course]);
+                          if (found)  major[requirement][section][courses][otherCourses][course] = (found)
+                        })
+                        // repeat
+                      } else {
+                        for (let obj in crses[course]) {
+                          if (Array.isArray(crses[course][obj])) {
+                            for (let subCourses in crses[course][obj]) {
+                              if (!prev || prev !== crses[course][obj][subCourses].split(" ")[0]) {
+                                courseRef = ref(db, `all_Majors/${(crses[course][obj][subCourses].split(" ")[0])}courses/`);
+                                prev =crses[course][obj][subCourses].split(" ")
+                              }
+                              onValue(courseRef, (snapshot) => {
+                                const coursesList = snapshot.val();
+                                const found = coursesList?.find(element => (element['coursename'].match(courseNumber))[0] === crses[course]);
+                                if (found)  major[requirement][section][courses][otherCourses][course][obj][subCourses] = (found)
+                              })
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        if (coursesArray.length) major[requirement] = coursesArray
+      }
+    }
+    
+  })
+  setRequirements(major)
+  setPlanner(null)
+};
