@@ -510,6 +510,14 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
       quarteroffered: quarteroffered
     };
 
+    const isDuplicate = allDroppedCourses.some(
+      (droppedCourse) => droppedCourse.coursename === courseName
+    );
+
+    if (isDuplicate || courseName.trim() === "") {
+      return
+    };
+
     const credits = parseInt(courseCredits.split(" ")[1]);
     const genEdCode = genEd.includes("none") ? "none" : genEd.split(" ").pop();
     const quartersOffered = course.quarteroffered.split("Offered")[1].trim();
@@ -519,39 +527,32 @@ function QuarterBox({row,  column, selectedStartingYear,  allDroppedCourses,  se
     const boxSeason = boxTitle.split(" ")[0];
 
 
+    if (offeredSeasons.includes(boxSeason)) {
+      setDroppedCourses((prevCourses) => [...prevCourses, course]);
+      setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
+      setQuarterCredits(quarterCredits + credits);
+      
+      //Update GE box 
+      setGE_Check((prevState) => ({
+        ...prevState,
+        Credits: prevState.Credits + credits,
+      }));
 
-    const isDuplicate = allDroppedCourses.some(
-      (droppedCourse) => droppedCourse.coursename === courseName
-    );
-
-    if (!isDuplicate && courseName.trim() !== "") {
-      if (offeredSeasons.includes(boxSeason)) {
-        setDroppedCourses((prevCourses) => [...prevCourses, course]);
-        setAllDroppedCourses((prevCourses) => [...prevCourses, course]);
-        setQuarterCredits(quarterCredits + credits);
-        
-        //Update GE box 
-        setGE_Check((prevState) => ({
-          ...prevState,
-          Credits: prevState.Credits + credits,
+      if (genEdCode in GE_Check) {
+        setGE_Check((prevGE_Check) => ({
+          ...prevGE_Check,
+          [genEdCode]: prevGE_Check[genEdCode] + 1,
         }));
-
-        if (genEdCode in GE_Check) {
-          setGE_Check((prevGE_Check) => ({
-            ...prevGE_Check,
-            [genEdCode]: prevGE_Check[genEdCode] + 1,
-          }));
-        }
-
-        // Remove the dropped course from the sidebar
-        setCourses((prevCourses) =>
-          prevCourses.filter((course) => course.coursename !== courseName)
-        );
       }
-      else{
-        window.alert(`${courseName} is not available for the ${boxSeason} quarter.`);
-      }  
+
+      // Remove the dropped course from the sidebar
+      setCourses((prevCourses) =>
+        prevCourses.filter((course) => course.coursename !== courseName)
+      );
     }
+    else{
+      window.alert(`${courseName} is not available for the ${boxSeason} quarter.`);
+    }  
   };
 
   const handleDragOver = (event) => {
