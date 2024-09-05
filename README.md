@@ -29,3 +29,4 @@ Follow these steps to clone and run the React application on your local machine:
 2. **Navigate to UI dir
 - npm install
 - npm start
+- To - Do ..
